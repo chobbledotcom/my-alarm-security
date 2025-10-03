@@ -1,7 +1,7 @@
 const path = require('path');
 const config = require('../config');
 const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles } = require('../utils/filesystem');
-const { extractMetadata } = require('../utils/metadata-extractor');
+const { extractMetadata, extractCategoryName } = require('../utils/metadata-extractor');
 const { convertToMarkdown } = require('../utils/pandoc-converter');
 const { processContent } = require('../utils/content-processor');
 const { generateCategoryFrontmatter } = require('../utils/frontmatter-generator');
@@ -18,6 +18,13 @@ const convertCategory = (file, inputDir, outputDir) => {
     const htmlPath = path.join(inputDir, file);
     const htmlContent = readHtmlFile(htmlPath);
     const metadata = extractMetadata(htmlContent);
+    const categoryName = extractCategoryName(htmlContent);
+
+    // Use category name from breadcrumb if available, otherwise fall back to title
+    if (categoryName) {
+      metadata.title = categoryName;
+    }
+
     const markdown = convertToMarkdown(htmlPath);
     const content = processContent(markdown, 'category');
 
