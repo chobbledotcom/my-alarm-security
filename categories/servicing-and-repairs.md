@@ -43,7 +43,7 @@ Sort Products By:
 
 Select an Option Display New Products First Display Products On Sale First Display Popular Products First Product Name - Ascending Product Name - Descending Product Price - Ascending Product Price - Descending
 
-[](/products/servicing-and-repairs.php "View More")
+[](../products/servicing-and-repairs.php.html "View More")
 
 ### Servicing and Repairs 
 

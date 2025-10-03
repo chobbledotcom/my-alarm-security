@@ -23,7 +23,7 @@ Sort Products By:
 
 Select an Option Display New Products First Display Products On Sale First Display Popular Products First Product Name - Ascending Product Name - Descending Product Price - Ascending Product Price - Descending
 
-[](/products/ultimate-package-cctv-intruder-alarm-system-1549.php "View More")
+[](../products/ultimate-package-cctv-intruder-alarm-system-1549.php.html "View More")
 
 ### Ultimate £1549 
 
@@ -35,7 +35,7 @@ Select an Option Display New Products First Display Products On Sale First Displ
 
 [More Details](/products/ultimate-package-cctv-intruder-alarm-system-1549.php)
 
-[](/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.php "View More")
+[](../products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.php.html "View More")
 
 ### Supreme £1749 
 
