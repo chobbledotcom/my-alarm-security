@@ -10,23 +10,23 @@ layout: page
 
 Burglar Alarms provide one of the best deterrents against a break in and an effective response in the event of one. We can design your burglar alarm system to suit your needs. We offer both wired and wireless systems with the latest app controlled technology.
 
-[More Info](../categories/burglar-alarms.php.html)
+[More Info](/categories/burglar-alarms.php)
 
-[![](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto,w_370,h_370,c_fill/ejajxywfmnfgavh5xtn3.png)](../categories/cctv.php.html "View More")
+[![](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto,w_370,h_370,c_fill/ejajxywfmnfgavh5xtn3.png)](/categories/cctv.php "View More")
 
 ### CCTV SYSTEMS 
 
 CCTV camera systems are becoming popular due to their efficiency and effectiveness in providing security and reassurance for all types of premises. All of our systems can be set up for remote viewing via a smartphone, tablet or computer.
 
-[More Info](../categories/cctv.php.html)
+[More Info](/categories/cctv.php)
 
-[![](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto,w_370,h_370,c_fill/dgxdicyzg24k2lcuvdbl.png)](../categories/access-control.php.html "View More")
+[![](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto,w_370,h_370,c_fill/dgxdicyzg24k2lcuvdbl.png)](/categories/access-control.php "View More")
 
 ### Access Control 
 
 Access control and door entry systems\... Allow freedom of movement for authorised personnel to certain and designated areas of a premises as well as restrictive access to sensitive areas and general access of a building for complete peace of mind.
 
-[More Info](../categories/access-control.php.html)
+[More Info](/categories/access-control.php)
 
 Homes and businesses with no security measures in place are five times more likely to be broken in to than those with simple security measures. Did you know that over 70% of people only have a Home Alarm/Security System, Burglar Alarm or CCTV installed after they or someone they know has been broken into or had an attempted break in? Don\'t be one of these statistics. Protect what you have with MyAlarm Security.
 

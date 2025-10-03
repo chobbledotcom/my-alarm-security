@@ -16,7 +16,7 @@ MyAlarm Security is your trusted, local home and business security company acros
 
 We provide up front pricing and are transparent with all of our costs with a clear and concise explanation of the work required.
 
-Call our friendly team on **020 8302 4065** or [**Contact Us**](../contact.php.html) online now.
+Call our friendly team on **020 8302 4065** or [**Contact Us**](/contact.php) online now.
 
 ![](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto/kn0qr1ujabqxosacfamc.webp)
 
