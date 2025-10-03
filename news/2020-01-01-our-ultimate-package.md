@@ -7,3 +7,20 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/news/our-ultimate-package/"
 ---
 
+#### Our Ultimate Package
+
+# Our ultimate package
+
+Our Ultimate Package is proving very popular in [Sidcup](../pages/sidcup.php.html), [Bexley](../pages/bexley.php.html) and New Eltham.
+
+This customer took advantage of our spectacular package which includes a full home security System burglar alarm and full HD [CCTV](../categories/cctv.php.html) system with 4 cameras.
+
+This Security System was fitted in [Sidcup](../pages/sidcup.php.html) [Bexley](../pages/bexley.php.html) border and they now feel safe knowing their property is secure externally and internally with our home alarm security system.
+
+Home alarm [Sidcup](../pages/sidcup.php.html)
+
+Home alarm [Bexley](../pages/bexley.php.html)
+
+Please note that as technology advances, so does our equipment and packages. Please see here for our most recent [packages](../categories/special-offers.php.html). Some package names may change.
+
+![Our Ultimate Package](https://res.cloudinary.com/kbs/image/upload/jrsayupkfuccdpf3vuvd.jpg)
