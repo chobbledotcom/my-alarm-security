@@ -8,8 +8,5 @@ permalink: "/products/standard-system-599/"
 categories: ["burglar-alarms"]
 features: []
 header_image: "/images/products/standard-system-599.webp"
-gallery:
-  - filename: "/images/products/standard-system-599.webp"
-    alt: "Standard System - Quality Systems, Professionally Fitted."
 ---
 

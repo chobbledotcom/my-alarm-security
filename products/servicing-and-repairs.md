@@ -8,8 +8,5 @@ permalink: "/products/servicing-and-repairs/"
 categories: ["servicing-and-repairs"]
 features: []
 header_image: "/images/products/servicing-and-repairs.webp"
-gallery:
-  - filename: "/images/products/servicing-and-repairs.webp"
-    alt: "Servicing And Repairs - Quality Systems, Pro Fitted."
 ---
 

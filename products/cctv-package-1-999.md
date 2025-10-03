@@ -8,8 +8,5 @@ permalink: "/products/cctv-package-1-999/"
 categories: ["cctv"]
 features: []
 header_image: "/images/products/cctv-package-1-999.webp"
-gallery:
-  - filename: "/images/products/cctv-package-1-999.webp"
-    alt: "Cctv Package Burglar Alarm System Bromley Dartford Welling"
 ---
 

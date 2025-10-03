@@ -8,8 +8,5 @@ permalink: "/products/pet-package-849/"
 categories: ["burglar-alarms"]
 features: []
 header_image: "/images/products/pet-package-849.webp"
-gallery:
-  - filename: "/images/products/pet-package-849.webp"
-    alt: "Pet Friendly Burglar Alarm System Orpington Bromley Bexley"
 ---
 

@@ -8,8 +8,5 @@ permalink: "/products/basic-system-539/"
 categories: ["burglar-alarms"]
 features: []
 header_image: "/images/products/basic-system-539.webp"
-gallery:
-  - filename: "/images/products/basic-system-539.webp"
-    alt: "Intruder Burglar Alarm System Company Bexley"
 ---
 

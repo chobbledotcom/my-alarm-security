@@ -8,8 +8,5 @@ permalink: "/products/ultimate-package-cctv-intruder-alarm-system-1549/"
 categories: ["special-offers"]
 features: []
 header_image: "/images/products/ultimate-package-cctv-intruder-alarm-system-1549.webp"
-gallery:
-  - filename: "/images/products/ultimate-package-cctv-intruder-alarm-system-1549.webp"
-    alt: "Cctv And Intruder Burglar Alarm System Package Bexley Bromley"
 ---
 

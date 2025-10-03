@@ -8,8 +8,5 @@ permalink: "/products/cctv-package-2-1199-24hr-colour-cctv/"
 categories: ["cctv"]
 features: []
 header_image: "/images/products/cctv-package-2-1199-24hr-colour-cctv.webp"
-gallery:
-  - filename: "/images/products/cctv-package-2-1199-24hr-colour-cctv.webp"
-    alt: "Colour Cctv Package Bexley Dartford Orpington And Burglar Alarm"
 ---
 

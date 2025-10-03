@@ -8,8 +8,5 @@ permalink: "/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-syste
 categories: ["special-offers"]
 features: []
 header_image: "/images/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.webp"
-gallery:
-  - filename: "/images/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.webp"
-    alt: "Intruder Burglar Alarm And Cctv Company Orpington Bromley Eltham"
 ---
 
