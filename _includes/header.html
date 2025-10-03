@@ -4,21 +4,22 @@
   </h1>
   {% if header_image or page.header_image %}
     {% assign image_data = header_image | default: page.header_image %}
-    {%- comment -%}Extract filename if this is a gallery object{%- endcomment -%}
+    {%- comment -%}Extract filename from gallery objects{%- endcomment -%}
     {% if image_data.filename %}
-      {% assign image = image_data.filename %}
-    {% elsif image_data.size %}
-      {%- comment -%}This is an array (gallery), skip it{%- endcomment -%}
+      {% assign image_path = image_data.filename %}
+    {% elsif image_data[0].filename %}
+      {% assign image_path = image_data[0].filename %}
     {% else %}
-      {%- comment -%}Assume it's a string path{%- endcomment -%}
-      {% assign image = image_data %}
+      {% assign image_path = image_data %}
     {% endif %}
-    {% if image %}
+    {%- comment -%}Only render if we have a valid string path starting with /{%- endcomment -%}
+    {% assign path_start = image_path | slice: 0 %}
+    {% if path_start == "/" %}
     <div class="desktop-image">
-      {% image image, "", config.products.header_image_widths, "banner", "", "3.5/1", "eager" %}
+      {% image image_path, "", config.products.header_image_widths, "banner", "", "3.5/1", "eager" %}
     </div>
     <div class="mobile-image">
-      {% image image, "", config.products.header_image_widths, "banner", "", "1/1", "eager" %}
+      {% image image_path, "", config.products.header_image_widths, "banner", "", "1/1", "eager" %}
     </div>
     {% endif %}
   {% endif %}
