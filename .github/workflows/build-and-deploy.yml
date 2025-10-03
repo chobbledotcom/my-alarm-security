@@ -131,7 +131,7 @@ jobs:
         with:
           access-key: ${{ secrets.BUNNY_ACCESS_KEY }}
           directory-to-upload: _site
-          storage-endpoint: "https://uk.storage.bunnycdn.com"
+          storage-endpoint: "https://storage.bunnycdn.com"
           storage-zone-name: "my-alarm-security"
           storage-zone-password: ${{ secrets.BUNNY_STORAGE_ZONE_PASSWORD }}
           concurrency: "5"
