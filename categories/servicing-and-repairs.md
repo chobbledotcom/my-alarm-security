@@ -1,7 +1,7 @@
 ---
-title: "Burglar Alarm Service Battery In Bexley, Orpington, Bromley"
+title: "Servicing And Repairs"
 header_text: "Burglar Alarm Service Battery In Bexley, Orpington, Bromley"
-meta_title: "Burglar Alarm Service Battery In Bexley, Orpington, Bromley"
+meta_title: "Servicing And Repairs"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065"
 permalink: "/categories/servicing-and-repairs/"
 featured: false
@@ -29,7 +29,7 @@ Here is a list of some of the most common calls we get:
 -   Alarm Siren Ringing
 -   Out of Hours Alarm Engineer
 
-[[ ]We\'ve been in the trade for 30 years and know most alarm systems - both old and new, inside out - so don\'t hesitate to get in contact. If you don\'t know the make or model of your system, just send us a photo of the alarm panel and we can identify it for you, Our email address is Sales@MyAlarmSecurity.co.uk. Our phone number is 020 8302 4065. You can also head to our ][Contact Us](../contact.php.html) page and fill in your details and one of our team will get back tou you ASAP.
+We\'ve been in the trade for 30 years and know most alarm systems - both old and new, inside out - so don\'t hesitate to get in contact. If you don\'t know the make or model of your system, just send us a photo of the alarm panel and we can identify it for you, Our email address is Sales@MyAlarmSecurity.co.uk. Our phone number is 020 8302 4065. You can also head to our [Contact Us](../contact.php.html) page and fill in your details and one of our team will get back tou you ASAP.
 
 We are based in New Eltham/Sidcup and cover a wide range of areas including [Bexley](../pages/bexley.php.html), Dartford, [Orpington](../pages/orpington.php.html), [Bromley](../pages/bromley.php.html), Petts Wood, [West Wickham](../pages/west-wickham.php.html), [Chislehurst](../pages/chislehurst.php.html), [Wilmington](../pages/wilmington.php.html), [Hextable](../pages/hextable.php.html), [Swanley](../pages/swanley.php.html), Gravesend, [Greenhithe](../pages/greenhithe.php.html), Swanscombe, [Bexleyheath](../pages/bexleyheath.php.html), [Welling](../pages/welling.php.html), [Eltham](../pages/eltham.php.html), Greenwich, Blackheath, Abbey Wood, Erith, Badgers Mount, Chelsfield, Crayford and more.
 

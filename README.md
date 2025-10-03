@@ -39,3 +39,27 @@ Set these GitHub secrets for your repo:
 ## Local Development
 
 Run `./bin/build` to build locally. The output appears in `result/`.
+
+### System Requirements
+
+The site conversion scripts require:
+- **Node.js** (v18 or later)
+- **pandoc** - For HTML to Markdown conversion
+
+Install pandoc:
+```bash
+# Ubuntu/Debian
+apt-get install -y pandoc
+
+# macOS
+brew install pandoc
+```
+
+### Converting Old Site Content
+
+To import content from the old site:
+```bash
+node scripts/convert-old-site.js
+```
+
+This will convert HTML files from `old_site/` to markdown in the appropriate directories.

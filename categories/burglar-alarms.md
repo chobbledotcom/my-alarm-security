@@ -1,7 +1,7 @@
 ---
-title: "Burglar Alarm Systems Battery And Servicing In Bexley Bromley"
+title: "Burglar Alarms"
 header_text: "Burglar Alarm Systems Battery And Servicing In Bexley Bromley"
-meta_title: "Burglar Alarm Systems Battery And Servicing In Bexley Bromley"
+meta_title: "Burglar Alarms"
 meta_description: "BURGLAR ALARM all types of Home Security, Business security based New Eltham, Sidcup, Bexley covering Greenwich, Orpington, Bromley, Dartford and surrounding"
 permalink: "/categories/burglar-alarms/"
 featured: false
@@ -37,7 +37,7 @@ Have an existing alarm system that you would like looked at, [serviced, repaired
 
 Why not pair one of our Home Burglar Alarm Systems with a professionally installed [CCTV System](cctv.php.html) [](cctv.php.html) for the ultimate in home and business security.
 
-**[ ]**
+**
 
 **Take a look in our** [**Special Offers**](special-offers.php.html) **area to view our excellent pre built** [**CCTV**](cctv.php.html) **and Burglar Alarm Packages.**
 
