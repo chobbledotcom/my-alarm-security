@@ -7,3 +7,16 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/news/cctv-image/"
 ---
 
+#### Cctv Image
+
+# CCTV Image
+
+Here at MyAlarm Security we get asked a lot what the image quality is like on our home security [CCTV](/categories/cctv.php) installations.
+
+Well here is the answer to your queries. I\'m sure you\'ll agree that they are stunning, although this was still a building site in Petts Wood, [Orpington](/pages/orpington.php) border the customer wanted the security system up and running.
+
+So along with the [CCTV](/categories/cctv.php) installation, we also had our app controlled smart home [burglar alarm](/categories/burglar-alarms.php) security system in place so when locking up after a days work they were sure that their property was safe.
+
+Contact us [here](/contact.php).
+
+![Cctv Image](https://res.cloudinary.com/kbs/image/upload/xlsdhnvcwps22cnvg9mg.jpg)
