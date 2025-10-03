@@ -55,7 +55,7 @@ Our Prices!
 
 ------------------------------------------------------------------------
 
-[ Back To Burglar Alarms](../categories/burglar-alarms.php.html)
+[ Back To Burglar Alarms](/categories/burglar-alarms.php)
 
 # Pet Package
 

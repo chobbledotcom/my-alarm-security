@@ -14,7 +14,7 @@ Our expert team offers comprehensive security solutions, including door entry sy
 
 We provide a free, no-obligation site survey where we\'ll assess vulnerable areas and demonstrate how our system works. We offer free surveys and we\'ll give you a quote on the spot - no pressure and with no follow-up sales calls or emails.
 
-To explore pricing and popular options, visit our [Burglar Alarm System in Greenwich](../categories/burglar-alarms.php.html). All packages are customisable with additional sensors, key fobs, door contacts or arming station to suit your property and requirements.
+To explore pricing and popular options, visit our [Burglar Alarm System in Greenwich](/categories/burglar-alarms.php). All packages are customisable with additional sensors, key fobs, door contacts or arming station to suit your property and requirements.
 
 Contact us today to book your survey or ask any questions - we\'re always happy to help.
 
@@ -28,6 +28,6 @@ Call us on 020 8302 4065 or send an email to Sales@MyAlarmSecurity.co.uk to get 
 
 # CCTV Installation in Greenwich 
 
-Enhance your property\'s security with CCTV installation in Greenwich. We supply and install the latest camera systems, including ColorVu CCTV, which provides 24/7 full-colour footage for clear, reliable surveillance. s a local, family-run business, we pride ourselves on offering friendly, honest service with no hard sell. Take a look at our [CCTV packages in Greenwich](../categories/cctv.php.html) to see what best fits your needs.
+Enhance your property\'s security with CCTV installation in Greenwich. We supply and install the latest camera systems, including ColorVu CCTV, which provides 24/7 full-colour footage for clear, reliable surveillance. s a local, family-run business, we pride ourselves on offering friendly, honest service with no hard sell. Take a look at our [CCTV packages in Greenwich](/categories/cctv.php) to see what best fits your needs.
 
-For a tailored quote or to schedule a site visit, [contact us today.](../contact.php.html)
+For a tailored quote or to schedule a site visit, [contact us today.](/contact.php)

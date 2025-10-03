@@ -11,7 +11,7 @@ permalink: "/news/complete-security-in-new-eltham/"
 
 # Complete Security in New Eltham
 
-We have lots of enquiries lately for [Burglar Alarms](../categories/burglar-alarms.php.html) and [CCTV](../categories/cctv.php.html) in New Eltham, this property in New Eltham on the Sidcup and Bexley borders enquired about a CCTV install and was soon blown away by the app control for both the [Burglar Alarm](../categories/burglar-alarms.php.html) and [CCTV](../categories/cctv.php.html) Systems.
+We have lots of enquiries lately for [Burglar Alarms](/categories/burglar-alarms.php) and [CCTV](/categories/cctv.php) in New Eltham, this property in New Eltham on the Sidcup and Bexley borders enquired about a CCTV install and was soon blown away by the app control for both the [Burglar Alarm](/categories/burglar-alarms.php) and [CCTV](/categories/cctv.php) Systems.
 
 This customer in New Eltham/Sidcup on the Bexley border had the Burglar Alarm System upgraded and took advantage of our complimentary backlit siren and dummy.
 
@@ -19,10 +19,10 @@ Our logic is that you receive a descriptive notification from the Burglar Alarm 
 
 You can see from this picture that we can expertly achieve some amazing positions for the CCTV cameras for optimum coverage.
 
-[Home Alarm Sidcup](../categories/burglar-alarms.php.html)
+[Home Alarm Sidcup](/categories/burglar-alarms.php)
 
-[CCTV System Sidcup](../categories/cctv.php.html)
+[CCTV System Sidcup](/categories/cctv.php)
 
-Contact us [here](../contact.php.html).
+Contact us [here](/contact.php).
 
 ![Complete Security In New Eltham](https://res.cloudinary.com/kbs/image/upload/w1760jfqudwtfclsyqag.jpg)

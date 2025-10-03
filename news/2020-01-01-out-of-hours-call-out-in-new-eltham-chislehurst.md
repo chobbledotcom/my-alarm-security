@@ -49,6 +49,6 @@ In the end, this Christmas Eve emergency callout turned out to be a unique and m
 
 And so, with the alarm silenced and peace restored, the residents returned to their celebrations, cherishing the tale of the Christmas Eve emergency callout as a reminder that even in the most unexpected moments, the spirit of togetherness and resilience can prevail.
 
-If you have an issue with your alarm system - even if we did not install it, we can still help! [Contact us](../contact.php.html) for help, advice or a callout. We are based in New Eltham / Sidcup and cover the following areas Bexley, Dartford, Welling, Eltham, Crayford, Erith, Orpington, Bromley, Wilmington, Gravesend, Bean, Chelsfield, Petts Wood and surrounding areas.
+If you have an issue with your alarm system - even if we did not install it, we can still help! [Contact us](/contact.php) for help, advice or a callout. We are based in New Eltham / Sidcup and cover the following areas Bexley, Dartford, Welling, Eltham, Crayford, Erith, Orpington, Bromley, Wilmington, Gravesend, Bean, Chelsfield, Petts Wood and surrounding areas.
 
 ![Out Of Hours Call Out In New Eltham / Chislehurst](https://res.cloudinary.com/kbs/image/upload/uohd0zxsi0ua32kty9ls.jpg)

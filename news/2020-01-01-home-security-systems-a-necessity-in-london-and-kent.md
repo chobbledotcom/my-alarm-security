@@ -13,7 +13,7 @@ permalink: "/news/home-security-systems-a-necessity-in-london-and-kent/"
 
 Home Security Systems: A Necessity in London and Kent?
 
-One of the most effective methods of protecting ones property is by investing in a reliable [home security system](../categories/special-offers.php.html). The importance of having a security system cannot be overstated, as it provides an added layer of protection for both your family and your valuables. In this article, we'll explore why home security systems are a necessity in London and Kent. We are based in Sidcup which is in the London Borough of Bexley but with a Kent postcode however we are right on the borders of New Eltham which is in the London Borough of Greenwich and has a London postcode.
+One of the most effective methods of protecting ones property is by investing in a reliable [home security system](/categories/special-offers.php). The importance of having a security system cannot be overstated, as it provides an added layer of protection for both your family and your valuables. In this article, we'll explore why home security systems are a necessity in London and Kent. We are based in Sidcup which is in the London Borough of Bexley but with a Kent postcode however we are right on the borders of New Eltham which is in the London Borough of Greenwich and has a London postcode.
 
 Crime Rate in London and Kent
 
@@ -33,12 +33,12 @@ It's also essential to consider the reputation of the security company you choos
 
 Cost of Home Security
 
-Many homeowners can sometimes be reluctant to invest in a home security system due to the costs associated with installation and maintenance. However, it's vital to consider the cost of not having a security system. Whilst a security system may be an initial upfront cost, the value it provides in terms of protection and peace of mind is immeasurable. We have created some packages for you to have a look at and to work out roughly how much an [alarm system](../categories/burglar-alarms.php.html) is. We can tailor create any package to suit your property or requirements.
+Many homeowners can sometimes be reluctant to invest in a home security system due to the costs associated with installation and maintenance. However, it's vital to consider the cost of not having a security system. Whilst a security system may be an initial upfront cost, the value it provides in terms of protection and peace of mind is immeasurable. We have created some packages for you to have a look at and to work out roughly how much an [alarm system](/categories/burglar-alarms.php) is. We can tailor create any package to suit your property or requirements.
 
 Conclusion
 
 In conclusion, home security systems are a necessity in London and Kent, given the rising crime rates in these areas. Securing your home with a reliable security system is an effective way to protect your property from intruders and provide peace of mind. When selecting a security system, homeowners should consider their specific needs, budget, and the reputation of the security company. The value a security system provides in terms of protection and peace of mind is immeasurable.
 
-Feel free to [contact us](../contact.php.html) for any advice, any questions you may have or to book a free home survey. In the meantime, why not have a look at some of our premade[ burglar alarm](../categories/burglar-alarms.php.html) and [CCTV](../categories/cctv.php.html) packages here. We can custom design any package to suit your needs.
+Feel free to [contact us](/contact.php) for any advice, any questions you may have or to book a free home survey. In the meantime, why not have a look at some of our premade[ burglar alarm](/categories/burglar-alarms.php) and [CCTV](/categories/cctv.php) packages here. We can custom design any package to suit your needs.
 
 ![Home Security Systems A Necessity In London And Kent](https://res.cloudinary.com/kbs/image/upload/qzps00ooia4kfzrsavkd.jpg)
