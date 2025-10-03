@@ -38,10 +38,12 @@ permalink: "/news/${slug}/"
  * @param {string} slug - Product slug
  * @param {string} price - Product price
  * @param {string} category - Product category
+ * @param {Object} images - Product images (optional, for Cloudinary URLs)
  * @returns {string} Frontmatter YAML
  */
-const generateProductFrontmatter = (metadata, slug, price, category) => {
-  return `---
+const generateProductFrontmatter = (metadata, slug, price, category, images = null) => {
+  // Base frontmatter
+  let frontmatter = `---
 title: "${metadata.title || ''}"
 price: "${price}"
 header_text: "${metadata.header_text || metadata.title || ''}"
@@ -49,8 +51,16 @@ meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/products/${slug}/"
 categories: ${category ? `["${category}"]` : '[]'}
-features: []
----`;
+features: []`;
+
+  // Add images if provided (using cloudinary_ prefix to avoid template conflicts)
+  if (images && images.header_image) {
+    frontmatter += `\ncloudinary_header_image: "${images.header_image}"`;
+    frontmatter += `\ncloudinary_gallery: ${JSON.stringify(images.gallery)}`;
+  }
+
+  frontmatter += '\n---';
+  return frontmatter;
 };
 
 /**

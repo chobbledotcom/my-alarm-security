@@ -1,7 +1,7 @@
 const path = require('path');
 const config = require('../config');
 const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles } = require('../utils/filesystem');
-const { extractMetadata, extractPrice, extractCategory } = require('../utils/metadata-extractor');
+const { extractMetadata, extractPrice, extractCategory, extractProductImages } = require('../utils/metadata-extractor');
 const { convertToMarkdown } = require('../utils/pandoc-converter');
 const { processContent } = require('../utils/content-processor');
 const { generateProductFrontmatter } = require('../utils/frontmatter-generator');
@@ -24,12 +24,20 @@ const convertProduct = (file, inputDir, outputDir) => {
     // Extract product-specific data
     const price = extractPrice(htmlContent);
     const category = extractCategory(htmlContent);
+    const images = extractProductImages(htmlContent);
 
     const filename = file.replace('.php.html', '.md');
     const slug = filename.replace('.md', '');
 
-    const frontmatter = generateProductFrontmatter(metadata, slug, price, category);
-    const fullContent = `${frontmatter}\n\n${content}`;
+    const frontmatter = generateProductFrontmatter(metadata, slug, price, category, images);
+
+    // Add product image HTML to content if available
+    let imageHtml = '';
+    if (images.header_image) {
+      imageHtml = `<div class="product-image">\n  <img src="${images.header_image}" alt="${metadata.title || ''}" />\n</div>\n\n`;
+    }
+
+    const fullContent = `${frontmatter}\n\n${imageHtml}${content}`;
 
     writeMarkdownFile(path.join(outputDir, filename), fullContent);
     console.log(`  Converted: ${filename}`);

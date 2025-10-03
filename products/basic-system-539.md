@@ -7,7 +7,14 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/products/basic-system-539/"
 categories: ["burglar-alarms"]
 features: []
+cloudinary_header_image: "https://res.cloudinary.com/kbs/image/upload/ijiz9baopzvivmhmwaql.webp"
+cloudinary_gallery: ["https://res.cloudinary.com/kbs/image/upload/ijiz9baopzvivmhmwaql.webp"]
 ---
+
+<div class="product-image">
+  <img src="https://res.cloudinary.com/kbs/image/upload/ijiz9baopzvivmhmwaql.webp" alt="Intruder Burglar Alarm System Company Bexley" />
+</div>
+
 
 #### Basic System £539
 

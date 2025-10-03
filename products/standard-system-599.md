@@ -7,7 +7,14 @@ meta_description: "Standard System - Fully Certified Engineers, 247 Customer Ser
 permalink: "/products/standard-system-599/"
 categories: ["burglar-alarms"]
 features: []
+cloudinary_header_image: "https://res.cloudinary.com/kbs/image/upload/lmsma9mbto8cy2au0wtn.webp"
+cloudinary_gallery: ["https://res.cloudinary.com/kbs/image/upload/lmsma9mbto8cy2au0wtn.webp"]
 ---
+
+<div class="product-image">
+  <img src="https://res.cloudinary.com/kbs/image/upload/lmsma9mbto8cy2au0wtn.webp" alt="Standard System - Quality Systems, Professionally Fitted." />
+</div>
+
 
 #### Standard System £599
 

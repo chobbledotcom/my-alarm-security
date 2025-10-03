@@ -7,7 +7,14 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/products/cctv-package-2-1199-24hr-colour-cctv/"
 categories: ["cctv"]
 features: []
+cloudinary_header_image: "https://res.cloudinary.com/kbs/image/upload/j6qrjbkdi8enjrjexl4e.webp"
+cloudinary_gallery: ["https://res.cloudinary.com/kbs/image/upload/j6qrjbkdi8enjrjexl4e.webp"]
 ---
+
+<div class="product-image">
+  <img src="https://res.cloudinary.com/kbs/image/upload/j6qrjbkdi8enjrjexl4e.webp" alt="Colour Cctv Package Bexley Dartford Orpington And Burglar Alarm" />
+</div>
+
 
 #### Cctv Package 2 £1199 24hr Colour Cctv
 
