@@ -56,10 +56,9 @@ const convertProduct = async (file, inputDir, outputDir) => {
     // Download image and get local path
     const localImagePath = await downloadProductImage(images.header_image, slug);
 
-    // Update images to use local path
+    // Pass header image only (no gallery)
     const localImages = {
-      header_image: localImagePath,
-      gallery: localImagePath ? [localImagePath] : []
+      header_image: localImagePath
     };
 
     const frontmatter = generateProductFrontmatter(metadata, slug, price, category, localImages);

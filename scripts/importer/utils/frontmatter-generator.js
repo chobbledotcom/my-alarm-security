@@ -55,17 +55,9 @@ permalink: "/products/${slug}/"
 categories: ${category ? `["${category}"]` : '[]'}
 features: []`;
 
-  // Add images if provided
+  // Add header image only (no gallery)
   if (images && images.header_image) {
     frontmatter += `\nheader_image: "${images.header_image}"`;
-    // Format gallery as YAML array
-    if (images.gallery && images.gallery.length > 0) {
-      frontmatter += '\ngallery:';
-      images.gallery.forEach(imagePath => {
-        frontmatter += `\n  - filename: "${imagePath}"`;
-        frontmatter += `\n    alt: "${title}"`;
-      });
-    }
   }
 
   frontmatter += '\n---';
