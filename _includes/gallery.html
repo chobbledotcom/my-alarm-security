@@ -1,0 +1,46 @@
+{%- if gallery and gallery.size > 0 and gallery[0].filename -%}
+<div class="current-image">
+  {% assign first_image = gallery[0] %}
+  {% image first_image.filename, first_image.alt, config.products.gallery_image_widths, "", "100vw" %}
+</div>
+
+<div aria-hidden="true" class="gallery-full-size-images">
+  {%- for image in gallery -%}
+    {%- if image.filename -%}
+    <div class="full-image-{{ forloop.index }}">
+      {% image image.filename, image.alt, config.products.gallery_image_widths, "fade-in", "100vw" %}
+    </div>
+    {%- endif -%}
+  {% endfor %}
+</div>
+
+{%- if gallery.size > 1 -%}
+<ul id="gallery" class="image-gallery">
+  {%- for image in gallery -%}
+    {%- if image.filename -%}
+    <li>
+      <a
+        href="
+          {%- if image.filename[0] == "/" -%}
+            {{- image.filename -}}
+          {%- else -%}
+            /images/{{ image.filename -}}
+          {%- endif -%}
+        "
+        data-index="{{ forloop.index }}"
+        class="image-link gallery-switcher"
+      >
+        <!-- once sizes="auto" is supported by Firefox, switch to that -->
+        <figure>
+          {% image image.filename, "", config.products.gallery_thumb_widths, "", "(max-width: 798px) 33vw, 25vw" %}
+          {%- if image.alt != "" -%}
+            <figcaption>{{- image.alt -}}</figcaption>
+          {%- endif -%}
+        </figure>
+      </a>
+    </li>
+    {%- endif -%}
+  {%- endfor -%}
+</ul>
+{%- endif -%}
+{%- endif -%}

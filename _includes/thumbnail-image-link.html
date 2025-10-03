@@ -1,0 +1,18 @@
+{%- if item.data.header_image -%}
+  {%- assign image_path = item.data.header_image -%}
+  {%- if image_path.filename -%}
+    {%- assign image_path = image_path.filename -%}
+  {%- endif -%}
+  <a
+    class="image-link"
+    href="{{ item.url }}#content"
+  >
+    {%- image image_path, item.data.title, widths, "", sizes -%}
+  </a>
+{%- endif -%}
+
+<h3>
+  <a href="{{- item.url -}}#content">
+    {{- item.data.title -}}
+  </a>
+</h3>
