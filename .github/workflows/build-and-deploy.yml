@@ -137,12 +137,5 @@ jobs:
           concurrency: "5"
           enable-delete-action: true
           enable-purge-pull-zone: true
-          pull-zone-id: "4585542"
-          replication-timeout: "15000"
-
-      - name: Purge Pull Zone
-        uses: R-J-dev/bunny-deploy@v2.0.6
-        with:
-          access-key: ${{ secrets.BUNNY_ACCESS_KEY }}
-          enable-purge-pull-zone: true
           pull-zone-id: "4586385"
+          replication-timeout: "15000"
