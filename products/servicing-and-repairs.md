@@ -7,12 +7,12 @@ meta_description: "Servicing and Repairs - Fully Certified Engineers, 247 Custom
 permalink: "/products/servicing-and-repairs/"
 categories: ["servicing-and-repairs"]
 features: []
-cloudinary_header_image: "https://res.cloudinary.com/kbs/image/upload/zla5b1k8via9pqrsfzym.webp"
-cloudinary_gallery: ["https://res.cloudinary.com/kbs/image/upload/zla5b1k8via9pqrsfzym.webp"]
+header_image: "products/servicing-and-repairs-zla5b1k8via9pqrsfzym.webp"
 ---
 
+
 <div class="product-image">
-  <img src="https://res.cloudinary.com/kbs/image/upload/zla5b1k8via9pqrsfzym.webp" alt="Servicing And Repairs - Quality Systems, Pro Fitted." />
+  <img src="/images/products/servicing-and-repairs-zla5b1k8via9pqrsfzym.webp" alt="Servicing And Repairs - Quality Systems, Pro Fitted." />
 </div>
 
 
@@ -28,7 +28,6 @@ Product Specifications!
   Specification   Details
   Tel.            020 8302 4065
   Email.          sales@myalarmsecurity.co.uk
-  --------------- -----------------------------
 
 Our Reviews!
 
@@ -52,7 +51,6 @@ Our Reviews!
 Our Prices!
 
   Contact For Price   
-  ------------------- --
 
 ------------------------------------------------------------------------
 

@@ -7,12 +7,12 @@ meta_description: "Standard System - Fully Certified Engineers, 247 Customer Ser
 permalink: "/products/standard-system-599/"
 categories: ["burglar-alarms"]
 features: []
-cloudinary_header_image: "https://res.cloudinary.com/kbs/image/upload/lmsma9mbto8cy2au0wtn.webp"
-cloudinary_gallery: ["https://res.cloudinary.com/kbs/image/upload/lmsma9mbto8cy2au0wtn.webp"]
+header_image: "products/standard-system-599-lmsma9mbto8cy2au0wtn.webp"
 ---
 
+
 <div class="product-image">
-  <img src="https://res.cloudinary.com/kbs/image/upload/lmsma9mbto8cy2au0wtn.webp" alt="Standard System - Quality Systems, Professionally Fitted." />
+  <img src="/images/products/standard-system-599-lmsma9mbto8cy2au0wtn.webp" alt="Standard System - Quality Systems, Professionally Fitted." />
 </div>
 
 
@@ -27,12 +27,7 @@ Product Specifications!
 
   Specification       Details
   Package includes    1 x Door contact
-                      4 x Movement sensors (can be pet friendly)
-                      1 x External siren for the front
-                      1 X Decoy Siren For The Rear
-                      1 X App Controlled Panel With 12 Months Free App Connectivity (£20 A Year Thereafter)
   Info                Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
-  ------------------- ---------------------------------------------------------------------------------------
 
 Our Reviews!
 
@@ -56,7 +51,6 @@ Our Reviews!
 Our Prices!
 
   Our Price:   £599.00
-  ------------ ---------
 
 ------------------------------------------------------------------------
 

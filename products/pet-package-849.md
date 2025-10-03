@@ -7,12 +7,12 @@ meta_description: "Pet friendly home and business security. Burglar Alarm Servic
 permalink: "/products/pet-package-849/"
 categories: ["burglar-alarms"]
 features: []
-cloudinary_header_image: "https://res.cloudinary.com/kbs/image/upload/bn64rehk4ctl7lqnhe52.webp"
-cloudinary_gallery: ["https://res.cloudinary.com/kbs/image/upload/bn64rehk4ctl7lqnhe52.webp"]
+header_image: "products/pet-package-849-bn64rehk4ctl7lqnhe52.webp"
 ---
 
+
 <div class="product-image">
-  <img src="https://res.cloudinary.com/kbs/image/upload/bn64rehk4ctl7lqnhe52.webp" alt="Pet Friendly Burglar Alarm System Orpington Bromley Bexley" />
+  <img src="/images/products/pet-package-849-bn64rehk4ctl7lqnhe52.webp" alt="Pet Friendly Burglar Alarm System Orpington Bromley Bexley" />
 </div>
 
 
@@ -27,14 +27,7 @@ Product Specifications!
 
   Specification        Details
   Package Includes:    1 x Door contact
-                       2 x Pet friendly movement sensors
-                       4 x Shock sensors for external doors and windows
-                       2 x Remote set/unset fobs which pair as remote panic buttons
-                       1 X External Siren For The Front
-                       1 X Decoy Siren For The Rear
-                       1 X App Controlled Panel With 12 Months Free App Connectivity (£20 A Year Thereafter)
   Info:                Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
-  -------------------- ---------------------------------------------------------------------------------------
 
 Our Reviews!
 
@@ -58,7 +51,6 @@ Our Reviews!
 Our Prices!
 
   Our Price:   £849.00
-  ------------ ---------
 
 ------------------------------------------------------------------------
 
