@@ -9,46 +9,14 @@ eleventyNavigation:
   order: 5
 ---
 
-# Contact MyAlarm Security
+# Contact us here at MyAlarm Security
 
-Get in touch today for a free, no-obligation quote for your security needs. We're here to help protect your home or business.
+It couldn't be easier to get in touch with the team here! You can use the contact form at the bottom of this page, or:
 
-## Get Your Free Quote
+**Call Us: [020 8302 4065](tel:02083024065)**
 
-**Phone:** [020 8302 4065](tel:02083024065)
-**Email:** [sales@myalarmsecurity.co.uk](mailto:sales@myalarmsecurity.co.uk)
+**Email: [sales@MyAlarmSecurity.co.uk](mailto:sales@MyAlarmSecurity.co.uk)**
 
-## Our Service
+**Add Us On Facebook: [Here](https://www.facebook.com/MyAlarm/)**
 
-- **Free Consultations** - No obligation quotes for all security needs
-- **Professional Installation** - Fully qualified and certified engineers
-- **12 Month Warranty** - Peace of mind with all installations
-- **Ongoing Support** - Maintenance and repair services available
-- **Transparent Pricing** - Clear, upfront costs with no hidden fees
-
-## Service Areas
-
-We provide professional security installation across:
-
-- **South East London:** Bexley, Bromley, Greenwich, Sidcup, Eltham, Chislehurst
-- **Kent:** Dartford, Orpington, Sevenoaks, Gravesend, Swanley
-
-[View all service areas →](/service-areas/)
-
-## Why Choose Us?
-
-- **27+ Years Experience** in the security industry
-- **Family Run Business** - established since 2017
-- **Local Expertise** - based in South East London
-- **Highly Recommended** - many 5-star reviews
-- **Professional Team** - skilled, qualified and experienced
-
-## Opening Hours
-
-**Monday - Friday:** 8:00 AM - 6:00 PM
-**Saturday:** 9:00 AM - 4:00 PM
-**Sunday:** Emergency callouts only
-
-**Emergency Callouts Available**
-
-Call **020 8302 4065** now for immediate assistance or to arrange your free consultation.
+**Location: 40 Northcote Road, Sidcup, DA14 6PW**

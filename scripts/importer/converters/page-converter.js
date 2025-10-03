@@ -46,21 +46,42 @@ const convertPages = () => {
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.pages);
   ensureDir(outputDir);
 
-  const pagesDir = path.join(config.OLD_SITE_PATH, 'pages');
-  const files = listHtmlFiles(pagesDir);
-
   let successful = 0;
   let failed = 0;
+  let totalFiles = 0;
 
-  files.forEach(file => {
+  // Convert pages from pages/ subdirectory
+  const pagesDir = path.join(config.OLD_SITE_PATH, 'pages');
+  const pageFiles = listHtmlFiles(pagesDir);
+
+  pageFiles.forEach(file => {
     if (convertPage(file, pagesDir, outputDir)) {
       successful++;
     } else {
       failed++;
     }
   });
+  totalFiles += pageFiles.length;
 
-  return { successful, failed, total: files.length };
+  // Convert root-level pages (contact, reviews, etc.)
+  const rootPages = ['contact.php.html', 'reviews.php.html'];
+  rootPages.forEach(file => {
+    try {
+      const filePath = path.join(config.OLD_SITE_PATH, file);
+      if (require('fs').existsSync(filePath)) {
+        if (convertPage(file, config.OLD_SITE_PATH, outputDir)) {
+          successful++;
+        } else {
+          failed++;
+        }
+        totalFiles++;
+      }
+    } catch (error) {
+      console.error(`  Error checking ${file}:`, error.message);
+    }
+  });
+
+  return { successful, failed, total: totalFiles };
 };
 
 module.exports = {
