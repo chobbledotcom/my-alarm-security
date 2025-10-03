@@ -42,8 +42,6 @@ Please find all of our customer reviews below!
 >
 > **Avril W** Tuesday, June 20, 2023
 
-[]
-
 ## Leave Us A Review!
 
 **Your Name / Company: \**

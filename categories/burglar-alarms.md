@@ -37,7 +37,8 @@ Have an existing alarm system that you would like looked at, [serviced, repaired
 
 Why not pair one of our Home Burglar Alarm Systems with a professionally installed [CCTV System](cctv.php.html) [](cctv.php.html) for the ultimate in home and business security.
 
-**[ **
+**
+
 **Take a look in our** [**Special Offers**](special-offers.php.html) **area to view our excellent pre built** [**CCTV**](cctv.php.html) **and Burglar Alarm Packages.**
 
 **We are a family run business based in Sidcup right on the borders of New Eltham. We provide our services in Bexley, Bromley, Orpington, Dartford, Sevenoaks, Gravesend, Greenwich and surrounding areas.** 

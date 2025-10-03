@@ -64,6 +64,8 @@ const cleanContent = (content) => {
     })
     .replace(/\{style="[^"]*"\}/g, '') // Remove remaining style attributes
     .replace(/\{[^}]*\}/g, '') // Remove remaining attribute blocks
+    .replace(/\[ \]/g, '') // Remove empty checkbox markers from ql-cursor spans
+    .replace(/\[([^\[\]]*?)\](?!\()/g, '$1') // Remove square brackets not part of links
     .replace(/^\[([^\]]+)\]\s*$/gm, '$1') // Remove square brackets around standalone lines
     .replace(/^(#+)\s*\[([^\]]+)\]\s*$/gm, '$1 $2') // Fix headers with square brackets
     .replace(/\[{2,}/g, '[') // Fix multiple opening brackets
