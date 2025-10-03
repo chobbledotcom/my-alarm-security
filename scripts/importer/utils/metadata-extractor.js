@@ -67,6 +67,16 @@ const extractCategory = (htmlContent) => {
 };
 
 /**
+ * Extract category name from active breadcrumb
+ * @param {string} htmlContent - HTML content to extract category name from
+ * @returns {string} Extracted category name
+ */
+const extractCategoryName = (htmlContent) => {
+  const match = htmlContent.match(/<li class="breadcrumb-item active">([^<]+)<\/li>/i);
+  return match ? match[1].trim() : '';
+};
+
+/**
  * Extract blog post date from content
  * @param {string} content - Markdown content to extract date from
  * @param {string} defaultDate - Default date to use if none found
@@ -88,5 +98,6 @@ module.exports = {
   extractMetadata,
   extractPrice,
   extractCategory,
+  extractCategoryName,
   extractBlogDate
 };
