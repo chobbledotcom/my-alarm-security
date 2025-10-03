@@ -224,7 +224,59 @@ content:
       - { name: show_products, type: boolean, label: Show Products Section, default: true }
       - { name: show_menus, type: boolean, label: Show Menus Section, default: true }
       - { name: show_news, type: boolean, label: Show News Section, default: true }
-      
+
+  - name: home_content
+    label: Homepage Content
+    type: file
+    path: _data/home_content.json
+    format: json
+    fields:
+      - name: hero
+        label: Hero Section
+        type: object
+        fields:
+          - name: service_cards
+            label: Service Cards
+            type: object
+            list: true
+            fields:
+              - { name: title, type: string, label: Title, required: true }
+              - { name: description, type: text, label: Description, required: true }
+              - { name: link, type: string, label: Link, required: true }
+      - name: main_content
+        label: Main Content Section
+        type: object
+        fields:
+          - name: paragraphs
+            label: Content Paragraphs
+            type: text
+            list: true
+          - { name: highlight, type: string, label: Highlight Text }
+      - name: why_choose_us
+        label: Why Choose Us Section
+        type: object
+        fields:
+          - { name: heading, type: string, label: Section Heading, default: "Why Choose Us?" }
+          - name: features
+            label: Features
+            type: object
+            list: true
+            fields:
+              - { name: title, type: string, label: Feature Title, required: true }
+      - name: reviews
+        label: Reviews Section
+        type: object
+        fields:
+          - { name: heading, type: string, label: Section Heading, default: "Our Reviews" }
+          - name: items
+            label: Customer Reviews
+            type: object
+            list: true
+            fields:
+              - { name: text, type: text, label: Review Text, required: true }
+              - { name: author, type: string, label: Author Name, required: true }
+              - { name: date, type: string, label: Review Date }
+
   - name: site
     label: Site Configuration
     type: file
