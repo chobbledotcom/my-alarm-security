@@ -3,7 +3,6 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
-const { pipeline } = require('stream/promises');
 
 const IMAGES_DIR = path.join(__dirname, '..', 'images', 'products');
 
@@ -38,14 +37,8 @@ const extractImageUrl = (htmlPath) => {
   return match ? match[1] : null;
 };
 
-// Generate filename from URL
-const getFilenameFromUrl = (url, productSlug) => {
-  // Extract the Cloudinary public ID from the URL
-  const match = url.match(/\/upload\/(?:.*?\/)?([\w]+)\.\w+$/);
-  if (match) {
-    return `${productSlug}-${match[1]}.webp`;
-  }
-  // Fallback
+// Generate simple filename from product slug
+const getFilename = (productSlug) => {
   return `${productSlug}.webp`;
 };
 
@@ -70,15 +63,16 @@ const processProduct = async (productFile) => {
   // Read current markdown
   let content = fs.readFileSync(mdPath, 'utf8');
 
-  // Check if already has local images
-  if (content.includes('header_image:') && !content.includes('cloudinary_header_image')) {
-    console.log(`  ⊘ Skipping ${productFile}: Already has local images`);
+  // Check if already has gallery
+  if (content.match(/^gallery:/m)) {
+    console.log(`  ⊘ Skipping ${productFile}: Already has gallery`);
     return false;
   }
 
   // Download the image
-  const filename = getFilenameFromUrl(imageUrl, slug);
+  const filename = getFilename(slug);
   const localPath = path.join(IMAGES_DIR, filename);
+  const imagePath = `/images/products/${filename}`;
 
   if (!fs.existsSync(localPath)) {
     console.log(`  ⬇ Downloading ${filename}...`);
@@ -92,51 +86,32 @@ const processProduct = async (productFile) => {
     console.log(`  ✓ Image already exists: ${filename}`);
   }
 
-  // Update markdown file
-  // Path for frontmatter (relative to src/images/)
-  const frontmatterPath = `products/${filename}`;
-  // Path for HTML img tag (absolute URL)
-  const imgSrc = `/images/products/${filename}`;
-
-  // Remove cloudinary fields if they exist
-  content = content.replace(/^cloudinary_header_image:.*\n/m, '');
-  content = content.replace(/^cloudinary_gallery:.*\n/m, '');
-
-  // Split into frontmatter and body
-  const parts = content.split('---\n');
-  if (parts.length < 3) {
+  // Parse frontmatter carefully
+  const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+  if (!frontmatterMatch) {
     console.log(`  ✗ Skipping ${productFile}: Invalid frontmatter`);
     return false;
   }
 
-  let frontmatter = parts[1];
-  const bodyContent = parts.slice(2).join('---\n');
+  let frontmatter = frontmatterMatch[1];
+  const bodyContent = frontmatterMatch[2];
 
-  // Add header_image and gallery fields (using path relative to src/images/)
-  if (!frontmatter.includes('header_image:')) {
-    frontmatter += `header_image: "${frontmatterPath}"\n`;
-  }
-  if (!frontmatter.includes('gallery:')) {
-    frontmatter += `gallery:\n  - filename: "${frontmatterPath}"\n    alt: ""\n`;
-  }
-
-  // Update or add product-image div in content
-  let newBodyContent = bodyContent;
-  const titleMatch = frontmatter.match(/title: "(.*)"/);
+  // Extract title for alt text
+  const titleMatch = frontmatter.match(/title: ["'](.*)["']/);
   const title = titleMatch ? titleMatch[1] : '';
 
-  if (bodyContent.includes('product-image')) {
-    // Update existing image
-    newBodyContent = bodyContent.replace(
-      /<div class="product-image">[\s\S]*?<\/div>/,
-      `<div class="product-image">\n  <img src="${imgSrc}" alt="${title}" />\n</div>`
-    );
-  } else {
-    // Add new image at start
-    newBodyContent = `<div class="product-image">\n  <img src="${imgSrc}" alt="${title}" />\n</div>\n\n${bodyContent}`;
+  // Add header_image if not present
+  if (!frontmatter.includes('header_image:')) {
+    frontmatter += `\nheader_image: "${imagePath}"`;
   }
 
-  const newContent = `---\n${frontmatter}---\n\n${newBodyContent}`;
+  // Add gallery if not present
+  if (!frontmatter.includes('gallery:')) {
+    frontmatter += `\ngallery:\n  - filename: "${imagePath}"\n    alt: "${title}"`;
+  }
+
+  // Write updated content WITHOUT modifying body
+  const newContent = `---\n${frontmatter}\n---\n${bodyContent}`;
   fs.writeFileSync(mdPath, newContent);
 
   console.log(`  ✓ Updated ${productFile}`);
@@ -145,7 +120,7 @@ const processProduct = async (productFile) => {
 
 // Main
 const main = async () => {
-  console.log('Downloading product images and updating references...\n');
+  console.log('Updating product images...\n');
 
   const productFiles = fs.readdirSync(path.join(__dirname, '..', 'products'))
     .filter(f => f.endsWith('.md'));

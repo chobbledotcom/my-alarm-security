@@ -7,13 +7,9 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/products/basic-system-539/"
 categories: ["burglar-alarms"]
 features: []
-header_image: "products/basic-system-539-ijiz9baopzvivmhmwaql.webp"
+header_image: "products/basic-system-539.webp"
 ---
 
-
-<div class="product-image">
-  <img src="/images/products/basic-system-539-ijiz9baopzvivmhmwaql.webp" alt="Intruder Burglar Alarm System Company Bexley" />
-</div>
 
 
 #### Basic System £539
@@ -27,7 +23,13 @@ Product Specifications!
 
   Specification        Details
   Package Includes:    1 x Door contact
+                       2 x Movement sensors (can be pet friendly)
+                       2 x Remote set/unset fobs which pair as remote panic buttons
+                       1 x External siren for the front
+                       1 X Decoy Siren For The Rear
+                       1 X App Controlled Panel With 12 Months Free App Connectivity (£20 A Year Thereafter)
   Info:                Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
+  -------------------- ---------------------------------------------------------------------------------------
 
 Our Reviews!
 
@@ -51,6 +53,7 @@ Our Reviews!
 Our Prices!
 
   Our Price:   £539.00
+  ------------ ---------
 
 ------------------------------------------------------------------------
 

@@ -7,13 +7,9 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/products/cctv-package-2-1199-24hr-colour-cctv/"
 categories: ["cctv"]
 features: []
-header_image: "products/cctv-package-2-1199-24hr-colour-cctv-j6qrjbkdi8enjrjexl4e.webp"
+header_image: "products/cctv-package-2-1199-24hr-colour-cctv.webp"
 ---
 
-
-<div class="product-image">
-  <img src="/images/products/cctv-package-2-1199-24hr-colour-cctv-j6qrjbkdi8enjrjexl4e.webp" alt="Colour Cctv Package Bexley Dartford Orpington And Burglar Alarm" />
-</div>
 
 
 #### Cctv Package 2 £1199 24hr Colour Cctv
@@ -27,7 +23,10 @@ Product Specifications!
 
   Specification        Details
   Package includes:    4 x 5MP ColorVu eyeball type cameras with 24 hour colour footage
+                       1 x 2TB Hardrive with 30 day storage
   Info\...             Full App control from your smart phone/device
+                       Supplied and fitted and with a 12 month warranty
+  -------------------- ------------------------------------------------------------------
 
 Our Reviews!
 
@@ -51,6 +50,7 @@ Our Reviews!
 Our Prices!
 
   Our Price:   £1199.00
+  ------------ ----------
 
 ------------------------------------------------------------------------
 
