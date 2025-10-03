@@ -9,18 +9,8 @@ permalink: "/news/burglar-alarm-and-cctv-systems-chislehurst/"
 
 #### Burglar Alarm And Cctv Systems Chislehurst
 
-:::
-
-::: 
 # Burglar Alarm And CCTV Systems Chislehurst 
 
 We\'ve been established nearly 5 years now, it\'s astonishing how quickly it\'s gone. We\'ve installed hundreds of [security systems](../categories/burglar-alarms.php.html) in [Sidcup](../pages/sidcup.php.html), New Eltham, [Bexley](../pages/bexley.php.html) and lots more areas around London and Kent. We often get asked to quote bigger \'project\' style jobs which is different to your wireless home security system which can be fitted in half a day, these larger jobs can be at a building site stage at which point we run all cables to keep them concealed and this can take days depending on the size of the security system going in. We will then wait for the site to progress to the point when we go in and second fix, this leaves a lovely finish for the customer. This house was in Chislehurst on the borders of [Bromley](../pages/bromley.php.html) and [Orpington](../pages/orpington.php.html).
-:::
 
-::: 
 ![Burglar Alarm And Cctv Systems Chislehurst](https://res.cloudinary.com/kbs/image/upload/z3lxvjze4mjv5v6op5rw.jpg)
-:::
-:::
-:::
-:::
-:::

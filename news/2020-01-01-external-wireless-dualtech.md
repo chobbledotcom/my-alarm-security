@@ -9,9 +9,6 @@ permalink: "/news/external-wireless-dualtech/"
 
 #### External Wireless Dualtech
 
-:::
-
-::: 
 # External wireless dualtech
 
 Pyronix are the leaders in home security for building and [house alarms](../categories/burglar-alarms.php.html) and are always evolving. They are always releasing new products to make your home even more secure. As our brand of choice, we bring to you the latest in home security.
@@ -25,12 +22,5 @@ The [back lit siren, detectors](../categories/burglar-alarms.php.html) and [CCTV
 We have kept in touch with the customer and they report no other break ins.
 
 Sometimes you have to imagine the outlay in cost as a long term investment as you don\'t always know how many burglars you have deterred from your property and any loss and damage caused out weighs the cost of any house alarm or CCTV.
-:::
 
-::: 
 ![External Wireless Dualtech](https://res.cloudinary.com/kbs/image/upload/wb9flmkz5c6nbjdv4tyw.jpg)
-:::
-:::
-:::
-:::
-:::

@@ -9,14 +9,11 @@ permalink: "/news/nice-and-tidy/"
 
 #### Nice And Tidy
 
-:::
-
-::: 
 # Nice And Tidy
 
 We had to take a picture of this one from a job in Petts Wood, Orpington.
 
-The customer decided they wanted their [[Smart Controlled Burglar Alarm Panel]](../categories/burglar-alarms.php.html) just outside their cupboard under the stairs for ease of access so we obliged and kept it all as neat as always.
+The customer decided they wanted their [Smart Controlled Burglar Alarm Panel](../categories/burglar-alarms.php.html) just outside their cupboard under the stairs for ease of access so we obliged and kept it all as neat as always.
 
 It meant drilling in at an angle in to the cupboard and meeting the hole with the drill from the inside. We love being top of our game in the industry.
 
@@ -24,12 +21,4 @@ We believe that customer satisfaction is the key to success. Knowing that our cu
 
 Please feel free to [contact us](../contact.php.html) with any questions or queries that you may have. Our friendly team are always happy to help.
 
-:::
-
-::: 
 ![Nice And Tidy](https://res.cloudinary.com/kbs/image/upload/r9glvhm3zssvyqwlcklw.jpg)
-:::
-:::
-:::
-:::
-:::

@@ -9,9 +9,6 @@ permalink: "/news/wireless-sounder-alarm-system-for-the-deaf-or-hard-of-hearing/
 
 #### Wireless Sounder Alarm System For The Deaf Or Hard Of Hearing
 
-:::
-
-::: 
 # Wireless Sounder Alarm System for the deaf or hard of hearing
 
 We like to keep you up to date with new products for your home alarm system or business alarm system here at MyAlarm Security.
@@ -27,12 +24,5 @@ The strobe can be setup in different ways so that it lights up upon entry and ex
 We always have solutions to your questions and will go above and beyond to help our customers out.
 
 Dont hesitate to [contact us](../contact.php.html) if you have any questions.
-:::
 
-::: 
 ![Wireless Sounder Alarm System For The Deaf Or Hard Of Hearing](https://res.cloudinary.com/kbs/image/upload/wxl86lwwbs7c4zvyggs9.jpg)
-:::
-:::
-:::
-:::
-:::

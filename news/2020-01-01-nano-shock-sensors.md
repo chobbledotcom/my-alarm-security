@@ -9,9 +9,6 @@ permalink: "/news/nano-shock-sensors/"
 
 #### Nano Shock Sensors
 
-:::
-
-::: 
 # Nano shock sensors
 
 !Can you spot our new shock sensors for our home alarm system? Probably not, they are tiny. Not only are they tiny but they come in a range of colours to suit your property. Home security [burglar alarm systems](../categories/burglar-alarms.php.html) don\'t have to look ugly. These ones were fitted to sliding doors finished in anthracite grey and they are available in white, black, brown and these anthracite grey.
@@ -21,12 +18,5 @@ This property in Bromley on the edge of Chislehurst and Bickley had a large dog 
 If you are worried your home alarm system will be unsightly, think again, we can install a system and you wouldn\'t even know we had been there and we can always keep your furry friends in mind with shock sensors fitted to doors rather than movement sensors that are only suitable for dogs under 25kg approx.
 
 Please see our [Burglar alarm package](../categories/burglar-alarms.php.html)s for an idea on price.
-:::
 
-::: 
 ![Nano Shock Sensors](https://res.cloudinary.com/kbs/image/upload/ipzxmseakzl8d4o1ll27.jpg)
-:::
-:::
-:::
-:::
-:::

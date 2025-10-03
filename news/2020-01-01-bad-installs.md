@@ -9,9 +9,6 @@ permalink: "/news/bad-installs/"
 
 #### Bad Installs
 
-:::
-
-::: 
 # Bad installs
 
 Here at MyAlarm Security we have seen some awful CCTV installations over the years with people thinking they will \'give it a go\' well it\'s not always that easy i\'m afraid. We are all for people doing it themsekves, but paying someone who hasnt got a clue is something we always try to advise against. Check that the person or company you have chosen is experienced, have a look at reviews, check they have the correct insurances and ask as many questions as you can.
@@ -34,12 +31,4 @@ Another happy customer.
 
 For an idea on pricing, please see our [CCTV packages](../categories/cctv.php.html).
 
-:::
-
-::: 
 ![Bad Installs](https://res.cloudinary.com/kbs/image/upload/kro3qblolsyrxitpbf8c.jpg)
-:::
-:::
-:::
-:::
-:::

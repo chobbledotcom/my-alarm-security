@@ -9,22 +9,12 @@ permalink: "/news/painting-skills/"
 
 #### Painting Skills
 
-:::
-
-::: 
 # Painting Skills
 
 On a recent home security burglar alarm installation we had to show off our painting skills. We had upgraded and repaired an existing house alarm and also offered our complimentary backlit wired siren which the customer jumped at (who doesnt like a freebie)? These backlit sirens offer a visual deterrent like no other, they have a photocell built in which means when the light level drops to a certain level it glows making it an obvious deterrent.
 
-On this particular Street in [Sidcup](../pages/sidcup.php.html) there were no other glowing sirens which meant it was obvious to see that this [[burglar alarm]](../categories/burglar-alarms.php.html) system was brand new and the others were not.
+On this particular Street in [Sidcup](../pages/sidcup.php.html) there were no other glowing sirens which meant it was obvious to see that this [burglar alarm](../categories/burglar-alarms.php.html) system was brand new and the others were not.
 
 The siren was a slightly different shape to the older one which meant we had to get our paint brush out (yes we carry paint brushes as well as numerous pots of paint and sprays) and we were more than happy to touch up around the new siren making it a seamless swap from old to new.  Another happy customer!
-:::
 
-::: 
 ![Painting Skills](https://res.cloudinary.com/kbs/image/upload/ki01cddg366n6yrmo52q.jpg)
-:::
-:::
-:::
-:::
-:::

@@ -9,9 +9,6 @@ permalink: "/news/black-cctv-camera/"
 
 #### Black Cctv Camera
 
-:::
-
-::: 
 # Black camera
 
 This close up of a new black camera is a great idea to keep CCTV systems discreet as well as protected, We always give the customer the option of colours depending on their needs or preferance.
@@ -20,19 +17,12 @@ This system was installed in Dartford on the Bexley border and the customer chos
 
 Not a problem for us, as you\'ve seen before we carry a number of different spray paint colours to help us complete jobs to the highest standard, whether it\'s an [alarm system](../categories/burglar-alarms.php.html) in your home or business in Bexley or a CCTV camera installation in New Eltham we have the ways and means to a perfect security system installation.
 
-Find out more about our house alarm security systems here: [[Burglar Alarms]](../categories/burglar-alarms.php.html)
+Find out more about our house alarm security systems here: [Burglar Alarms](../categories/burglar-alarms.php.html)
 
-Find out more about our CCTV camera system packages here: [[CCTV]](../categories/cctv.php.html)
+Find out more about our CCTV camera system packages here: [CCTV](../categories/cctv.php.html)
 
 We cover Bexley, Bromley, Dartford, Eltham, New Eltham, Welling, Bexleyheath, Orpington, Sidcup, Sevenoaks, Chislehurst and Greenwhich plus many more!
 
 We have a number of special offers and and pre-built home security alarm and CCTV system packages here Special Offers
-:::
 
-::: 
 ![Black Cctv Camera](https://res.cloudinary.com/kbs/image/upload/mdjexqwntvvo93crzbyc.jpg)
-:::
-:::
-:::
-:::
-:::

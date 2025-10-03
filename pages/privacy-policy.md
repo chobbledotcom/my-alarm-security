@@ -81,8 +81,3 @@ In some circumstances we may anonymise your personal data (so that it can no lon
 If you wish to raise a complaint about how your data is being handled, in accordance with the law you can contact the [Information Commissioners Office](https://ico.org.uk/) (ICO)
 
 Published 23rd May 2018
-:::
-:::
-:::
-:::
-:::

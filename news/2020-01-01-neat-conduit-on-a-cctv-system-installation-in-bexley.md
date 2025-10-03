@@ -9,9 +9,6 @@ permalink: "/news/neat-conduit-on-a-cctv-system-installation-in-bexley/"
 
 #### Neat Conduit On A Cctv System Installation In Bexley
 
-:::
-
-::: 
 # Neat conduit
 
 We pride ourselves here at MyAlarm Security at installing the very best equipment with the very best installations.
@@ -29,12 +26,5 @@ We always use external grade cable or keep it contained inside conduit if need b
 We have succesfully installed CCTV security systems in Sidcup, Bexley, Dartford and sorrounding areas within the last few years with no problems. Non external cable will perish within a year or so and leave you with a system that is prone to constant problems.
 
 Talk to us to get your free quotation for a [burglar alarm](../categories/burglar-alarms.php.html) security system or a [CCTV](../categories/cctv.php.html) security system if you have a home or business in Orpington, Bromley, Keston, Dartford, New Eltham, Bexley, Bexleyheath, Welling, Erith, Swanley and surrounding areas, get in touch now.
-:::
 
-::: 
 ![Neat Conduit On A Cctv System Installation In Bexley](https://res.cloudinary.com/kbs/image/upload/bg3dwhda1feftfxsqocq.jpg)
-:::
-:::
-:::
-:::
-:::

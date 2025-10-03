@@ -9,9 +9,6 @@ permalink: "/news/home-security-systems-a-necessity-in-london-and-kent/"
 
 #### Home Security Systems A Necessity In London And Kent
 
-:::
-
-::: 
 # Home Security Systems: A Necessity in London and Kent?
 
 Home Security Systems: A Necessity in London and Kent?
@@ -43,12 +40,5 @@ Conclusion
 In conclusion, home security systems are a necessity in London and Kent, given the rising crime rates in these areas. Securing your home with a reliable security system is an effective way to protect your property from intruders and provide peace of mind. When selecting a security system, homeowners should consider their specific needs, budget, and the reputation of the security company. The value a security system provides in terms of protection and peace of mind is immeasurable.
 
 Feel free to [contact us](../contact.php.html) for any advice, any questions you may have or to book a free home survey. In the meantime, why not have a look at some of our premade[ burglar alarm](../categories/burglar-alarms.php.html) and [CCTV](../categories/cctv.php.html) packages here. We can custom design any package to suit your needs.
-:::
 
-::: 
 ![Home Security Systems A Necessity In London And Kent](https://res.cloudinary.com/kbs/image/upload/qzps00ooia4kfzrsavkd.jpg)
-:::
-:::
-:::
-:::
-:::

@@ -9,9 +9,6 @@ permalink: "/news/west-wickham-security/"
 
 #### West Wickham Security
 
-:::
-
-::: 
 # West Wickham Security
 
 We often get phone calls or emails from customers who want to know if we travel a little bit further afield such as Keston, Badgers Mount and [West Wickham](../pages/west-wickham.php.html) and the answer to that is yes, we do indeed cover these areas. We have many customers who have house alarms and security systems in West Wickham who need their systems [serviced](../categories/servicing-and-repairs.php.html), looked at or altered for renovation works. West Wickham, Bromley. Petts Wood are all areas that we cover installing, upgrading, servicing, fault finding, repair burglar alarm system. We also install [CCTV](../categories/cctv.php.html) and [Access Control Door Entry systems](../categories/access-control.php.html) so if this is something that you may be interested in, don\'t hesitate to get in touch.
@@ -20,12 +17,4 @@ We have lots of packages to suit your home or business. Why not take a look at 
 
 [Contact Us](../contact.php.html) with any questions you might have. Our friendly team are always happy to help.
 
-:::
-
-::: 
 ![West Wickham Security](https://res.cloudinary.com/kbs/image/upload/nuqskrlyntntstkyqv2s.jpg)
-:::
-:::
-:::
-:::
-:::

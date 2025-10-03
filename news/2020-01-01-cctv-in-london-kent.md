@@ -9,9 +9,6 @@ permalink: "/news/cctv-in-london-kent/"
 
 #### Cctv In London / Kent
 
-:::
-
-::: 
 # [CCTV in London / Kent](../categories/cctv.php.html)
 
 Closed-circuit television (CCTV) is a widely used technology in today\'s world. It has become an important tool in public safety and security management. CCTV systems capture and record images over a specific area or location. These systems are commonly used by businesses, organisations, and individuals to monitor and record activities to deter crime and to provide evidence for investigations. CCTV technology is particularly important in London and Kent, where crime rates are relatively high.
@@ -29,12 +26,5 @@ In summary, CCTV systems are important tools in public safety and security manag
 So if you are thinking of having [CCTV](../categories/cctv.php.html) installed at your home or business, then don\'t hesitate to get in contact. Please see our packages for a guide on prices. We are a security company based in New Eltham / Sidcup and offer security systems including Burglar Alarms and CCTV. We cover a range of areas including Welling, Eltham, Blackheath, Bexley, Bexleyheath, Crayford, Dartford, Greenhithe, Swanscombe, Bean, Gravesend, Orpington, Bromley, Greenwich, Swanley, Hextable, Wilmington and surrounding areas.
 
  Have a look at some of our ready made packages or give us a [call for more information.](../contact.php.html)
-:::
 
-::: 
 ![Cctv In London / Kent](https://res.cloudinary.com/kbs/image/upload/lawurn0b8li9fnsv2eki.png)
-:::
-:::
-:::
-:::
-:::

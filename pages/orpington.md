@@ -8,8 +8,6 @@ layout: page
 
 # **Alarm System and CCTV in Orpington** 
 
-\
-
 We are a local, family run security company offering the latest in home and business security. We are based in Sidcup right by the borders of New Eltham, but also right beside the A20 so within a few minutes of Orpington (providing the A20 and Crittals Corner roundabout isn\'t backed up) Being so local, we have knowledge of the area and the streets within and surrounding (perfect if you ever need an emergency call out).
 
 We not only install brand new Burglar Alarm Systems and CCTV systems, we also service, fault find, repair, replace devices, upgrade and change alarm battery replacements. We also offer access control and door entry systems and have provided our services to quite a few schools in and around Orpington.
@@ -28,13 +26,4 @@ We can create any package to suit your needs so if you need more or less sensors
 
 We also offer CCTV packages. Feel free to give us a call or send us an email if you have any questions. Take a look at our current CCTV packages here: [CCTV Systems in Orpington.](../categories/cctv.php.html)
 
-\
-:::
-:::
-
 ![Burglar Alarm Company Van Orpington CCTV Orpington Alarm Service Battery Orpingron](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto/ysizh3plzbep45fgjb0g.webp "Orpington High Elms Van ")
-:::
-:::
-:::
-:::
-:::

@@ -9,12 +9,9 @@ permalink: "/news/bromley-area-being-targeted/"
 
 #### Bromley Area Being Targeted
 
-:::
-
-::: 
 # Bromley Area Being Targeted
 
-Its really nice to know that this customer in Bromley on the outskirts of Bexley and Sidcup, decided to heed our motto of being proactive and not reactive by securing their property with one of our [[smart app controlled burglar alarm security systems]](../categories/burglar-alarms.php.html).
+Its really nice to know that this customer in Bromley on the outskirts of Bexley and Sidcup, decided to heed our motto of being proactive and not reactive by securing their property with one of our [smart app controlled burglar alarm security systems](../categories/burglar-alarms.php.html).
 
 After numerous break ins down their road, these customers decided to deter the thieves before they had a chance to potentially target them.
 
@@ -22,15 +19,8 @@ The external siren is obvious for all to see, but its a shame that so many peopl
 
 Its not as expensive as you think and may save your precious items that money can not replace.
 
-[[Burglar Alarm]](../categories/burglar-alarms.php.html) [[CCTV]](../categories/cctv.php.html) [Bromley](../pages/bromley.php.html)
+[Burglar Alarm](../categories/burglar-alarms.php.html) [CCTV](../categories/cctv.php.html) [Bromley](../pages/bromley.php.html)
 
-[[Burglar Alarm]](../categories/burglar-alarms.php.html) [[CCTV]](../categories/cctv.php.html) Bexley
-:::
+[Burglar Alarm](../categories/burglar-alarms.php.html) [CCTV](../categories/cctv.php.html) Bexley
 
-::: 
 ![Bromley Area Being Targeted](https://res.cloudinary.com/kbs/image/upload/qhrgwledl2oavywcrwuu.jpg)
-:::
-:::
-:::
-:::
-:::

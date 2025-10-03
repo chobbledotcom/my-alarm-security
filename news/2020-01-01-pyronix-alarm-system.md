@@ -9,9 +9,6 @@ permalink: "/news/pyronix-alarm-system/"
 
 #### Pyronix Alarm System
 
-:::
-
-::: 
 # Pyronix Alarm System
 
 Looking for a reliable and top-of-the-line alarm system for your home or business in Sidcup, New Eltham, Eltham, Blackheath, Bromley, Petts wood, West Wickham, Orpington, Dartford, Bexley, Bexleyheath, Erith, Crayford, Bexley park, Sevenoaks, Bean, Shoreham, Gravesend, Ebbsfleet, Bluewater, Charlton, Swanley, Hextable, Welling, or Wilmington? Look no further than MyAlarm Security! We offer alarm systems by the leading manufacturer - Pyronix.
@@ -25,12 +22,5 @@ So why wait? Contact MyAlarm Security today to learn more about how we can help 
 We also offer [system servicing, fault diagnosis and repair](../categories/servicing-and-repairs.php.html) on other brands/models of alarm systems. With over 25 years in the industry, there isn\'t many alarm systems that we don\'t know.
 
 [Contact us](../contact.php.html) now to discuss.
-:::
 
-::: 
 ![Pyronix Alarm System](https://res.cloudinary.com/kbs/image/upload/yoxrorhmy6872tkqb5aa.jpg)
-:::
-:::
-:::
-:::
-:::

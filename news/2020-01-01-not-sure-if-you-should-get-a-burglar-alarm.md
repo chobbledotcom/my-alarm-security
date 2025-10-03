@@ -9,9 +9,6 @@ permalink: "/news/not-sure-if-you-should-get-a-burglar-alarm/"
 
 #### Not Sure If You Should Get A Burglar Alarm?
 
-:::
-
-::: 
 # Not sure if you should get a Burglar Alarm?
 
 Investing in a [home burglar alarm](../categories/burglar-alarms.php.html) system offers numerous benefits, contributing to enhanced security and peace of mind. Here are several compelling reasons why getting a home burglar alarm is a wise decision:
@@ -33,12 +30,5 @@ Investing in a [home burglar alarm](../categories/burglar-alarms.php.html) syste
 In summary, a [home burglar alarm](../categories/burglar-alarms.php.html) system provides a range of benefits, from deterring potential intruders to offering peace of mind and protecting your valuables. It is a practical investment in the safety and security of your home and loved ones.
 
 [Contact us](../contact.php.html) for more information or have a browse on our website at some of our packages. We offer [burglar alarm systems](../categories/burglar-alarms.php.html) and [cctv systems.](../categories/cctv.php.html)
-:::
 
-::: 
 ![Not Sure If You Should Get A Burglar Alarm?](https://res.cloudinary.com/kbs/image/upload/smwzk5k5btoaxgxr9gps.jpg)
-:::
-:::
-:::
-:::
-:::

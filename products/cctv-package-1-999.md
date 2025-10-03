@@ -13,18 +13,11 @@ features: []
 
 **CCTV Package 1**
 
-::: product-info-tabs
-::: 
 -   Specifications
 -   Reviews
 
-::: tabs-content
- 
-::: 
 Product Specifications!
-:::
 
-  -------------------- ----------------------------------------------------------------------------------------
   Specification        Details
   Package includes:    4 x 5MP Analogue eyeball type cameras (conventional cameras)
                        1 x 2 TB Hardrive with 30 day storage
@@ -32,14 +25,9 @@ Product Specifications!
                        Conventional cameras with day time colour images and black and white night time images
                        Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
   -------------------- ----------------------------------------------------------------------------------------
-:::
-:::
 
-::: 
 Our Reviews!
-:::
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | :::                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Katy W**                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | :::                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -56,37 +44,14 @@ Our Reviews!
 | Friday late afternoon my alarm started going off non stop inside and out after a very short power cut. Could not turn it off. Called Matt after getting no off of net mums it was in the evening and he came out straight away knew exactly what he was doing, checked all sensors etc and my alarm was fixed. I would 100 % recommend Matt and would not hesitate to call him again for any alarm problems or upgrades etc. |
 | :::                                                                                                                                                                                                                                                                                                                                                                                                                          |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-:::
-:::
-:::
-:::
-:::
 
 Our Prices!
-:::
 
-  ------------ ---------
   Our Price:   £999.00
   ------------ ---------
-:::
-
-[ Contact Us](../contact/cctv-package-1-999.php.html)
 
 ------------------------------------------------------------------------
 
 [ Back To Cctv](../categories/cctv.php.html)
-:::
-:::
 
-# [CCTV Package 1 ]
-
-\
-
-\
-:::
-:::
-:::
-:::
-:::
-:::
-:::
+# CCTV Package 1

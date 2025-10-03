@@ -9,11 +9,7 @@ permalink: "/news/petts-wood-alarm-system-upgrade-and-cctv-package/"
 
 #### Petts Wood Alarm System Upgrade And Cctv Package
 
-:::
-
-::: 
-# [**Petts Wood Alarm System Upgrade and CCTV Package**] 
-
+# **Petts Wood Alarm System Upgrade and CCTV Package**
 We recently was asked to attend a property where the homeowner had sadly had their car stolen off of their drive. Car theft seems to be rife recently with more and more cars being stolen. 
 
 The homeowners property was not broken into so the thieves obviously used some sort of jamming device to access the car and start it up to drive away.
@@ -29,12 +25,5 @@ The alarm system app allows certain zones/areas/rooms to be set at different tim
 This homeowner is now protected with the latest Burglar Alarm System and CCTV in Petts Wood. 
 
 [Contact us](../contact.php.html) is you have any questions or would like further information on any of our systems. We are a family run company based in Sidcup and cover Orpington, Bromley, Petts Wood, Dartford, Knockholt, Crockenhill, Bexley, Greenwich, Gravesend, Erith, Sevenoaks and surrounding areas.
-:::
 
-::: 
 ![Petts Wood Alarm System Upgrade And Cctv Package](https://res.cloudinary.com/kbs/image/upload/)
-:::
-:::
-:::
-:::
-:::

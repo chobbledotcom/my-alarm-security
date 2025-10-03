@@ -9,9 +9,6 @@ permalink: "/news/pyronix-alarm-system-vibration-sensors/"
 
 #### Pyronix Alarm System Vibration Sensors
 
-:::
-
-::: 
 # Pyronix Alarm System Vibration Sensors
 
 When it comes to securing your property, it\'s important to have the right tools and systems in place. One essential component of any home or business alarm system is a sensor, and Pyronix is a trusted brand that offers reliable and high-quality options for protecting your home or business.
@@ -25,12 +22,5 @@ So whether you\'re looking to secure your home or business, MyAlarm Security can
 We are a family run company and are based on the borders of [Sidcup](../pages/sidcup.php.html) and New Eltham so if you live in the boroughs of Bexley, Greenwich, [Bromley](../pages/bromley.php.html), Dartford and surrounding areas, we would be more than happy to help.
 
 [Contact us](../contact.php.html) today to so we can help you protect what matters most.
-:::
 
-::: 
 ![Pyronix Alarm System Vibration Sensors](https://res.cloudinary.com/kbs/image/upload/dbzbegb5h0bdrowlzgll.jpg)
-:::
-:::
-:::
-:::
-:::

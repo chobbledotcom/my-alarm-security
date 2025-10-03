@@ -13,18 +13,11 @@ features: []
 
 **Supreme Package**
 
-::: product-info-tabs
-::: 
 -   Specifications
 -   Reviews
 
-::: tabs-content
- 
-::: 
 Product Specifications!
-:::
 
-  -------------------- ------------------------------------------------------------------------------
   Specification        Details
   Package includes:    4 x 3K ColorVu eye ball type cameras with 24hr colour images
                        1 x 2tb Harddrive with 30 day storage
@@ -37,14 +30,9 @@ Product Specifications!
                        All cables, power supplies and sundries included
                        Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
   -------------------- ------------------------------------------------------------------------------
-:::
-:::
 
-::: 
 Our Reviews!
-:::
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | :::                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Wendy B**                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | :::                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -61,33 +49,14 @@ Our Reviews!
 | Alarm stopped working after a power cut. Matt was punctual, identified the problem quickly and fixed it efficiently. I would recommend him                                                                                                                                                                                                                                                                                   |
 | :::                                                                                                                                                                                                                                                                                                                                                                                                                          |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-:::
-:::
-:::
-:::
-:::
 
 Our Prices!
-:::
 
-  ------------ ----------
   Our Price:   £1749.00
   ------------ ----------
-:::
-
-[ Contact Us](../contact/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.php.html)
 
 ------------------------------------------------------------------------
 
 [ Back To Special Offers](../categories/special-offers.php.html)
-:::
-:::
 
-# [Supreme Package ]
-:::
-:::
-:::
-:::
-:::
-:::
-:::
+# Supreme Package

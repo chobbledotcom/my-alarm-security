@@ -9,9 +9,6 @@ permalink: "/news/flush-chrome-keypad/"
 
 #### Flush Chrome Keypad
 
-:::
-
-::: 
 # Flush Chrome Keypad
 
 If you have the opportunity to sink your keypad in to the wall, this is what it could look like.
@@ -23,12 +20,5 @@ Our flush keypads come in an array of finishes to match your decor or light swit
 What more do you need?
 
 Find our prices for [wireless alarm installations here](../categories/burglar-alarms.php.html) for a flush keypad price then please give us a call on 020 8302 4065
-:::
 
-::: 
 ![Flush Chrome Keypad](https://res.cloudinary.com/kbs/image/upload/wjkqsmmunkfnefwznksf.jpg)
-:::
-:::
-:::
-:::
-:::

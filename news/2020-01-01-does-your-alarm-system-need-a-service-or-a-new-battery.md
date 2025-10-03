@@ -9,10 +9,7 @@ permalink: "/news/does-your-alarm-system-need-a-service-or-a-new-battery/"
 
 #### Does Your Alarm System Need A Service Or A New Battery?
 
-:::
-
-::: 
-# [Does Your Alarm System Need A Service Or A New Battery?] 
+# Does Your Alarm System Need A Service Or A New Battery? 
 
 We often get phone calls from people who can no longer get hold of the original installer of their alarm system. Maybe the company was sold, the owners retired or the company was re-branded. Whatever the reason, this is definitely something we are able to help with.
 
@@ -28,12 +25,4 @@ We are based in [Sidcup](../pages/sidcup.php.html), right on the borders of New 
 
 [Contact us](../contact.php.html) today with any questions that you may have. Our helpful and experienced team will be more than happy to help and advise.
 
-:::
-
-::: 
 ![Does Your Alarm System Need A Service Or A New Battery?](https://res.cloudinary.com/kbs/image/upload/)
-:::
-:::
-:::
-:::
-:::

@@ -9,9 +9,6 @@ permalink: "/news/colorvu-comparison/"
 
 #### Colorvu Comparison
 
-:::
-
-::: 
 # Colorvu comparison
 
 We have recently started installing the new market leading brand Hikvisions latest release, the [Colorvu CCTV cameras](../products/cctv-package-2-1199-24hr-colour-cctv.php.html).
@@ -27,12 +24,5 @@ Have a look at some of our [CCTV packages here](../categories/cctv.php.html). We
 Feel free to get in touch for a free estimate, we cover from Sidcup, New Eltham and Eltham to Bexley, Bexleyheath and Dartford, Sevenoaks and Gravesend, Orpington and Bromley across to Greenwich to Beckenham and lots more areas.
 
 Dont hesitate to [get in touch](../contact.php.html) if you have any questions.
-:::
 
-::: 
 ![Colorvu Comparison](https://res.cloudinary.com/kbs/image/upload/elh2qpjgzyjzltl8bghh.jpg)
-:::
-:::
-:::
-:::
-:::

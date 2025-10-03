@@ -1,0 +1,82 @@
+/**
+ * Extract main content from markdown (remove nav, footer, etc.)
+ * @param {string} markdown - Raw markdown content
+ * @param {string} contentType - Type of content (blog, page, product, category)
+ * @returns {string} Extracted main content
+ */
+const extractMainContent = (markdown, contentType) => {
+  const lines = markdown.split('\n');
+  let content = [];
+  let inMainContent = false;
+  let skipNext = false;
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+
+    // Skip navigation and header elements
+    if (line.includes('navbar') || line.includes('drawer') || line.includes('breadcrumb')) {
+      skipNext = true;
+      continue;
+    }
+
+    // Skip footer content
+    if (line.includes('footer') || line.includes('widget_section')) {
+      break;
+    }
+
+    // Look for main content indicators based on content type
+    if (contentType === 'blog' && (line.includes('# ') || line.includes('Posted By:'))) {
+      inMainContent = true;
+    } else if ((contentType === 'page' || contentType === 'product' || contentType === 'category') && line.includes('# ')) {
+      inMainContent = true;
+    }
+
+    if (inMainContent && !skipNext) {
+      content.push(line);
+    }
+
+    skipNext = false;
+  }
+
+  return content.join('\n').trim();
+};
+
+/**
+ * Clean up content by removing unwanted markdown artifacts
+ * @param {string} content - Content to clean
+ * @returns {string} Cleaned content
+ */
+const cleanContent = (content) => {
+  return content
+    .replace(/Posted By:.*?\n/g, '') // Remove blog post metadata
+    .replace(/^:::\s*.*$/gm, '') // Remove all pandoc div markers
+    .replace(/\[[^\]]+\]\{style="[^"]*"\}/g, (match) => {
+      // Extract text from [text]{style="..."} patterns
+      const textMatch = match.match(/\[([^\]]+)\]/);
+      return textMatch ? textMatch[1] : match;
+    })
+    .replace(/\{style="[^"]*"\}/g, '') // Remove remaining style attributes
+    .replace(/\{[^}]*\}/g, '') // Remove remaining attribute blocks
+    .replace(/^\[([^\]]+)\]\s*$/gm, '$1') // Remove square brackets around standalone lines
+    .replace(/^(#+)\s*\[([^\]]+)\]\s*$/gm, '$1 $2') // Fix headers with square brackets
+    .replace(/\\\s*$/gm, '') // Remove trailing backslashes
+    .replace(/\n\s*\n\s*\n/g, '\n\n') // Normalize whitespace
+    .trim();
+};
+
+/**
+ * Process raw markdown to extract and clean content
+ * @param {string} markdown - Raw markdown from pandoc
+ * @param {string} contentType - Type of content
+ * @returns {string} Processed and cleaned content
+ */
+const processContent = (markdown, contentType) => {
+  const extracted = extractMainContent(markdown, contentType);
+  return cleanContent(extracted);
+};
+
+module.exports = {
+  extractMainContent,
+  cleanContent,
+  processContent
+};

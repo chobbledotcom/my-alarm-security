@@ -13,18 +13,11 @@ features: []
 
 **Basic System**
 
-::: product-info-tabs
-::: 
 -   Specifications
 -   Reviews
 
-::: tabs-content
- 
-::: 
 Product Specifications!
-:::
 
-  -------------------- ---------------------------------------------------------------------------------------
   Specification        Details
   Package Includes:    1 x Door contact
                        2 x Movement sensors (can be pet friendly)
@@ -34,14 +27,9 @@ Product Specifications!
                        1 X App Controlled Panel With 12 Months Free App Connectivity (£20 A Year Thereafter)
   Info:                Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
   -------------------- ---------------------------------------------------------------------------------------
-:::
-:::
 
-::: 
 Our Reviews!
-:::
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | :::                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **Wendy B**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | :::                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -58,31 +46,17 @@ Our Reviews!
 | Alarm constantly beeping in hall and needed it to be disconnected from the mains. Phoned Matt Thursday morning and he said he would call that evening. Arrived at about 6pm, looked at the mains box in garage, disconnected power and job done. Firstly I was delighted he was able to call at short notice and fix my problem but also it was a delight to meet somebody who is good at what they do and does not try and rip you off when the job is done. A great big thank you to Matt and would thoroughly recommend him. |
 | :::                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-:::
-:::
-:::
-:::
-:::
 
 Our Prices!
-:::
 
-  ------------ ---------
   Our Price:   £539.00
   ------------ ---------
-:::
-
-[ Contact Us](../contact/basic-system-539.php.html)
 
 ------------------------------------------------------------------------
 
 [ Back To Burglar Alarms](../categories/burglar-alarms.php.html)
-:::
-:::
 
-# [Basic System ]
-
-\
+# Basic System 
 
 Our basic package was primarily designed for use in properties such as flats, upper maisonettes and some open plan commercial premises.
 
@@ -97,16 +71,3 @@ Our packages also include an external siren for the front and a decoy for the re
 The app is also included within this package which enables you to arm/disarm and receive notifications from anywhere in the world as long as your panel remains connected to your router and you have internet on your mobile devices.
 
 You can customize your package by adding devices or swapping devices to better suit your needs.
-
-\
-
-\
-
-\
-:::
-:::
-:::
-:::
-:::
-:::
-:::
