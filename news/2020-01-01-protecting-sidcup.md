@@ -7,18 +7,3 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/news/protecting-sidcup/"
 ---
 
-#### Protecting Sidcup
-
-# Protecting Sidcup
-
-MyAlarm Security is based in Sidcup and we often take enquiries for customers very local to ourselves.
-
-This particular install was very close to home, the customer explained that they were going to get a few local companies to quote and will go with the one he felt most comfortable with.
-
-It didn\'t take long for the call to come through asking for a date for the installation to take place.
-
-We pride ourselves on our knowledge and professionalism and coupled with our very competitive rates we are the number 1 choice for all your home and business security needs servicing Sidcup, Bexley, New Eltham, Orpington, Bromley, Petts Wood , Beckenham, Catford, Welling, Swanley, Greenwich and all other surrounding areas.
-
-[Burglar Alarm CCTV Sidcup](../categories/special-offers.php.html)
-
-![Protecting Sidcup](https://res.cloudinary.com/kbs/image/upload/jn9si5jbcdxqo5xc68hz.jpg)

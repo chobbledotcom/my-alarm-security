@@ -1,19 +1,43 @@
 const path = require('path');
 const config = require('../config');
-const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles } = require('../utils/filesystem');
+const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles, downloadFile } = require('../utils/filesystem');
 const { extractMetadata, extractPrice, extractCategory, extractProductImages } = require('../utils/metadata-extractor');
 const { convertToMarkdown } = require('../utils/pandoc-converter');
 const { processContent } = require('../utils/content-processor');
 const { generateProductFrontmatter } = require('../utils/frontmatter-generator');
 
 /**
+ * Download product image and return local path
+ * @param {string} imageUrl - Cloudinary URL
+ * @param {string} slug - Product slug
+ * @returns {Promise<string>} Local image path
+ */
+const downloadProductImage = async (imageUrl, slug) => {
+  if (!imageUrl) return '';
+
+  const imagesDir = path.join(__dirname, '..', '..', '..', 'images', 'products');
+  ensureDir(imagesDir);
+
+  const filename = `${slug}.webp`;
+  const localPath = path.join(imagesDir, filename);
+
+  try {
+    await downloadFile(imageUrl, localPath);
+    return `/images/products/${filename}`;
+  } catch (error) {
+    console.error(`    Warning: Failed to download image for ${slug}:`, error.message);
+    return '';
+  }
+};
+
+/**
  * Convert a single product HTML file to markdown
  * @param {string} file - HTML filename
  * @param {string} inputDir - Input directory path
  * @param {string} outputDir - Output directory path
- * @returns {boolean} Success status
+ * @returns {Promise<boolean>} Success status
  */
-const convertProduct = (file, inputDir, outputDir) => {
+const convertProduct = async (file, inputDir, outputDir) => {
   try {
     const htmlPath = path.join(inputDir, file);
     const htmlContent = readHtmlFile(htmlPath);
@@ -29,15 +53,19 @@ const convertProduct = (file, inputDir, outputDir) => {
     const filename = file.replace('.php.html', '.md');
     const slug = filename.replace('.md', '');
 
-    const frontmatter = generateProductFrontmatter(metadata, slug, price, category, images);
+    // Download image and get local path
+    const localImagePath = await downloadProductImage(images.header_image, slug);
 
-    // Add product image HTML to content if available
-    let imageHtml = '';
-    if (images.header_image) {
-      imageHtml = `<div class="product-image">\n  <img src="${images.header_image}" alt="${metadata.title || ''}" />\n</div>\n\n`;
-    }
+    // Update images to use local path
+    const localImages = {
+      header_image: localImagePath,
+      gallery: localImagePath ? [localImagePath] : []
+    };
 
-    const fullContent = `${frontmatter}\n\n${imageHtml}${content}`;
+    const frontmatter = generateProductFrontmatter(metadata, slug, price, category, localImages);
+
+    // Don't add image HTML to content - it's handled by the template
+    const fullContent = `${frontmatter}\n\n${content}`;
 
     writeMarkdownFile(path.join(outputDir, filename), fullContent);
     console.log(`  Converted: ${filename}`);
@@ -50,9 +78,9 @@ const convertProduct = (file, inputDir, outputDir) => {
 
 /**
  * Convert all products from old site to markdown
- * @returns {Object} Conversion results
+ * @returns {Promise<Object>} Conversion results
  */
-const convertProducts = () => {
+const convertProducts = async () => {
   console.log('Converting products...');
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.products);
@@ -69,13 +97,13 @@ const convertProducts = () => {
   let successful = 0;
   let failed = 0;
 
-  files.forEach(file => {
-    if (convertProduct(file, productsDir, outputDir)) {
+  for (const file of files) {
+    if (await convertProduct(file, productsDir, outputDir)) {
       successful++;
     } else {
       failed++;
     }
-  });
+  }
 
   return { successful, failed, total: files.length };
 };

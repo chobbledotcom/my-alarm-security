@@ -5,6 +5,8 @@
  * This coordinates all the individual converters
  */
 
+const fs = require('fs');
+const path = require('path');
 const { convertPages, convertBlogPosts, convertProducts, convertCategories } = require('./converters');
 
 /**
@@ -26,15 +28,33 @@ const displayResults = (type, results) => {
 };
 
 /**
+ * Clean the images directory before importing
+ */
+const cleanImagesDirectory = () => {
+  const imagesDir = path.join(__dirname, '..', '..', 'images');
+
+  if (fs.existsSync(imagesDir)) {
+    console.log('Cleaning images directory...');
+    fs.rmSync(imagesDir, { recursive: true, force: true });
+    console.log('✓ Images directory cleaned\n');
+  }
+
+  // Recreate empty directory
+  fs.mkdirSync(imagesDir, { recursive: true });
+};
+
+/**
  * Main execution function
  */
-const main = () => {
+const main = async () => {
   console.log('Starting conversion of old MyAlarm Security site...\n');
 
   const startTime = Date.now();
   const results = {};
 
   try {
+    // Clean images directory first
+    cleanImagesDirectory();
     // Convert all content types
     results.pages = convertPages();
     console.log('');
@@ -42,7 +62,7 @@ const main = () => {
     results.blog = convertBlogPosts();
     console.log('');
 
-    results.products = convertProducts();
+    results.products = await convertProducts();
     console.log('');
 
     results.categories = convertCategories();

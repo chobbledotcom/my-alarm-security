@@ -38,25 +38,34 @@ permalink: "/news/${slug}/"
  * @param {string} slug - Product slug
  * @param {string} price - Product price
  * @param {string} category - Product category
- * @param {Object} images - Product images (optional, for Cloudinary URLs)
+ * @param {Object} images - Product images with local paths
  * @returns {string} Frontmatter YAML
  */
 const generateProductFrontmatter = (metadata, slug, price, category, images = null) => {
+  const title = metadata.title || '';
+
   // Base frontmatter
   let frontmatter = `---
-title: "${metadata.title || ''}"
+title: "${title}"
 price: "${price}"
-header_text: "${metadata.header_text || metadata.title || ''}"
-meta_title: "${metadata.title || ''}"
+header_text: "${metadata.header_text || title}"
+meta_title: "${title}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/products/${slug}/"
 categories: ${category ? `["${category}"]` : '[]'}
 features: []`;
 
-  // Add images if provided (using cloudinary_ prefix to avoid template conflicts)
+  // Add images if provided
   if (images && images.header_image) {
-    frontmatter += `\ncloudinary_header_image: "${images.header_image}"`;
-    frontmatter += `\ncloudinary_gallery: ${JSON.stringify(images.gallery)}`;
+    frontmatter += `\nheader_image: "${images.header_image}"`;
+    // Format gallery as YAML array
+    if (images.gallery && images.gallery.length > 0) {
+      frontmatter += '\ngallery:';
+      images.gallery.forEach(imagePath => {
+        frontmatter += `\n  - filename: "${imagePath}"`;
+        frontmatter += `\n    alt: "${title}"`;
+      });
+    }
   }
 
   frontmatter += '\n---';

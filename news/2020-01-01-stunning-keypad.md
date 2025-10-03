@@ -7,18 +7,3 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/news/stunning-keypad/"
 ---
 
-#### Stunning Keypad
-
-# Stunning Keypad
-
-This amazing brushed steel finished keypad looked just the part in a recent install to a property in [Orpington](../pages/orpington.php.html) on the borders of Petts Wood and Chislehurst.
-
-The customer asked us for something a bit more bespoke that would match the light switches and plug sockets and we certainly delivered.
-
-The [burglar alarm](../categories/burglar-alarms.php.html) security system now not only performs brilliantly as always but now matches the decor and looks amazing.
-
-They also added flush panic buttons to the security system.
-
-[Contact us](../contact.php.html) for more information and other colour options.
-
-![Stunning Keypad](https://res.cloudinary.com/kbs/image/upload/h2xljq1uraxtom6715me.jpg)
