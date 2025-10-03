@@ -7,7 +7,25 @@
 
 const fs = require('fs');
 const path = require('path');
+const { execSync } = require('child_process');
 const { convertPages, convertBlogPosts, convertProducts, convertCategories } = require('./converters');
+
+/**
+ * Check if pandoc is installed
+ * @throws {Error} If pandoc is not found
+ */
+const checkPandoc = () => {
+  try {
+    execSync('pandoc --version', { stdio: 'ignore' });
+  } catch (error) {
+    console.error('\n❌ ERROR: pandoc is not installed!');
+    console.error('   Please install pandoc before running the importer:');
+    console.error('   - Ubuntu/Debian: sudo apt-get install pandoc');
+    console.error('   - macOS: brew install pandoc');
+    console.error('   - Windows: https://pandoc.org/installing.html\n');
+    process.exit(1);
+  }
+};
 
 /**
  * Display conversion results
@@ -48,6 +66,9 @@ const cleanImagesDirectory = () => {
  */
 const main = async () => {
   console.log('Starting conversion of old MyAlarm Security site...\n');
+
+  // Check for required dependencies
+  checkPandoc();
 
   const startTime = Date.now();
   const results = {};
