@@ -10,7 +10,8 @@
 		"watch": "node scripts/watch.js",
 		"update-pages": "node scripts/update-pages.js",
 		"fetch-google-reviews": "node scripts/fetch-google-reviews.js",
-		"clean": "rm -rf .build _site"
+		"clean": "rm -rf .build _site",
+		"convert-old-site": "node scripts/convert-old-site.js"
 	},
 	"devDependencies": {}
 }
