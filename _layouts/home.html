@@ -1,0 +1,63 @@
+---
+layout: default.html
+---
+
+<!-- Hero Section with Service Cards -->
+<section>
+  {% if home_content.hero %}
+  <div>
+    {% for card in home_content.hero.service_cards %}
+    <article>
+      <h2>{{ card.title }}</h2>
+      <p>{{ card.description }}</p>
+      <a href="{{ card.link }}">More Info</a>
+    </article>
+    {% endfor %}
+  </div>
+  {% endif %}
+</section>
+
+<!-- Main Content Section -->
+<section>
+  {% if home_content.main_content %}
+  <div>
+    {% for paragraph in home_content.main_content.paragraphs %}
+    <p>{{ paragraph }}</p>
+    {% endfor %}
+    {% if home_content.main_content.highlight %}
+    <p><strong>{{ home_content.main_content.highlight }}</strong></p>
+    {% endif %}
+  </div>
+  {% endif %}
+</section>
+
+<!-- Why Choose Us Section -->
+<section>
+  {% if home_content.why_choose_us %}
+  <h2>{{ home_content.why_choose_us.heading }}</h2>
+  <div>
+    {% for feature in home_content.why_choose_us.features %}
+    <article>
+      <h3>{{ feature.title }}</h3>
+    </article>
+    {% endfor %}
+  </div>
+  {% endif %}
+</section>
+
+<!-- Reviews Section -->
+{% if home_content.reviews %}
+<section>
+  <h2>{{ home_content.reviews.heading }}</h2>
+  {% for review in home_content.reviews.items %}
+  <article>
+    <blockquote>
+      <p>{{ review.text }}</p>
+      <footer>
+        <strong>{{ review.author }}</strong> - {{ review.date }}
+      </footer>
+    </blockquote>
+  </article>
+  {% endfor %}
+</section>
+{% endif %}

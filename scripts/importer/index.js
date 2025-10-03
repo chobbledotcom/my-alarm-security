@@ -5,7 +5,7 @@
  * This coordinates all the individual converters
  */
 
-const { convertPages, convertBlogPosts, convertProducts, convertCategories } = require('./converters');
+const { convertPages, convertBlogPosts, convertProducts, convertCategories, convertHomeContent } = require('./converters');
 
 /**
  * Display conversion results
@@ -35,6 +35,10 @@ const main = () => {
   const results = {};
 
   try {
+    // Convert homepage content first
+    results.home = convertHomeContent();
+    console.log('');
+
     // Convert all content types
     results.pages = convertPages();
     console.log('');
@@ -53,6 +57,7 @@ const main = () => {
     console.log('Conversion Summary:');
     console.log('='.repeat(50));
 
+    displayResults('Homepage Content', results.home);
     displayResults('Pages', results.pages);
     displayResults('Blog Posts', results.blog);
     displayResults('Products', results.products);

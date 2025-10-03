@@ -7,14 +7,3 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/news/tile-drilling/"
 ---
 
-#### Tile Drilling
-
-# Tile Drilling
-
-When installing our [Burglar Alarms](/categories/burglar-alarms.php) or[ CCTV Systems](/categories/cctv.php) we come across all sorts of properties. This particular property in Sidcup, Bexley had a tiled front so therefore needed a specific drill bit and to go into a high speed drill.
-
-Once drilled, rawlplugs and screws give a brilliant secure hold.
-
-CCTV Sidcup Bexley and Alarm System Sidcup Bexley
-
-![Tile Drilling](https://res.cloudinary.com/kbs/image/upload/gu7vbqulngp8urrnu9zm.jpg)
