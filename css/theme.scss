@@ -1,2 +1,30 @@
 @charset "utf-8";
 @use "sass:color";
+
+:root {
+  --color-bg: #ffffff;
+  --color-text: #000000;
+  --color-link: #ec2023;
+  --border-radius: 5px;
+  --border: 0px solid #58648c;
+  --box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  --width-content: 1300px;
+  --font-family-body:
+    ui-rounded, "Hiragino Maru Gothic ProN", Quicksand, Comfortaa, Manjari,
+    "Arial Rounded MT", "Arial Rounded MT Bold", Calibri, source-sans-pro,
+    sans-serif;
+  --link-decoration: underline;
+  --link-decoration-hover: underline;
+  --link-decoration-style: solid;
+  --header-text-color: #ffffff;
+  --nav-bg-color: #ec2023;
+  --nav-link-color: #ffffff;
+  --nav-link-active-color: #f5c211;
+  --form-border: 1px solid #ec2023;
+  --form-input-bg-color: #e0e0e0;
+  --form-button-border: 2px solid #ec2023;
+  --form-button-hover-text-color: #241f31;
+  --form-button-hover-border: 2px solid #241f31;
+}
+
+/* body_classes: header-centered-dark */

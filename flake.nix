@@ -22,7 +22,7 @@
           };
         in
         pkgs.mkShell {
-          buildInputs = [ pkgs.nodejs_23 npmScripts ];
+          buildInputs = [ pkgs.nodejs_23 npmScripts pkgs.pandoc ];
           shellHook = ''
             cat <<EOF
 
