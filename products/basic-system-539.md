@@ -7,6 +7,7 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/products/basic-system-539/"
 categories: ["burglar-alarms"]
 features: []
+header_image: "/images/products/basic-system-539.webp"
 ---
 
 #### Basic System £539

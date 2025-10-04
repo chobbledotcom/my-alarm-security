@@ -7,6 +7,7 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/products/cctv-package-2-1199-24hr-colour-cctv/"
 categories: ["cctv"]
 features: []
+header_image: "/images/products/cctv-package-2-1199-24hr-colour-cctv.webp"
 ---
 
 #### Cctv Package 2 £1199 24hr Colour Cctv

@@ -1,10 +1,34 @@
 const path = require('path');
 const config = require('../config');
-const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles } = require('../utils/filesystem');
-const { extractMetadata, extractPrice, extractCategory, extractReviews } = require('../utils/metadata-extractor');
+const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles, downloadFile } = require('../utils/filesystem');
+const { extractMetadata, extractPrice, extractCategory, extractReviews, extractProductImages } = require('../utils/metadata-extractor');
 const { convertToMarkdown } = require('../utils/pandoc-converter');
 const { processContent } = require('../utils/content-processor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
+
+/**
+ * Download product image and return local path
+ * @param {string} imageUrl - Cloudinary URL
+ * @param {string} slug - Product slug
+ * @returns {Promise<string>} Local image path
+ */
+const downloadProductImage = async (imageUrl, slug) => {
+  if (!imageUrl) return '';
+
+  const imagesDir = path.join(__dirname, '..', '..', '..', 'images', 'products');
+  ensureDir(imagesDir);
+
+  const filename = `${slug}.webp`;
+  const localPath = path.join(imagesDir, filename);
+
+  try {
+    await downloadFile(imageUrl, localPath);
+    return `/images/products/${filename}`;
+  } catch (error) {
+    console.error(`    Warning: Failed to download image for ${slug}:`, error.message);
+    return '';
+  }
+};
 
 /**
  * Convert a single product HTML file to markdown
@@ -13,9 +37,9 @@ const { generateProductFrontmatter, generateReviewFrontmatter } = require('../ut
  * @param {string} outputDir - Output directory path
  * @param {string} reviewsDir - Reviews output directory path
  * @param {Map} reviewsMap - Map to track reviews by name
- * @returns {boolean} Success status
+ * @returns {Promise<boolean>} Success status
  */
-const convertProduct = (file, inputDir, outputDir, reviewsDir, reviewsMap) => {
+const convertProduct = async (file, inputDir, outputDir, reviewsDir, reviewsMap) => {
   try {
     const htmlPath = path.join(inputDir, file);
     const htmlContent = readHtmlFile(htmlPath);
@@ -27,6 +51,7 @@ const convertProduct = (file, inputDir, outputDir, reviewsDir, reviewsMap) => {
     const price = extractPrice(htmlContent);
     const category = extractCategory(htmlContent);
     const reviews = extractReviews(htmlContent);
+    const images = extractProductImages(htmlContent);
 
     const filename = file.replace('.php.html', '.md');
     const slug = filename.replace('.md', '');
@@ -57,7 +82,15 @@ const convertProduct = (file, inputDir, outputDir, reviewsDir, reviewsMap) => {
       });
     }
 
-    const frontmatter = generateProductFrontmatter(metadata, slug, price, category);
+    // Download image and get local path
+    const localImagePath = await downloadProductImage(images.header_image, slug);
+
+    // Pass header image only (no gallery)
+    const localImages = {
+      header_image: localImagePath
+    };
+
+    const frontmatter = generateProductFrontmatter(metadata, slug, price, category, localImages);
     const fullContent = `${frontmatter}\n\n${content}`;
 
     writeMarkdownFile(path.join(outputDir, filename), fullContent);
@@ -71,9 +104,9 @@ const convertProduct = (file, inputDir, outputDir, reviewsDir, reviewsMap) => {
 
 /**
  * Convert all products from old site to markdown
- * @returns {Object} Conversion results
+ * @returns {Promise<Object>} Conversion results
  */
-const convertProducts = () => {
+const convertProducts = async () => {
   console.log('Converting products...');
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.products);
@@ -93,13 +126,13 @@ const convertProducts = () => {
   let successful = 0;
   let failed = 0;
 
-  files.forEach(file => {
-    if (convertProduct(file, productsDir, outputDir, reviewsDir, reviewsMap)) {
+  for (const file of files) {
+    if (await convertProduct(file, productsDir, outputDir, reviewsDir, reviewsMap)) {
       successful++;
     } else {
       failed++;
     }
-  });
+  }
 
   // Write all unique review files
   let reviewsCreated = 0;

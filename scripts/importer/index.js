@@ -5,7 +5,27 @@
  * This coordinates all the individual converters
  */
 
+const fs = require('fs');
+const path = require('path');
+const { execSync } = require('child_process');
 const { convertPages, convertBlogPosts, convertProducts, convertCategories, convertHomeContent } = require('./converters');
+
+/**
+ * Check if pandoc is installed
+ * @throws {Error} If pandoc is not found
+ */
+const checkPandoc = () => {
+  try {
+    execSync('pandoc --version', { stdio: 'ignore' });
+  } catch (error) {
+    console.error('\n❌ ERROR: pandoc is not installed!');
+    console.error('   Please install pandoc before running the importer:');
+    console.error('   - Ubuntu/Debian: sudo apt-get install pandoc');
+    console.error('   - macOS: brew install pandoc');
+    console.error('   - Windows: https://pandoc.org/installing.html\n');
+    process.exit(1);
+  }
+};
 
 /**
  * Display conversion results
@@ -26,15 +46,37 @@ const displayResults = (type, results) => {
 };
 
 /**
+ * Clean the images directory before importing
+ */
+const cleanImagesDirectory = () => {
+  const imagesDir = path.join(__dirname, '..', '..', 'images');
+
+  if (fs.existsSync(imagesDir)) {
+    console.log('Cleaning images directory...');
+    fs.rmSync(imagesDir, { recursive: true, force: true });
+    console.log('✓ Images directory cleaned\n');
+  }
+
+  // Recreate empty directory
+  fs.mkdirSync(imagesDir, { recursive: true });
+};
+
+/**
  * Main execution function
  */
-const main = () => {
+const main = async () => {
   console.log('Starting conversion of old MyAlarm Security site...\n');
+
+  // Check for required dependencies
+  checkPandoc();
 
   const startTime = Date.now();
   const results = {};
 
   try {
+    // Clean images directory first
+    cleanImagesDirectory();
+
     // Convert homepage content first
     results.home = convertHomeContent();
     console.log('');
@@ -46,7 +88,7 @@ const main = () => {
     results.blog = convertBlogPosts();
     console.log('');
 
-    results.products = convertProducts();
+    results.products = await convertProducts();
     console.log('');
 
     results.categories = convertCategories();

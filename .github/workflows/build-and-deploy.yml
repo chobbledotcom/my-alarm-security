@@ -137,5 +137,5 @@ jobs:
           concurrency: "5"
           enable-delete-action: true
           enable-purge-pull-zone: true
-          pull-zone-id: "4586385"
+          pull-zone-id: "4587571"
           replication-timeout: "15000"

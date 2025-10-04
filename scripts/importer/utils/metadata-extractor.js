@@ -123,11 +123,34 @@ const extractReviews = (htmlContent) => {
   return reviews;
 };
 
+/**
+ * Extract product images from HTML content
+ * @param {string} htmlContent - HTML content to extract images from
+ * @returns {Object} Object with header_image and gallery array
+ */
+const extractProductImages = (htmlContent) => {
+  const images = {
+    header_image: '',
+    gallery: []
+  };
+
+  // Extract og:image for header image
+  const ogImageMatch = htmlContent.match(/<meta\s+property=["']og:image["']\s+content=["'](.*?)["']/i);
+  if (ogImageMatch) {
+    images.header_image = ogImageMatch[1];
+    // Use header image as the single gallery image
+    images.gallery.push(ogImageMatch[1]);
+  }
+
+  return images;
+};
+
 module.exports = {
   extractMetadata,
   extractPrice,
   extractCategory,
   extractCategoryName,
   extractBlogDate,
-  extractReviews
+  extractReviews,
+  extractProductImages
 };

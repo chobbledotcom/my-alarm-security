@@ -7,6 +7,7 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/products/ultimate-package-cctv-intruder-alarm-system-1549/"
 categories: ["special-offers"]
 features: []
+header_image: "/images/products/ultimate-package-cctv-intruder-alarm-system-1549.webp"
 ---
 
 #### Ultimate Package Cctv Intruder Alarm System £1549
