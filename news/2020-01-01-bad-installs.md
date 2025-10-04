@@ -29,6 +29,6 @@ Needless to say the installation is now securely installed with no water ingress
 
 Another happy customer.
 
-For an idea on pricing, please see our [CCTV packages](../categories/cctv.php.html).
+For an idea on pricing, please see our [CCTV packages](/categories/cctv.php).
 
 ![Bad Installs](https://res.cloudinary.com/kbs/image/upload/kro3qblolsyrxitpbf8c.jpg)

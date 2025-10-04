@@ -8,7 +8,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
-const { convertPages, convertBlogPosts, convertProducts, convertCategories } = require('./converters');
+const { convertPages, convertBlogPosts, convertProducts, convertCategories, convertHomeContent } = require('./converters');
 
 /**
  * Check if pandoc is installed
@@ -76,6 +76,11 @@ const main = async () => {
   try {
     // Clean images directory first
     cleanImagesDirectory();
+
+    // Convert homepage content first
+    results.home = convertHomeContent();
+    console.log('');
+
     // Convert all content types
     results.pages = convertPages();
     console.log('');
@@ -94,6 +99,7 @@ const main = async () => {
     console.log('Conversion Summary:');
     console.log('='.repeat(50));
 
+    displayResults('Homepage Content', results.home);
     displayResults('Pages', results.pages);
     displayResults('Blog Posts', results.blog);
     displayResults('Products', results.products);

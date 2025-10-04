@@ -50,8 +50,8 @@ Our Prices!
 
 ------------------------------------------------------------------------
 
-[ Back To Servicing And Repairs](../categories/servicing-and-repairs.php.html)
+[ Back To Servicing And Repairs](/categories/servicing-and-repairs.php)
 
 # Servicing and Repairs
 
-[**Contact Us**](../contact.php.html) for more information.
+[**Contact Us**](/contact.php) for more information.

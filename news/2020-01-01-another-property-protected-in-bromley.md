@@ -11,18 +11,18 @@ permalink: "/news/another-property-protected-in-bromley/"
 
 # Another Property Protected in Bromley
 
-We have recently taken a lot of calls from residents in [Bromley](../pages/bromley.php.html), [Orpington](../pages/orpington.php.html), Chislehurst, Petts Wood and Chelsfield who are worried about all the break ins being reported in these areas.
+We have recently taken a lot of calls from residents in [Bromley](/pages/bromley.php), [Orpington](/pages/orpington.php), Chislehurst, Petts Wood and Chelsfield who are worried about all the break ins being reported in these areas.
 
 These areas all seem to be struggling and have an increase with crime at the moment especially breaks in and car thefts.
 
-This particular customer had heard about a nearby incident on a Facebook group whereby a house near by had been broken into and lots of valuables stolen. This customer contacted us straight away for some info on a [home security system burglar alarm](../categories/burglar-alarms.php.html).
+This particular customer had heard about a nearby incident on a Facebook group whereby a house near by had been broken into and lots of valuables stolen. This customer contacted us straight away for some info on a [home security system burglar alarm](/categories/burglar-alarms.php).
 
 We were able to provide a free survey within a few days and had the customer booked in at a convenient time to suit them for the installation of their wireless home security burglar alarm system in Bromley.
 
-These guys had a pet - a young, energetic cat, and were worried that the cat may set the [burglar alarm](../categories/burglar-alarms.php.html) off when no one was home, so we tailored one of our packages to suit their needs and within a days they had a full app controlled home security system wireless [burglar alarm](../categories/burglar-alarms.php.html) in [Bromley](../pages/bromley.php.html) which they were able to set and unset anywhere in the world using their mobile phone which gave them instant notifications of any activations and also gave them the peace of mind they were after.
+These guys had a pet - a young, energetic cat, and were worried that the cat may set the [burglar alarm](/categories/burglar-alarms.php) off when no one was home, so we tailored one of our packages to suit their needs and within a days they had a full app controlled home security system wireless [burglar alarm](/categories/burglar-alarms.php) in [Bromley](/pages/bromley.php) which they were able to set and unset anywhere in the world using their mobile phone which gave them instant notifications of any activations and also gave them the peace of mind they were after.
 
-Our external bell box which we fit to all home security burglar alarm system jobs, is a visual deterrent letting any potential intruders know that your home is fitted with an [intruder alarm](../categories/burglar-alarms.php.html).
+Our external bell box which we fit to all home security burglar alarm system jobs, is a visual deterrent letting any potential intruders know that your home is fitted with an [intruder alarm](/categories/burglar-alarms.php).
 
-Contact us [here](../contact.php.html).
+Contact us [here](/contact.php).
 
 ![Another Property Protected In Bromley](https://res.cloudinary.com/kbs/image/upload/n86xv0hs7nodstiewsmt.jpg)

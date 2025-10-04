@@ -13,9 +13,9 @@ We have been in the home and business security industry for over 30 years and du
 
 The most common question people ask when they call us is, how much does a [burglar alarm](burglar-alarms.php.html) and [CCTV](cctv.php.html) cost to have fitted? We have created some amazing packages to give you an idea of price. These packages are our most popular and generally cover most properties. These packages can have additional equipment added to suit your property or requirements. The prices quoted include all materials and labour. There are no hideen charges.
 
-We cover a vast range of areas installing home and business security including [Bexley](../pages/bexley.php.html), [Greenwich](../pages/greenwich.php.html), [Bromley](../pages/bromley.php.html), [Sevenoaks](../pages/sevenoaks.php.html), [Orpington](../pages/orpington.php.html), [Gravesend](../pages/gravesend.php.html), [Dartford](../pages/dartford.php.html) and surrounding areas.
+We cover a vast range of areas installing home and business security including [Bexley](/pages/bexley.php), [Greenwich](/pages/greenwich.php), [Bromley](/pages/bromley.php), [Sevenoaks](/pages/sevenoaks.php), [Orpington](/pages/orpington.php), [Gravesend](/pages/gravesend.php), [Dartford](/pages/dartford.php) and surrounding areas.
 
-Have a look at our packages below and [contact us](../contact.php.html) if you have any questions or to book in for a free site visit.
+Have a look at our packages below and [contact us](/contact.php) if you have any questions or to book in for a free site visit.
 
 #### Showing 2 results
 
@@ -33,7 +33,7 @@ Select an Option Display New Products First Display Products On Sale First Displ
 
 ** **
 
-[More Details](../products/ultimate-package-cctv-intruder-alarm-system-1549.php.html)
+[More Details](/products/ultimate-package-cctv-intruder-alarm-system-1549.php)
 
 [](../products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.php.html "View More")
 
@@ -45,4 +45,4 @@ Select an Option Display New Products First Display Products On Sale First Displ
 
 ** **
 
-[More Details](../products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.php.html)
+[More Details](/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.php)
