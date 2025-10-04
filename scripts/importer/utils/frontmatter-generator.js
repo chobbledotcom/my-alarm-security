@@ -60,12 +60,18 @@ permalink: "/news/${slug}/"
  * @param {Object} metadata - Extracted metadata
  * @param {string} slug - Product slug
  * @param {string} price - Product price
- * @param {string} category - Product category
+ * @param {string[]|string} categories - Product categories (array or single string)
  * @param {string} productName - Product name
  * @param {Object} images - Product images with local paths
  * @returns {string} Frontmatter YAML
  */
-const generateProductFrontmatter = (metadata, slug, price, category, productName, images = null) => {
+const generateProductFrontmatter = (metadata, slug, price, categories, productName, images = null) => {
+  // Ensure categories is an array
+  const categoryArray = Array.isArray(categories) ? categories : (categories ? [categories] : []);
+  const categoriesYaml = categoryArray.length > 0
+    ? `[${categoryArray.map(c => `"${c}"`).join(', ')}]`
+    : '[]';
+
   // Base frontmatter
   let frontmatter = `---
 title: "${productName || metadata.title || ''}"
@@ -74,7 +80,7 @@ header_text: "${productName || metadata.header_text || metadata.title || ''}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/products/${slug}/"
-categories: ${category ? `["${category}"]` : '[]'}
+categories: ${categoriesYaml}
 features: []`;
 
   // Add header image only (no gallery)

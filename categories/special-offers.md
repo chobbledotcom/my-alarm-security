@@ -16,33 +16,3 @@ The most common question people ask when they call us is, how much does a [burgl
 We cover a vast range of areas installing home and business security including [Bexley](/pages/bexley.php), [Greenwich](/pages/greenwich.php), [Bromley](/pages/bromley.php), [Sevenoaks](/pages/sevenoaks.php), [Orpington](/pages/orpington.php), [Gravesend](/pages/gravesend.php), [Dartford](/pages/dartford.php) and surrounding areas.
 
 Have a look at our packages below and [contact us](/contact.php) if you have any questions or to book in for a free site visit.
-
-#### Showing 2 results
-
-Sort Products By:
-
-Select an Option Display New Products First Display Products On Sale First Display Popular Products First Product Name - Ascending Product Name - Descending Product Price - Ascending Product Price - Descending
-
-[](../products/ultimate-package-cctv-intruder-alarm-system-1549.php.html "View More")
-
-### Ultimate £1549 
-
-**Ultimate Package**
-
-£1549.00
-
-** **
-
-[More Details](/products/ultimate-package-cctv-intruder-alarm-system-1549.php)
-
-[](../products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.php.html "View More")
-
-### Supreme £1749 
-
-**Supreme Package**
-
-£1749.00
-
-** **
-
-[More Details](/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.php)

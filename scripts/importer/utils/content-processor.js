@@ -67,11 +67,40 @@ const extractMainContent = (markdown, contentType) => {
 };
 
 /**
+ * Remove product listings from category content
+ * Product listings appear as:
+ * #### Showing N results
+ * Sort Products By: ...
+ * [](../products/slug.php.html "View More")
+ * ### Product Name
+ * ...
+ * [More Details](/products/slug.php)
+ * @param {string} content - Content to clean
+ * @returns {string} Content with product listings removed
+ */
+const removeProductListings = (content) => {
+  // Remove everything from "#### Showing" to the end of the content
+  // This section contains the product grid
+  content = content.replace(/####\s+Showing\s+\d+\s+results[\s\S]*$/i, '');
+
+  // Also remove any remaining product link patterns
+  content = content.replace(/\[]\([^)]*\/products\/[^)]+\.php\.html[^)]*\)[\s\S]*?\[More Details]\([^)]+\)/g, '');
+
+  return content;
+};
+
+/**
  * Clean up content by removing unwanted markdown artifacts
  * @param {string} content - Content to clean
+ * @param {string} contentType - Type of content (for context-specific cleaning)
  * @returns {string} Cleaned content
  */
-const cleanContent = (content) => {
+const cleanContent = (content, contentType) => {
+  // Remove product listings from category pages
+  if (contentType === 'category') {
+    content = removeProductListings(content);
+  }
+
   return content
     .replace(/Posted By:.*?\n/g, '') // Remove blog post metadata
     .replace(/^:::\s*.*$/gm, '') // Remove all pandoc div markers
@@ -106,7 +135,7 @@ const cleanContent = (content) => {
  */
 const processContent = (markdown, contentType) => {
   const extracted = extractMainContent(markdown, contentType);
-  return cleanContent(extracted);
+  return cleanContent(extracted, contentType);
 };
 
 module.exports = {

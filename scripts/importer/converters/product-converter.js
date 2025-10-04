@@ -1,10 +1,11 @@
 const path = require('path');
 const config = require('../config');
 const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles, downloadFile } = require('../utils/filesystem');
-const { extractMetadata, extractPrice, extractCategory, extractReviews, extractProductName, extractProductImages } = require('../utils/metadata-extractor');
+const { extractMetadata, extractPrice, extractReviews, extractProductName, extractProductImages } = require('../utils/metadata-extractor');
 const { convertToMarkdown } = require('../utils/pandoc-converter');
 const { processContent } = require('../utils/content-processor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
+const { scanProductCategories } = require('../utils/category-scanner');
 
 /**
  * Download product image and return local path
@@ -37,9 +38,10 @@ const downloadProductImage = async (imageUrl, slug) => {
  * @param {string} outputDir - Output directory path
  * @param {string} reviewsDir - Reviews output directory path
  * @param {Map} reviewsMap - Map to track reviews by name
+ * @param {Map} productCategoriesMap - Map of product slug to categories
  * @returns {Promise<boolean>} Success status
  */
-const convertProduct = async (file, inputDir, outputDir, reviewsDir, reviewsMap) => {
+const convertProduct = async (file, inputDir, outputDir, reviewsDir, reviewsMap, productCategoriesMap) => {
   try {
     const htmlPath = path.join(inputDir, file);
     const htmlContent = readHtmlFile(htmlPath);
@@ -49,13 +51,15 @@ const convertProduct = async (file, inputDir, outputDir, reviewsDir, reviewsMap)
 
     // Extract product-specific data
     const price = extractPrice(htmlContent);
-    const category = extractCategory(htmlContent);
     const reviews = extractReviews(htmlContent);
     const productName = extractProductName(htmlContent);
     const images = extractProductImages(htmlContent);
 
     const filename = file.replace('.php.html', '.md');
     const slug = filename.replace('.md', '');
+
+    // Get all categories for this product from the scanner
+    const categories = productCategoriesMap.get(slug) || [];
 
     // Create/update review files for this product
     if (reviews.length > 0) {
@@ -91,7 +95,7 @@ const convertProduct = async (file, inputDir, outputDir, reviewsDir, reviewsMap)
       header_image: localImagePath
     };
 
-    const frontmatter = generateProductFrontmatter(metadata, slug, price, category, productName, localImages);
+    const frontmatter = generateProductFrontmatter(metadata, slug, price, categories, productName, localImages);
     const fullContent = `${frontmatter}\n\n${content}`;
 
     writeMarkdownFile(path.join(outputDir, filename), fullContent);
@@ -123,12 +127,16 @@ const convertProducts = async () => {
     return { successful: 0, failed: 0, total: 0 };
   }
 
+  // Scan all categories to build product-to-categories mapping
+  console.log('  Scanning categories for product relationships...');
+  const productCategoriesMap = scanProductCategories();
+
   const reviewsMap = new Map();
   let successful = 0;
   let failed = 0;
 
   for (const file of files) {
-    if (await convertProduct(file, productsDir, outputDir, reviewsDir, reviewsMap)) {
+    if (await convertProduct(file, productsDir, outputDir, reviewsDir, reviewsMap, productCategoriesMap)) {
       successful++;
     } else {
       failed++;

@@ -42,15 +42,3 @@ We offer one-off and emergency call outs / services. Give us a call on 020 8302 
 Sort Products By:
 
 Select an Option Display New Products First Display Products On Sale First Display Popular Products First Product Name - Ascending Product Name - Descending Product Price - Ascending Product Price - Descending
-
-[](../products/servicing-and-repairs.php.html "View More")
-
-### Servicing and Repairs 
-
-**Servicing and Repairs**
-
-Contact For Price
-
-** **
-
-[More Details](/products/servicing-and-repairs.php)
