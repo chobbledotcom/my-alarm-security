@@ -1,7 +1,7 @@
 const path = require('path');
 const config = require('../config');
 const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles, downloadFile } = require('../utils/filesystem');
-const { extractMetadata, extractPrice, extractCategory, extractProductImages } = require('../utils/metadata-extractor');
+const { extractMetadata, extractPrice, extractCategory, extractProductName, extractProductImages } = require('../utils/metadata-extractor');
 const { convertToMarkdown } = require('../utils/pandoc-converter');
 const { processContent } = require('../utils/content-processor');
 const { generateProductFrontmatter } = require('../utils/frontmatter-generator');
@@ -48,6 +48,7 @@ const convertProduct = async (file, inputDir, outputDir) => {
     // Extract product-specific data
     const price = extractPrice(htmlContent);
     const category = extractCategory(htmlContent);
+    const productName = extractProductName(htmlContent);
     const images = extractProductImages(htmlContent);
 
     const filename = file.replace('.php.html', '.md');
@@ -61,7 +62,7 @@ const convertProduct = async (file, inputDir, outputDir) => {
       header_image: localImagePath
     };
 
-    const frontmatter = generateProductFrontmatter(metadata, slug, price, category, localImages);
+    const frontmatter = generateProductFrontmatter(metadata, slug, price, category, productName, localImages);
 
     // Don't add image HTML to content - it's handled by the template
     const fullContent = `${frontmatter}\n\n${content}`;

@@ -77,6 +77,27 @@ const extractCategoryName = (htmlContent) => {
 };
 
 /**
+ * Extract product name from JSON-LD schema or breadcrumb
+ * @param {string} htmlContent - HTML content to extract product name from
+ * @returns {string} Extracted product name
+ */
+const extractProductName = (htmlContent) => {
+  // Try JSON-LD schema first
+  const schemaMatch = htmlContent.match(/"@type":"Product","name":"([^"]+)"/i);
+  if (schemaMatch) {
+    return schemaMatch[1].replace(/&pound;/g, '£');
+  }
+
+  // Fallback to active breadcrumb
+  const breadcrumbMatch = htmlContent.match(/<li class="breadcrumb-item active">([^<]+)<\/li>/i);
+  if (breadcrumbMatch) {
+    return breadcrumbMatch[1].replace(/&pound;/g, '£').trim();
+  }
+
+  return '';
+};
+
+/**
  * Extract blog post date from content
  * @param {string} content - Markdown content to extract date from
  * @param {string} defaultDate - Default date to use if none found
@@ -120,7 +141,8 @@ module.exports = {
   extractMetadata,
   extractPrice,
   extractCategory,
+  extractCategoryName,
+  extractProductName,
   extractBlogDate,
-  extractProductImages,
-  extractCategoryName
+  extractProductImages
 };
