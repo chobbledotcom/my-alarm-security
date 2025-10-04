@@ -7,6 +7,7 @@ meta_description: "Pet friendly home and business security. Burglar Alarm Servic
 permalink: "/products/pet-package-849/"
 categories: ["burglar-alarms"]
 features: []
+header_image: "/images/products/pet-package-849.webp"
 ---
 
 #### Pet Package £849
