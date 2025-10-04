@@ -34,8 +34,9 @@ const scanProductCategories = () => {
       }
 
       const categories = productCategoriesMap.get(productSlug);
-      if (!categories.includes(categorySlug)) {
-        categories.push(categorySlug);
+      const categoryPath = `categories/${categorySlug}.md`;
+      if (!categories.includes(categoryPath)) {
+        categories.push(categoryPath);
       }
     }
   });
