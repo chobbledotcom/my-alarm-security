@@ -38,13 +38,14 @@ permalink: "/news/${slug}/"
  * @param {string} slug - Product slug
  * @param {string} price - Product price
  * @param {string} category - Product category
+ * @param {string} productName - Product name
  * @returns {string} Frontmatter YAML
  */
-const generateProductFrontmatter = (metadata, slug, price, category) => {
+const generateProductFrontmatter = (metadata, slug, price, category, productName) => {
   return `---
-title: "${metadata.title || ''}"
+title: "${productName || metadata.title || ''}"
 price: "${price}"
-header_text: "${metadata.header_text || metadata.title || ''}"
+header_text: "${productName || metadata.header_text || metadata.title || ''}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/products/${slug}/"

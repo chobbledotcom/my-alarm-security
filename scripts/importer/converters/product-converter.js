@@ -1,7 +1,7 @@
 const path = require('path');
 const config = require('../config');
 const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles } = require('../utils/filesystem');
-const { extractMetadata, extractPrice, extractCategory } = require('../utils/metadata-extractor');
+const { extractMetadata, extractPrice, extractCategory, extractProductName } = require('../utils/metadata-extractor');
 const { convertToMarkdown } = require('../utils/pandoc-converter');
 const { processContent } = require('../utils/content-processor');
 const { generateProductFrontmatter } = require('../utils/frontmatter-generator');
@@ -24,11 +24,12 @@ const convertProduct = (file, inputDir, outputDir) => {
     // Extract product-specific data
     const price = extractPrice(htmlContent);
     const category = extractCategory(htmlContent);
+    const productName = extractProductName(htmlContent);
 
     const filename = file.replace('.php.html', '.md');
     const slug = filename.replace('.md', '');
 
-    const frontmatter = generateProductFrontmatter(metadata, slug, price, category);
+    const frontmatter = generateProductFrontmatter(metadata, slug, price, category, productName);
     const fullContent = `${frontmatter}\n\n${content}`;
 
     writeMarkdownFile(path.join(outputDir, filename), fullContent);
