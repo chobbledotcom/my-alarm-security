@@ -103,9 +103,23 @@ featured: false
 ---`;
 };
 
+/**
+ * Generate frontmatter for review content
+ * @param {string} name - Reviewer name
+ * @param {string} productSlug - Product slug to link to
+ * @returns {string} Frontmatter YAML
+ */
+const generateReviewFrontmatter = (name, productSlug) => {
+  return `---
+name: "${name}"
+products: ["products/${productSlug}.md"]
+---`;
+};
+
 module.exports = {
   generatePageFrontmatter,
   generateBlogFrontmatter,
   generateProductFrontmatter,
-  generateCategoryFrontmatter
+  generateCategoryFrontmatter,
+  generateReviewFrontmatter
 };

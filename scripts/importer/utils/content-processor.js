@@ -9,6 +9,7 @@ const extractMainContent = (markdown, contentType) => {
   let content = [];
   let inMainContent = false;
   let skipNext = false;
+  let inReviewSection = false;
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
@@ -24,6 +25,23 @@ const extractMainContent = (markdown, contentType) => {
         line.includes('**Product Enquiry:') || line.includes('**Your Postcode:') ||
         line.includes('**Message:') || line.includes('**Captcha:')) {
       break;
+    }
+
+    // Detect start of review section and skip until we hit "Our Prices!" or new heading
+    if (line.includes('Our Reviews!')) {
+      inReviewSection = true;
+      continue;
+    }
+
+    // Exit review section when we hit "Our Prices!" or a main heading
+    if (inReviewSection && (line.includes('Our Prices!') || line.match(/^# [A-Z]/))) {
+      inReviewSection = false;
+      // Don't skip "Our Prices!" - we want to keep it
+    }
+
+    // Skip content while in review section
+    if (inReviewSection) {
+      continue;
     }
 
     // Skip footer content
