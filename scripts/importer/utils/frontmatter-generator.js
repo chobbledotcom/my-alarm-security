@@ -39,10 +39,12 @@ permalink: "/news/${slug}/"
  * @param {string} price - Product price
  * @param {string} category - Product category
  * @param {string} productName - Product name
+ * @param {Object} images - Product images with local paths
  * @returns {string} Frontmatter YAML
  */
-const generateProductFrontmatter = (metadata, slug, price, category, productName) => {
-  return `---
+const generateProductFrontmatter = (metadata, slug, price, category, productName, images = null) => {
+  // Base frontmatter
+  let frontmatter = `---
 title: "${productName || metadata.title || ''}"
 price: "${price}"
 header_text: "${productName || metadata.header_text || metadata.title || ''}"
@@ -50,8 +52,15 @@ meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/products/${slug}/"
 categories: ${category ? `["${category}"]` : '[]'}
-features: []
----`;
+features: []`;
+
+  // Add header image only (no gallery)
+  if (images && images.header_image) {
+    frontmatter += `\nheader_image: "${images.header_image}"`;
+  }
+
+  frontmatter += '\n---';
+  return frontmatter;
 };
 
 /**

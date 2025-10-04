@@ -7,6 +7,7 @@ meta_description: "Standard System - Fully Certified Engineers, 247 Customer Ser
 permalink: "/products/standard-system-599/"
 categories: ["burglar-alarms"]
 features: []
+header_image: "/images/products/standard-system-599.webp"
 ---
 
 #### Standard System £599

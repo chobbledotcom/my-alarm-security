@@ -7,6 +7,7 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/products/cctv-package-1-999/"
 categories: ["cctv"]
 features: []
+header_image: "/images/products/cctv-package-1-999.webp"
 ---
 
 #### Cctv Package 1 £999

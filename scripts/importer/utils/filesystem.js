@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const https = require('https');
 
 /**
  * Ensure a directory exists, creating it if necessary
@@ -41,9 +42,34 @@ const listHtmlFiles = (dir) => {
   return fs.readdirSync(dir).filter(f => f.endsWith('.html'));
 };
 
+/**
+ * Download a file from URL
+ * @param {string} url - URL to download from
+ * @param {string} filepath - Local path to save file
+ * @returns {Promise<void>}
+ */
+const downloadFile = (url, filepath) => {
+  return new Promise((resolve, reject) => {
+    https.get(url, (response) => {
+      if (response.statusCode === 200) {
+        const writeStream = fs.createWriteStream(filepath);
+        response.pipe(writeStream);
+        writeStream.on('finish', () => {
+          writeStream.close();
+          resolve();
+        });
+        writeStream.on('error', reject);
+      } else {
+        reject(new Error(`Failed to download: ${response.statusCode}`));
+      }
+    }).on('error', reject);
+  });
+};
+
 module.exports = {
   ensureDir,
   readHtmlFile,
   writeMarkdownFile,
-  listHtmlFiles
+  listHtmlFiles,
+  downloadFile
 };

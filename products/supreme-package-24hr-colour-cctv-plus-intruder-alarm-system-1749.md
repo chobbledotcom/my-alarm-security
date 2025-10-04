@@ -7,6 +7,7 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749/"
 categories: ["special-offers"]
 features: []
+header_image: "/images/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.webp"
 ---
 
 #### Supreme Package 24hr Colour Cctv Plus Intruder Alarm System £1749
