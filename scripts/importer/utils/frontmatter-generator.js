@@ -11,12 +11,19 @@ const generatePageFrontmatter = (metadata, slug) => {
     'contact': { key: 'Contact', order: 5 }
   };
 
+  // Define custom layouts for specific pages
+  const pageLayouts = {
+    'contact': 'contact.html'
+  };
+
+  const layout = pageLayouts[slug] || 'page';
+
   let frontmatter = `---
 header_text: "${metadata.header_text || metadata.title || ''}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/pages/${slug}/"
-layout: page`;
+layout: ${layout}`;
 
   // Add navigation if this page should be in nav
   if (navPages[slug]) {
