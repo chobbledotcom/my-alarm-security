@@ -24,6 +24,8 @@ Product Specifications!
   Email.          sales@myalarmsecurity.co.uk
   --------------- -----------------------------
 
+Our Prices!
+
   Contact For Price   
   ------------------- --
 

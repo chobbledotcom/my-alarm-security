@@ -36,9 +36,7 @@ const extractMainContent = (markdown, contentType) => {
     // Exit review section when we hit "Our Prices!" or a main heading
     if (inReviewSection && (line.includes('Our Prices!') || line.match(/^# [A-Z]/))) {
       inReviewSection = false;
-      if (line.includes('Our Prices!')) {
-        continue; // Skip "Our Prices!" heading itself
-      }
+      // Don't skip "Our Prices!" - we want to keep it
     }
 
     // Skip content while in review section

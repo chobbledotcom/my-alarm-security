@@ -26,6 +26,8 @@ Product Specifications!
                        Supplied and fitted and with a 12 month warranty
   -------------------- ------------------------------------------------------------------
 
+Our Prices!
+
   Our Price:   £1199.00
   ------------ ----------
 
