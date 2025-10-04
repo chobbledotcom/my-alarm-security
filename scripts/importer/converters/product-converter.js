@@ -12,9 +12,10 @@ const { generateProductFrontmatter, generateReviewFrontmatter } = require('../ut
  * @param {string} inputDir - Input directory path
  * @param {string} outputDir - Output directory path
  * @param {string} reviewsDir - Reviews output directory path
+ * @param {Map} reviewsMap - Map to track reviews by name
  * @returns {boolean} Success status
  */
-const convertProduct = (file, inputDir, outputDir, reviewsDir) => {
+const convertProduct = (file, inputDir, outputDir, reviewsDir, reviewsMap) => {
   try {
     const htmlPath = path.join(inputDir, file);
     const htmlContent = readHtmlFile(htmlPath);
@@ -30,17 +31,30 @@ const convertProduct = (file, inputDir, outputDir, reviewsDir) => {
     const filename = file.replace('.php.html', '.md');
     const slug = filename.replace('.md', '');
 
-    // Create review files for this product
+    // Create/update review files for this product
     if (reviews.length > 0) {
-      reviews.forEach((review, index) => {
-        const reviewSlug = `${slug}-review-${index + 1}`;
+      reviews.forEach((review) => {
+        const reviewSlug = review.name.toLowerCase().replace(/\s+/g, '-');
         const reviewFilename = `${reviewSlug}.md`;
-        const reviewFrontmatter = generateReviewFrontmatter(review.name, slug);
-        const reviewContent = `${reviewFrontmatter}\n\n${review.body}`;
+        const reviewPath = path.join(reviewsDir, reviewFilename);
 
-        writeMarkdownFile(path.join(reviewsDir, reviewFilename), reviewContent);
+        // Check if review already exists
+        if (reviewsMap.has(reviewSlug)) {
+          const existingReview = reviewsMap.get(reviewSlug);
+          if (!existingReview.products.includes(`products/${slug}.md`)) {
+            existingReview.products.push(`products/${slug}.md`);
+          }
+          // Don't create duplicate file, just track the product relationship
+        } else {
+          // New review - create it
+          const reviewData = {
+            name: review.name,
+            body: review.body,
+            products: [`products/${slug}.md`]
+          };
+          reviewsMap.set(reviewSlug, reviewData);
+        }
       });
-      console.log(`  Created ${reviews.length} review(s) for ${filename}`);
     }
 
     const frontmatter = generateProductFrontmatter(metadata, slug, price, category);
@@ -75,16 +89,34 @@ const convertProducts = () => {
     return { successful: 0, failed: 0, total: 0 };
   }
 
+  const reviewsMap = new Map();
   let successful = 0;
   let failed = 0;
 
   files.forEach(file => {
-    if (convertProduct(file, productsDir, outputDir, reviewsDir)) {
+    if (convertProduct(file, productsDir, outputDir, reviewsDir, reviewsMap)) {
       successful++;
     } else {
       failed++;
     }
   });
+
+  // Write all unique review files
+  let reviewsCreated = 0;
+  reviewsMap.forEach((reviewData, slug) => {
+    const reviewFilename = `${slug}.md`;
+    const reviewFrontmatter = generateReviewFrontmatter(reviewData.name, null);
+    const productsYaml = reviewData.products.map(p => `"${p}"`).join(', ');
+    const frontmatter = `---\nname: "${reviewData.name}"\nproducts: [${productsYaml}]\n---`;
+    const reviewContent = `${frontmatter}\n\n${reviewData.body}`;
+
+    writeMarkdownFile(path.join(reviewsDir, reviewFilename), reviewContent);
+    reviewsCreated++;
+  });
+
+  if (reviewsCreated > 0) {
+    console.log(`  Created ${reviewsCreated} unique review file(s)`);
+  }
 
   return { successful, failed, total: files.length };
 };

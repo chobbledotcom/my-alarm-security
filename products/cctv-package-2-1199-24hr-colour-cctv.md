@@ -24,3 +24,12 @@ Product Specifications!
   Info\...             Full App control from your smart phone/device
                        Supplied and fitted and with a 12 month warranty
   -------------------- ------------------------------------------------------------------
+
+  Our Price:   £1199.00
+  ------------ ----------
+
+------------------------------------------------------------------------
+
+[ Back To Cctv](/categories/cctv.php)
+
+# CCTV Package 2

@@ -25,3 +25,12 @@ Product Specifications!
                        Conventional cameras with day time colour images and black and white night time images
                        Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
   -------------------- ----------------------------------------------------------------------------------------
+
+  Our Price:   £999.00
+  ------------ ---------
+
+------------------------------------------------------------------------
+
+[ Back To Cctv](/categories/cctv.php)
+
+# CCTV Package 1

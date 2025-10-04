@@ -30,3 +30,12 @@ Product Specifications!
                        All cables, power supplies and sundries included
                        Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
   -------------------- ------------------------------------------------------------------------------
+
+  Our Price:   £1749.00
+  ------------ ----------
+
+------------------------------------------------------------------------
+
+[ Back To Special Offers](/categories/special-offers.php)
+
+# Supreme Package
