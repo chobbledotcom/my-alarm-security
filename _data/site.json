@@ -1,18 +1,9 @@
 {
-	"name": "",
-	"formspark_id": "J3oPqa0ZR",
-	"botpoison_public_key": "pk_bbb182a9-1ff3-4d9a-839c-06e45f41a6e6",
-	"google_place_id": "ChIJVbzdnP6r2EcRj5iisVHXG1o",
-	"url": "https://www.myalarmsecurity.co.uk",
-	"socials": {
-		"Facebook": "https://www.facebook.com/MyAlarm",
-		"Instagram": null,
-		"TikTok": "https://twitter.com/MyAlarmSecurity ",
-		"Google": null,
-		"WhatsApp": null,
-		"RSS": "/feed.xml"
-	},
-	"sticky_mobile_nav": true,
-	"horizontal_nav": true,
-	"template_repo_url": "https://git.chobble.com/chobble/chobble-client"
+  "name": "My Alarm Security",
+  "url": "https://www.myalarmsecurity.co.uk",
+  "socials": {
+    "Facebook": "https://www.facebook.com/MyAlarm",
+    "TikTok": "https://twitter.com/MyAlarmSecurity ",
+    "RSS": "/feed.xml"
+  }
 }
