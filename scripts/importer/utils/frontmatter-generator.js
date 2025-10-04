@@ -5,13 +5,29 @@
  * @returns {string} Frontmatter YAML
  */
 const generatePageFrontmatter = (metadata, slug) => {
-  return `---
+  // Define pages that should appear in navigation
+  const navPages = {
+    'about-us': { key: 'About', order: 2 },
+    'contact': { key: 'Contact', order: 5 }
+  };
+
+  let frontmatter = `---
 header_text: "${metadata.header_text || metadata.title || ''}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/pages/${slug}/"
-layout: page
----`;
+layout: page`;
+
+  // Add navigation if this page should be in nav
+  if (navPages[slug]) {
+    frontmatter += `
+eleventyNavigation:
+  key: ${navPages[slug].key}
+  order: ${navPages[slug].order}`;
+  }
+
+  frontmatter += '\n---';
+  return frontmatter;
 };
 
 /**
