@@ -1,0 +1,30 @@
+<footer>
+   <p>
+   Our service areas:<br>
+     {%- assign excluded_pages = "about-us,contact,home,not-found,privacy-policy,products,reviews,service-areas,thank-you" | split: "," -%}
+     {%- assign service_areas = collections.all | where: "data.layout", "page" | where_exp: "item", "item.url contains '/pages/'" -%}
+     {%- assign sorted_areas = service_areas | sort: "fileSlug" -%}
+     {%- for area in sorted_areas -%}
+       {%- unless excluded_pages contains area.fileSlug -%}
+         {%- assign words = area.fileSlug | replace: "-", " " | split: " " -%}
+         {%- assign capitalized_words = "" -%}
+         {%- for word in words -%}
+           {%- assign capitalized_word = word | capitalize -%}
+           {%- if forloop.first -%}
+             {%- assign capitalized_words = capitalized_word -%}
+           {%- else -%}
+             {%- assign capitalized_words = capitalized_words | append: " " | append: capitalized_word -%}
+           {%- endif -%}
+         {%- endfor -%}
+         <a href="{{ area.url }}">{{ capitalized_words }}</a>{% unless forloop.last %}, {% endunless %}
+       {%- endunless -%}
+     {%- endfor -%}
+</p>
+  {%- include "footer-socials.html" -%}
+  {%- render_snippet "footer-content" -%}
+  {%- if config.chobble_link and layout == "home.html" -%}
+    <p>
+      site by <a href="{{ config.chobble_link }}">chobble.com</a>
+    </p>
+  {%- endif -%}
+</footer>
