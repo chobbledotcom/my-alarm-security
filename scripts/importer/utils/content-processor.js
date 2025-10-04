@@ -26,6 +26,11 @@ const extractMainContent = (markdown, contentType) => {
       break;
     }
 
+    // Skip review sections (these are extracted separately)
+    if (line.includes('Our Reviews!') || line.includes('Our Prices!')) {
+      break;
+    }
+
     // Skip footer content
     if (line.includes('footer') || line.includes('widget_section')) {
       break;

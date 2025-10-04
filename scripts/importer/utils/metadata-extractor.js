@@ -94,10 +94,40 @@ const extractBlogDate = (content, defaultDate = '2020-01-01') => {
   return defaultDate;
 };
 
+/**
+ * Extract reviews from product HTML
+ * @param {string} htmlContent - HTML content to extract reviews from
+ * @returns {Array<Object>} Array of review objects with name and body
+ */
+const extractReviews = (htmlContent) => {
+  const reviews = [];
+  const reviewTableMatch = htmlContent.match(/<div class="menu-heading[^>]*>Our Reviews!<\/div>[\s\S]*?<table[^>]*>([\s\S]*?)<\/table>/);
+
+  if (!reviewTableMatch) {
+    return reviews;
+  }
+
+  const tableContent = reviewTableMatch[1];
+  const rowRegex = /<tr>\s*<td>[\s\S]*?<strong>([^<]+)<\/strong>[\s\S]*?<div class="diblock" itemprop="description">\s*([\s\S]*?)\s*<\/div>[\s\S]*?<\/td>\s*<\/tr>/g;
+
+  let match;
+  while ((match = rowRegex.exec(tableContent)) !== null) {
+    const name = match[1].trim();
+    const body = match[2].trim().replace(/\s+/g, ' ');
+
+    if (name && body) {
+      reviews.push({ name, body });
+    }
+  }
+
+  return reviews;
+};
+
 module.exports = {
   extractMetadata,
   extractPrice,
   extractCategory,
   extractCategoryName,
-  extractBlogDate
+  extractBlogDate,
+  extractReviews
 };
