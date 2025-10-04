@@ -1,7 +1,7 @@
 const path = require('path');
 const config = require('../config');
 const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles, downloadFile } = require('../utils/filesystem');
-const { extractMetadata, extractPrice, extractCategory, extractReviews, extractProductImages } = require('../utils/metadata-extractor');
+const { extractMetadata, extractPrice, extractCategory, extractReviews, extractProductName, extractProductImages } = require('../utils/metadata-extractor');
 const { convertToMarkdown } = require('../utils/pandoc-converter');
 const { processContent } = require('../utils/content-processor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
@@ -51,6 +51,7 @@ const convertProduct = async (file, inputDir, outputDir, reviewsDir, reviewsMap)
     const price = extractPrice(htmlContent);
     const category = extractCategory(htmlContent);
     const reviews = extractReviews(htmlContent);
+    const productName = extractProductName(htmlContent);
     const images = extractProductImages(htmlContent);
 
     const filename = file.replace('.php.html', '.md');
@@ -90,7 +91,7 @@ const convertProduct = async (file, inputDir, outputDir, reviewsDir, reviewsMap)
       header_image: localImagePath
     };
 
-    const frontmatter = generateProductFrontmatter(metadata, slug, price, category, localImages);
+    const frontmatter = generateProductFrontmatter(metadata, slug, price, category, productName, localImages);
     const fullContent = `${frontmatter}\n\n${content}`;
 
     writeMarkdownFile(path.join(outputDir, filename), fullContent);

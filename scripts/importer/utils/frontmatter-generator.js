@@ -5,13 +5,29 @@
  * @returns {string} Frontmatter YAML
  */
 const generatePageFrontmatter = (metadata, slug) => {
-  return `---
+  // Define pages that should appear in navigation
+  const navPages = {
+    'about-us': { key: 'About', order: 2 },
+    'contact': { key: 'Contact', order: 5 }
+  };
+
+  let frontmatter = `---
 header_text: "${metadata.header_text || metadata.title || ''}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/pages/${slug}/"
-layout: page
----`;
+layout: page`;
+
+  // Add navigation if this page should be in nav
+  if (navPages[slug]) {
+    frontmatter += `
+eleventyNavigation:
+  key: ${navPages[slug].key}
+  order: ${navPages[slug].order}`;
+  }
+
+  frontmatter += '\n---';
+  return frontmatter;
 };
 
 /**
@@ -38,18 +54,17 @@ permalink: "/news/${slug}/"
  * @param {string} slug - Product slug
  * @param {string} price - Product price
  * @param {string} category - Product category
+ * @param {string} productName - Product name
  * @param {Object} images - Product images with local paths
  * @returns {string} Frontmatter YAML
  */
-const generateProductFrontmatter = (metadata, slug, price, category, images = null) => {
-  const title = metadata.title || '';
-
+const generateProductFrontmatter = (metadata, slug, price, category, productName, images = null) => {
   // Base frontmatter
   let frontmatter = `---
-title: "${title}"
+title: "${productName || metadata.title || ''}"
 price: "${price}"
-header_text: "${metadata.header_text || title}"
-meta_title: "${title}"
+header_text: "${productName || metadata.header_text || metadata.title || ''}"
+meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/products/${slug}/"
 categories: ${category ? `["${category}"]` : '[]'}
