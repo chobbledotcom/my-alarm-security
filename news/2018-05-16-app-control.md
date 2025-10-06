@@ -1,5 +1,5 @@
 ---
-title: "App Control Burglar Alarm Company Near Me Bexley Bromley Orpington - My Alarm Security"
+title: "App Control"
 date: 2018-05-16
 header_text: "App Control"
 meta_title: "App Control Burglar Alarm Company Near Me Bexley Bromley Orpington - My Alarm Security"

@@ -1,5 +1,5 @@
 ---
-title: "House Alarm Alarm Battery Orpington - My Alarm Security"
+title: "Nano Shock Sensors"
 date: 2023-03-13
 header_text: "Nano Shock Sensors"
 meta_title: "House Alarm Alarm Battery Orpington - My Alarm Security"

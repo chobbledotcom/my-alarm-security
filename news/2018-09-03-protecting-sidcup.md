@@ -1,5 +1,5 @@
 ---
-title: "Burglar Alarm And Cctv Systems In Sidcup - My Alarm Security"
+title: "Protecting Sidcup"
 date: 2018-09-03
 header_text: "Protecting Sidcup"
 meta_title: "Burglar Alarm And Cctv Systems In Sidcup - My Alarm Security"

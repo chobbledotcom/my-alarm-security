@@ -1,5 +1,5 @@
 ---
-title: "Burglar Alarm System Bexley - My Alarm Security"
+title: "Pyronix Alarm System Vibration Sensors"
 date: 2023-07-26
 header_text: "Pyronix Alarm System Vibration Sensors"
 meta_title: "Burglar Alarm System Bexley - My Alarm Security"

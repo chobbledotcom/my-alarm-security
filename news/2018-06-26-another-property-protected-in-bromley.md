@@ -1,5 +1,5 @@
 ---
-title: "Burglar Alarm Installation Bromley - My Alarm Security"
+title: "Another Property Protected In Bromley"
 date: 2018-06-26
 header_text: "Another Property Protected In Bromley"
 meta_title: "Burglar Alarm Installation Bromley - My Alarm Security"

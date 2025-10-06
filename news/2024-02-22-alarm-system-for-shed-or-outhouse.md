@@ -1,5 +1,5 @@
 ---
-title: "Shed Outhouse Office Alarm System Bromley Orpington Bexley Eltham - My Alarm Security"
+title: "Alarm System For Shed Or Outhouse"
 date: 2024-02-22
 header_text: "Alarm System For Shed Or Outhouse"
 meta_title: "Shed Outhouse Office Alarm System Bromley Orpington Bexley Eltham - My Alarm Security"

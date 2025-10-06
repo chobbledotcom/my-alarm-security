@@ -56,10 +56,11 @@ eleventyNavigation:
  * @returns {string} Frontmatter YAML
  */
 const generateBlogFrontmatter = (metadata, slug, date) => {
+  const postTitle = metadata.header_text || slug.replace(/-/g, ' ');
   return `---
-title: "${metadata.title || slug.replace(/-/g, ' ')}"
+title: "${postTitle}"
 date: ${date}
-header_text: "${metadata.header_text || metadata.title || ''}"
+header_text: "${postTitle}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/blog/${slug}/"

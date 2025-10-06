@@ -1,5 +1,5 @@
 ---
-title: "Bromley Home Burlgar Alarm Company - My Alarm Security"
+title: "Bromley Protection"
 date: 2018-10-01
 header_text: "Bromley Protection"
 meta_title: "Bromley Home Burlgar Alarm Company - My Alarm Security"

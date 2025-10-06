@@ -1,5 +1,5 @@
 ---
-title: "New Eltham Burglar Alarm Upgrade - My Alarm Security"
+title: "New Eltham Burglar Alarm Upgrade"
 date: 2019-01-03
 header_text: "New Eltham Burglar Alarm Upgrade"
 meta_title: "New Eltham Burglar Alarm Upgrade - My Alarm Security"

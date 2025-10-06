@@ -1,5 +1,5 @@
 ---
-title: "Pyronix Home Burglar Alarm System Company Bexley Bexleyheath - My Alarm Security"
+title: "Market Leading Equipment"
 date: 2020-09-15
 header_text: "Market Leading Equipment"
 meta_title: "Pyronix Home Burglar Alarm System Company Bexley Bexleyheath - My Alarm Security"

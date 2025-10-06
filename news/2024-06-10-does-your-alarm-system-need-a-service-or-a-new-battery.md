@@ -1,5 +1,5 @@
 ---
-title: "Alarm System New Battery Service - My Alarm Security"
+title: "Does Your Alarm System Need A Service Or A New Battery?"
 date: 2024-06-10
 header_text: "Does Your Alarm System Need A Service Or A New Battery?"
 meta_title: "Alarm System New Battery Service - My Alarm Security"

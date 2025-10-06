@@ -1,5 +1,5 @@
 ---
-title: "Burglar Alarm Company Bromley - My Alarm Security"
+title: "Flush Chrome Keypad"
 date: 2020-12-02
 header_text: "Flush Chrome Keypad"
 meta_title: "Burglar Alarm Company Bromley - My Alarm Security"

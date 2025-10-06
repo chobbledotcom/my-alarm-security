@@ -1,5 +1,5 @@
 ---
-title: "Burglar Alarm Engineer Sidcup Bexley - My Alarm Security"
+title: "Pir Movement Sensor"
 date: 2018-05-11
 header_text: "Pir Movement Sensor"
 meta_title: "Burglar Alarm Engineer Sidcup Bexley - My Alarm Security"

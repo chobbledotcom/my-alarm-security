@@ -1,5 +1,5 @@
 ---
-title: "Home Security Burglar Alarm System In Bexley - My Alarm Security"
+title: "Ladder Stand-off"
 date: 2018-12-04
 header_text: "Ladder Stand-off"
 meta_title: "Home Security Burglar Alarm System In Bexley - My Alarm Security"

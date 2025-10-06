@@ -1,5 +1,5 @@
 ---
-title: "Alarm System Movement Sensor Faulty Orpington Bexley Bromley - My Alarm Security"
+title: "Alarm System Motion Sensors"
 date: 2023-07-28
 header_text: "Alarm System Motion Sensors"
 meta_title: "Alarm System Movement Sensor Faulty Orpington Bexley Bromley - My Alarm Security"

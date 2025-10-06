@@ -1,5 +1,5 @@
 ---
-title: "Bungalow Burglar Alarm Bungalow Cctv Bexley - My Alarm Security"
+title: "Burglar Alarm And Cctv In Bungalows"
 date: 2018-06-15
 header_text: "Burglar Alarm And Cctv In Bungalows"
 meta_title: "Bungalow Burglar Alarm Bungalow Cctv Bexley - My Alarm Security"

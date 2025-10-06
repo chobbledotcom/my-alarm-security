@@ -1,5 +1,5 @@
 ---
-title: "Wickham Security - My Alarm Security"
+title: "West Wickham Security"
 date: 2023-08-01
 header_text: "West Wickham Security"
 meta_title: "Wickham Security - My Alarm Security"

@@ -1,5 +1,5 @@
 ---
-title: "House Alarm System Battery Orpington - My Alarm Security"
+title: "Pyronix Alarm System"
 date: 2023-07-28
 header_text: "Pyronix Alarm System"
 meta_title: "House Alarm System Battery Orpington - My Alarm Security"

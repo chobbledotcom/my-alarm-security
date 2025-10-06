@@ -1,5 +1,5 @@
 ---
-title: "Deaf Home Alarm System Company - My Alarm Security"
+title: "Wireless Sounder Alarm System For The Deaf Or Hard Of Hearing"
 date: 2021-02-08
 header_text: "Wireless Sounder Alarm System For The Deaf Or Hard Of Hearing"
 meta_title: "Deaf Home Alarm System Company - My Alarm Security"

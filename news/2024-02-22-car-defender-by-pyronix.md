@@ -1,5 +1,5 @@
 ---
-title: "Car Defender Vehicle Security Bexley Bromley Orpington Sidcup Eltham - My Alarm Security"
+title: "Car Defender By Pyronix"
 date: 2024-02-22
 header_text: "Car Defender By Pyronix"
 meta_title: "Car Defender Vehicle Security Bexley Bromley Orpington Sidcup Eltham - My Alarm Security"

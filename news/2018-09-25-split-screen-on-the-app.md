@@ -1,5 +1,5 @@
 ---
-title: "Cctv Company Bromley Orpington Bexley - My Alarm Security"
+title: "Split Screen On The App"
 date: 2018-09-25
 header_text: "Split Screen On The App"
 meta_title: "Cctv Company Bromley Orpington Bexley - My Alarm Security"

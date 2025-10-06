@@ -1,5 +1,5 @@
 ---
-title: "Intruder Burglar Alarm And Cctv Company Orpington Bromley Bexley - My Alarm Security"
+title: "Our New Van Now Has Sign Writing"
 date: 2018-05-06
 header_text: "Our New Van Now Has Sign Writing"
 meta_title: "Intruder Burglar Alarm And Cctv Company Orpington Bromley Bexley - My Alarm Security"

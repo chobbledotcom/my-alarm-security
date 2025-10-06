@@ -1,5 +1,5 @@
 ---
-title: "Bromley Security Company Burglar Alarm And Cctv - My Alarm Security"
+title: "Bromley Area Being Targeted"
 date: 2018-06-19
 header_text: "Bromley Area Being Targeted"
 meta_title: "Bromley Security Company Burglar Alarm And Cctv - My Alarm Security"
