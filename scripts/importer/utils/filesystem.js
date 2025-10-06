@@ -43,6 +43,22 @@ const listHtmlFiles = (dir) => {
 };
 
 /**
+ * Clean all files from a directory
+ * @param {string} dir - Directory to clean
+ */
+const cleanDirectory = (dir) => {
+  if (fs.existsSync(dir)) {
+    const files = fs.readdirSync(dir);
+    files.forEach(file => {
+      const filePath = path.join(dir, file);
+      if (fs.statSync(filePath).isFile()) {
+        fs.unlinkSync(filePath);
+      }
+    });
+  }
+};
+
+/**
  * Download a file from URL
  * @param {string} url - URL to download from
  * @param {string} filepath - Local path to save file
@@ -71,5 +87,6 @@ module.exports = {
   readHtmlFile,
   writeMarkdownFile,
   listHtmlFiles,
+  cleanDirectory,
   downloadFile
 };
