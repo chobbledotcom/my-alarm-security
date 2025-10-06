@@ -9,7 +9,7 @@ const template = path.join(build, 'template');
 const dev = path.join(build, 'dev');
 
 const templateExcludes = ['.git', 'node_modules', '*.md', 'test', 'test-*'];
-const rootExcludes = ['.git', '*.nix', 'README.md', buildDir, 'scripts', 'node_modules', 'package*.json'];
+const rootExcludes = ['.git', '*.nix', 'README.md', buildDir, 'scripts', 'node_modules', 'package*.json', 'old_site'];
 
 function prep() {
   console.log('Preparing build...');
@@ -36,7 +36,7 @@ function prep() {
     .join(' ');
   
   execSync(`rsync -r --delete ${templateExcludeArgs} "${template}/" "${dev}/"`);
-  execSync(`rsync -ra ${rootExcludeArgs} "${root}/" "${dev}/src/"`);
+  execSync(`rsync -r ${rootExcludeArgs} "${root}/" "${dev}/src/"`);
   
   sync();
   
