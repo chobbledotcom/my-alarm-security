@@ -66,9 +66,6 @@ const convertProducts = async () => {
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.products);
   const reviewsDir = path.join(config.OUTPUT_BASE, 'reviews');
-  prepDir(outputDir);
-  prepDir(reviewsDir);
-
   const productsDir = path.join(config.OLD_SITE_PATH, config.paths.products);
   const files = listHtmlFiles(productsDir);
 
@@ -77,6 +74,9 @@ const convertProducts = async () => {
     return { successful: 0, failed: 0, total: 0 };
   }
 
+  // Products directory only contains imported products, safe to clean all
+  prepDir(outputDir);
+
   console.log('  Scanning categories for product relationships...');
   const productCategoriesMap = scanProductCategories();
 
@@ -84,6 +84,25 @@ const convertProducts = async () => {
   const result = await convertBatch(files, productsDir, outputDir, { reviewsMap, productCategoriesMap });
 
   if (reviewsMap.size > 0) {
+    const { ensureDir } = require('../utils/filesystem');
+    ensureDir(reviewsDir);
+
+    // Only delete reviews that will be regenerated from products
+    // (preserve Google reviews which have -google- in their filename)
+    const generatedReviewNames = new Set(
+      Array.from(reviewsMap.keys()).map(slug => `${slug}.md`)
+    );
+
+    const fs = require('fs');
+    if (fs.existsSync(reviewsDir)) {
+      const existingReviews = fs.readdirSync(reviewsDir);
+      existingReviews.forEach(filename => {
+        if (generatedReviewNames.has(filename)) {
+          fs.unlinkSync(path.join(reviewsDir, filename));
+        }
+      });
+    }
+
     reviewsMap.forEach((reviewData, slug) => {
       const reviewFilename = `${slug}.md`;
       const productsYaml = reviewData.products.map(p => `"${p}"`).join(', ');

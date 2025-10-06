@@ -29,10 +29,11 @@ const convertCategories = async () => {
   console.log('Converting categories...');
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.categories);
-  prepDir(outputDir);
-
   const categoriesDir = path.join(config.OLD_SITE_PATH, config.paths.categories);
   const files = listHtmlFiles(categoriesDir);
+
+  // Categories directory only contains imported categories, safe to clean all
+  prepDir(outputDir);
 
   if (files.length === 0) {
     console.log('  No categories directory found, skipping...');
