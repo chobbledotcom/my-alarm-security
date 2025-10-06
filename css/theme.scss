@@ -132,16 +132,35 @@ $gap: 1rem;
     }
   }
 
-  .banner-scroll {
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    scrollbar-width: thin;
-    scrollbar-color: var(--color-link) transparent;
+  .carousel {
+    position: relative;
+    padding-top: 33.33%;
+    filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.1));
+    perspective: 100px;
     border-radius: 0 0 var(--border-radius) var(--border-radius);
-    box-shadow: var(--box-shadow);
+
+    @media (max-width: $mobile) {
+      padding-top: 56.25%;
+    }
+  }
+
+  .carousel__viewport {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    overflow-x: scroll;
+    counter-reset: item;
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: 0px;
+    scrollbar-color: transparent transparent;
 
     &::-webkit-scrollbar {
-      height: 8px;
+      width: 0;
+      height: 0;
     }
 
     &::-webkit-scrollbar-track {
@@ -149,39 +168,204 @@ $gap: 1rem;
     }
 
     &::-webkit-scrollbar-thumb {
-      background: var(--color-link);
-      border-radius: 4px;
+      background: transparent;
+      border: none;
+    }
+  }
+
+  .carousel__slide {
+    position: relative;
+    flex: 0 0 100%;
+    width: 100%;
+    list-style: none;
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+  }
+
+  .carousel__snapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    scroll-snap-align: center;
+  }
+
+  @media (hover: hover) {
+    .carousel__snapper {
+      animation-name: tonext, snap;
+      animation-timing-function: ease;
+      animation-duration: 4s;
+      animation-iteration-count: infinite;
     }
 
-    ul {
-      display: flex;
-      gap: 0;
-      margin: 0;
-      padding: 0;
-      list-style: none;
-      width: max-content;
+    .carousel__slide:last-child .carousel__snapper {
+      animation-name: tostart, snap;
+    }
+  }
 
-      li {
-        scroll-snap-align: start;
-        flex-shrink: 0;
-        width: 100%;
+  @media (prefers-reduced-motion: reduce) {
+    .carousel__snapper {
+      animation-name: none;
+    }
+  }
 
-        @media (max-width: $mobile) {
-          width: 100%;
-        }
+  .carousel:hover .carousel__snapper,
+  .carousel:focus-within .carousel__snapper {
+    animation-name: none;
+  }
 
-        img {
-          display: block;
-          width: 100%;
-          height: auto;
-          object-fit: cover;
-          aspect-ratio: 3 / 1;
+  .carousel__navigation {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    padding: $gap * 0.5;
+  }
 
-          @media (max-width: $mobile) {
-            aspect-ratio: 16 / 9;
-          }
-        }
-      }
+  .carousel__navigation-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .carousel__navigation-item {
+    display: inline-block;
+  }
+
+  .carousel__navigation-button {
+    display: inline-block;
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: rgba(51, 51, 51, 0.5);
+    background-clip: content-box;
+    border: 0.25rem solid transparent;
+    border-radius: 50%;
+    font-size: 0;
+    transition: transform 0.1s;
+
+    &:hover {
+      background-color: var(--color-link);
+      transform: scale(1.1);
+    }
+  }
+
+  .carousel::before,
+  .carousel::after,
+  .carousel__prev,
+  .carousel__next {
+    position: absolute;
+    top: 0;
+    margin-top: 50%;
+    width: 3rem;
+    height: 3rem;
+    transform: translateY(-50%);
+    border-radius: 50%;
+    font-size: 0;
+    outline: 0;
+
+    @media (max-width: $mobile) {
+      width: 2rem;
+      height: 2rem;
+    }
+  }
+
+  .carousel::before,
+  .carousel__prev {
+    left: 0.5rem;
+
+    @media (max-width: $mobile) {
+      left: 0.25rem;
+    }
+  }
+
+  .carousel::after,
+  .carousel__next {
+    right: 0.5rem;
+
+    @media (max-width: $mobile) {
+      right: 0.25rem;
+    }
+  }
+
+  .carousel::before,
+  .carousel::after {
+    content: "";
+    z-index: 1;
+    background-color: rgba(51, 51, 51, 0.7);
+    background-size: 1.5rem 1.5rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: #fff;
+    font-size: 2.5rem;
+    line-height: 4rem;
+    text-align: center;
+    pointer-events: none;
+
+    @media (max-width: $mobile) {
+      background-size: 1rem 1rem;
+    }
+  }
+
+  .carousel::before {
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpolygon points='0,50 80,100 80,0' fill='%23fff'/%3E%3C/svg%3E");
+  }
+
+  .carousel::after {
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpolygon points='100,50 20,100 20,0' fill='%23fff'/%3E%3C/svg%3E");
+  }
+
+  @keyframes tonext {
+    75% {
+      left: 0;
+    }
+    95% {
+      left: 100%;
+    }
+    98% {
+      left: 100%;
+    }
+    99% {
+      left: 0;
+    }
+  }
+
+  @keyframes tostart {
+    75% {
+      left: 0;
+    }
+    95% {
+      left: -300%;
+    }
+    98% {
+      left: -300%;
+    }
+    99% {
+      left: 0;
+    }
+  }
+
+  @keyframes snap {
+    96% {
+      scroll-snap-align: center;
+    }
+    97% {
+      scroll-snap-align: none;
+    }
+    99% {
+      scroll-snap-align: none;
+    }
+    100% {
+      scroll-snap-align: center;
     }
   }
 }

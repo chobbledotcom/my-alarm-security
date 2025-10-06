@@ -12,15 +12,36 @@ layout: base.html
   {% endif %}
 
   {% if home_content.banner.images.size > 0 %}
-  <div class="banner-scroll" role="region" aria-label="Promotional banner images">
-    <ul>
+  <section class="carousel" aria-label="Promotional banner images">
+    <ol class="carousel__viewport">
       {% for image in home_content.banner.images %}
-      <li>
-        <img src="{{ image }}" alt="Banner {{ forloop.index }}" loading="lazy" />
+      <li id="carousel__slide{{ forloop.index }}" tabindex="0" class="carousel__slide">
+        <div class="carousel__snapper">
+          <img src="{{ image }}" alt="Banner {{ forloop.index }}" loading="lazy" />
+        </div>
+        {% if forloop.index > 1 %}
+        <a href="#carousel__slide{{ forloop.index | minus: 1 }}" class="carousel__prev">Go to previous slide</a>
+        {% else %}
+        <a href="#carousel__slide{{ home_content.banner.images.size }}" class="carousel__prev">Go to last slide</a>
+        {% endif %}
+        {% if forloop.index < home_content.banner.images.size %}
+        <a href="#carousel__slide{{ forloop.index | plus: 1 }}" class="carousel__next">Go to next slide</a>
+        {% else %}
+        <a href="#carousel__slide1" class="carousel__next">Go to first slide</a>
+        {% endif %}
       </li>
       {% endfor %}
-    </ul>
-  </div>
+    </ol>
+    <aside class="carousel__navigation">
+      <ol class="carousel__navigation-list">
+        {% for image in home_content.banner.images %}
+        <li class="carousel__navigation-item">
+          <a href="#carousel__slide{{ forloop.index }}" class="carousel__navigation-button">Go to slide {{ forloop.index }}</a>
+        </li>
+        {% endfor %}
+      </ol>
+    </aside>
+  </section>
   {% endif %}
 </section>
 {% endif %}
