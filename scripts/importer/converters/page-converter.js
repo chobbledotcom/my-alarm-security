@@ -22,8 +22,6 @@ const convertPages = async () => {
   console.log('Converting pages...');
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.pages);
-  prepDir(outputDir);
-
   const pagesDir = path.join(config.OLD_SITE_PATH, 'pages');
   const pageFiles = listHtmlFiles(pagesDir);
 
@@ -31,6 +29,14 @@ const convertPages = async () => {
   const rootPages = ['contact.php.html'].filter(file =>
     fs.existsSync(path.join(config.OLD_SITE_PATH, file))
   );
+
+  // Only delete pages that come from old_site (exclude manually created pages)
+  const importedPageNames = new Set([
+    ...pageFiles.map(f => f.replace('.php.html', '.md')),
+    ...rootPages.map(f => f.replace('.php.html', '.md'))
+  ]);
+
+  prepDir(outputDir, filename => importedPageNames.has(filename));
 
   const pagesResult = await convertBatch(pageFiles, pagesDir, outputDir);
   const rootResult = await convertBatch(rootPages, config.OLD_SITE_PATH, outputDir);
