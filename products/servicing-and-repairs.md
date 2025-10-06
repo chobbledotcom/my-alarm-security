@@ -31,8 +31,8 @@ Our Prices!
 
 ------------------------------------------------------------------------
 
-[ Back To Servicing And Repairs](/categories/servicing-and-repairs.php)
+[ Back To Servicing And Repairs](/categories/servicing-and-repairs/)
 
 # Servicing and Repairs
 
-[**Contact Us**](/contact.php) for more information.
+[**Contact Us**](/contact/) for more information.

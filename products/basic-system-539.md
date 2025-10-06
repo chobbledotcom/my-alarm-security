@@ -36,7 +36,7 @@ Our Prices!
 
 ------------------------------------------------------------------------
 
-[ Back To Burglar Alarms](/categories/burglar-alarms.php)
+[ Back To Burglar Alarms](/categories/burglar-alarms/)
 
 # Basic System 
 

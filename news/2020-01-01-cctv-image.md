@@ -11,12 +11,12 @@ permalink: "/news/cctv-image/"
 
 # CCTV Image
 
-Here at MyAlarm Security we get asked a lot what the image quality is like on our home security [CCTV](/categories/cctv.php) installations.
+Here at MyAlarm Security we get asked a lot what the image quality is like on our home security [CCTV](/categories/cctv/) installations.
 
-Well here is the answer to your queries. I\'m sure you\'ll agree that they are stunning, although this was still a building site in Petts Wood, [Orpington](/pages/orpington.php) border the customer wanted the security system up and running.
+Well here is the answer to your queries. I\'m sure you\'ll agree that they are stunning, although this was still a building site in Petts Wood, [Orpington](/pages/orpington/) border the customer wanted the security system up and running.
 
-So along with the [CCTV](/categories/cctv.php) installation, we also had our app controlled smart home [burglar alarm](/categories/burglar-alarms.php) security system in place so when locking up after a days work they were sure that their property was safe.
+So along with the [CCTV](/categories/cctv/) installation, we also had our app controlled smart home [burglar alarm](/categories/burglar-alarms/) security system in place so when locking up after a days work they were sure that their property was safe.
 
-Contact us [here](/contact.php).
+Contact us [here](/contact/).
 
 ![Cctv Image](https://res.cloudinary.com/kbs/image/upload/xlsdhnvcwps22cnvg9mg.jpg)

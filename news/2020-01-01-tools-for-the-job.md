@@ -11,7 +11,7 @@ permalink: "/news/tools-for-the-job/"
 
 # Tools for the job
 
-Here at MyAlarm Security we have accumulated some specialist tools over the past 21 years of installing security systems, from [burglar alarm home](/categories/burglar-alarms.php) security systems to [cctv](/categories/cctv.php) installations and everything in between we always have the right tool for the job.
+Here at MyAlarm Security we have accumulated some specialist tools over the past 21 years of installing security systems, from [burglar alarm home](/categories/burglar-alarms/) security systems to [cctv](/categories/cctv/) installations and everything in between we always have the right tool for the job.
 
 In the attached photo (whilst repairing a cctv system not installed by us) we noticed that the roofers had buried the cameras within the soffit and just the very end was protruding giving an awful coverage. The customer had found us on the internet and after reading our reviews from local residents in Sidcup, New Eltham, Bexley and Eltham they decided to give us a call.
 
