@@ -35,21 +35,6 @@ npm run convert-old-site
 node scripts/importer/index.js
 ```
 
-### Testing Folder Cleanup
-
-The importer automatically cleans managed folders before running. To test this:
-
-```bash
-# 1. Create test marker files
-node scripts/importer/test-cleanup-simple.js
-
-# 2. Run the importer
-npm run convert-old-site
-
-# 3. Verify cleanup worked
-node scripts/importer/verify-cleanup.js
-```
-
 ## Folder Cleaning Behavior
 
 The importer uses smart cleanup to preserve non-imported files:
