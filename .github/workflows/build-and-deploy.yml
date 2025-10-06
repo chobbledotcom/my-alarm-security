@@ -108,6 +108,20 @@ jobs:
           mkdir -p ../_site
           mv _site/* ../_site/
 
+      - name: Purge Rewrite Zone
+        uses: R-J-dev/bunny-deploy@v2.0.6
+        with:
+          access-key: ${{ secrets.BUNNY_ACCESS_KEY }}
+          directory-to-upload: _site
+          storage-endpoint: "https://storage.bunnycdn.com"
+          storage-zone-name: "my-alarm-security"
+          storage-zone-password: ${{ secrets.BUNNY_STORAGE_ZONE_PASSWORD }}
+          concurrency: "5"
+          enable-delete-action: true
+          enable-purge-pull-zone: true
+          pull-zone-id: "4585882"
+          replication-timeout: "15000"
+
       - name: Deploy to Bunny
         uses: R-J-dev/bunny-deploy@v2.0.6
         with:
@@ -121,3 +135,4 @@ jobs:
           enable-purge-pull-zone: true
           pull-zone-id: "4587571"
           replication-timeout: "15000"
+
