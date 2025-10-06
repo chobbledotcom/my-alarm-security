@@ -144,6 +144,10 @@ $gap: 1rem;
       max-width: 100%;
       aspect-ratio: 1920 / 640;
     }
+
+    img {
+      max-width: 100%;
+    }
   }
 
   .carousel__viewport {
@@ -249,17 +253,31 @@ $gap: 1rem;
     display: inline-block;
     width: 1.5rem;
     height: 1.5rem;
-    background-color: rgba(51, 51, 51, 0.5);
+    background-color: #fff;
     background-clip: content-box;
-    border: 0.25rem solid transparent;
+    border: 2px solid #444;
     border-radius: 50%;
     font-size: 0;
-    transition: transform 0.1s;
+    transition: all 0.2s;
 
     &:hover {
-      background-color: var(--color-link);
       transform: scale(1.1);
     }
+  }
+
+  #carousel__slide1:target ~ .carousel__navigation [href="#carousel__slide1"],
+  #carousel__slide2:target ~ .carousel__navigation [href="#carousel__slide2"],
+  #carousel__slide3:target ~ .carousel__navigation [href="#carousel__slide3"],
+  #carousel__slide4:target ~ .carousel__navigation [href="#carousel__slide4"],
+  #carousel__slide5:target ~ .carousel__navigation [href="#carousel__slide5"],
+  #carousel__slide6:target ~ .carousel__navigation [href="#carousel__slide6"] {
+    background-color: var(--color-link);
+    border: 2px solid #fff;
+  }
+
+  .carousel__viewport:not(:has(:target)) ~ .carousel__navigation [href="#carousel__slide1"] {
+    background-color: var(--color-link);
+    border: 2px solid #fff;
   }
 
   @keyframes tonext {
