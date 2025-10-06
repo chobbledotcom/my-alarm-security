@@ -35,7 +35,7 @@ const createConverter = ({
       const htmlContent = readHtmlFile(htmlPath);
       const metadata = extractMetadata(htmlContent);
       const markdown = convertToMarkdown(htmlPath);
-      let content = processContent(markdown, contentType);
+      let content = processContent(markdown, contentType, htmlContent);
 
       const slug = slugFromFilename(file);
       let filename = markdownFilename(file);

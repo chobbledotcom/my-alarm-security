@@ -20,6 +20,16 @@ header_image: "/images/products/standard-system-599.webp"
 Product Specifications!
 
 
+**Package includes**
+
+- 1 x Door contact
+- 4 x Movement sensors (can be pet friendly)
+- 1 x External siren for the front
+- 1 X Decoy Siren For The Rear
+- 1 X App Controlled Panel With 12 Months Free App Connectivity (£20 A Year Thereafter)
+
+**Info** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
+
 
 Our Prices!
 
