@@ -33,6 +33,10 @@
     ui-rounded, "Hiragino Maru Gothic ProN", Quicksand, Comfortaa, Manjari,
     "Arial Rounded MT", "Arial Rounded MT Bold", Calibri, source-sans-pro,
     sans-serif;
+  --font-family-heading:
+    "Fjalla One", ui-rounded, "Hiragino Maru Gothic ProN", Quicksand, Comfortaa,
+    Manjari, "Arial Rounded MT", "Arial Rounded MT Bold", Calibri,
+    source-sans-pro, sans-serif;
   --link-decoration: underline;
   --link-decoration-hover: underline;
   --link-decoration-style: solid;
@@ -64,12 +68,12 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Fjalla One", ui-rounded, "Hiragino Maru Gothic ProN", Quicksand, Comfortaa, Manjari, "Arial Rounded MT", "Arial Rounded MT Bold", Calibri, source-sans-pro, sans-serif;
+  font-family: var(--font-family-heading);
   font-weight: 400;
 }
 
 nav {
-  font-family: "Fjalla One", ui-rounded, "Hiragino Maru Gothic ProN", Quicksand, Comfortaa, Manjari, "Arial Rounded MT", "Arial Rounded MT Bold", Calibri, source-sans-pro, sans-serif;
+  font-family: var(--font-family-heading);
   font-weight: 400;
 }
 
