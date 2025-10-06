@@ -38,7 +38,7 @@ const convertHomeContent = () => {
       homeContent.hero.service_cards.push({
         title: cardMatch[2].trim(),
         description: cardMatch[3].trim(),
-        link: cardMatch[4].replace('.php.html', ''),
+        link: `/${cardMatch[4].replace('.php.html', '')}/`,
         image: cardMatch[1].trim()
       });
     }
