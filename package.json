@@ -12,6 +12,10 @@
 		"fetch-google-reviews": "node scripts/fetch-google-reviews.js",
 		"clean": "rm -rf .build _site",
 		"convert-old-site": "node scripts/convert-old-site.js",
-		"compare-paths": "node scripts/compare-paths.js"
+		"compare-paths": "node scripts/compare-paths.js",
+		"screenshot": "node scripts/screenshot.js"
+	},
+	"dependencies": {
+		"puppeteer": "^24.15.0"
 	}
 }
