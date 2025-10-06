@@ -122,7 +122,7 @@ const cleanContent = (content, contentType) => {
     .replace(/\]\*\*\s*$/gm, '**') // Fix trailing ]** at end of line
     .replace(/\)\*\*\]\s*$/gm, ')**') // Fix trailing )**] at end of line
     .replace(/\\\s*$/gm, '') // Remove trailing backslashes
-    .replace(/\(\.\.\/([^)]+)\.php\.html\)/g, '(/$1.php)') // Fix relative links: ../pages/foo.php.html -> /pages/foo.php
+    .replace(/\(\.\.\/([^)]+)\.php\.html\)/g, '(/$1/)') // Fix relative links: ../pages/foo.php.html -> /pages/foo/
     .replace(/\n\s*\n\s*\n/g, '\n\n') // Normalize whitespace
     .trim();
 };
