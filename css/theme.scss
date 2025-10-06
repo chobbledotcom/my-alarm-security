@@ -256,40 +256,6 @@ $gap: 1rem;
     }
   }
 
-  .carousel__prev,
-  .carousel__next {
-    position: absolute;
-    top: 0;
-    margin-top: 50%;
-    width: 3rem;
-    height: 3rem;
-    transform: translateY(-50%);
-    border-radius: 50%;
-    font-size: 0;
-    outline: 0;
-
-    @media (max-width: $mobile) {
-      width: 2rem;
-      height: 2rem;
-    }
-  }
-
-  .carousel__prev {
-    left: 0.5rem;
-
-    @media (max-width: $mobile) {
-      left: 0.25rem;
-    }
-  }
-
-  .carousel__next {
-    right: 0.5rem;
-
-    @media (max-width: $mobile) {
-      right: 0.25rem;
-    }
-  }
-
   @keyframes tonext {
     75% {
       left: 0;

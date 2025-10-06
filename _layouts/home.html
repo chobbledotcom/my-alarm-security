@@ -19,16 +19,6 @@ layout: base.html
         <div class="carousel__snapper">
           <img src="{{ image }}" alt="Banner {{ forloop.index }}" loading="lazy" />
         </div>
-        {% if forloop.index > 1 %}
-        <a href="#carousel__slide{{ forloop.index | minus: 1 }}" class="carousel__prev">Go to previous slide</a>
-        {% else %}
-        <a href="#carousel__slide{{ home_content.banner.images.size }}" class="carousel__prev">Go to last slide</a>
-        {% endif %}
-        {% if forloop.index < home_content.banner.images.size %}
-        <a href="#carousel__slide{{ forloop.index | plus: 1 }}" class="carousel__next">Go to next slide</a>
-        {% else %}
-        <a href="#carousel__slide1" class="carousel__next">Go to first slide</a>
-        {% endif %}
       </li>
       {% endfor %}
     </ol>
