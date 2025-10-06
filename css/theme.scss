@@ -222,6 +222,7 @@ $gap: 1rem;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    height: min-content;
 
     @media (max-width: $mobile) {
       grid-template-columns: 1fr;
@@ -289,6 +290,13 @@ $gap: 1rem;
       text-align: center;
       font-style: italic;
       font-size: 0.9rem;
+
+      a {
+        color: #ccc;
+        &:hover {
+          color: var(--color-link);
+        }
+      }
     }
   }
 }
