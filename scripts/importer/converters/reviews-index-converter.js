@@ -4,6 +4,7 @@ const { ensureDir, readHtmlFile, writeMarkdownFile } = require('../utils/filesys
 const { extractMetadata } = require('../utils/metadata-extractor');
 const { convertToMarkdown } = require('../utils/pandoc-converter');
 const { processContent } = require('../utils/content-processor');
+const { generatePageFrontmatter } = require('../utils/frontmatter-generator');
 
 /**
  * Convert reviews page from old site
@@ -23,17 +24,7 @@ const convertReviewsIndex = () => {
     const markdown = convertToMarkdown(reviewsPath);
     const content = processContent(markdown, 'page');
 
-    const frontmatter = `---
-header_text: "Reviews"
-meta_title: "Reviews"
-meta_description: "Reviews"
-permalink: "/pages/reviews/"
-layout: page
-eleventyNavigation:
-  key: Reviews
-  order: 4
----`;
-
+    const frontmatter = generatePageFrontmatter(metadata, 'reviews');
     const fullContent = `${frontmatter}\n\n${content}`;
     const outputPath = path.join(outputDir, 'reviews.md');
 

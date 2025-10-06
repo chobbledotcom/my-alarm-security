@@ -1,22 +1,29 @@
 /**
+ * Configuration for page-specific layouts, navigation, and metadata
+ */
+const PAGE_CONFIG = {
+  'about-us': {
+    nav: {key: 'About', order: 2}
+  },
+  'contact': {
+    layout: 'contact.html',
+    nav: {key: 'Contact', order: 6}
+  },
+  'reviews': {
+    layout: 'reviews.html',
+    nav: {key: 'Reviews', order: 4}
+  }
+};
+
+/**
  * Generate frontmatter for page content
  * @param {Object} metadata - Extracted metadata
  * @param {string} slug - Page slug
  * @returns {string} Frontmatter YAML
  */
 const generatePageFrontmatter = (metadata, slug) => {
-  // Define pages that should appear in navigation
-  const navPages = {
-    'about-us': { key: 'About', order: 2 },
-    'contact': { key: 'Contact', order: 6 }
-  };
-
-  // Define custom layouts for specific pages
-  const pageLayouts = {
-    'contact': 'contact.html'
-  };
-
-  const layout = pageLayouts[slug] || 'page';
+  const pageConfig = PAGE_CONFIG[slug] || {};
+  const layout = pageConfig.layout || 'page';
 
   let frontmatter = `---
 header_text: "${metadata.header_text || metadata.title || ''}"
@@ -25,12 +32,12 @@ meta_description: "${metadata.meta_description || ''}"
 permalink: "/pages/${slug}/"
 layout: ${layout}`;
 
-  // Add navigation if this page should be in nav
-  if (navPages[slug]) {
+  // Add navigation if configured
+  if (pageConfig.nav) {
     frontmatter += `
 eleventyNavigation:
-  key: ${navPages[slug].key}
-  order: ${navPages[slug].order}`;
+  key: ${pageConfig.nav.key}
+  order: ${pageConfig.nav.order}`;
   }
 
   frontmatter += '\n---';
