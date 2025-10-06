@@ -25,11 +25,15 @@ const generatePageFrontmatter = (metadata, slug) => {
   const pageConfig = PAGE_CONFIG[slug] || {};
   const layout = pageConfig.layout || 'page';
 
+  // Root-level pages don't need /pages/ prefix
+  const rootPages = ['contact', 'reviews'];
+  const permalink = rootPages.includes(slug) ? `/${slug}/` : `/pages/${slug}/`;
+
   let frontmatter = `---
 header_text: "${metadata.header_text || metadata.title || ''}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
-permalink: "/pages/${slug}/"
+permalink: "${permalink}"
 layout: ${layout}`;
 
   // Add navigation if configured
