@@ -7,7 +7,15 @@ const { createConverter } = require('../utils/base-converter');
 const { convertSingle } = createConverter({
   contentType: 'page',
   extractors: {},
-  frontmatterGenerator: (metadata, slug) => generatePageFrontmatter(metadata, slug)
+  frontmatterGenerator: (metadata, slug) => generatePageFrontmatter(metadata, slug),
+  beforeWrite: async (content) => {
+    // Remove "Click Here" link and everything after (duplicate reviews and form)
+    const linkIndex = content.indexOf('[Click Here To Leave A Review!]');
+    if (linkIndex !== -1) {
+      return content.substring(0, linkIndex).trim();
+    }
+    return content;
+  }
 });
 
 /**

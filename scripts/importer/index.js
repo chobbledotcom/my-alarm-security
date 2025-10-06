@@ -84,7 +84,7 @@ const main = async () => {
     tracker.add('Blog Index', convertBlogIndex());
     console.log('');
 
-    tracker.add('Reviews Index', convertReviewsIndex());
+    tracker.add('Reviews Index', await convertReviewsIndex());
     console.log('');
 
     tracker.displaySummary();
