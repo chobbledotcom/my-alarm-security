@@ -4,6 +4,9 @@ meta_title: "Reviews"
 meta_description: "Reviews"
 permalink: "/pages/reviews/"
 layout: page
+eleventyNavigation:
+  key: Reviews
+  order: 4
 ---
 
 # Reviews

@@ -8,7 +8,7 @@ const generatePageFrontmatter = (metadata, slug) => {
   // Define pages that should appear in navigation
   const navPages = {
     'about-us': { key: 'About', order: 2 },
-    'contact': { key: 'Contact', order: 5 }
+    'contact': { key: 'Contact', order: 6 }
   };
 
   // Define custom layouts for specific pages
@@ -51,7 +51,7 @@ date: ${date}
 header_text: "${metadata.header_text || metadata.title || ''}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
-permalink: "/news/${slug}/"
+permalink: "/blog/${slug}/"
 ---`;
 };
 

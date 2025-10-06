@@ -65,8 +65,8 @@ const convertPages = async () => {
   }
   totalFiles += pageFiles.length;
 
-  // Convert root-level pages (contact, reviews, etc.)
-  const rootPages = ['contact.php.html', 'reviews.php.html'];
+  // Convert root-level pages (contact only - reviews handled by reviews-index-converter)
+  const rootPages = ['contact.php.html'];
   for (const file of rootPages) {
     try {
       const filePath = path.join(config.OLD_SITE_PATH, file);

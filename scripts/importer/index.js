@@ -8,7 +8,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
-const { convertPages, convertBlogPosts, convertProducts, convertCategories, convertHomeContent } = require('./converters');
+const { convertPages, convertBlogPosts, convertProducts, convertCategories, convertHomeContent, convertBlogIndex, convertReviewsIndex } = require('./converters');
 const { extractFavicons } = require('./utils/favicon-extractor');
 const config = require('./config');
 
@@ -102,6 +102,12 @@ const main = async () => {
     results.categories = await convertCategories();
     console.log('');
 
+    results.blogIndex = convertBlogIndex();
+    console.log('');
+
+    results.reviewsIndex = convertReviewsIndex();
+    console.log('');
+
     // Display summary
     console.log('='.repeat(50));
     console.log('Conversion Summary:');
@@ -113,6 +119,8 @@ const main = async () => {
     displayResults('Blog Posts', results.blog);
     displayResults('Products', results.products);
     displayResults('Categories', results.categories);
+    displayResults('Blog Index', results.blogIndex);
+    displayResults('Reviews Index', results.reviewsIndex);
 
     const totalConverted = Object.values(results).reduce((sum, r) => sum + r.successful, 0);
     const totalFailed = Object.values(results).reduce((sum, r) => sum + r.failed, 0);
