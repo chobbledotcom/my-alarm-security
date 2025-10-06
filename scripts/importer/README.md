@@ -52,26 +52,44 @@ node scripts/importer/verify-cleanup.js
 
 ## Folder Cleaning Behavior
 
-The importer manages these folders:
+The importer uses smart cleanup to preserve non-imported files:
 
-**Full cleanup (recursive delete and recreate):**
+**Full cleanup (all files):**
 - `images/` - Completely removed and recreated (including subdirectories)
+- `news/` - All files removed (only contains imported blog posts)
+- `products/` - All files removed (only contains imported products)
+- `categories/` - All files removed (only contains imported categories)
+- `assets/favicon/` - All files removed (only contains imported favicons)
 
-**File-only cleanup (preserves directory structure):**
-- `pages/` - Files removed, directory preserved
-- `news/` - Files removed, directory preserved
-- `products/` - Files removed, directory preserved
-- `categories/` - Files removed, directory preserved
-- `reviews/` - Files removed, directory preserved
-- `assets/favicon/` - Files removed, directory preserved
+**Selective cleanup (only imported files):**
+- `pages/` - Only deletes files from old_site (preserves `home.md`, `not-found.md`, `products.md`, `service-areas.md`, `thank-you.md`)
+- `reviews/` - Only deletes product reviews from old_site (preserves Google reviews with `-google-` in filename)
 
 **Protected folders (never touched):**
 - `.git/`, `scripts/`, `old_site/`, `css/`, `app/`, `_data/`, `_includes/`, `_layouts/`
 
+**How it works:**
+
+The `prepDir()` function accepts an optional filter function:
+```javascript
+prepDir(dir, shouldDelete)  // shouldDelete(filename) returns true to delete
+```
+
+Examples:
+```javascript
+// Delete all files
+prepDir(outputDir);
+
+// Delete only imported pages (preserve manually created)
+const importedPageNames = new Set(['about-us.md', 'contact.md', ...]);
+prepDir(outputDir, filename => importedPageNames.has(filename));
+```
+
 This ensures:
 - Fresh content on each import
 - No stale files from previous runs
-- Existing images are fully replaced
+- Manually created files are preserved
+- Google reviews are not deleted
 - Protected folders remain intact
 
 ## Module Responsibilities
