@@ -7,10 +7,6 @@ meta_description: "Does Your Alarm System Need A Service Or A New Battery? Orpin
 permalink: "/blog/does-your-alarm-system-need-a-service-or-a-new-battery/"
 ---
 
-#### Does Your Alarm System Need A Service Or A New Battery?
-
-# Does Your Alarm System Need A Service Or A New Battery? 
-
 We often get phone calls from people who can no longer get hold of the original installer of their alarm system. Maybe the company was sold, the owners retired or the company was re-branded. Whatever the reason, this is definitely something we are able to help with.
 
 [Burglar Alarm](/categories/burglar-alarms/) Systems & [CCTV](/categories/cctv/) - [Service, Repair, Upgrades, New Systems, Decommissions](/categories/servicing-and-repairs/). We are specialists in all types of home and business security with well over 25 years experience. There isn\'t many alarm panels on the market that we don\'t know. We offer alarm servicing & battery changes without the hefty contracted monthly and yearly payments. We understand that not everyone wants to be tied into a contract so we offer call outs as and when needed. You just pay for us when you need or want us. It doesn\'t matter that we didn\'t install your alarm system, having been in the trade for as long as we have, we know most panels inside out and carry stock including alarm batteries and replacement sensors on board our vans at all times.

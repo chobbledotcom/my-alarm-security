@@ -7,10 +7,6 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/blog/matt-black-keypad/"
 ---
 
-#### Matt Black Keypad
-
-# Matt Black Keypad
-
 On our recent installation in [Orpington](/pages/orpington/) on the borders of Petts Wood and Chislehurst we installed a wired version of our very popular smart wireless home security alarm systems found here [Special Offers](/categories/special-offers/).
 
 The customer had fully refurbished a lovely bungalow and wanted a Burglar alarm security system with a flush keypad finished in matt black and we provided exactly that.

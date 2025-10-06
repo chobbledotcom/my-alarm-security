@@ -7,8 +7,6 @@ permalink: "/categories/burglar-alarms/"
 featured: false
 ---
 
-# Burglar Alarms 
-
 Why wait until a break in or an attempted break in to have home security or a burglar alarm fitted? With so many burglaries and attempted break-ins, don\'t leave it until its to late. Protect what is yours and deter any intruders by installing a **MyAlarm Security Burglar Alarm System**.
 
 Based in Sidcup, [Bexley](/pages/bexley/) on the borders of New Eltham, London and Kent, we offer a free survey/design where our highly skilled engineers will go through all the options with you. We don\'t send out a sales guy who has never picked up a tool and who just gives you a sales pitch, we send an experienced engineer who knows exactly what they are talking about and can explain all the features of the system that they will be installing along with advising the best positions for the equipment. With over 30 years of experience in domestic and commercial security, our engineers know the equipment and security systems they fit inside out.

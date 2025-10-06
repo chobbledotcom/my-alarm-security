@@ -1,7 +1,7 @@
 ---
 title: "Cctv Package 2 £1199 24hr Colour Cctv"
 price: "£1199.00"
-header_text: "Cctv Package 2 £1199 24hr Colour Cctv"
+header_text: "CCTV Package 2"
 meta_title: "Colour Cctv Package Bexley Dartford Orpington And Burglar Alarm - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065"
 permalink: "/products/cctv-package-2-1199-24hr-colour-cctv/"
@@ -40,5 +40,3 @@ Our Prices!
 ------------------------------------------------------------------------
 
 [ Back To Cctv](/categories/cctv/)
-
-# CCTV Package 2

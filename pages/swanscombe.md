@@ -1,12 +1,10 @@
 ---
-header_text: "Swanscombe"
+header_text: "Burglar Alarm System in Swanscombe"
 meta_title: "Burglar Alarm System And Cctv Systems In Swanscombe, Kent Da - My Alarm Security"
 meta_description: "Burglar Alarm System Swanscombe. CCTV systems Swanscombe. Home Security Systems, Burglar Alarm Service Battery. Contact us for more information 020 8302 4065."
 permalink: "/pages/swanscombe/"
 layout: page
 ---
-
-# Burglar Alarm System in Swanscombe  
 
 Does your burglar alarm need a service or a battery change? Maybe you are looking to upgrade your existing system or have a brand new burglar alarm system installed at your home or business premises? We can help! We offer the latest smart app controlled burglar alarm systems which allows you to monitor your home and business security system from anywhere in the world. Our app based smart alarms allow you to remotely set/unset your system as well as notifying you of any alarm activations within your property. This feature also allows you to part set your alarm system so you can have all of the sensors activated or just selected sensors (perfect if you have guests staying or want to set the alarm to monitor the perimeter). Take a look at some of our premade existing packages. We can create any package to suit your requirements. Take a look at some of our current packages here: [Burglar Alarm System Swanscombe](/categories/burglar-alarms/).
 

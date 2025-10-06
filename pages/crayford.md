@@ -1,12 +1,10 @@
 ---
-header_text: "Crayford"
+header_text: "Burglar Alarm Servicing in Crayford"
 meta_title: "Alarm System Crayford, Cctv Crayford. Alarm Service Crayford - My Alarm Security"
 meta_description: "Alarm System Crayford, CCTV Crayford. Alarm Service Crayford, Alarm Battery Replacement Crayford, Home Alarm System Crayford. Tel 020 8302 4065"
 permalink: "/pages/crayford/"
 layout: page
 ---
-
-# Burglar Alarm Servicing in Crayford 
 
 Does your existing house alarm need a service or a new battery? Maybe you have a zone fault or a tamper? Or maybe you just want a service and the system checked over. We offer servicing, alarm system battery changes, sensor replacements, panel replacements and more for all makes and models of alarm systems. If you do not know the brand of alarm system, dont worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [Burglar Alarm services in Crayford.](/categories/servicing-and-repairs/)
 

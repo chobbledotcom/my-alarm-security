@@ -1,12 +1,10 @@
 ---
-header_text: "Greenwich"
+header_text: "Burglar Alarm Systems in Greenwich"
 meta_title: "Burglar Alarm System Battery Greenwich Cctv Systems In Greenwich - My Alarm Security"
 meta_description: "Burglar Alarm System Greenwich. CCTV systems Greenwich. Home Security, Burglar Alarm Service Alarm Battery Greenwich. Intruder. Contact us  020 8302 4065."
 permalink: "/pages/greenwich/"
 layout: page
 ---
-
-# Burglar Alarm Systems in Greenwich 
 
 Looking for a reliable burglar alarm system in Greenwich? Based in nearby Sidcup, we\'re a trusted local, family-run security company serving Greenwich and the entire Royal Borough of Greenwich. We specialise in the installation, maintenance and servicing of all makes and models of burglar alarm systems for both homes and businesses.
 

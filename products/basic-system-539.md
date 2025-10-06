@@ -1,7 +1,7 @@
 ---
 title: "Basic System £539"
 price: "£539.00"
-header_text: "Basic System £539"
+header_text: "Basic System"
 meta_title: "Intruder Burglar Alarm System Company Bexley - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV packages. Call 020 8302 4065"
 permalink: "/products/basic-system-539/"
@@ -41,8 +41,6 @@ Our Prices!
 ------------------------------------------------------------------------
 
 [ Back To Burglar Alarms](/categories/burglar-alarms/)
-
-# Basic System 
 
 Our basic package was primarily designed for use in properties such as flats, upper maisonettes and some open plan commercial premises.
 

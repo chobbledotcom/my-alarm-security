@@ -1,12 +1,10 @@
 ---
-header_text: "Longfield"
+header_text: "Burglar Alarm Servicing in Longfield"
 meta_title: "Alarm System Longfield, Cctv Longfield. Alarm Service Longfield - My Alarm Security"
 meta_description: "Alarm System Longfield, CCTV Longfield. Alarm Service Longfield, Alarm Battery Replacement Longfield, Home Alarm System Longfield. Tel 020 8302 4065"
 permalink: "/pages/longfield/"
 layout: page
 ---
-
-# Burglar Alarm Servicing in Longfield 
 
 Are you looking for a burglar alarm engineer in or around Longfield? Maybe you cant get hold of your original installer/company or maybe you have inherited the system and not sure who installed or services your burglar alarm system. Do not worry, we can certainly help. If you need your burglar alarm system serviced, or need the batteries changed, it has a fault or a part needs replacing, this is something that we can help with. Give us a call or send us an email and our friendly and helpful team can answer any of your questions and get you booked in. [Contact us here.](/contact/) We are a local family run company based in Sidcup with over 30 years experience in the electronic security industry. There isn\'t any alarm system panels out there that we do not know.
 

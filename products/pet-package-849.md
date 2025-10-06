@@ -1,7 +1,7 @@
 ---
 title: "Pet Package £849"
 price: "£849.00"
-header_text: "Pet Package £849"
+header_text: "Pet Package"
 meta_title: "Pet Friendly Burglar Alarm System Orpington Bromley Bexley - My Alarm Security"
 meta_description: "Pet friendly home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV packages. Call 020 8302 4065"
 permalink: "/products/pet-package-849/"
@@ -42,8 +42,6 @@ Our Prices!
 ------------------------------------------------------------------------
 
 [ Back To Burglar Alarms](/categories/burglar-alarms/)
-
-# Pet Package
 
 Our pet package was designed for premises with cats and/or dogs over 24 kg\'s.
 

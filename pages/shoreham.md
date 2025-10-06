@@ -1,12 +1,10 @@
 ---
-header_text: "Shoreham"
+header_text: "Burglar Alarm System Shoreham"
 meta_title: "Local Security Company. Alarm System Shoreham, Cctv Shoreham. - My Alarm Security"
 meta_description: ""
 permalink: "/pages/shoreham/"
 layout: page
 ---
-
-# Burglar Alarm System Shoreham 
 
 If it is a new home security system in Shoreham, Kent that you are looking to get or maybe you would like a burglar alarm system installed at your business premises instead, MyAlarm Security can help. We offer the latest in smart security systems with app integration which allows you to remotely set and unset your system as well as be notified of any alarm activations from anywhere in the world. The app can be set up on various devices so all members of the family can have access.
 

@@ -1,13 +1,11 @@
 ---
 title: "Special Offers"
-header_text: "Special Offers"
+header_text: "SPECIAL OFFERS FOR BURGLAR ALARM AND CCTV PACKAGES"
 meta_title: "Special Offers"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or send us an email."
 permalink: "/categories/special-offers/"
 featured: false
 ---
-
-# **SPECIAL OFFERS FOR BURGLAR ALARM AND CCTV PACKAGES** 
 
 We have been in the home and business security industry for over 30 years and during that time have visited and installed home security systems and business security systems such as [burglar alarms](burglar-alarms.php.html), [CCTV](cctv.php.html), [door entry systems and access control](access-control.php.html) to many properties throughout London and Kent. We are based in Sidcup, Bexley right on the borders of New Eltham.
 

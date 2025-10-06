@@ -1,12 +1,10 @@
 ---
-header_text: "Greenhithe"
+header_text: "Burglar Alarm System in Greenhithe"
 meta_title: "Burglar Alarm System Greenhithe Cctv Systems In Greenhithe - My Alarm Security"
 meta_description: ""
 permalink: "/pages/greenhithe/"
 layout: page
 ---
-
-# Burglar Alarm System in Greenhithe  
 
 Need your existing alarm system serviced? Maybe you need a battery change or one of the parts has stopped working? Or maybe you are looking to have a brand new smart alarm system installed in Greenhithe - we can help with it all. Home or business burglar alarm systems, we can provide any package to suit you. Maybe you have pets and are worried they may set the alarm off? We offer pet friendly systems and packages to suit any building layout. Take a look at some of our premade packages here: [Burglar Alarm Systems in Greenhithe](/categories/burglar-alarms/). All of our packages can be tailored to suit you so we can add additional sensors, keyfobs and door contacts to create a home or business security system to suit your needs.
 

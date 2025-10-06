@@ -7,10 +7,6 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/blog/ladder-stand-off/"
 ---
 
-#### Ladder Stand-off
-
-# Ladder Stand-off
-
 Pretty boring i know but this new piece of kit we brought is amazing. Such a simple idea thats been around for years but never really thought it would benefit us but my goodness - does it!
 
 On a recent install of a smart [**home security burglar alarm system in Bexley**](/categories/burglar-alarms/) on the borders of Sidcup we were offered to use one at one our customers houses as they were trying to point our how good they were, we tried it and immediately went out to get one. They make you feel soo much safer and especially if there is a pitched roof in the way of getting up to high level to fit the external siren.

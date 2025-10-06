@@ -1,12 +1,10 @@
 ---
-header_text: "Sevenoaks"
+header_text: "Home and Business Alarm Systems and CCTV in Sevenoaks, Kent"
 meta_title: "Home Alarm System Home Cctv Sevenoaks - My Alarm Security"
 meta_description: "Looking for an Intruder Alarm or CCTV for your home or business? Alarm Battery. Bexley, Dartford, Orpington, Bromley, Sevenoaks, Greenwich. Tel 020 8302 4065."
 permalink: "/pages/sevenoaks/"
 layout: page
 ---
-
-# Home and Business Alarm Systems and CCTV in Sevenoaks, Kent 
 
 Nestled in the heart of Kent, the Borough of Sevenoaks offers a unique blend of rich history, stunning landscapes and modern amenities. Whether you\'re a resident or a visitor, Sevenoaks provides an inviting atmosphere that celebrates both its heritage and its vibrant present.
 

@@ -1,12 +1,10 @@
 ---
-header_text: "Keston"
+header_text: "Burglar Alarm System Keston"
 meta_title: "Alarm System Keston, Cctv Keston. Alarm Service Battery Keston - My Alarm Security"
 meta_description: ""
 permalink: "/pages/keston/"
 layout: page
 ---
-
-# Burglar Alarm System Keston 
 
 If you are looking for a local home and business security company, then you have come to the right place! We are a family run company based in Sidcup and cover Keston, Bromley and surrounding areas for all things home and business security related. If your existing burglar alarm system has developed a fault or it needs an alarm system service - or maybe you are looking to get a brand new system installed or upgraded, then give us a call. We can create any package to suit your needs. Why not check out some of our existing packages here: [Burglar Alarm Systems in Keston.](/categories/burglar-alarms/)
 

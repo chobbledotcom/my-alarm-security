@@ -1,12 +1,10 @@
 ---
-header_text: "Orpington"
+header_text: "Alarm System and CCTV in Orpington"
 meta_title: "Burglar Alarm Service And Battery And Cctv Company In Orpington - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV.. Call 020 8302 4065 or send an email."
 permalink: "/pages/orpington/"
 layout: page
 ---
-
-# **Alarm System and CCTV in Orpington** 
 
 We are a local, family run security company offering the latest in home and business security. We are based in Sidcup right by the borders of New Eltham, but also right beside the A20 so within a few minutes of Orpington (providing the A20 and Crittals Corner roundabout isn\'t backed up) Being so local, we have knowledge of the area and the streets within and surrounding (perfect if you ever need an emergency call out).
 

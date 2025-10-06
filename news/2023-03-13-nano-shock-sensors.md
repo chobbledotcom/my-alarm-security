@@ -1,15 +1,11 @@
 ---
 title: "Nano Shock Sensors"
 date: 2023-03-13
-header_text: "Nano Shock Sensors"
+header_text: "Nano shock sensors"
 meta_title: "House Alarm Alarm Battery Orpington - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Orpington. Call 020 8302 4065"
 permalink: "/blog/nano-shock-sensors/"
 ---
-
-#### Nano Shock Sensors
-
-# Nano shock sensors
 
 !Can you spot our new shock sensors for our home alarm system? Probably not, they are tiny. Not only are they tiny but they come in a range of colours to suit your property. Home security [burglar alarm systems](/categories/burglar-alarms/) don\'t have to look ugly. These ones were fitted to sliding doors finished in anthracite grey and they are available in white, black, brown and these anthracite grey.
 

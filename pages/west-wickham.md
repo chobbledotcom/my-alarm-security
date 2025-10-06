@@ -1,12 +1,10 @@
 ---
-header_text: "West Wickham"
+header_text: "West Wickham Security"
 meta_title: "Burglar Alarm System West Wickham Security Cctv Systems - My Alarm Security"
 meta_description: "Burglar Alarm System West Wickham Security for homes and Business. CCTV. Home Security Systems, Burglar Alarm Service Alarm Battery. Contact us  020 8302 4065."
 permalink: "/pages/west-wickham/"
 layout: page
 ---
-
-# West Wickham Security 
 
 Does your burglar alarm system in West Wickham need a maintenance service? Maybe you need a sensor moved or taken down for decorating or refurbishment works? Or maybe you would like to add some additional sensors? Whatever you need, from a [routine service](/categories/servicing-and-repairs/) and battery changes to a brand new system, we can help with it all.
 

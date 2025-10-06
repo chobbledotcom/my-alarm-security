@@ -1,7 +1,7 @@
 const path = require('path');
 const config = require('../config');
 const { listHtmlFiles, prepDir } = require('../utils/filesystem');
-const { extractCategoryName } = require('../utils/metadata-extractor');
+const { extractCategoryName, extractContentHeading } = require('../utils/metadata-extractor');
 const { generateCategoryFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadEmbeddedImages } = require('../utils/image-downloader');
 const { createConverter } = require('../utils/base-converter');
@@ -9,13 +9,14 @@ const { createConverter } = require('../utils/base-converter');
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'category',
   extractors: {
-    categoryName: (htmlContent) => extractCategoryName(htmlContent)
+    categoryName: (htmlContent) => extractCategoryName(htmlContent),
+    categoryHeading: (htmlContent) => extractContentHeading(htmlContent)
   },
   frontmatterGenerator: (metadata, slug, extracted) => {
     if (extracted.categoryName) {
       metadata.title = extracted.categoryName;
     }
-    return generateCategoryFrontmatter(metadata, slug);
+    return generateCategoryFrontmatter(metadata, slug, extracted.categoryHeading);
   },
   beforeWrite: async (content, extracted, slug) =>
     await downloadEmbeddedImages(content, 'categories', slug)

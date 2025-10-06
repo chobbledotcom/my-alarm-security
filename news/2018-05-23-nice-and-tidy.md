@@ -7,10 +7,6 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/blog/nice-and-tidy/"
 ---
 
-#### Nice And Tidy
-
-# Nice And Tidy
-
 We had to take a picture of this one from a job in Petts Wood, Orpington.
 
 The customer decided they wanted their [Smart Controlled Burglar Alarm Panel](/categories/burglar-alarms/) just outside their cupboard under the stairs for ease of access so we obliged and kept it all as neat as always.

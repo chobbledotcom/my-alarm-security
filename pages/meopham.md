@@ -1,12 +1,10 @@
 ---
-header_text: "Meopham"
+header_text: "Burglar Alarm System Meopham"
 meta_title: "Alarm System Meopham, Cctv Meopham, House Alarm Service Meopham - My Alarm Security"
 meta_description: ""
 permalink: "/pages/meopham/"
 layout: page
 ---
-
-# Burglar Alarm System Meopham 
 
 If youre looking for a home and business security company, then you have come to the right place! We are a family run company based in Sidcup and cover Meopham and surrounding areas for all things home and business security related. So if your existing burglar alarm system has developed a fault or it needs an alarm system service - or maybe you are looking to get a brand new system installed or your old one upgraded, then give us a call or send us an email. We can create any package to suit your needs. Why not check out some of our existing packages here: [Burglar Alarm Systems in Meopham.](/categories/burglar-alarms/)
 

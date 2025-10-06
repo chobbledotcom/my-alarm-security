@@ -1,12 +1,10 @@
 ---
-header_text: "Sidcup"
+header_text: "Burglar Alarm System Sidcup"
 meta_title: "Burglar Alarm System Sidcup Cctv Systems In Sidcup, Kent - My Alarm Security"
 meta_description: "Burglar Alarm System Sidcup. CCTV systems Sidcup. Home Security Systems, Burglar Alarm Service Alarm Battery Sidcup. Alarm Company Near Me Sidcup 020 8302 4065."
 permalink: "/pages/sidcup/"
 layout: page
 ---
-
-# Burglar Alarm System Sidcup 
 
 We are a local family run home and business security company based in Sidcup. We cover the whole of the Bexley borough as well as the boroughs of Greenwich, Dartford, Bromley and surrounding area installing, maintaining and servicing burglar alarm systems. We specialise in all aspects of home and business electronic security such as door entry systems, access control systems and CCTV systems. If you are thinking of having a brand new burglar alarm system installed at your property in Sidcup or are looking to upgrade your current system, we can help. We offer a free no obligation site survey where we can show you a demo kit of the system that we would later install. We will identify vulnerable access areas and go though sensor placement with you. A burglar alarm system survey takes less than 10 minutes, so no need to put on the kettle, we wont take up to much of your time but will be happy to answer as many questions that you have to help you make the right decision and for you to be confident with the equipment and the company you are choosing to install your home securty system. We wont spend hours trying to hard sell you a system. We will give you the price there and then and then leave it up to you to decide if you want to proceed. We will never, ever chase you.
 

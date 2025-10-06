@@ -1,7 +1,7 @@
 const path = require('path');
 const config = require('../config');
 const { listHtmlFiles, prepDir, writeMarkdownFile } = require('../utils/filesystem');
-const { extractPrice, extractReviews, extractProductName, extractProductImages } = require('../utils/metadata-extractor');
+const { extractPrice, extractReviews, extractProductName, extractProductImages, extractContentHeading } = require('../utils/metadata-extractor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadProductImage, downloadEmbeddedImages } = require('../utils/image-downloader');
 const { scanProductCategories } = require('../utils/category-scanner');
@@ -13,6 +13,7 @@ const { convertSingle, convertBatch } = createConverter({
     price: (htmlContent) => extractPrice(htmlContent),
     reviews: (htmlContent) => extractReviews(htmlContent),
     productName: (htmlContent) => extractProductName(htmlContent),
+    productHeading: (htmlContent) => extractContentHeading(htmlContent),
     images: (htmlContent) => extractProductImages(htmlContent)
   },
   frontmatterGenerator: (metadata, slug, extracted) => {
@@ -24,7 +25,8 @@ const { convertSingle, convertBatch } = createConverter({
       extracted.price,
       categories,
       extracted.productName,
-      localImages
+      localImages,
+      extracted.productHeading
     );
   },
   beforeWrite: async (content, extracted, slug) => {

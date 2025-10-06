@@ -7,10 +7,6 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/blog/long-drill-bit/"
 ---
 
-#### Long Drill Bit
-
-# Long Drill Bit
-
 It\'s not often that we need drill bits like this one on Home security installations but when we do it\'s nice to have everything you need on board.
 
 This drill bit is 10mm in diameter and a whopping 1 meter long, there isn\'t a wall we can\'t get through. This particular job was a home security [CCTV system](/categories/cctv/) in Eltham/New Eltham borders and was installed after the customer had an incident with their car, now after the CCTV installation they can rest in the peace of mind that if there is an incident then it will be on camera. We offer a minimum of 30 days storage on our CCTV systems and they are all crisp HD images, and with the addition of our new ColorVu cameras you can pick out exact colours even in the dead of night, with conventional cameras dark colours are a mix of different shades of grey but with the new ColorVu CCTV you can tell the difference between dark blue and black.

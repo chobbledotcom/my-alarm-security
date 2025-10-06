@@ -1,12 +1,10 @@
 ---
-header_text: "West Kingsdown"
+header_text: "Burglar Alarm Servicing in West Kingsdown"
 meta_title: "Burglar Alarm System West Kingsdown Cctv System West Kingsdown - My Alarm Security"
 meta_description: "Home Burglar Alarm System West Kingsdown. CCTV systems West Kingsdown. Home Security Systems, Burglar Alarm Service Battery. Alarm Company Near Me 020 8302 4065"
 permalink: "/pages/west-kingsdown/"
 layout: page
 ---
-
-# Burglar Alarm Servicing in West Kingsdown 
 
 Does your existing house alarm need a new battery? Maybe you have a zone fault? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarm systems. If you dont know the brand of alarm system, dont worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [burglar alarm services in West Kingsdown.](/categories/servicing-and-repairs/)
 

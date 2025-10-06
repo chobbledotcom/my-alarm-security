@@ -1,15 +1,11 @@
 ---
 title: "Pir Movement Sensor"
 date: 2018-05-11
-header_text: "Pir Movement Sensor"
+header_text: "PIR Movement Sensor"
 meta_title: "Burglar Alarm Engineer Sidcup Bexley - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/pir-movement-sensor/"
 ---
-
-#### Pir Movement Sensor
-
-# PIR Movement Sensor
 
 The movement sensors we use are in our professional opinion - fantastic. Over the years we have used many different brands or burglar alarms and sensors and think that these are most definitely the best. When movement is detected, it will trigger your security alarm with an internal and external siren. Via the app, you will then be notified on your mobile device exactly where in the property the activation has occured.
 

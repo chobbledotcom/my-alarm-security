@@ -1,15 +1,11 @@
 ---
 title: "Myalarm Security"
 date: 2023-04-03
-header_text: "Myalarm Security"
+header_text: "MyAlarm Security"
 meta_title: "Burglar Alarm And Cctv Company Alarm Battery Orpington - My Alarm Security"
 meta_description: "For all of your home and business security, we offer a free survey of your property for a burglar alarm system and cctv system. Contact us now 020 8302 4065"
 permalink: "/blog/myalarm-security/"
 ---
-
-#### Myalarm Security
-
-# MyAlarm Security
 
 According to recent statistics, crime is on the up! Car theft and home burglaries have been on the rise in many areas across London and Kent. In response to this, many homeowners are now looking to install advanced [burglar alarm systems](/categories/burglar-alarms/) and [CCTV](/categories/cctv/) at their homes to protect their property and loved ones.
 

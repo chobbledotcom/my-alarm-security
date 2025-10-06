@@ -1,15 +1,11 @@
 ---
 title: "Complete Security In New Eltham"
 date: 2018-06-28
-header_text: "Complete Security In New Eltham"
+header_text: "Complete Security in New Eltham"
 meta_title: "Home Burglar Alarm And Cctv New Eltham - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/complete-security-in-new-eltham/"
 ---
-
-#### Complete Security In New Eltham
-
-# Complete Security in New Eltham
 
 We have lots of enquiries lately for [Burglar Alarms](/categories/burglar-alarms/) and [CCTV](/categories/cctv/) in New Eltham, this property in New Eltham on the Sidcup and Bexley borders enquired about a CCTV install and was soon blown away by the app control for both the [Burglar Alarm](/categories/burglar-alarms/) and [CCTV](/categories/cctv/) Systems.
 

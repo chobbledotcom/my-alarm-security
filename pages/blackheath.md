@@ -1,12 +1,10 @@
 ---
-header_text: "Blackheath"
+header_text: "Burglar Alarm System in Blackheath"
 meta_title: "Burglar Alarm System Cctv In Blackheath Greenwich Alarm Company - My Alarm Security"
 meta_description: "Burglar Alarm System Blackheath. CCTV Systems Blackheath. Home Security System, Burglar Alarm Service Battery. Alarm Company Near Me Blackheath 020 8302 4065"
 permalink: "/pages/blackheath/"
 layout: page
 ---
-
-# Burglar Alarm System in Blackheath 
 
 If you are looking for a local home and business security company, then you have come to the right place! We are a family run company based in Sidcup and cover Blackheath and surrounding areas for all things home and business security related. If your existing burglar alarm system has developed a fault, has a low battery or it needs an alarm system service then give us a call. Have a look at some of our most popular packages here: [Burglar Alarm System Blackheath.](/categories/burglar-alarms/) We can create any package to suit your property and requirements.
 

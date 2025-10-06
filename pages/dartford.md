@@ -1,12 +1,10 @@
 ---
-header_text: "Dartford"
+header_text: "Burglar Alarm Servicing in Dartford"
 meta_title: "Burglar Alarm System Dartford Cctv Dartford, Alarm Battery - My Alarm Security"
 meta_description: "Home Burglar Alarm System Dartford. CCTV Dartford. Home Security System, Burglar Alarm Service Battery. Alarm Company Near Me Dartford, Bexley 020 8302 4065"
 permalink: "/pages/dartford/"
 layout: page
 ---
-
-# Burglar Alarm Servicing in Dartford 
 
 Does your existing house alarm need a service or a new battery? Maybe you have a zone fault or a tamper? Or maybe you just want a service and the system checked over. We offer servicing, alarm system battery changes, sensor replacements, panel replacements and more for all makes and models of alarm systems. If you do not know the brand of alarm system, dont worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [burglar alarm services in Dartford.](/categories/servicing-and-repairs/)
 

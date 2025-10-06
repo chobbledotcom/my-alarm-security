@@ -1,17 +1,18 @@
 const path = require('path');
 const config = require('../config');
 const { listHtmlFiles, prepDir } = require('../utils/filesystem');
-const { extractBlogDate } = require('../utils/metadata-extractor');
+const { extractBlogDate, extractBlogHeading } = require('../utils/metadata-extractor');
 const { generateBlogFrontmatter } = require('../utils/frontmatter-generator');
 const { createConverter } = require('../utils/base-converter');
 
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'blog',
   extractors: {
-    date: (htmlContent, markdown) => extractBlogDate(markdown, config.DEFAULT_DATE)
+    date: (htmlContent, markdown) => extractBlogDate(markdown, config.DEFAULT_DATE),
+    blogHeading: (htmlContent) => extractBlogHeading(htmlContent)
   },
   frontmatterGenerator: (metadata, slug, extracted) => ({
-    frontmatter: generateBlogFrontmatter(metadata, slug, extracted.date),
+    frontmatter: generateBlogFrontmatter(metadata, slug, extracted.date, extracted.blogHeading),
     filename: `${extracted.date}-${slug}.md`
   })
 });

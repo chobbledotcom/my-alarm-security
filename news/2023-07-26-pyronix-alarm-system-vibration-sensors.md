@@ -7,10 +7,6 @@ meta_description: "For all of your home and business security - intruder alarm a
 permalink: "/blog/pyronix-alarm-system-vibration-sensors/"
 ---
 
-#### Pyronix Alarm System Vibration Sensors
-
-# Pyronix Alarm System Vibration Sensors
-
 When it comes to securing your property, it\'s important to have the right tools and systems in place. One essential component of any home or business alarm system is a sensor, and Pyronix is a trusted brand that offers reliable and high-quality options for protecting your home or business.
 
 Pyronix vibration sensors use advanced technology to detect movement and vibration. These sensors can be installed in various locations, including doors and windows to help detect any attempts at forced entry or tampering. In addition to detecting vibrations, some models also have built-in shock sensors that can detect when an object is struck or hit.

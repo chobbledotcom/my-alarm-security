@@ -1,12 +1,10 @@
 ---
-header_text: "Bexley"
+header_text: "Burglar Alarm System in Bexley"
 meta_title: "Burglar Alarm Battery Service Bexley Cctv In Bexley Home Security - My Alarm Security"
 meta_description: "Home Burglar Alarm System Bexley. CCTV Bexley. Home Security System, Burglar Alarm Service Battery. Alarm Company Near Me Bexley. Alarm Battery 020 8302 4065"
 permalink: "/pages/bexley/"
 layout: page
 ---
-
-# Burglar Alarm System in Bexley 
 
 Looking for a local, trusted security system company in Bexley? If you\'re based in Bexley or surrounding areas and need a friendly, dependable and local security system company, MyAlarm Security is here for you. Whether it\'s expert advice or a reliable service, we\'re ready to help. If you are interested in having a new burglar alarm system installed in your home or at your business - or if you are thinking about upgrading your current system, give us a call or send us an email. We can help with all aspects of your home and business security in Bexley from burglar alarm systems, to door entry systems and CCTV systems. We offer the latest in smart app controlled systems which via an app, can be monitored from anywhere in the world providing you have an internet connection.
 

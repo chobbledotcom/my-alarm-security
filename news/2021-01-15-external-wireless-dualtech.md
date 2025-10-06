@@ -1,15 +1,11 @@
 ---
 title: "External Wireless Dualtech"
 date: 2021-01-15
-header_text: "External Wireless Dualtech"
+header_text: "External wireless dualtech"
 meta_title: "Burglar Alarm Company Orpington Cctv Company Orpington - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Orpington. Call 020 8302 4065"
 permalink: "/blog/external-wireless-dualtech/"
 ---
-
-#### External Wireless Dualtech
-
-# External wireless dualtech
 
 Pyronix are the leaders in home security for building and [house alarms](/categories/burglar-alarms/) and are always evolving. They are always releasing new products to make your home even more secure. As our brand of choice, we bring to you the latest in home security.
 
