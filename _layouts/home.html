@@ -2,60 +2,47 @@
 layout: base.html
 ---
 
-<!-- Hero Section with Service Cards -->
-<section>
-  {% if home_content.hero %}
-  <div>
-    {% for card in home_content.hero.service_cards %}
-    <article>
-      <h2>{{ card.title }}</h2>
-      <p>{{ card.description }}</p>
-      <a href="{{ card.link }}">More Info</a>
-    </article>
-    {% endfor %}
-  </div>
-  {% endif %}
-</section>
-
-<!-- Main Content Section -->
-<section>
-  {% if home_content.main_content %}
-  <div>
-    {% for paragraph in home_content.main_content.paragraphs %}
-    <p>{{ paragraph }}</p>
-    {% endfor %}
-    {% if home_content.main_content.highlight %}
-    <p><strong>{{ home_content.main_content.highlight }}</strong></p>
+{% if home_content.hero %}
+<section class="featured">
+  {% for card in home_content.hero.service_cards %}
+  <article>
+    {% if card.image %}
+    <img src="{{ card.image }}" alt="{{ card.title }}" />
     {% endif %}
-  </div>
+    <h2>{{ card.title }}</h2>
+    <p>{{ card.description }}</p>
+    <a href="{{ card.link }}">More Info</a>
+  </article>
+  {% endfor %}
+</section>
+{% endif %} {% if home_content.main_content %}
+<section class="main-content">
+  {% for paragraph in home_content.main_content.paragraphs %}
+  <p>{{ paragraph }}</p>
+  {% endfor %} {% if home_content.main_content.highlight %}
+  <p><strong>{{ home_content.main_content.highlight }}</strong></p>
   {% endif %}
 </section>
-
-<!-- Why Choose Us Section -->
-<section>
-  {% if home_content.why_choose_us %}
-  <h2>{{ home_content.why_choose_us.heading }}</h2>
-  <div>
+{% endif %} {% if home_content.why_choose_us %}
+<h2 class="centered">{{ home_content.why_choose_us.heading }}</h2>
+<section class="why-choose-us">
+  <ul>
     {% for feature in home_content.why_choose_us.features %}
-    <article>
+    <li>
+      <img src="{{ feature.icon }}" alt="{{ feature.title }}" />
       <h3>{{ feature.title }}</h3>
-    </article>
+    </li>
     {% endfor %}
-  </div>
-  {% endif %}
+  </ul>
 </section>
-
-<!-- Reviews Section -->
-{% if home_content.reviews %}
+{% endif %} {% if home_content.reviews %}
 <section>
   <h2>{{ home_content.reviews.heading }}</h2>
   {% for review in home_content.reviews.items %}
   <article>
     <blockquote>
       <p>{{ review.text }}</p>
-      <footer>
-        <strong>{{ review.author }}</strong> - {{ review.date }}
-      </footer>
+      <footer><strong>{{ review.author }}</strong> - {{ review.date }}</footer>
     </blockquote>
   </article>
   {% endfor %}

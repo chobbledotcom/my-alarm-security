@@ -5,7 +5,7 @@ header_text: "Standard System £599"
 meta_title: "Standard System - Quality Systems, Professionally Fitted."
 meta_description: "Standard System - Fully Certified Engineers, 247 Customer Service, High Quality Systems, Professionally Fitted. We are right on the borders of London and Kent."
 permalink: "/products/standard-system-599/"
-categories: ["burglar-alarms"]
+categories: ["categories/burglar-alarms.md"]
 features: []
 header_image: "/images/products/standard-system-599.webp"
 ---

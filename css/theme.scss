@@ -20,6 +20,7 @@
   --nav-bg-color: #ec2023;
   --nav-link-color: #ffffff;
   --nav-link-active-color: #f5c211;
+  --main-heading-color: #ec2023;
   --form-border: 1px solid #ec2023;
   --form-input-bg-color: #e0e0e0;
   --form-button-border: 2px solid #ec2023;
@@ -27,4 +28,122 @@
   --form-button-hover-border: 2px solid #241f31;
 }
 
+@media (min-width: 769px) {
+  body.horizontal-nav main {
+    grid-template-columns: 1fr;
+    grid-template-rows: min-content;
+    grid-template-areas: "nav" "content";
+  }
+}
+
 /* body_classes: header-centered-dark */
+
+$mobile: 768px;
+$gap: 1rem;
+
+.centered {
+  text-align: center;
+}
+
+.featured {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: $gap;
+  margin-bottom: $gap * 2;
+
+  @media (max-width: $mobile) {
+    grid-template-columns: 1fr;
+  }
+
+  article {
+    display: grid;
+    grid-template-rows: auto auto auto 1fr;
+    padding: $gap * 0.5;
+    background: var(--color-bg);
+    border-radius: var(--border-radius);
+
+    img {
+      width: 100%;
+      height: auto;
+      margin-bottom: $gap;
+      border-radius: var(--border-radius);
+    }
+
+    h2 {
+      margin: 0 0 $gap 0;
+      color: var(--color-link);
+    }
+
+    p {
+      margin: 0 0 $gap 0;
+    }
+
+    a {
+      align-self: end;
+      justify-self: center;
+      display: inline-block;
+      padding: $gap * 0.5 $gap;
+      background: var(--color-link);
+      color: var(--nav-link-color);
+      text-decoration: none;
+      border-radius: var(--border-radius);
+
+      &:hover {
+        background: var(--form-button-hover-text-color);
+      }
+    }
+  }
+}
+
+.main-content {
+  margin-bottom: $gap * 4;
+}
+
+.why-choose-us {
+  margin-bottom: $gap * 4;
+
+  ul {
+    display: grid;
+    grid-template-columns: repeat(4, 200px);
+    justify-content: center;
+    gap: $gap * 2;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    @media (max-width: $mobile) {
+      grid-template-columns: repeat(2, 180px);
+      gap: $gap;
+    }
+  }
+
+  li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+
+    @media (max-width: $mobile) {
+      height: 180px;
+    }
+
+    img {
+      width: 180px;
+      height: 180px;
+      color: var(--color-link);
+
+      @media (max-width: $mobile) {
+        width: 160px;
+        height: 160px;
+      }
+    }
+
+    h3 {
+      margin-top: $gap;
+      color: var(--color-link);
+      font-size: 0.9rem;
+      text-align: center;
+    }
+  }
+}

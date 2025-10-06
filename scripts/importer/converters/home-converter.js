@@ -32,14 +32,15 @@ const convertHomeContent = () => {
       }
     };
 
-    // Extract service cards section
-    const serviceCardPattern = /<div class="col-xl-4[^>]*>[\s\S]*?<h3[^>]*style="color:[^"]*">([^<]+)<\/h3>[\s\S]*?<p class="card-text py-2">([^<]+)<\/p>[\s\S]*?<a href="([^"]+)"[^>]*>More Info<\/a>/g;
+    // Extract service cards section with images
+    const serviceCardPattern = /<div class="col-xl-4[^>]*>[\s\S]*?<img src="([^"]+)"[^>]*>[\s\S]*?<h3[^>]*style="color:[^"]*">([^<]+)<\/h3>[\s\S]*?<p class="card-text py-2">([^<]+)<\/p>[\s\S]*?<a href="([^"]+)"[^>]*>More Info<\/a>/g;
     let cardMatch;
     while ((cardMatch = serviceCardPattern.exec(html)) !== null) {
       homeContent.hero.service_cards.push({
-        title: cardMatch[1].trim(),
-        description: cardMatch[2].trim(),
-        link: cardMatch[3].replace('.php.html', '')
+        title: cardMatch[2].trim(),
+        description: cardMatch[3].trim(),
+        link: cardMatch[4].replace('.php.html', ''),
+        image: cardMatch[1].trim()
       });
     }
 
@@ -67,13 +68,25 @@ const convertHomeContent = () => {
       }
     }
 
-    // Extract "Why Choose Us" features
+    // Extract "Why Choose Us" features with icon mapping
     const featurePattern = /<div class="text-center[^>]*><strong>([^<]+)<\/strong><\/div>/g;
     let featureMatch;
+    let featureIndex = 0;
+    const iconMap = [
+      "/assets/icons/fully-certified-engineers.svg",
+      "/assets/icons/24-7-service.svg",
+      "/assets/icons/shield.svg",
+      "/assets/icons/tools.svg"
+    ];
     while ((featureMatch = featurePattern.exec(html)) !== null) {
       const title = featureMatch[1].trim();
       if (title && !title.includes('Our Service Areas')) {
-        homeContent.why_choose_us.features.push({ title });
+        const feature = { title };
+        if (featureIndex < iconMap.length) {
+          feature.icon = iconMap[featureIndex];
+        }
+        homeContent.why_choose_us.features.push(feature);
+        featureIndex++;
       }
     }
 

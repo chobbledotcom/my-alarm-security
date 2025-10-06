@@ -5,7 +5,7 @@ header_text: "Supreme Package 24hr Colour Cctv Plus Intruder Alarm System £1749
 meta_title: "Intruder Burglar Alarm And Cctv Company Orpington Bromley Eltham"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Orpington. Call 020 8302 4065"
 permalink: "/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749/"
-categories: ["burglar-alarms", "cctv", "special-offers"]
+categories: ["categories/burglar-alarms.md", "categories/cctv.md", "categories/special-offers.md"]
 features: []
 header_image: "/images/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.webp"
 ---

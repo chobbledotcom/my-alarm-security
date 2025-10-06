@@ -1,8 +1,14 @@
 media:
-  input: images
-  output: /images
-  path: images
-  categories: [image]
+  - name: Images
+    input: images
+    output: /images
+    path: images
+    categories: [image]
+  - name: Icons
+    input: assets/icons
+    output: /assets/icons
+    path: icons
+    categories: [image]
 content:
 
   - name: pages
@@ -243,6 +249,7 @@ content:
               - { name: title, type: string, label: Title, required: true }
               - { name: description, type: text, label: Description, required: true }
               - { name: link, type: string, label: Link, required: true }
+              - { name: image, type: image, label: Image }
       - name: main_content
         label: Main Content Section
         type: object
@@ -263,6 +270,7 @@ content:
             list: true
             fields:
               - { name: title, type: string, label: Feature Title, required: true }
+              - { name: icon, type: image, label: Icon, media: Icons }
       - name: reviews
         label: Reviews Section
         type: object
