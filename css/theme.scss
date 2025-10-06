@@ -236,24 +236,28 @@ $gap: 1rem;
       grid-area: review;
       font-family: var(--font-family-body);
       font-style: normal;
-      display: inline;
 
-      &::before {
-        content: "\201C";
-        font-size: 2rem;
-        line-height: 1;
-        vertical-align: top;
-        margin-right: 0.25rem;
-        color: var(--color-link);
-      }
+      p {
+        display: inline;
+        margin: 0;
 
-      &::after {
-        content: "\201D";
-        font-size: 2rem;
-        line-height: 1;
-        vertical-align: top;
-        margin-left: 0.25rem;
-        color: var(--color-link);
+        &:first-child::before {
+          content: "\201C";
+          font-size: 2rem;
+          line-height: 1;
+          vertical-align: top;
+          margin-right: 0.25rem;
+          color: var(--color-link);
+        }
+
+        &:last-child::after {
+          content: "\201D";
+          font-size: 2rem;
+          line-height: 1;
+          vertical-align: top;
+          margin-left: 0.25rem;
+          color: var(--color-link);
+        }
       }
     }
 
