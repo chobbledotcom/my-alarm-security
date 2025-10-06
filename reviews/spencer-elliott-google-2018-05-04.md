@@ -1,6 +1,7 @@
 ---
 name: Spencer Elliott
 url: https://www.google.com/maps/contrib/111240418985734624048?hl=en
+rating: 5
 ---
 
 True story, the wheel in my van fell off the other day, literally fell off while I was driving...
