@@ -29,11 +29,50 @@ scripts/importer/
 Run the conversion:
 ```bash
 # From project root
-node scripts/convert-old-site.js
+npm run convert-old-site
 
 # Or directly
 node scripts/importer/index.js
 ```
+
+### Testing Folder Cleanup
+
+The importer automatically cleans managed folders before running. To test this:
+
+```bash
+# 1. Create test marker files
+node scripts/importer/test-cleanup-simple.js
+
+# 2. Run the importer
+npm run convert-old-site
+
+# 3. Verify cleanup worked
+node scripts/importer/verify-cleanup.js
+```
+
+## Folder Cleaning Behavior
+
+The importer manages these folders:
+
+**Full cleanup (recursive delete and recreate):**
+- `images/` - Completely removed and recreated (including subdirectories)
+
+**File-only cleanup (preserves directory structure):**
+- `pages/` - Files removed, directory preserved
+- `news/` - Files removed, directory preserved
+- `products/` - Files removed, directory preserved
+- `categories/` - Files removed, directory preserved
+- `reviews/` - Files removed, directory preserved
+- `assets/favicon/` - Files removed, directory preserved
+
+**Protected folders (never touched):**
+- `.git/`, `scripts/`, `old_site/`, `css/`, `app/`, `_data/`, `_includes/`, `_layouts/`
+
+This ensures:
+- Fresh content on each import
+- No stale files from previous runs
+- Existing images are fully replaced
+- Protected folders remain intact
 
 ## Module Responsibilities
 
