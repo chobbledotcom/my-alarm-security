@@ -90,7 +90,7 @@ const main = async () => {
     console.log('');
 
     // Convert all content types
-    results.pages = convertPages();
+    results.pages = await convertPages();
     console.log('');
 
     results.blog = convertBlogPosts();
@@ -99,7 +99,7 @@ const main = async () => {
     results.products = await convertProducts();
     console.log('');
 
-    results.categories = convertCategories();
+    results.categories = await convertCategories();
     console.log('');
 
     // Display summary

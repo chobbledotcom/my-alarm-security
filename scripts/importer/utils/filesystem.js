@@ -82,11 +82,74 @@ const downloadFile = (url, filepath) => {
   });
 };
 
+/**
+ * Generate a unique filename from URL
+ * @param {string} url - Image URL
+ * @param {string} contentType - Type of content (page, category, product)
+ * @param {string} slug - Content slug
+ * @returns {string} Unique filename
+ */
+const generateImageFilename = (url, contentType, slug) => {
+  const urlObj = new URL(url);
+  const pathParts = urlObj.pathname.split('/');
+  const cloudinaryId = pathParts[pathParts.length - 1].split('.')[0];
+  const extension = pathParts[pathParts.length - 1].split('.').pop() || 'webp';
+  return `${contentType}-${slug}-${cloudinaryId}.${extension}`;
+};
+
+/**
+ * Remove Cloudinary transformation parameters to get original source URL
+ * @param {string} url - Cloudinary URL with transformations
+ * @returns {string} URL without f_auto,q_auto transformations
+ */
+const removeCloudinaryTransformations = (url) => {
+  return url.replace(/\/f_auto,q_auto\//g, '/');
+};
+
+/**
+ * Download embedded images from content and update URLs
+ * @param {string} content - Content with image URLs
+ * @param {string} contentType - Type of content (page, category, product)
+ * @param {string} slug - Content slug
+ * @returns {Promise<string>} Content with updated local image paths
+ */
+const downloadEmbeddedImages = async (content, contentType, slug) => {
+  const imagesDir = path.join(__dirname, '..', '..', '..', 'images', contentType);
+  ensureDir(imagesDir);
+
+  const imageRegex = /!\[([^\]]*)\]\((https:\/\/res\.cloudinary\.com\/[^)]+)\)/g;
+  const matches = [...content.matchAll(imageRegex)];
+
+  let updatedContent = content;
+
+  for (const match of matches) {
+    const altText = match[1];
+    const imageUrl = match[2];
+    const sourceUrl = removeCloudinaryTransformations(imageUrl);
+    const filename = generateImageFilename(sourceUrl, contentType, slug);
+    const localPath = path.join(imagesDir, filename);
+    const webPath = `/images/${contentType}/${filename}`;
+
+    try {
+      await downloadFile(sourceUrl, localPath);
+      updatedContent = updatedContent.replace(
+        `![${altText}](${imageUrl})`,
+        `![${altText}](${webPath})`
+      );
+    } catch (error) {
+      console.error(`    Warning: Failed to download ${sourceUrl}:`, error.message);
+    }
+  }
+
+  return updatedContent;
+};
+
 module.exports = {
   ensureDir,
   readHtmlFile,
   writeMarkdownFile,
   listHtmlFiles,
   cleanDirectory,
-  downloadFile
+  downloadFile,
+  downloadEmbeddedImages
 };

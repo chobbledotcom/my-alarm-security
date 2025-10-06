@@ -21,20 +21,20 @@ We provide up front pricing and are transparent with all of our costs with a cle
 
 Call our friendly team on **020 8302 4065** or [**Contact Us**](/contact/) online now.
 
-![](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto/kn0qr1ujabqxosacfamc.webp)
+![](/images/pages/pages-about-us-kn0qr1ujabqxosacfamc.webp)
 
-![Fully Certified Engineers](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto/fwpfv2puojru2u2ks6gr.webp)
+![Fully Certified Engineers](/images/pages/pages-about-us-fwpfv2puojru2u2ks6gr.webp)
 
 **Fully Certified Engineers**
 
-![24/7 Customer Service](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto/tkiznag6ogjvhhqyw3ph.webp)
+![24/7 Customer Service](/images/pages/pages-about-us-tkiznag6ogjvhhqyw3ph.webp)
 
 **24/7 Customer Service**
 
-![High Quality Systems](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto/jffbllclgfvjzwir2pqr.webp)
+![High Quality Systems](/images/pages/pages-about-us-jffbllclgfvjzwir2pqr.webp)
 
 **High Quality Systems**
 
-![Professionally Fitted](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto/qfioyjlsi8djqiablpbw.webp)
+![Professionally Fitted](/images/pages/pages-about-us-qfioyjlsi8djqiablpbw.webp)
 
 **Professionally Fitted**
