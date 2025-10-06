@@ -6,8 +6,6 @@ permalink: "/pages/privacy-policy/"
 layout: page
 ---
 
-# Privacy Policy
-
 Details
 
 It is important that you read this section of our Privacy Notice so you are aware of how we are collecting or processing personal data about you which complies with the General Data Protection Regulation (GDPR).

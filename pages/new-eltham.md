@@ -1,12 +1,10 @@
 ---
-header_text: "New Eltham"
+header_text: "Looking for a Trusted Security System Company in New Eltham?"
 meta_title: "Security Systems Company New Eltham Alarm System Cctvcctv"
 meta_description: "Burglar Alarm company in New Eltham. Burglar alarm systems, CCTV, Security Company near me New Eltham. Service, alarm battery, upgrade. Contact 020 8302 4065"
 permalink: "/pages/new-eltham/"
 layout: page
 ---
-
-# **Looking for a Trusted Security System Company in New Eltham?** 
 
 If you\'re based in **New Eltham, London SE9**, and need a dependable and friendly local security system company, MyAlarm Security is here for you. Whether it\'s expert advice or a reliable service, we\'re ready to assist.
 

@@ -1,6 +1,7 @@
 const path = require('path');
 const config = require('../config');
 const { listHtmlFiles, prepDir } = require('../utils/filesystem');
+const { extractContentHeading } = require('../utils/metadata-extractor');
 const { generatePageFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadEmbeddedImages } = require('../utils/image-downloader');
 const { createConverter } = require('../utils/base-converter');
@@ -8,8 +9,11 @@ const fs = require('fs');
 
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'page',
-  extractors: {},
-  frontmatterGenerator: (metadata, slug) => generatePageFrontmatter(metadata, slug),
+  extractors: {
+    pageHeading: (htmlContent) => extractContentHeading(htmlContent)
+  },
+  frontmatterGenerator: (metadata, slug, extracted) =>
+    generatePageFrontmatter(metadata, slug, extracted.pageHeading),
   beforeWrite: async (content, extracted, slug) =>
     await downloadEmbeddedImages(content, 'pages', slug)
 });

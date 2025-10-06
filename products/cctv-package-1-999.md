@@ -1,7 +1,7 @@
 ---
 title: "Cctv Package 1 £999"
 price: "£999.00"
-header_text: "Cctv Package 1 £999"
+header_text: "CCTV Package 1"
 meta_title: "Cctv Package Burglar Alarm System Bromley Dartford Welling"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065"
 permalink: "/products/cctv-package-1-999/"
@@ -35,5 +35,3 @@ Our Prices!
 ------------------------------------------------------------------------
 
 [ Back To Cctv](/categories/cctv/)
-
-# CCTV Package 1

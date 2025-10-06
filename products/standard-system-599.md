@@ -1,7 +1,7 @@
 ---
 title: "Standard System £599"
 price: "£599.00"
-header_text: "Standard System £599"
+header_text: "Standard System"
 meta_title: "Standard System - Quality Systems, Professionally Fitted."
 meta_description: "Standard System - Fully Certified Engineers, 247 Customer Service, High Quality Systems, Professionally Fitted. We are right on the borders of London and Kent."
 permalink: "/products/standard-system-599/"
@@ -30,8 +30,6 @@ Our Prices!
 ------------------------------------------------------------------------
 
 [ Back To Burglar Alarms](/categories/burglar-alarms/)
-
-# Standard System
 
 Our standard package was designed to suit most residential premises and is by far our most popular package.
 

@@ -1,13 +1,11 @@
 ---
 title: "Cctv"
-header_text: "Cctv"
+header_text: "CCTV Systems"
 meta_title: "Cctv"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or send us an email"
 permalink: "/categories/cctv/"
 featured: false
 ---
-
-# CCTV Systems 
 
 If you\'re looking to enhance the security of your home or business, then CCTV systems are an increasingly popular solution. With the ability to keep an eye on your premises and loved ones, and to deter unwanted intruders, CCTV systems provide a range of benefits. As well as the peace of mind that comes with monitoring everything that happens on your property, CCTV footage can also be used as visual evidence in the event of a break-in or theft from the property.
 

@@ -1,7 +1,7 @@
 ---
 title: "Cctv In Bexley"
 date: 2023-07-19
-header_text: "Cctv In London / Kent"
+header_text: "CCTV in London / Kent"
 meta_title: "Cctv In Bexley"
 meta_description: "If you are looking to have CCTV installed at your home or business, contact us for more information, 020 8302 4065. CCTV in New Eltham, Orpington, Bromley."
 permalink: "/blog/cctv-in-london-kent/"
