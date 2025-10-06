@@ -198,27 +198,53 @@ $gap: 1rem;
   }
 
   article {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-rows: auto auto;
     gap: $gap;
 
-    .stars {
-      display: flex;
-      gap: 0.25rem;
-      font-size: 1.5rem;
-      color: var(--nav-link-active-color);
+    blockquote {
+      margin: 0;
+      font-family: var(--font-family-body);
+      font-style: normal;
 
-      .star {
+      &::before {
+        content: '\201C';
+        font-size: 2rem;
         line-height: 1;
+        margin-right: 0.25rem;
+        color: var(--color-link);
+      }
+
+      &::after {
+        content: '\201D';
+        font-size: 2rem;
+        line-height: 1;
+        margin-left: 0.25rem;
+        color: var(--color-link);
       }
     }
 
-    blockquote {
-      flex: 1;
+    footer {
+      display: grid;
+      grid-template-columns: auto auto;
+      justify-content: space-between;
+      align-items: center;
       margin: 0;
 
-      footer {
-        margin-top: $gap;
+      a {
+        font-weight: bold;
+      }
+
+      .stars {
+        display: flex;
+        gap: 0.25rem;
+        font-size: 1.5rem;
+        color: var(--nav-link-active-color);
+        justify-self: end;
+
+        .star {
+          line-height: 1;
+        }
       }
     }
   }
