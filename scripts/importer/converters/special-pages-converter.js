@@ -129,91 +129,14 @@ Professional maintenance and repair services for existing security systems.
 const createDefaultProductsPage = () => generateProductsPage();
 
 /**
- * Generate service-areas.md from location pages
+ * Generate service-areas.md with short intro (areas listed by template)
  */
-const generateServiceAreasPage = () => {
-  const pagesDir = path.join(config.OLD_SITE_PATH, 'pages');
-
-  if (!fs.existsSync(pagesDir)) {
-    console.log('  Warning: pages directory not found, using default service areas page');
-    return createDefaultServiceAreasPage();
-  }
-
-  // Get list of location pages (excluding non-location pages)
-  const excludePages = new Set([
-    'about-us.php.html',
-    'privacy-policy.php.html'
-  ]);
-
-  const locationFiles = fs.readdirSync(pagesDir)
-    .filter(f => f.endsWith('.php.html') && !excludePages.has(f))
-    .map(f => f.replace('.php.html', ''))
-    .sort();
-
-  // Group locations (basic grouping - can be enhanced)
-  const londonKeywords = ['blackheath', 'bromley', 'catford', 'charlton', 'chislehurst',
-    'eltham', 'greenwich', 'lee-green', 'new-eltham', 'sidcup', 'thamesmead',
-    'welling', 'west-wickham', 'beckenham', 'bickley'];
-
-  const london = locationFiles.filter(loc => londonKeywords.includes(loc));
-  const kent = locationFiles.filter(loc => !londonKeywords.includes(loc));
-
-  const formatLocation = (slug) => {
-    const name = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-    return `- **${name}** - Professional security installations`;
-  };
-
-  const londonList = london.map(formatLocation).join('\n');
-  const kentList = kent.map(formatLocation).join('\n');
-
-  return `---
+const generateServiceAreasPage = () => `---
 header_text: "Service Areas"
 meta_title: "Service Areas | Security Installation Across South East London & Kent"
 meta_description: "We provide professional burglar alarm and CCTV installation across South East London and Kent including Bexley, Dartford, Bromley, Orpington, Greenwich and surrounding areas."
 permalink: "/service-areas/"
-layout: page
-eleventyNavigation:
-  key: Service Areas
-  order: 4
----
-
-# Service Areas
-
-We provide professional security installation and maintenance services across South East London and Kent. Our experienced team covers the following areas:
-
-## South East London
-
-${londonList}
-
-## Kent
-
-${kentList}
-
-## Why Choose MyAlarm Security?
-
-- **Local Expertise** - Based in South East London with deep knowledge of the area
-- **27+ Years Experience** - Extensive experience in the security industry
-- **Professional Installation** - Fully qualified and certified engineers
-- **Comprehensive Coverage** - Serving both residential and commercial properties
-- **Ongoing Support** - Maintenance and repair services available
-
-## Get Your Free Quote
-
-Contact us today for a free, no-obligation quote for your security needs. We serve all areas listed above and many more across South East London and Kent.
-
-**Call 020 8302 4065** or [contact us online](/contact/) to arrange your consultation.
-`;
-};
-
-/**
- * Create default service areas page
- */
-const createDefaultServiceAreasPage = () => `---
-header_text: "Service Areas"
-meta_title: "Service Areas | Security Installation Across South East London & Kent"
-meta_description: "We provide professional burglar alarm and CCTV installation across South East London and Kent."
-permalink: "/service-areas/"
-layout: page
+layout: service-areas.html
 eleventyNavigation:
   key: Service Areas
   order: 4
