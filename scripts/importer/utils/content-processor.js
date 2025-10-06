@@ -110,6 +110,9 @@ const cleanContent = (content, contentType) => {
   // Keep any subsequent H1s as they may be section headings
   content = content.replace(/^#\s+.+$/m, '');
 
+  // Also remove setext-style H1s (text followed by line of dashes or equals)
+  content = content.replace(/^.+\n[-=]+\s*$/m, '');
+
   // For blog posts, also remove H4 breadcrumb titles
   if (contentType === 'blog') {
     content = content.replace(/^####\s+.+$/gm, '');
