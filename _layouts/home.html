@@ -38,25 +38,8 @@ layout: base.html
 {% endif %} {% if home_content.reviews %}
 <section>
   <h2 class="centered">{{ home_content.reviews.heading }}</h2>
-  <ul class="reviews-grid">
-    {% assign sorted_reviews = collections.review | reverse %}
-    {% for review in sorted_reviews limit:9 %}
-    <li>
-      <span class="review">{{ review.content }}</span>
-      <span class="name">
-        {% if review.data.url %}
-        <a href="{{ review.data.url }}">{{ review.data.name }}</a>
-        {% else %}
-        {{ review.data.name }}
-        {% endif %}
-      </span>
-      <span class="rating" aria-label="{{ review.data.rating }} out of 5 stars">
-        {% for i in (1..5) %}
-          {% if i <= review.data.rating %}★{% else %}☆{% endif %}
-        {% endfor %}
-      </span>
-    </li>
-    {% endfor %}
-  </ul>
+  {% assign sorted_reviews = collections.review | reverse %}
+  {% assign reviews = sorted_reviews | slice: 0, 9 %}
+  {% include "reviews-list.html", reviews: reviews %}
 </section>
 {% endif %}
