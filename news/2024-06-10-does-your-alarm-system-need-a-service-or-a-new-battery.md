@@ -1,8 +1,8 @@
 ---
-title: "Alarm System New Battery Service"
+title: "Alarm System New Battery Service - My Alarm Security"
 date: 2024-06-10
 header_text: "Does Your Alarm System Need A Service Or A New Battery?"
-meta_title: "Alarm System New Battery Service"
+meta_title: "Alarm System New Battery Service - My Alarm Security"
 meta_description: "Does Your Alarm System Need A Service Or A New Battery? Orpington, Bromley, Sevenoaks, Greenwich, Bexley, Dartford, Gravesend. Contact us 020 8302 4065"
 permalink: "/blog/does-your-alarm-system-need-a-service-or-a-new-battery/"
 ---

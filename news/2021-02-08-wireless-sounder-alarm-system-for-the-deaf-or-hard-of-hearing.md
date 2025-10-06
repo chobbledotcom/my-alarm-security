@@ -1,8 +1,8 @@
 ---
-title: "Deaf Home Alarm System Company"
+title: "Deaf Home Alarm System Company - My Alarm Security"
 date: 2021-02-08
 header_text: "Wireless Sounder Alarm System For The Deaf Or Hard Of Hearing"
-meta_title: "Deaf Home Alarm System Company"
+meta_title: "Deaf Home Alarm System Company - My Alarm Security"
 meta_description: "Wireless sounder for the deaf or hard of hearing. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Orpington. Call 020 8302 4065"
 permalink: "/blog/wireless-sounder-alarm-system-for-the-deaf-or-hard-of-hearing/"
 ---

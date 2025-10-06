@@ -1,6 +1,6 @@
 ---
 header_text: "Hayes"
-meta_title: "Alarm System Hayes Bromley, Cctv Hayes Bromley"
+meta_title: "Alarm System Hayes Bromley, Cctv Hayes Bromley - My Alarm Security"
 meta_description: ""
 permalink: "/pages/hayes/"
 layout: page

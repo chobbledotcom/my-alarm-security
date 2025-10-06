@@ -1,8 +1,8 @@
 ---
-title: "House Alarm Alarm Battery Orpington"
+title: "House Alarm Alarm Battery Orpington - My Alarm Security"
 date: 2023-03-13
 header_text: "Nano Shock Sensors"
-meta_title: "House Alarm Alarm Battery Orpington"
+meta_title: "House Alarm Alarm Battery Orpington - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Orpington. Call 020 8302 4065"
 permalink: "/blog/nano-shock-sensors/"
 ---

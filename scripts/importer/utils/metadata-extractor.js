@@ -20,7 +20,7 @@ const extractMetadata = (htmlContent) => {
 
   const title = extract(htmlContent, patterns.title);
   if (title) {
-    metadata.title = title.replace(/\s*-\s*My Alarm Security\s*$/, '').trim();
+    metadata.title = title;
   }
 
   const description = extract(htmlContent, patterns.metaTag('description'));

@@ -1,8 +1,8 @@
 ---
-title: "Burglar Alarm Company Orpington"
+title: "Burglar Alarm Company Orpington - My Alarm Security"
 date: 2018-09-06
 header_text: "Matt Black Keypad"
-meta_title: "Burglar Alarm Company Orpington"
+meta_title: "Burglar Alarm Company Orpington - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/matt-black-keypad/"
 ---

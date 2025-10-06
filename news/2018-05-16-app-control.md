@@ -1,8 +1,8 @@
 ---
-title: "App Control Burglar Alarm Company Near Me Bexley Bromley Orpington"
+title: "App Control Burglar Alarm Company Near Me Bexley Bromley Orpington - My Alarm Security"
 date: 2018-05-16
 header_text: "App Control"
-meta_title: "App Control Burglar Alarm Company Near Me Bexley Bromley Orpington"
+meta_title: "App Control Burglar Alarm Company Near Me Bexley Bromley Orpington - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/app-control/"
 ---
