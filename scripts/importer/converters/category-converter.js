@@ -1,6 +1,6 @@
 const path = require('path');
 const config = require('../config');
-const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles } = require('../utils/filesystem');
+const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles, downloadEmbeddedImages } = require('../utils/filesystem');
 const { extractMetadata, extractCategoryName } = require('../utils/metadata-extractor');
 const { convertToMarkdown } = require('../utils/pandoc-converter');
 const { processContent } = require('../utils/content-processor');
@@ -11,9 +11,9 @@ const { generateCategoryFrontmatter } = require('../utils/frontmatter-generator'
  * @param {string} file - HTML filename
  * @param {string} inputDir - Input directory path
  * @param {string} outputDir - Output directory path
- * @returns {boolean} Success status
+ * @returns {Promise<boolean>} Success status
  */
-const convertCategory = (file, inputDir, outputDir) => {
+const convertCategory = async (file, inputDir, outputDir) => {
   try {
     const htmlPath = path.join(inputDir, file);
     const htmlContent = readHtmlFile(htmlPath);
@@ -31,8 +31,10 @@ const convertCategory = (file, inputDir, outputDir) => {
     const filename = file.replace('.php.html', '.md');
     const slug = filename.replace('.md', '');
 
+    const contentWithLocalImages = await downloadEmbeddedImages(content, 'categories', slug);
+
     const frontmatter = generateCategoryFrontmatter(metadata, slug);
-    const fullContent = `${frontmatter}\n\n${content}`;
+    const fullContent = `${frontmatter}\n\n${contentWithLocalImages}`;
 
     writeMarkdownFile(path.join(outputDir, filename), fullContent);
     console.log(`  Converted: ${filename}`);
@@ -45,9 +47,9 @@ const convertCategory = (file, inputDir, outputDir) => {
 
 /**
  * Convert all categories from old site to markdown
- * @returns {Object} Conversion results
+ * @returns {Promise<Object>} Conversion results
  */
-const convertCategories = () => {
+const convertCategories = async () => {
   console.log('Converting categories...');
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.categories);
@@ -64,13 +66,13 @@ const convertCategories = () => {
   let successful = 0;
   let failed = 0;
 
-  files.forEach(file => {
-    if (convertCategory(file, categoriesDir, outputDir)) {
+  for (const file of files) {
+    if (await convertCategory(file, categoriesDir, outputDir)) {
       successful++;
     } else {
       failed++;
     }
-  });
+  }
 
   return { successful, failed, total: files.length };
 };

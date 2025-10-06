@@ -1,11 +1,20 @@
 const path = require('path');
 const config = require('../config');
-const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles, downloadFile } = require('../utils/filesystem');
+const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles, downloadFile, downloadEmbeddedImages } = require('../utils/filesystem');
 const { extractMetadata, extractPrice, extractReviews, extractProductName, extractProductImages } = require('../utils/metadata-extractor');
 const { convertToMarkdown } = require('../utils/pandoc-converter');
 const { processContent } = require('../utils/content-processor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
 const { scanProductCategories } = require('../utils/category-scanner');
+
+/**
+ * Remove Cloudinary transformation parameters to get original source URL
+ * @param {string} url - Cloudinary URL with transformations
+ * @returns {string} URL without f_auto,q_auto transformations
+ */
+const removeCloudinaryTransformations = (url) => {
+  return url.replace(/\/f_auto,q_auto\//g, '/');
+};
 
 /**
  * Download product image and return local path
@@ -16,6 +25,7 @@ const { scanProductCategories } = require('../utils/category-scanner');
 const downloadProductImage = async (imageUrl, slug) => {
   if (!imageUrl) return '';
 
+  const sourceUrl = removeCloudinaryTransformations(imageUrl);
   const imagesDir = path.join(__dirname, '..', '..', '..', 'images', 'products');
   ensureDir(imagesDir);
 
@@ -23,7 +33,7 @@ const downloadProductImage = async (imageUrl, slug) => {
   const localPath = path.join(imagesDir, filename);
 
   try {
-    await downloadFile(imageUrl, localPath);
+    await downloadFile(sourceUrl, localPath);
     return `/images/products/${filename}`;
   } catch (error) {
     console.error(`    Warning: Failed to download image for ${slug}:`, error.message);
@@ -90,13 +100,16 @@ const convertProduct = async (file, inputDir, outputDir, reviewsDir, reviewsMap,
     // Download image and get local path
     const localImagePath = await downloadProductImage(images.header_image, slug);
 
+    // Download embedded images in content
+    const contentWithLocalImages = await downloadEmbeddedImages(content, 'products', slug);
+
     // Pass header image only (no gallery)
     const localImages = {
       header_image: localImagePath
     };
 
     const frontmatter = generateProductFrontmatter(metadata, slug, price, categories, productName, localImages);
-    const fullContent = `${frontmatter}\n\n${content}`;
+    const fullContent = `${frontmatter}\n\n${contentWithLocalImages}`;
 
     writeMarkdownFile(path.join(outputDir, filename), fullContent);
     console.log(`  Converted: ${filename}`);

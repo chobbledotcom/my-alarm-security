@@ -12,7 +12,7 @@ Burglar Alarms provide one of the best deterrents against a break in and an effe
 
 [More Info](/categories/burglar-alarms/)
 
-[![](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto,w_370,h_370,c_fill/ejajxywfmnfgavh5xtn3.png)](../categories/cctv.php.html "View More")
+[![](/images/pages/pages-thamesmead-ejajxywfmnfgavh5xtn3.png)](../categories/cctv.php.html "View More")
 
 ### CCTV SYSTEMS 
 
@@ -20,7 +20,7 @@ CCTV camera systems are becoming popular due to their efficiency and effectivene
 
 [More Info](/categories/cctv/)
 
-[![](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto,w_370,h_370,c_fill/dgxdicyzg24k2lcuvdbl.png)](../categories/access-control.php.html "View More")
+[![](/images/pages/pages-thamesmead-dgxdicyzg24k2lcuvdbl.png)](../categories/access-control.php.html "View More")
 
 ### Access Control 
 

@@ -1,6 +1,6 @@
 const path = require('path');
 const config = require('../config');
-const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles } = require('../utils/filesystem');
+const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles, downloadEmbeddedImages } = require('../utils/filesystem');
 const { extractMetadata } = require('../utils/metadata-extractor');
 const { convertToMarkdown } = require('../utils/pandoc-converter');
 const { processContent } = require('../utils/content-processor');
@@ -11,9 +11,9 @@ const { generatePageFrontmatter } = require('../utils/frontmatter-generator');
  * @param {string} file - HTML filename
  * @param {string} inputDir - Input directory path
  * @param {string} outputDir - Output directory path
- * @returns {boolean} Success status
+ * @returns {Promise<boolean>} Success status
  */
-const convertPage = (file, inputDir, outputDir) => {
+const convertPage = async (file, inputDir, outputDir) => {
   try {
     const htmlPath = path.join(inputDir, file);
     const htmlContent = readHtmlFile(htmlPath);
@@ -24,8 +24,10 @@ const convertPage = (file, inputDir, outputDir) => {
     const filename = file.replace('.php.html', '.md');
     const slug = filename.replace('.md', '');
 
+    const contentWithLocalImages = await downloadEmbeddedImages(content, 'pages', slug);
+
     const frontmatter = generatePageFrontmatter(metadata, slug);
-    const fullContent = `${frontmatter}\n\n${content}`;
+    const fullContent = `${frontmatter}\n\n${contentWithLocalImages}`;
 
     writeMarkdownFile(path.join(outputDir, filename), fullContent);
     console.log(`  Converted: ${filename}`);
@@ -38,9 +40,9 @@ const convertPage = (file, inputDir, outputDir) => {
 
 /**
  * Convert all pages from old site to markdown
- * @returns {Object} Conversion results
+ * @returns {Promise<Object>} Conversion results
  */
-const convertPages = () => {
+const convertPages = async () => {
   console.log('Converting pages...');
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.pages);
@@ -54,22 +56,22 @@ const convertPages = () => {
   const pagesDir = path.join(config.OLD_SITE_PATH, 'pages');
   const pageFiles = listHtmlFiles(pagesDir);
 
-  pageFiles.forEach(file => {
-    if (convertPage(file, pagesDir, outputDir)) {
+  for (const file of pageFiles) {
+    if (await convertPage(file, pagesDir, outputDir)) {
       successful++;
     } else {
       failed++;
     }
-  });
+  }
   totalFiles += pageFiles.length;
 
   // Convert root-level pages (contact only - reviews handled by reviews-index-converter)
   const rootPages = ['contact.php.html'];
-  rootPages.forEach(file => {
+  for (const file of rootPages) {
     try {
       const filePath = path.join(config.OLD_SITE_PATH, file);
       if (require('fs').existsSync(filePath)) {
-        if (convertPage(file, config.OLD_SITE_PATH, outputDir)) {
+        if (await convertPage(file, config.OLD_SITE_PATH, outputDir)) {
           successful++;
         } else {
           failed++;
@@ -79,7 +81,7 @@ const convertPages = () => {
     } catch (error) {
       console.error(`  Error checking ${file}:`, error.message);
     }
-  });
+  }
 
   return { successful, failed, total: totalFiles };
 };
