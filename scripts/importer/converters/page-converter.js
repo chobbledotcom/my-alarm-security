@@ -1,43 +1,18 @@
 const path = require('path');
 const config = require('../config');
-const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles } = require('../utils/filesystem');
-const { downloadEmbeddedImages } = require('../utils/image-downloader');
-const { extractMetadata } = require('../utils/metadata-extractor');
-const { convertToMarkdown } = require('../utils/pandoc-converter');
-const { processContent } = require('../utils/content-processor');
+const { ensureDir, listHtmlFiles } = require('../utils/filesystem');
 const { generatePageFrontmatter } = require('../utils/frontmatter-generator');
+const { downloadEmbeddedImages } = require('../utils/image-downloader');
+const { createConverter } = require('../utils/base-converter');
+const fs = require('fs');
 
-/**
- * Convert a single page HTML file to markdown
- * @param {string} file - HTML filename
- * @param {string} inputDir - Input directory path
- * @param {string} outputDir - Output directory path
- * @returns {Promise<boolean>} Success status
- */
-const convertPage = async (file, inputDir, outputDir) => {
-  try {
-    const htmlPath = path.join(inputDir, file);
-    const htmlContent = readHtmlFile(htmlPath);
-    const metadata = extractMetadata(htmlContent);
-    const markdown = convertToMarkdown(htmlPath);
-    const content = processContent(markdown, 'page');
-
-    const filename = file.replace('.php.html', '.md');
-    const slug = filename.replace('.md', '');
-
-    const contentWithLocalImages = await downloadEmbeddedImages(content, 'pages', slug);
-
-    const frontmatter = generatePageFrontmatter(metadata, slug);
-    const fullContent = `${frontmatter}\n\n${contentWithLocalImages}`;
-
-    writeMarkdownFile(path.join(outputDir, filename), fullContent);
-    console.log(`  Converted: ${filename}`);
-    return true;
-  } catch (error) {
-    console.error(`  Error converting ${file}:`, error.message);
-    return false;
-  }
-};
+const { convertSingle, convertBatch } = createConverter({
+  contentType: 'page',
+  extractors: {},
+  frontmatterGenerator: (metadata, slug) => generatePageFrontmatter(metadata, slug),
+  beforeWrite: async (content, extracted, slug) =>
+    await downloadEmbeddedImages(content, 'pages', slug)
+});
 
 /**
  * Convert all pages from old site to markdown
@@ -49,43 +24,26 @@ const convertPages = async () => {
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.pages);
   ensureDir(outputDir);
 
-  let successful = 0;
-  let failed = 0;
-  let totalFiles = 0;
-
-  // Convert pages from pages/ subdirectory
   const pagesDir = path.join(config.OLD_SITE_PATH, 'pages');
   const pageFiles = listHtmlFiles(pagesDir);
 
-  for (const file of pageFiles) {
-    if (await convertPage(file, pagesDir, outputDir)) {
-      successful++;
-    } else {
-      failed++;
-    }
-  }
-  totalFiles += pageFiles.length;
-
   // Convert root-level pages (contact only - reviews handled by reviews-index-converter)
-  const rootPages = ['contact.php.html'];
-  for (const file of rootPages) {
-    try {
-      const filePath = path.join(config.OLD_SITE_PATH, file);
-      if (require('fs').existsSync(filePath)) {
-        if (await convertPage(file, config.OLD_SITE_PATH, outputDir)) {
-          successful++;
-        } else {
-          failed++;
-        }
-        totalFiles++;
-      }
-    } catch (error) {
-      console.error(`  Error checking ${file}:`, error.message);
-    }
-  }
+  const rootPages = ['contact.php.html'].filter(file =>
+    fs.existsSync(path.join(config.OLD_SITE_PATH, file))
+  );
 
-  return { successful, failed, total: totalFiles };
+  const pagesResult = await convertBatch(pageFiles, pagesDir, outputDir);
+  const rootResult = await convertBatch(rootPages, config.OLD_SITE_PATH, outputDir);
+
+  return {
+    successful: pagesResult.successful + rootResult.successful,
+    failed: pagesResult.failed + rootResult.failed,
+    total: pagesResult.total + rootResult.total
+  };
 };
+
+const convertPage = (file, inputDir, outputDir) =>
+  convertSingle(file, inputDir, outputDir);
 
 module.exports = {
   convertPage,

@@ -1,3 +1,5 @@
+const { patterns, extract } = require('./html-patterns');
+
 /**
  * Extract breadcrumb text from HTML content
  * @param {string} htmlContent - HTML content to extract breadcrumb from
@@ -16,23 +18,19 @@ const extractBreadcrumbText = (htmlContent) => {
 const extractMetadata = (htmlContent) => {
   const metadata = {};
 
-  // Extract title
-  const titleMatch = htmlContent.match(/<title[^>]*>(.*?)<\/title>/i);
-  if (titleMatch) {
-    metadata.title = titleMatch[1].replace(/\s*-\s*My Alarm Security\s*$/, '').trim();
+  const title = extract(htmlContent, patterns.title);
+  if (title) {
+    metadata.title = title.replace(/\s*-\s*My Alarm Security\s*$/, '').trim();
   }
 
-  // Extract meta description
-  const descMatch = htmlContent.match(/<meta\s+name=["']description["']\s+content=["'](.*?)["']/i);
-  if (descMatch) {
-    metadata.meta_description = descMatch[1];
+  const description = extract(htmlContent, patterns.metaTag('description'));
+  if (description) {
+    metadata.meta_description = description;
   }
 
-  // Extract canonical URL for permalink
-  const canonicalMatch = htmlContent.match(/<link\s+rel=["']canonical["']\s+href=["'](.*?)["']/i);
-  if (canonicalMatch) {
-    const url = canonicalMatch[1];
-    const urlPath = url.replace(/^.*?\/([^\/]+\.php).*$/, '$1').replace('.php', '');
+  const canonical = extract(htmlContent, patterns.linkRel('canonical'));
+  if (canonical) {
+    const urlPath = canonical.replace(/^.*?\/([^\/]+\.php).*$/, '$1').replace('.php', '');
     metadata.permalink = `/${urlPath}/`;
   }
 
@@ -42,9 +40,9 @@ const extractMetadata = (htmlContent) => {
     metadata.header_text = breadcrumbText;
   } else {
     // Fallback to og:title
-    const ogTitleMatch = htmlContent.match(/<meta\s+property=["']og:title["']\s+content=["'](.*?)["']/i);
-    if (ogTitleMatch) {
-      metadata.header_text = ogTitleMatch[1];
+    const ogTitle = extract(htmlContent, patterns.metaProperty('og:title'));
+    if (ogTitle) {
+      metadata.header_text = ogTitle;
     }
   }
 
@@ -88,8 +86,7 @@ const extractCategory = (htmlContent) => {
  * @returns {string} Extracted category name
  */
 const extractCategoryName = (htmlContent) => {
-  const match = htmlContent.match(/<li class="breadcrumb-item active">([^<]+)<\/li>/i);
-  return match ? match[1].trim() : '';
+  return extractBreadcrumbText(htmlContent) || '';
 };
 
 /**
@@ -104,10 +101,10 @@ const extractProductName = (htmlContent) => {
     return schemaMatch[1].replace(/&pound;/g, '£');
   }
 
-  // Fallback to active breadcrumb
-  const breadcrumbMatch = htmlContent.match(/<li class="breadcrumb-item active">([^<]+)<\/li>/i);
-  if (breadcrumbMatch) {
-    return breadcrumbMatch[1].replace(/&pound;/g, '£').trim();
+  // Fallback to breadcrumb
+  const breadcrumbText = extractBreadcrumbText(htmlContent);
+  if (breadcrumbText) {
+    return breadcrumbText.replace(/&pound;/g, '£');
   }
 
   return '';
@@ -229,6 +226,7 @@ const extractFaviconLinks = (htmlContent) => {
 };
 
 module.exports = {
+  extractBreadcrumbText,
   extractMetadata,
   extractPrice,
   extractCategory,

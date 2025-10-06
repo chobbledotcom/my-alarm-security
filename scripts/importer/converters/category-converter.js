@@ -1,50 +1,25 @@
 const path = require('path');
 const config = require('../config');
-const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles } = require('../utils/filesystem');
-const { downloadEmbeddedImages } = require('../utils/image-downloader');
-const { extractMetadata, extractCategoryName } = require('../utils/metadata-extractor');
-const { convertToMarkdown } = require('../utils/pandoc-converter');
-const { processContent } = require('../utils/content-processor');
+const { ensureDir, listHtmlFiles } = require('../utils/filesystem');
+const { extractCategoryName } = require('../utils/metadata-extractor');
 const { generateCategoryFrontmatter } = require('../utils/frontmatter-generator');
+const { downloadEmbeddedImages } = require('../utils/image-downloader');
+const { createConverter } = require('../utils/base-converter');
 
-/**
- * Convert a single category HTML file to markdown
- * @param {string} file - HTML filename
- * @param {string} inputDir - Input directory path
- * @param {string} outputDir - Output directory path
- * @returns {Promise<boolean>} Success status
- */
-const convertCategory = async (file, inputDir, outputDir) => {
-  try {
-    const htmlPath = path.join(inputDir, file);
-    const htmlContent = readHtmlFile(htmlPath);
-    const metadata = extractMetadata(htmlContent);
-    const categoryName = extractCategoryName(htmlContent);
-
-    // Use category name from breadcrumb if available, otherwise fall back to title
-    if (categoryName) {
-      metadata.title = categoryName;
+const { convertSingle, convertBatch } = createConverter({
+  contentType: 'category',
+  extractors: {
+    categoryName: (htmlContent) => extractCategoryName(htmlContent)
+  },
+  frontmatterGenerator: (metadata, slug, extracted) => {
+    if (extracted.categoryName) {
+      metadata.title = extracted.categoryName;
     }
-
-    const markdown = convertToMarkdown(htmlPath);
-    const content = processContent(markdown, 'category');
-
-    const filename = file.replace('.php.html', '.md');
-    const slug = filename.replace('.md', '');
-
-    const contentWithLocalImages = await downloadEmbeddedImages(content, 'categories', slug);
-
-    const frontmatter = generateCategoryFrontmatter(metadata, slug);
-    const fullContent = `${frontmatter}\n\n${contentWithLocalImages}`;
-
-    writeMarkdownFile(path.join(outputDir, filename), fullContent);
-    console.log(`  Converted: ${filename}`);
-    return true;
-  } catch (error) {
-    console.error(`  Error converting ${file}:`, error.message);
-    return false;
-  }
-};
+    return generateCategoryFrontmatter(metadata, slug);
+  },
+  beforeWrite: async (content, extracted, slug) =>
+    await downloadEmbeddedImages(content, 'categories', slug)
+});
 
 /**
  * Convert all categories from old site to markdown
@@ -64,19 +39,11 @@ const convertCategories = async () => {
     return { successful: 0, failed: 0, total: 0 };
   }
 
-  let successful = 0;
-  let failed = 0;
-
-  for (const file of files) {
-    if (await convertCategory(file, categoriesDir, outputDir)) {
-      successful++;
-    } else {
-      failed++;
-    }
-  }
-
-  return { successful, failed, total: files.length };
+  return await convertBatch(files, categoriesDir, outputDir);
 };
+
+const convertCategory = (file, inputDir, outputDir) =>
+  convertSingle(file, inputDir, outputDir);
 
 module.exports = {
   convertCategory,
