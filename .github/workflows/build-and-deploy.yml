@@ -108,24 +108,6 @@ jobs:
           mkdir -p ../_site
           mv _site/* ../_site/
 
-      - name: Upload built site
-        uses: actions/upload-artifact@v4
-        with:
-          name: built-site
-          path: _site/
-          retention-days: 1
-
-  deploy:
-    name: Deploy
-    needs: [setup, build]
-    runs-on: ubuntu-latest
-    steps:
-      - name: Download built site
-        uses: actions/download-artifact@v4
-        with:
-          name: built-site
-          path: _site
-
       - name: Deploy to Bunny
         uses: R-J-dev/bunny-deploy@v2.0.6
         with:
