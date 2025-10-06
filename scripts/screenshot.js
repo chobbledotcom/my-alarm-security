@@ -1,4 +1,4 @@
-const { spawn } = require('child_process');
+const { spawn, execSync } = require('child_process');
 const puppeteer = require('puppeteer');
 const path = require('path');
 const fs = require('fs');
@@ -12,6 +12,79 @@ const pages = [
   { name: 'product-basic-system', url: '/products/basic-system-539/' },
   { name: 'contact', url: '/pages/contact/' }
 ];
+
+function checkCommand(cmd) {
+  try {
+    execSync(`command -v ${cmd}`, { stdio: 'ignore' });
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+function checkDependencies() {
+  const missing = [];
+
+  if (!checkCommand('rsync')) {
+    missing.push('rsync');
+  }
+
+  const chromeLibs = [
+    'libnspr4.so',
+    'libnss3.so',
+    'libgbm.so.1',
+    'libgtk-3.so.0'
+  ];
+
+  const missingLibs = chromeLibs.filter(lib => {
+    try {
+      execSync(`ldconfig -p | grep -q ${lib}`, { stdio: 'ignore', shell: true });
+      return false;
+    } catch {
+      return true;
+    }
+  });
+
+  if (missingLibs.length > 0) {
+    missing.push('chrome-dependencies');
+  }
+
+  if (missing.length > 0) {
+    console.error('\n❌ Missing dependencies detected!\n');
+
+    if (missing.includes('rsync')) {
+      console.error('Missing: rsync');
+    }
+
+    if (missing.includes('chrome-dependencies')) {
+      console.error('Missing: Chrome/Chromium system libraries');
+    }
+
+    console.error('\n📦 To install all required dependencies on Ubuntu/Debian:\n');
+    console.error('sudo apt-get update && sudo apt-get install -y \\');
+    console.error('  rsync \\');
+    console.error('  ca-certificates \\');
+    console.error('  fonts-liberation \\');
+    console.error('  libasound2t64 \\');
+    console.error('  libatk-bridge2.0-0 \\');
+    console.error('  libatk1.0-0 \\');
+    console.error('  libcairo2 \\');
+    console.error('  libcups2 \\');
+    console.error('  libdbus-1-3 \\');
+    console.error('  libgbm1 \\');
+    console.error('  libglib2.0-0 \\');
+    console.error('  libgtk-3-0 \\');
+    console.error('  libnspr4 \\');
+    console.error('  libnss3 \\');
+    console.error('  libx11-6 \\');
+    console.error('  libxcomposite1 \\');
+    console.error('  libxdamage1 \\');
+    console.error('  libxrandr2 \\');
+    console.error('  xdg-utils\n');
+
+    process.exit(1);
+  }
+}
 
 async function waitForServer(port, timeout = 30000) {
   const start = Date.now();
