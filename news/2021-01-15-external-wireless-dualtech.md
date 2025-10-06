@@ -1,7 +1,7 @@
 ---
 title: "Burglar Alarm Company Orpington Cctv Company Orpington"
 date: 2021-01-15
-header_text: "Burglar Alarm Company Orpington Cctv Company Orpington"
+header_text: "External Wireless Dualtech"
 meta_title: "Burglar Alarm Company Orpington Cctv Company Orpington"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Orpington. Call 020 8302 4065"
 permalink: "/news/external-wireless-dualtech/"

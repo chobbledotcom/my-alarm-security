@@ -1,7 +1,7 @@
 ---
 title: "Burglar Alarm Systems Battery And Servicing In Bexley Bromley"
 date: 2020-06-01
-header_text: "Burglar Alarm Systems Battery And Servicing In Bexley Bromley"
+header_text: "How Are We Doing? Covid, A Tough Time For Us All."
 meta_title: "Burglar Alarm Systems Battery And Servicing In Bexley Bromley"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/news/how-are-we-doing-covid-a-tough-time-for-us-all-/"

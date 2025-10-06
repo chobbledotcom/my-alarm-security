@@ -1,5 +1,5 @@
 ---
-header_text: "Home Security System Bexleyheath Burglar Alarm Bexleyheath."
+header_text: "Bexleyheath"
 meta_title: "Home Security System Bexleyheath Burglar Alarm Bexleyheath."
 meta_description: ""
 permalink: "/pages/bexleyheath/"
