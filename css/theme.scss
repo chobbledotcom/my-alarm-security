@@ -134,10 +134,11 @@ $gap: 1rem;
 
   .carousel {
     position: relative;
-    padding-top: 33.33%;
+    padding-top: calc(640 / 1920 * 100%);
     filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.1));
     perspective: 100px;
     border-radius: 0 0 var(--border-radius) var(--border-radius);
+    max-width: 100%;
   }
 
   .carousel__viewport {
