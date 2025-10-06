@@ -1,5 +1,6 @@
 ---
 name: "Wendy B"
+rating: 5
 products: ["products/basic-system-539.md", "products/cctv-package-1-999.md", "products/cctv-package-2-1199-24hr-colour-cctv.md", "products/servicing-and-repairs.md", "products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.md"]
 ---
 
