@@ -87,7 +87,7 @@ const convertProducts = async () => {
     reviewsMap.forEach((reviewData, slug) => {
       const reviewFilename = `${slug}.md`;
       const productsYaml = reviewData.products.map(p => `"${p}"`).join(', ');
-      const frontmatter = `---\nname: "${reviewData.name}"\nproducts: [${productsYaml}]\n---`;
+      const frontmatter = `---\nname: "${reviewData.name}"\nproducts: [${productsYaml}]\nrating: 5\n---`;
       const reviewContent = `${frontmatter}\n\n${reviewData.body}`;
       writeMarkdownFile(path.join(reviewsDir, reviewFilename), reviewContent);
     });
