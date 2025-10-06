@@ -5,7 +5,7 @@ const path = require('path');
 const fs = require('fs');
 
 const root = path.resolve(__dirname, '..');
-const oldSite = path.join(root, 'old_site', 'www.myalarmsecurity.co.uk');
+const oldSite = path.join(root, 'old_site');
 const newSite = path.join(root, '_site');
 
 // Clean and build the site

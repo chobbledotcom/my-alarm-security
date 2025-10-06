@@ -8,7 +8,7 @@ const path = require('path');
 const convertHomeContent = () => {
   console.log('Converting homepage content...');
 
-  const oldSitePath = path.join(__dirname, '../../../old_site/www.myalarmsecurity.co.uk/index.html');
+  const oldSitePath = path.join(__dirname, '../../../old_site/index.html');
   const outputPath = path.join(__dirname, '../../../_data/home_content.json');
 
   try {

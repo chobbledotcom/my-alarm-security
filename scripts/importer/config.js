@@ -2,7 +2,7 @@ const path = require('path');
 
 // Configuration for the importer
 const config = {
-  OLD_SITE_PATH: path.join(__dirname, '../../old_site/www.myalarmsecurity.co.uk'),
+  OLD_SITE_PATH: path.join(__dirname, '../../old_site'),
   OUTPUT_BASE: path.join(__dirname, '../..'),
 
   // Default values for content
