@@ -21,9 +21,11 @@ const convertReviewsIndex = () => {
     const metadata = extractMetadata(htmlContent);
 
     const frontmatter = generatePageFrontmatter(metadata, 'reviews');
+    const content = '# Reviews\n\nPlease find all of our customer reviews below!';
+    const fullContent = `${frontmatter}\n\n${content}`;
     const outputPath = path.join(outputDir, 'reviews.md');
 
-    writeMarkdownFile(outputPath, frontmatter);
+    writeMarkdownFile(outputPath, fullContent);
     console.log('  Converted: reviews.md');
     return { successful: 1, failed: 0, total: 1 };
   } catch (error) {
