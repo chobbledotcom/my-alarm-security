@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="Programmable gizmos with code examples">
+  <title>Programmable Gizmos - Widget Corp</title>
+</head>
+<body>
+  <div id="main">
+    <section class="category_section">
+      <div class="container">
+        <h1>Programmable Gizmos</h1>
+        <p>Gizmos that can be controlled via API or scripting.</p>
+
+        <h2>API Example</h2>
+        <p>Control your gizmo with simple code:</p>
+        <pre><code>
+const gizmo = new Gizmo({
+  id: "gizmo-123",
+  mode: "turbo"
+});
+
+gizmo.activate();
+        </code></pre>
+
+        <h2>Configuration</h2>
+        <p>JSON configuration example:</p>
+        <pre><code>
+{
+  "gizmo": {
+    "name": "My Gizmo",
+    "settings": {
+      "speed": 100,
+      "mode": "auto"
+    }
+  }
+}
+        </code></pre>
+
+        <h2>Shell Commands</h2>
+        <p>Control via command line:</p>
+        <pre><code>
+$ gizmo-cli --mode turbo --speed 100
+$ gizmo-cli --status
+$ gizmo-cli --shutdown
+        </code></pre>
+
+        <h2>HTML in Content</h2>
+        <p>Example of embedding: <code>&lt;gizmo-widget id="test"&gt;&lt;/gizmo-widget&gt;</code></p>
+      </div>
+    </section>
+  </div>
+</body>
+</html>
