@@ -11,17 +11,23 @@ scripts/importer/
 ├── config.js                 # Configuration and paths
 ├── index.js                  # Main orchestrator
 ├── converters/
-│   ├── index.js             # Exports all converters
-│   ├── page-converter.js    # Converts static pages
-│   ├── blog-converter.js    # Converts blog posts to news
-│   ├── product-converter.js # Converts product pages
-│   └── category-converter.js # Converts category pages
+│   ├── index.js                  # Exports all converters
+│   ├── page-converter.js         # Converts static pages
+│   ├── blog-converter.js         # Converts blog posts to news
+│   ├── product-converter.js      # Converts product pages
+│   ├── category-converter.js     # Converts category pages
+│   ├── special-pages-converter.js # Generates special pages from data
+│   ├── home-converter.js         # Converts homepage content
+│   ├── blog-index-converter.js   # Generates blog index
+│   └── reviews-index-converter.js # Generates reviews index
 └── utils/
     ├── filesystem.js         # File operations
     ├── metadata-extractor.js # HTML metadata extraction
     ├── pandoc-converter.js   # HTML to Markdown conversion
     ├── content-processor.js  # Content cleaning and extraction
-    └── frontmatter-generator.js # YAML frontmatter generation
+    ├── frontmatter-generator.js # YAML frontmatter generation
+    ├── image-downloader.js   # Downloads embedded images
+    └── favicon-extractor.js  # Extracts favicon files
 ```
 
 ## Usage
@@ -44,10 +50,10 @@ The importer uses smart cleanup to preserve non-imported files:
 - `news/` - All files removed (only contains imported blog posts)
 - `products/` - All files removed (only contains imported products)
 - `categories/` - All files removed (only contains imported categories)
+- `pages/` - All files removed (all pages now generated from old_site or by special-pages-converter)
 - `assets/favicon/` - All files removed (only contains imported favicons)
 
 **Selective cleanup (only imported files):**
-- `pages/` - Only deletes files from old_site (preserves `home.md`, `not-found.md`, `products.md`, `service-areas.md`, `thank-you.md`)
 - `reviews/` - Only deletes product reviews from old_site (preserves Google reviews with `-google-` in filename)
 
 **Protected folders (never touched):**
@@ -65,15 +71,14 @@ Examples:
 // Delete all files
 prepDir(outputDir);
 
-// Delete only imported pages (preserve manually created)
-const importedPageNames = new Set(['about-us.md', 'contact.md', ...]);
-prepDir(outputDir, filename => importedPageNames.has(filename));
+// Delete only specific files (preserve others)
+const googleReviews = (filename) => !filename.includes('-google-');
+prepDir(outputDir, googleReviews);
 ```
 
 This ensures:
 - Fresh content on each import
 - No stale files from previous runs
-- Manually created files are preserved
 - Google reviews are not deleted
 - Protected folders remain intact
 
@@ -86,10 +91,14 @@ This ensures:
 
 ### Converters
 Each converter handles a specific content type:
-- **page-converter**: Static pages (about, contact, etc.)
+- **page-converter**: Static pages from old_site/pages/
+- **special-pages-converter**: Generates special pages (home, products, service-areas, not-found, thank-you, blog, reviews) from old_site data
 - **blog-converter**: Blog posts → news articles
 - **product-converter**: Product pages with pricing
 - **category-converter**: Category landing pages
+- **home-converter**: Homepage content (banners, features, etc.)
+- **blog-index-converter**: Blog index page
+- **reviews-index-converter**: Reviews index page
 
 ### Utils
 
