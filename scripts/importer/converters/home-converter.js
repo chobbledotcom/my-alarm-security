@@ -1,11 +1,12 @@
 const fs = require('fs');
 const path = require('path');
+const { downloadImage } = require('../utils/image-downloader');
 
 /**
  * Extract homepage content from the old site index.html using regex
  * @returns {Object} Conversion results
  */
-const convertHomeContent = () => {
+const convertHomeContent = async () => {
   console.log('Converting homepage content...');
 
   const oldSitePath = path.join(__dirname, '../../../old_site/index.html');
@@ -35,11 +36,16 @@ const convertHomeContent = () => {
     const serviceCardPattern = /<div class="col-xl-4[^>]*>[\s\S]*?<img src="([^"]+)"[^>]*>[\s\S]*?<h3[^>]*style="color:[^"]*">([^<]+)<\/h3>[\s\S]*?<p class="card-text py-2">([^<]+)<\/p>[\s\S]*?<a href="([^"]+)"[^>]*>More Info<\/a>/g;
     let cardMatch;
     while ((cardMatch = serviceCardPattern.exec(html)) !== null) {
+      const title = cardMatch[2].trim();
+      const imageUrl = cardMatch[1].trim();
+      const slug = title.toLowerCase().replace(/\s+/g, '-');
+      const localImagePath = await downloadImage(imageUrl, 'home', slug);
+
       homeContent.hero.service_cards.push({
-        title: cardMatch[2].trim(),
+        title,
         description: cardMatch[3].trim(),
         link: `/${cardMatch[4].replace('.php.html', '')}/#content`,
-        image: cardMatch[1].trim()
+        image: localImagePath || imageUrl
       });
     }
 
