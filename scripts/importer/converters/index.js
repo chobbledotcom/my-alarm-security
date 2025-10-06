@@ -7,7 +7,7 @@ const { convertBlogPosts } = require('./blog-converter');
 const { convertProducts } = require('./product-converter');
 const { convertCategories } = require('./category-converter');
 const { convertHomeContent } = require('./home-converter');
-const { convertNewsIndex } = require('./news-index-converter');
+const { convertBlogIndex } = require('./blog-index-converter');
 const { convertReviewsIndex } = require('./reviews-index-converter');
 
 module.exports = {
@@ -16,6 +16,6 @@ module.exports = {
   convertProducts,
   convertCategories,
   convertHomeContent,
-  convertNewsIndex,
+  convertBlogIndex,
   convertReviewsIndex
 };

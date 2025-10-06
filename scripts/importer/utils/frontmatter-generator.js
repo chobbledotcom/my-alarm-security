@@ -51,7 +51,7 @@ date: ${date}
 header_text: "${metadata.header_text || metadata.title || ''}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
-permalink: "/news/${slug}/"
+permalink: "/blog/${slug}/"
 ---`;
 };
 

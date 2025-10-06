@@ -8,7 +8,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
-const { convertPages, convertBlogPosts, convertProducts, convertCategories, convertHomeContent, convertNewsIndex, convertReviewsIndex } = require('./converters');
+const { convertPages, convertBlogPosts, convertProducts, convertCategories, convertHomeContent, convertBlogIndex, convertReviewsIndex } = require('./converters');
 const { extractFavicons } = require('./utils/favicon-extractor');
 const config = require('./config');
 
@@ -102,7 +102,7 @@ const main = async () => {
     results.categories = convertCategories();
     console.log('');
 
-    results.newsIndex = convertNewsIndex();
+    results.blogIndex = convertBlogIndex();
     console.log('');
 
     results.reviewsIndex = convertReviewsIndex();
@@ -119,7 +119,7 @@ const main = async () => {
     displayResults('Blog Posts', results.blog);
     displayResults('Products', results.products);
     displayResults('Categories', results.categories);
-    displayResults('News Index', results.newsIndex);
+    displayResults('Blog Index', results.blogIndex);
     displayResults('Reviews Index', results.reviewsIndex);
 
     const totalConverted = Object.values(results).reduce((sum, r) => sum + r.successful, 0);
