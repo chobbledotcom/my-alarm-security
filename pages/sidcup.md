@@ -10,6 +10,12 @@ We are a local family run home and business security company based in Sidcup. We
 
 For an idea on prices, please check out our current most popular packages here: [Burglar Alarm System Sidcup.](/categories/burglar-alarms/) We have tailor created some packages which can have additional sensors, key fobs and door contacts added to - or removed, to suit your requirements. Feel free to contact us if you have any questions or would like to book a site survey.
 
+# Burglar Alarm Service in Sidcup 
+
 Are you looking for burglar alarm call out in Sidcup? Does your system need a service or your alarm siren battery needs replacing? Maybe your alarm system has a fault or one of the sensors isn\'t working? This is something we can help with. We often get calls from home and business owners where they need help with their current alarm system. It doesn\'t matter that we did not install your system, we can still help. With over 30 years in the security industry, there isn\'t any alarm systems that we do not know. If your alarm system doesn\'t have any branding, just send us a photo via email to <Sales@MyAlarmSecurity.co.uk> and we can identify your system for you. We carry parts and batteries for various brands so can certainly help with any issues you are having. Give us a call on 020 8302 4065 or send us an email to get booked in or if you have any questions.
 
+# CCTV Installation in Sidcup 
+
 Our family run, local, friendly and reliable company can help with all aspects of your home and business security. We offer the latest CCTV with our ColorVu cameras which offer 24 hour colour footage. All of our CCTV systems are hard wired so you do not have to rely on your internet for footage to be recorded. Check out our latest CCTV packages here: [CCTV in Sidcup.](/categories/cctv/)
+
+#

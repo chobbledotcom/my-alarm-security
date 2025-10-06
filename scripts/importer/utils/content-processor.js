@@ -106,9 +106,9 @@ const cleanContent = (content, contentType) => {
     content = removeProductListings(content);
   }
 
-  // For all content types, remove duplicate H1 headings since header_text already provides the title
-  // Remove all H1 headings from content (header_text will display the title)
-  content = content.replace(/^#\s+.+$/gm, '');
+  // For all content types, remove the first H1 heading since header_text already provides it
+  // Keep any subsequent H1s as they may be section headings
+  content = content.replace(/^#\s+.+$/m, '');
 
   // For blog posts, also remove H4 breadcrumb titles
   if (contentType === 'blog') {
