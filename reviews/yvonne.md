@@ -1,5 +1,6 @@
 ---
 name: "Yvonne"
+rating: 5
 products: ["products/pet-package-849.md"]
 ---
 
