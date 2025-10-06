@@ -1,29 +1,19 @@
 const path = require('path');
 const config = require('../config');
-const { ensureDir, readHtmlFile, writeMarkdownFile } = require('../utils/filesystem');
-const { extractMetadata } = require('../utils/metadata-extractor');
-const { convertToMarkdown } = require('../utils/pandoc-converter');
-const { processContent } = require('../utils/content-processor');
+const { ensureDir, writeMarkdownFile } = require('../utils/filesystem');
 
 /**
- * Convert blog index page from old site
+ * Generate blog index page with navigation
+ * Blog posts are automatically rendered by the news layout
  * @returns {Object} Conversion results
  */
 const convertBlogIndex = () => {
-  console.log('Converting blog index page...');
+  console.log('Creating blog index page...');
 
   const outputDir = path.join(config.OUTPUT_BASE, 'pages');
   ensureDir(outputDir);
 
-  const blogPath = path.join(config.OLD_SITE_PATH, 'blog.php.html');
-
-  try {
-    const htmlContent = readHtmlFile(blogPath);
-    const metadata = extractMetadata(htmlContent);
-    const markdown = convertToMarkdown(blogPath);
-    const content = processContent(markdown, 'page');
-
-    const frontmatter = `---
+  const frontmatter = `---
 header_text: "Latest Blog Posts"
 meta_title: "Latest Blog Posts | MyAlarm Security"
 meta_description: "All of the latest news from MyAlarm Security about home security, burglar alarms, and CCTV systems."
@@ -34,14 +24,19 @@ eleventyNavigation:
   order: 5
 ---`;
 
-    const fullContent = `${frontmatter}\n\n${content}`;
-    const outputPath = path.join(outputDir, 'blog.md');
+  const content = `# Latest Blog Posts
 
+All of the latest news from MyAlarm Security and you can also find more news on our [Facebook Page](https://www.facebook.com/MyAlarm)!`;
+
+  const fullContent = `${frontmatter}\n\n${content}`;
+  const outputPath = path.join(outputDir, 'blog.md');
+
+  try {
     writeMarkdownFile(outputPath, fullContent);
-    console.log('  Converted: blog.md');
+    console.log('  Created: blog.md');
     return { successful: 1, failed: 0, total: 1 };
   } catch (error) {
-    console.error('  Error converting blog index page:', error.message);
+    console.error('  Error creating blog.md:', error.message);
     return { successful: 0, failed: 1, total: 1 };
   }
 };
