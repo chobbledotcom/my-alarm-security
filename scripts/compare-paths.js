@@ -118,6 +118,33 @@ function mapOldToNew(oldPath) {
   return oldPath;
 }
 
+// Extract headings from HTML content
+function extractHeadings(htmlContent) {
+  const headings = [];
+  const headingRegex = /<(h[1-6])[^>]*>(.*?)<\/\1>/gi;
+  let match;
+
+  while ((match = headingRegex.exec(htmlContent)) !== null) {
+    const level = match[1].toLowerCase();
+    const text = match[2]
+      .replace(/<[^>]+>/g, '') // Remove any HTML tags inside
+      .replace(/&nbsp;/g, ' ')
+      .replace(/&amp;/g, '&')
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/\s+/g, ' ')
+      .trim();
+
+    if (text) {
+      headings.push({ level, text });
+    }
+  }
+
+  return headings;
+}
+
 // Extract metadata from old site HTML file
 function getOldSiteMetadata(urlPath) {
   const phpFileName = urlPath === '/' ? 'index.php.html' : urlPath.substring(1) + '.php.html';
@@ -125,7 +152,9 @@ function getOldSiteMetadata(urlPath) {
 
   try {
     const htmlContent = fs.readFileSync(filePath, 'utf-8');
-    return extractMetadata(htmlContent);
+    const metadata = extractMetadata(htmlContent);
+    metadata.headings = extractHeadings(htmlContent);
+    return metadata;
   } catch (error) {
     return null;
   }
@@ -148,7 +177,8 @@ function getNewSiteMetadata(urlPath) {
 
     return {
       title: title,
-      meta_description: description
+      meta_description: description,
+      headings: extractHeadings(htmlContent)
     };
   } catch (error) {
     return null;
@@ -161,6 +191,52 @@ function normalizeMetaValue(value) {
     return null;
   }
   return value.trim();
+}
+
+// Compare headings arrays
+function compareHeadings(oldHeadings, newHeadings) {
+  const differences = [];
+
+  // Check if lengths match
+  if (oldHeadings.length !== newHeadings.length) {
+    differences.push({
+      type: 'count',
+      old: oldHeadings.length,
+      new: newHeadings.length
+    });
+  }
+
+  // Compare each heading
+  const maxLength = Math.max(oldHeadings.length, newHeadings.length);
+  for (let i = 0; i < maxLength; i++) {
+    const oldH = oldHeadings[i];
+    const newH = newHeadings[i];
+
+    if (!oldH && newH) {
+      differences.push({
+        type: 'added',
+        index: i,
+        heading: `${newH.level}: "${newH.text}"`
+      });
+    } else if (oldH && !newH) {
+      differences.push({
+        type: 'removed',
+        index: i,
+        heading: `${oldH.level}: "${oldH.text}"`
+      });
+    } else if (oldH && newH) {
+      if (oldH.level !== newH.level || oldH.text !== newH.text) {
+        differences.push({
+          type: 'changed',
+          index: i,
+          old: `${oldH.level}: "${oldH.text}"`,
+          new: `${newH.level}: "${newH.text}"`
+        });
+      }
+    }
+  }
+
+  return differences;
 }
 
 // Compare metadata between old and new site
@@ -193,6 +269,15 @@ function compareMetadata(oldPath, newPath) {
       field: 'meta_description',
       old: oldDesc,
       new: newDesc
+    });
+  }
+
+  // Compare headings
+  const headingDiffs = compareHeadings(oldMeta.headings || [], newMeta.headings || []);
+  if (headingDiffs.length > 0) {
+    mismatches.push({
+      field: 'headings',
+      differences: headingDiffs
     });
   }
 
@@ -318,9 +403,26 @@ if (metadataMismatches.length > 0) {
   metadataMismatches.forEach(item => {
     console.log(`  ⚠ ${item.path}`);
     item.mismatches.forEach(mismatch => {
-      console.log(`    ${mismatch.field}:`);
-      console.log(`      OLD: ${mismatch.old === null ? '(empty)' : `"${mismatch.old}"`}`);
-      console.log(`      NEW: ${mismatch.new === null ? '(empty)' : `"${mismatch.new}"`}`);
+      if (mismatch.field === 'headings') {
+        console.log(`    ${mismatch.field}:`);
+        mismatch.differences.forEach(diff => {
+          if (diff.type === 'count') {
+            console.log(`      COUNT: ${diff.old} headings → ${diff.new} headings`);
+          } else if (diff.type === 'added') {
+            console.log(`      ADDED [${diff.index}]: ${diff.heading}`);
+          } else if (diff.type === 'removed') {
+            console.log(`      REMOVED [${diff.index}]: ${diff.heading}`);
+          } else if (diff.type === 'changed') {
+            console.log(`      CHANGED [${diff.index}]:`);
+            console.log(`        OLD: ${diff.old}`);
+            console.log(`        NEW: ${diff.new}`);
+          }
+        });
+      } else {
+        console.log(`    ${mismatch.field}:`);
+        console.log(`      OLD: ${mismatch.old === null ? '(empty)' : `"${mismatch.old}"`}`);
+        console.log(`      NEW: ${mismatch.new === null ? '(empty)' : `"${mismatch.new}"`}`);
+      }
     });
     console.log();
   });
