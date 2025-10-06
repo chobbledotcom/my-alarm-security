@@ -20,11 +20,11 @@ const generateHomePage = () => {
   const titleMatch = html.match(/<title>([^<]+)<\/title>/);
   const descMatch = html.match(/<meta name="description" content="([^"]+)"/);
 
-  const title = titleMatch ? titleMatch[1] : 'MyAlarm Security - Home & Business Security Systems';
-  const description = descMatch ? descMatch[1] : 'Professional security systems';
+  const title = titleMatch ? titleMatch[1] : 'MyAlarm Security | Burglar Alarms & CCTV Systems';
+  const description = descMatch ? descMatch[1] : 'Professional burglar alarm and CCTV installation across South East London and Kent.';
 
   return `---
-header_text: "MyAlarm Security - Home & Business Security Systems"
+header_text: "${title}"
 meta_title: "${title}"
 meta_description: "${description}"
 permalink: "/"
@@ -41,9 +41,11 @@ eleventyNavigation:
 /**
  * Create default home page if no source data available
  */
-const createDefaultHomePage = () => `---
-header_text: "MyAlarm Security - Home & Business Security Systems"
-meta_title: "MyAlarm Security | Burglar Alarms & CCTV Systems"
+const createDefaultHomePage = () => {
+  const title = 'MyAlarm Security | Burglar Alarms & CCTV Systems';
+  return `---
+header_text: "${title}"
+meta_title: "${title}"
 meta_description: "Professional burglar alarm and CCTV installation across South East London and Kent."
 permalink: "/"
 layout: "home.html"
@@ -54,23 +56,12 @@ eleventyNavigation:
 
 # Home
 `;
+};
 
 /**
- * Generate products.md from product data
+ * Generate products.md with minimal content (products listed by template)
  */
-const generateProductsPage = () => {
-  const productsDir = path.join(config.OLD_SITE_PATH, 'products');
-
-  if (!fs.existsSync(productsDir)) {
-    console.log('  Warning: products directory not found, using default products page');
-    return createDefaultProductsPage();
-  }
-
-  // Get list of products to build description
-  const productFiles = fs.readdirSync(productsDir)
-    .filter(f => f.endsWith('.php.html'));
-
-  return `---
+const generateProductsPage = () => `---
 header_text: "Our Security Packages"
 meta_title: "Security Packages | Burglar Alarms & CCTV | MyAlarm Security"
 meta_description: "Browse our complete range of security packages: burglar alarms, CCTV systems, and combined packages. Professional installation across South East London and Kent."
@@ -83,50 +74,8 @@ eleventyNavigation:
 
 # Our Security Packages
 
-We offer a comprehensive range of security packages designed to protect your home or business. All packages include professional installation, 12-month warranty, and ongoing support.
-
-## Burglar Alarm Systems
-
-**Basic System** - £539
-Perfect for flats and smaller properties. Includes door contact, movement sensors, remote fobs, and external siren.
-
-**Standard System** - £599
-Enhanced protection with additional sensors and features for medium-sized homes.
-
-**Pet Package** - £849
-Specially designed for homes with pets, featuring pet-friendly movement sensors.
-
-## CCTV Packages
-
-**CCTV Package 1** - £999
-Professional CCTV installation with high-quality cameras and recording system.
-
-**CCTV Package 2** - £1,199
-24-hour colour CCTV system with advanced night vision capabilities.
-
-## Combined Packages
-
-**Ultimate Package** - £1,549
-Complete security solution combining burglar alarm and CCTV systems.
-
-**Supreme Package** - £1,749
-Our premium offering with 24-hour colour CCTV plus comprehensive intruder alarm system.
-
-## Additional Services
-
-**Servicing & Repairs**
-Professional maintenance and repair services for existing security systems.
-
----
-
-**Call us today on 020 8302 4065 for a free consultation and quote.**
+We offer a comprehensive range of security packages designed to protect your home or business.
 `;
-};
-
-/**
- * Create default products page
- */
-const createDefaultProductsPage = () => generateProductsPage();
 
 /**
  * Generate service-areas.md with short intro (areas listed by template)
