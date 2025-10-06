@@ -44,5 +44,3 @@ Our Prices!
 
 
 ------------------------------------------------------------------------
-
-[ Back To Special Offers](/categories/special-offers/)

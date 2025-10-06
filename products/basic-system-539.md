@@ -40,8 +40,6 @@ Our Prices!
 
 ------------------------------------------------------------------------
 
-[ Back To Burglar Alarms](/categories/burglar-alarms/)
-
 Our basic package was primarily designed for use in properties such as flats, upper maisonettes and some open plan commercial premises.
 
 We suggest covering all rooms with an entry point such as external doors and windows.

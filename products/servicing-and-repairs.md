@@ -31,6 +31,4 @@ Our Prices!
 
 ------------------------------------------------------------------------
 
-[ Back To Servicing And Repairs](/categories/servicing-and-repairs/)
-
 [**Contact Us**](/contact/) for more information.
