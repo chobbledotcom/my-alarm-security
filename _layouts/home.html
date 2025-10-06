@@ -2,6 +2,29 @@
 layout: base.html
 ---
 
+{% if home_content.banner %}
+<section class="home-banner">
+  {% if home_content.banner.special_offer.message %}
+  <div class="special-offer">
+    <p>{{ home_content.banner.special_offer.message }}</p>
+    <a href="{{ home_content.banner.special_offer.link }}">VIEW OFFERS</a>
+  </div>
+  {% endif %}
+
+  {% if home_content.banner.images.size > 0 %}
+  <div class="banner-scroll" role="region" aria-label="Promotional banner images">
+    <ul>
+      {% for image in home_content.banner.images %}
+      <li>
+        <img src="{{ image }}" alt="Banner {{ forloop.index }}" loading="lazy" />
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+</section>
+{% endif %}
+
 {% if home_content.hero %}
 <section class="featured">
   {% for card in home_content.hero.service_cards %}
