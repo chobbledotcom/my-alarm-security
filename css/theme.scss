@@ -193,6 +193,8 @@ $gap: 1rem;
   gap: $gap * 2;
   margin-bottom: $gap * 4;
   list-style: none;
+  list-style-type: none;
+  margin: 0;
   padding: 0;
 
   @media (max-width: $mobile) {
@@ -207,6 +209,10 @@ $gap: 1rem;
       "review review"
       "name rating";
     gap: $gap;
+    list-style: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 
     @media (max-width: $mobile) {
       grid-template-columns: 1fr;
