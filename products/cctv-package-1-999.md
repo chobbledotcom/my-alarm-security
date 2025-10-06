@@ -25,6 +25,12 @@ Product Specifications!
 - 4 x 5MP Analogue eyeball type cameras (conventional cameras)
 - 1 x 2 TB Hardrive with 30 day storage
 
+**Info...**
+
+- Full App control from your smart phone/device
+- Conventional cameras with day time colour images and black and white night time images
+- Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
+
 
 Our Prices!
 
