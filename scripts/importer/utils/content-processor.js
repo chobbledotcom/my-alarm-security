@@ -119,6 +119,7 @@ const cleanContent = (content, contentType) => {
 
   return content
     .replace(/Posted By:.*?\n/g, '') // Remove blog post metadata
+    .replace(/^\[\s*Back [Tt]o\s+[^\]]+\]\([^)]+\)(\{[^}]+\})?\s*$/gm, '') // Remove "Back to" links
     .replace(/^:::\s*.*$/gm, '') // Remove all pandoc div markers
     .replace(/\[[^\]]+\]\{style="[^"]*"\}/g, (match) => {
       // Extract text from [text]{style="..."} patterns

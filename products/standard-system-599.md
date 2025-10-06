@@ -39,8 +39,6 @@ Our Prices!
 
 ------------------------------------------------------------------------
 
-[ Back To Burglar Alarms](/categories/burglar-alarms/)
-
 Our standard package was designed to suit most residential premises and is by far our most popular package.
 
 We suggest covering each room on the ground floor which has an entry point such as external doors and windows and at least one upstairs on the landing for general coverage.

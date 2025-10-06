@@ -41,8 +41,6 @@ Our Prices!
 
 ------------------------------------------------------------------------
 
-[ Back To Burglar Alarms](/categories/burglar-alarms/)
-
 Our pet package was designed for premises with cats and/or dogs over 24 kg\'s.
 
 The package is designed to cover entry points such as external doors and windows to the rear of the premises with impact sensors which are calibrated to suit the application, this gives the pets free reign without the worry of triggering any pir movement sensors.
