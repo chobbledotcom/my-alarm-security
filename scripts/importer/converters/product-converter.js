@@ -1,90 +1,60 @@
 const path = require('path');
 const config = require('../config');
-const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles } = require('../utils/filesystem');
-const { downloadImage, downloadEmbeddedImages } = require('../utils/image-downloader');
-const { extractMetadata, extractPrice, extractReviews, extractProductName, extractProductImages } = require('../utils/metadata-extractor');
-const { convertToMarkdown } = require('../utils/pandoc-converter');
-const { processContent } = require('../utils/content-processor');
+const { ensureDir, listHtmlFiles, writeMarkdownFile } = require('../utils/filesystem');
+const { extractPrice, extractReviews, extractProductName, extractProductImages } = require('../utils/metadata-extractor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
+const { downloadProductImage, downloadEmbeddedImages } = require('../utils/image-downloader');
 const { scanProductCategories } = require('../utils/category-scanner');
+const { createConverter } = require('../utils/base-converter');
 
-/**
- * Convert a single product HTML file to markdown
- * @param {string} file - HTML filename
- * @param {string} inputDir - Input directory path
- * @param {string} outputDir - Output directory path
- * @param {string} reviewsDir - Reviews output directory path
- * @param {Map} reviewsMap - Map to track reviews by name
- * @param {Map} productCategoriesMap - Map of product slug to categories
- * @returns {Promise<boolean>} Success status
- */
-const convertProduct = async (file, inputDir, outputDir, reviewsDir, reviewsMap, productCategoriesMap) => {
-  try {
-    const htmlPath = path.join(inputDir, file);
-    const htmlContent = readHtmlFile(htmlPath);
-    const metadata = extractMetadata(htmlContent);
-    const markdown = convertToMarkdown(htmlPath);
-    const content = processContent(markdown, 'product');
-
-    // Extract product-specific data
-    const price = extractPrice(htmlContent);
-    const reviews = extractReviews(htmlContent);
-    const productName = extractProductName(htmlContent);
-    const images = extractProductImages(htmlContent);
-
-    const filename = file.replace('.php.html', '.md');
-    const slug = filename.replace('.md', '');
-
-    // Get all categories for this product from the scanner
-    const categories = productCategoriesMap.get(slug) || [];
-
-    // Create/update review files for this product
-    if (reviews.length > 0) {
-      reviews.forEach((review) => {
+const { convertSingle, convertBatch } = createConverter({
+  contentType: 'product',
+  extractors: {
+    price: (htmlContent) => extractPrice(htmlContent),
+    reviews: (htmlContent) => extractReviews(htmlContent),
+    productName: (htmlContent) => extractProductName(htmlContent),
+    images: (htmlContent) => extractProductImages(htmlContent)
+  },
+  frontmatterGenerator: (metadata, slug, extracted) => {
+    const categories = extracted.productCategoriesMap?.get(slug) || [];
+    const localImages = { header_image: extracted.localImagePath };
+    return generateProductFrontmatter(
+      metadata,
+      slug,
+      extracted.price,
+      categories,
+      extracted.productName,
+      localImages
+    );
+  },
+  beforeWrite: async (content, extracted, slug) => {
+    extracted.localImagePath = await downloadProductImage(extracted.images.header_image, slug);
+    return await downloadEmbeddedImages(content, 'products', slug);
+  },
+  afterConvert: async (extracted, slug, context) => {
+    const { reviewsMap } = context;
+    if (extracted.reviews.length > 0) {
+      extracted.reviews.forEach((review) => {
         const reviewSlug = review.name.toLowerCase().replace(/\s+/g, '-');
-        const reviewFilename = `${reviewSlug}.md`;
-        const reviewPath = path.join(reviewsDir, reviewFilename);
-
-        // Check if review already exists
         if (reviewsMap.has(reviewSlug)) {
           const existingReview = reviewsMap.get(reviewSlug);
           if (!existingReview.products.includes(`products/${slug}.md`)) {
             existingReview.products.push(`products/${slug}.md`);
           }
-          // Don't create duplicate file, just track the product relationship
         } else {
-          // New review - create it
-          const reviewData = {
+          reviewsMap.set(reviewSlug, {
             name: review.name,
             body: review.body,
             products: [`products/${slug}.md`]
-          };
-          reviewsMap.set(reviewSlug, reviewData);
+          });
         }
       });
     }
-
-    // Download image and get local path
-    const localImagePath = await downloadImage(images.header_image, 'products', `${slug}.webp`);
-
-    // Download embedded images in content
-    const contentWithLocalImages = await downloadEmbeddedImages(content, 'products', slug);
-
-    // Pass header image only (no gallery)
-    const localImages = {
-      header_image: localImagePath
-    };
-
-    const frontmatter = generateProductFrontmatter(metadata, slug, price, categories, productName, localImages);
-    const fullContent = `${frontmatter}\n\n${contentWithLocalImages}`;
-
-    writeMarkdownFile(path.join(outputDir, filename), fullContent);
-    console.log(`  Converted: ${filename}`);
-    return true;
-  } catch (error) {
-    console.error(`  Error converting ${file}:`, error.message);
-    return false;
   }
+});
+
+const convertProduct = (file, inputDir, outputDir, reviewsDir, reviewsMap, productCategoriesMap) => {
+  return convertSingle(file, inputDir, outputDir, { reviewsMap, productCategoriesMap });
 };
 
 /**
@@ -107,40 +77,24 @@ const convertProducts = async () => {
     return { successful: 0, failed: 0, total: 0 };
   }
 
-  // Scan all categories to build product-to-categories mapping
   console.log('  Scanning categories for product relationships...');
   const productCategoriesMap = scanProductCategories();
 
   const reviewsMap = new Map();
-  let successful = 0;
-  let failed = 0;
+  const result = await convertBatch(files, productsDir, outputDir, { reviewsMap, productCategoriesMap });
 
-  for (const file of files) {
-    if (await convertProduct(file, productsDir, outputDir, reviewsDir, reviewsMap, productCategoriesMap)) {
-      successful++;
-    } else {
-      failed++;
-    }
+  if (reviewsMap.size > 0) {
+    reviewsMap.forEach((reviewData, slug) => {
+      const reviewFilename = `${slug}.md`;
+      const productsYaml = reviewData.products.map(p => `"${p}"`).join(', ');
+      const frontmatter = `---\nname: "${reviewData.name}"\nproducts: [${productsYaml}]\n---`;
+      const reviewContent = `${frontmatter}\n\n${reviewData.body}`;
+      writeMarkdownFile(path.join(reviewsDir, reviewFilename), reviewContent);
+    });
+    console.log(`  Created ${reviewsMap.size} unique review file(s)`);
   }
 
-  // Write all unique review files
-  let reviewsCreated = 0;
-  reviewsMap.forEach((reviewData, slug) => {
-    const reviewFilename = `${slug}.md`;
-    const reviewFrontmatter = generateReviewFrontmatter(reviewData.name, null);
-    const productsYaml = reviewData.products.map(p => `"${p}"`).join(', ');
-    const frontmatter = `---\nname: "${reviewData.name}"\nproducts: [${productsYaml}]\n---`;
-    const reviewContent = `${frontmatter}\n\n${reviewData.body}`;
-
-    writeMarkdownFile(path.join(reviewsDir, reviewFilename), reviewContent);
-    reviewsCreated++;
-  });
-
-  if (reviewsCreated > 0) {
-    console.log(`  Created ${reviewsCreated} unique review file(s)`);
-  }
-
-  return { successful, failed, total: files.length };
+  return result;
 };
 
 module.exports = {
