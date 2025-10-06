@@ -8,7 +8,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
-const { convertPages, convertBlogPosts, convertProducts, convertCategories, convertHomeContent, convertBlogIndex, convertReviewsIndex } = require('./converters');
+const { convertPages, convertBlogPosts, convertProducts, convertCategories, convertHomeContent, convertBlogIndex, convertReviewsIndex, convertSpecialPages } = require('./converters');
 const { extractFavicons } = require('./utils/favicon-extractor');
 const ResultsTracker = require('./utils/results-tracker');
 const config = require('./config');
@@ -70,6 +70,9 @@ const main = async () => {
     console.log('');
 
     tracker.add('Pages', await convertPages());
+    console.log('');
+
+    tracker.add('Special Pages', await convertSpecialPages());
     console.log('');
 
     tracker.add('Blog Posts', await convertBlogPosts());
