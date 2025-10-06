@@ -19,8 +19,8 @@ const convertBlogPost = (file, inputDir, outputDir) => {
     const htmlContent = readHtmlFile(htmlPath);
     const metadata = extractMetadata(htmlContent);
     const markdown = convertToMarkdown(htmlPath);
+    const date = extractBlogDate(markdown, config.DEFAULT_DATE);
     const content = processContent(markdown, 'blog');
-    const date = extractBlogDate(content, config.DEFAULT_DATE);
 
     const slug = file.replace('.php.html', '');
     const filename = `${date}-${slug}.md`;
