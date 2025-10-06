@@ -14,7 +14,8 @@ const config = {
     news: 'news',
     products: 'products',
     categories: 'categories',
-    blog: 'blog' // Source directory in old site
+    blog: 'blog', // Source directory in old site
+    favicon: 'assets/favicon'
   }
 };
 

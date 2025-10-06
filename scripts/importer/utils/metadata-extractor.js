@@ -166,6 +166,48 @@ const extractProductImages = (htmlContent) => {
   return images;
 };
 
+/**
+ * Extract favicon links from HTML content
+ * @param {string} htmlContent - HTML content to extract favicon links from
+ * @returns {Array<Object>} Array of favicon link objects
+ */
+const extractFaviconLinks = (htmlContent) => {
+  const faviconLinks = [];
+
+  // Match all link tags that might be favicon-related
+  const linkRegex = /<link\s+([^>]*?)>/gi;
+  const links = htmlContent.matchAll(linkRegex);
+
+  for (const linkMatch of links) {
+    const linkTag = linkMatch[1];
+
+    // Check if this is a favicon-related link
+    const relMatch = linkTag.match(/rel=["']([^"']*?)["']/i);
+    if (!relMatch) continue;
+
+    const rel = relMatch[1].toLowerCase();
+    const isFavicon = rel.includes('icon') || rel.includes('apple-touch');
+
+    if (!isFavicon) continue;
+
+    // Extract attributes
+    const hrefMatch = linkTag.match(/href=["']([^"']*?)["']/i);
+    const sizesMatch = linkTag.match(/sizes=["']([^"']*?)["']/i);
+    const typeMatch = linkTag.match(/type=["']([^"']*?)["']/i);
+
+    if (hrefMatch) {
+      faviconLinks.push({
+        rel,
+        href: hrefMatch[1],
+        sizes: sizesMatch ? sizesMatch[1] : null,
+        type: typeMatch ? typeMatch[1] : null
+      });
+    }
+  }
+
+  return faviconLinks;
+};
+
 module.exports = {
   extractMetadata,
   extractPrice,
@@ -174,5 +216,6 @@ module.exports = {
   extractProductName,
   extractBlogDate,
   extractReviews,
-  extractProductImages
+  extractProductImages,
+  extractFaviconLinks
 };
