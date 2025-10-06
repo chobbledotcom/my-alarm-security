@@ -19,15 +19,11 @@ header_image: "/images/products/servicing-and-repairs.webp"
 
 Product Specifications!
 
-  Specification   Details
-  Tel.            020 8302 4065
-  Email.          sales@myalarmsecurity.co.uk
-  --------------- -----------------------------
+
 
 Our Prices!
 
-  Contact For Price   
-  ------------------- --
+
 
 ------------------------------------------------------------------------
 

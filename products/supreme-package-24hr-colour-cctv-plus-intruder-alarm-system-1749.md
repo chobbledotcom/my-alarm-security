@@ -19,23 +19,23 @@ header_image: "/images/products/supreme-package-24hr-colour-cctv-plus-intruder-a
 
 Product Specifications!
 
-  Specification        Details
-  Package includes:    4 x 3K ColorVu eye ball type cameras with 24hr colour images
-                       1 x 2tb Harddrive with 30 day storage
-                       1 x Door contact
-                       4 x Movement sensors (can be pet friendly)
-                       1 x External siren for the front
-                       1 x Decoy siren for the rear
-                       1 x App controlled panel
-  Info\...             Available to view remotely anywhere in the world with an internet connection
-                       All cables, power supplies and sundries included
-                       Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
-  -------------------- ------------------------------------------------------------------------------
+
+**Package includes:**
+
+- 4 x 3K ColorVu eye ball type cameras with 24hr colour images
+- 1 x 2tb Harddrive with 30 day storage
+- 1 x Door contact
+- 4 x Movement sensors (can be pet friendly)
+- 1 x External siren for the front
+- 1 x Decoy siren for the rear
+- 1 x App controlled panel
+
 
 Our Prices!
 
-  Our Price:   £1749.00
-  ------------ ----------
+
+**Our Price:** £1749.00
+
 
 ------------------------------------------------------------------------
 

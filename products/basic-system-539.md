@@ -19,20 +19,24 @@ header_image: "/images/products/basic-system-539.webp"
 
 Product Specifications!
 
-  Specification        Details
-  Package Includes:    1 x Door contact
-                       2 x Movement sensors (can be pet friendly)
-                       2 x Remote set/unset fobs which pair as remote panic buttons
-                       1 x External siren for the front
-                       1 X Decoy Siren For The Rear
-                       1 X App Controlled Panel With 12 Months Free App Connectivity (£20 A Year Thereafter)
-  Info:                Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
-  -------------------- ---------------------------------------------------------------------------------------
+
+**Package Includes:**
+
+- 1 x Door contact
+- 2 x Movement sensors (can be pet friendly)
+- 2 x Remote set/unset fobs which pair as remote panic buttons
+- 1 x External siren for the front
+- 1 X Decoy Siren For The Rear
+- 1 X App Controlled Panel With 12 Months Free App Connectivity (£20 A Year Thereafter)
+
+**Info:** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
+
 
 Our Prices!
 
-  Our Price:   £539.00
-  ------------ ---------
+
+**Our Price:** £539.00
+
 
 ------------------------------------------------------------------------
 

@@ -1,3 +1,5 @@
+const { parseSpecificationTables } = require('./markdown-table-parser');
+
 /**
  * Extract main content from markdown (remove nav, footer, etc.)
  * @param {string} markdown - Raw markdown content
@@ -135,7 +137,14 @@ const cleanContent = (content, contentType) => {
  */
 const processContent = (markdown, contentType) => {
   const extracted = extractMainContent(markdown, contentType);
-  return cleanContent(extracted, contentType);
+  let cleaned = cleanContent(extracted, contentType);
+
+  // Parse and format specification tables for products
+  if (contentType === 'product') {
+    cleaned = parseSpecificationTables(cleaned);
+  }
+
+  return cleaned;
 };
 
 module.exports = {

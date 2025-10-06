@@ -19,21 +19,25 @@ header_image: "/images/products/pet-package-849.webp"
 
 Product Specifications!
 
-  Specification        Details
-  Package Includes:    1 x Door contact
-                       2 x Pet friendly movement sensors
-                       4 x Shock sensors for external doors and windows
-                       2 x Remote set/unset fobs which pair as remote panic buttons
-                       1 X External Siren For The Front
-                       1 X Decoy Siren For The Rear
-                       1 X App Controlled Panel With 12 Months Free App Connectivity (£20 A Year Thereafter)
-  Info:                Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
-  -------------------- ---------------------------------------------------------------------------------------
+
+**Package Includes:**
+
+- 1 x Door contact
+- 2 x Pet friendly movement sensors
+- 4 x Shock sensors for external doors and windows
+- 2 x Remote set/unset fobs which pair as remote panic buttons
+- 1 X External Siren For The Front
+- 1 X Decoy Siren For The Rear
+- 1 X App Controlled Panel With 12 Months Free App Connectivity (£20 A Year Thereafter)
+
+**Info:** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
+
 
 Our Prices!
 
-  Our Price:   £849.00
-  ------------ ---------
+
+**Our Price:** £849.00
+
 
 ------------------------------------------------------------------------
 

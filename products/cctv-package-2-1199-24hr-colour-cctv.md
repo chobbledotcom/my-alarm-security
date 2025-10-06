@@ -19,17 +19,18 @@ header_image: "/images/products/cctv-package-2-1199-24hr-colour-cctv.webp"
 
 Product Specifications!
 
-  Specification        Details
-  Package includes:    4 x 5MP ColorVu eyeball type cameras with 24 hour colour footage
-                       1 x 2TB Hardrive with 30 day storage
-  Info\...             Full App control from your smart phone/device
-                       Supplied and fitted and with a 12 month warranty
-  -------------------- ------------------------------------------------------------------
+
+**Package includes:**
+
+- 4 x 5MP ColorVu eyeball type cameras with 24 hour colour footage
+- 1 x 2TB Hardrive with 30 day storage
+
 
 Our Prices!
 
-  Our Price:   £1199.00
-  ------------ ----------
+
+**Our Price:** £1199.00
+
 
 ------------------------------------------------------------------------
 
