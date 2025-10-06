@@ -8,7 +8,7 @@ layout: page
 
 # Burglar Alarm Servicing in Bexleyheath  
 
-Are you looking for a burglar alarm engineer in Bexleyheath? Maybe you cant get hold of your original installer/company or maybe you have inherited the system and not sure who installed or services your burglar alarm system in Bexleyheath. Do not worry, we can certainly help. If you need your burglar alarm system serviced, or need the batteries changed, it has a fault or a part needs replacing, this is something that we can help with. Give us a call or send us an email and our friendly and helpful team can answer any of your questions and get you booked in. [Contact us here.](/contact.php) We are a local family run company based in Sidcup with 30 years experience in the electronic security industry. There isn\'t any alarm system panels out there that we do not know.
+Are you looking for a burglar alarm engineer in Bexleyheath? Maybe you cant get hold of your original installer/company or maybe you have inherited the system and not sure who installed or services your burglar alarm system in Bexleyheath. Do not worry, we can certainly help. If you need your burglar alarm system serviced, or need the batteries changed, it has a fault or a part needs replacing, this is something that we can help with. Give us a call or send us an email and our friendly and helpful team can answer any of your questions and get you booked in. [Contact us here.](/contact/) We are a local family run company based in Sidcup with 30 years experience in the electronic security industry. There isn\'t any alarm system panels out there that we do not know.
 
 # Burglar Alarm System in Bexleyheath 
 
@@ -20,10 +20,10 @@ Looking for a local, trusted security system company in Bexleyheath? If you\'re 
 
 **Do I have to have the app?** The answer is no, you don\'t. If you decide that you do not want the app, your alarm system will still work as it should. The only difference is that you will not be able to remotely connect to your system or be notified if it has been activated. All settings will have to be done at the alarm panel within the property.
 
-So, if you are looking to have a home security system in Bexleyheath or a burglar alarm system at your business property, give us a call. You can check out some of our most popular packages here: [Burglar Alarm System Bexleyheath.](/categories/burglar-alarms.php) All of our packages can be tailored to suit your property and requirements. Additional sensors, key fobs and door contacts can be added (or removed) to any of our packages to create the security system package that suits your needs.
+So, if you are looking to have a home security system in Bexleyheath or a burglar alarm system at your business property, give us a call. You can check out some of our most popular packages here: [Burglar Alarm System Bexleyheath.](/categories/burglar-alarms/) All of our packages can be tailored to suit your property and requirements. Additional sensors, key fobs and door contacts can be added (or removed) to any of our packages to create the security system package that suits your needs.
 
 # CCTV in Bexleyheath 
 
-If you are looking for a local, friendly and professional company to install CCTV at your property in Bexleyheath, then look no further. We can help! We offer hard wired CCTV packages that do not rely on an internet connection to record and store footage. All of our CCTV systems come with approx 30 days storage. Check out some of our packages here: [CCTV in Bexleyheath.](/categories/cctv.php) Contact us if you have any questions.
+If you are looking for a local, friendly and professional company to install CCTV at your property in Bexleyheath, then look no further. We can help! We offer hard wired CCTV packages that do not rely on an internet connection to record and store footage. All of our CCTV systems come with approx 30 days storage. Check out some of our packages here: [CCTV in Bexleyheath.](/categories/cctv/) Contact us if you have any questions.
 
-It couldnt be more easier to speak with us. You can use our contact us for found here: [Contact us](/contact.php) - and fill in your details and we will get back to you as soon as we can. You can also email us direct at: Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.
+It couldnt be more easier to speak with us. You can use our contact us for found here: [Contact us](/contact/) - and fill in your details and we will get back to you as soon as we can. You can also email us direct at: Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.

@@ -39,6 +39,6 @@ Our Prices!
 
 ------------------------------------------------------------------------
 
-[ Back To Special Offers](/categories/special-offers.php)
+[ Back To Special Offers](/categories/special-offers/)
 
 # Supreme Package
