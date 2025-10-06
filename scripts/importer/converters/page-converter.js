@@ -1,6 +1,6 @@
 const path = require('path');
 const config = require('../config');
-const { ensureDir, listHtmlFiles } = require('../utils/filesystem');
+const { listHtmlFiles, prepDir } = require('../utils/filesystem');
 const { generatePageFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadEmbeddedImages } = require('../utils/image-downloader');
 const { createConverter } = require('../utils/base-converter');
@@ -22,7 +22,7 @@ const convertPages = async () => {
   console.log('Converting pages...');
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.pages);
-  ensureDir(outputDir);
+  prepDir(outputDir);
 
   const pagesDir = path.join(config.OLD_SITE_PATH, 'pages');
   const pageFiles = listHtmlFiles(pagesDir);
