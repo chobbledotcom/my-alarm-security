@@ -15,10 +15,10 @@ Burglaries through rear patio/bi-fold doors are at an all time high. All we see 
 
 In our experience, they seem to find anything heavy like a nearby flower pot or something from a rockery etc and then throw this through the door and walk in. They certainly don\'t seem to be doing things quietly and carefully anymore.
 
-The local police have suggested on every street meeting that a [burglar alarm security system](/categories/burglar-alarms.php) is a sure fire way of potentially deterring these thieves away from your property and your belongings.
+The local police have suggested on every street meeting that a [burglar alarm security system](/categories/burglar-alarms/) is a sure fire way of potentially deterring these thieves away from your property and your belongings.
 
-Our \'[Pet Package](/products/pet-package-849.php)\' is the perfect start of a complete smart home security burglar alarm system with perimeter protection with the back up of a couple of movement sensors on the inside.
+Our \'[Pet Package](/products/pet-package-849/)\' is the perfect start of a complete smart home security burglar alarm system with perimeter protection with the back up of a couple of movement sensors on the inside.
 
-Our aim is to trigger the alarm before any movement is detected on the inside and this will hopefully be enough to scare the thieves away and not come back. Check out all of our \'[Special Offers](/categories/special-offers.php)\' here.
+Our aim is to trigger the alarm before any movement is detected on the inside and this will hopefully be enough to scare the thieves away and not come back. Check out all of our \'[Special Offers](/categories/special-offers/)\' here.
 
 ![Patio Doors](https://res.cloudinary.com/kbs/image/upload/f4lkhisu0jjdsu5wyflc.jpg)

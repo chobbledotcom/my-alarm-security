@@ -11,7 +11,7 @@ permalink: "/news/tile-drilling/"
 
 # Tile Drilling
 
-When installing our [Burglar Alarms](/categories/burglar-alarms.php) or[ CCTV Systems](/categories/cctv.php) we come across all sorts of properties. This particular property in Sidcup, Bexley had a tiled front so therefore needed a specific drill bit and to go into a high speed drill.
+When installing our [Burglar Alarms](/categories/burglar-alarms/) or[ CCTV Systems](/categories/cctv/) we come across all sorts of properties. This particular property in Sidcup, Bexley had a tiled front so therefore needed a specific drill bit and to go into a high speed drill.
 
 Once drilled, rawlplugs and screws give a brilliant secure hold.
 

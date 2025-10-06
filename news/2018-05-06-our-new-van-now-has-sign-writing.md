@@ -17,7 +17,7 @@ After hours with our designer at their offices in Bexley and lots and lots of am
 
 We decided to keep in with our colours of red and white but also went with black text for our contact details so that they can be easily read and copied by our potential customers as we drive past. Our van wrap includes our MyAlarm logo, our contact details and all of the social networking sites that we are on including Facebook, Twitter and Instagram. We also had our QR code put on to the van so when you are passing, you can scan the QR code using your phone which will take you straight to our website. How cool is that?!
 
-With our van parked outside your premises, it also lets anyone passing know that your property is in the process of having one of our security systems installed either a [Burglar Alarms or CCTV](/categories/special-offers.php) or both.
+With our van parked outside your premises, it also lets anyone passing know that your property is in the process of having one of our security systems installed either a [Burglar Alarms or CCTV](/categories/special-offers/) or both.
 
 With the majority of our local work around Greenwich, New Eltham, Sidcup, Welling, Bexley, Bromley, Dartford and Orpington we are sure to turn some heads. We cant be missed in our van and are confident that our design not only looks good but also signifies what we do.
 

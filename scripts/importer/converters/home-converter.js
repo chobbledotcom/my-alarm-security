@@ -27,8 +27,7 @@ const convertHomeContent = () => {
         features: []
       },
       reviews: {
-        heading: "Our Reviews",
-        items: []
+        heading: "Our Reviews"
       }
     };
 
@@ -90,16 +89,6 @@ const convertHomeContent = () => {
       }
     }
 
-    // Extract reviews
-    const reviewPattern = /<div class="card text-white bg-dark">[\s\S]*?<p class="card-text mb-0">([^<]+(?:<[^>]+>[^<]*<\/[^>]+>[^<]*)*?)<\/p>[\s\S]*?<p class="card-text mt-3"><strong>([^<]+)<\/strong>\s+([^<]+)<\/p>/g;
-    let reviewMatch;
-    while ((reviewMatch = reviewPattern.exec(html)) !== null) {
-      homeContent.reviews.items.push({
-        text: reviewMatch[1].replace(/<[^>]+>/g, '').replace(/&apos;/g, "'").trim(),
-        author: reviewMatch[2].trim(),
-        date: reviewMatch[3].trim()
-      });
-    }
 
     // Write the JSON file
     fs.writeFileSync(outputPath, JSON.stringify(homeContent, null, 2));
@@ -108,7 +97,6 @@ const convertHomeContent = () => {
     console.log(`   - ${homeContent.hero.service_cards.length} service cards`);
     console.log(`   - ${homeContent.main_content.paragraphs.length} content paragraphs`);
     console.log(`   - ${homeContent.why_choose_us.features.length} features`);
-    console.log(`   - ${homeContent.reviews.items.length} reviews`);
 
     return {
       successful: 1,

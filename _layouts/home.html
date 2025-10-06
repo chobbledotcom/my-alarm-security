@@ -38,11 +38,12 @@ layout: base.html
 {% endif %} {% if home_content.reviews %}
 <section>
   <h2>{{ home_content.reviews.heading }}</h2>
-  {% for review in home_content.reviews.items %}
+  {% assign sorted_reviews = collections.reviews | reverse %}
+  {% for review in sorted_reviews limit:9 %}
   <article>
     <blockquote>
-      <p>{{ review.text }}</p>
-      <footer><strong>{{ review.author }}</strong> - {{ review.date }}</footer>
+      {{ review.data.body | markdownify }}
+      <footer><strong>{{ review.data.name }}</strong></footer>
     </blockquote>
   </article>
   {% endfor %}

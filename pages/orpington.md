@@ -20,10 +20,10 @@ Providing home security in Orpington has always been one of our favourite places
 
 So if you are thinking of having a home security system installed or maybe you need a burglar alarm for your business instead, we can help with it all. We offer brand new installations as well as upgrades. You may already have an alarm system that works just fine but may need a service or a new battery, this is something we can help with. We offer servicing to all brands of alarm system. It doesnt matter that we didnt fit it, we have been in the security trade for a number of years so there isnt any alarm panels out there that we havent come across before.
 
-If you are looking for a local, friendly and trusted home security sytems company in Orpington to service your current alarm system, get in touch. [Burglar Alarm Service in Orpington](/categories/servicing-and-repairs.php) and [Burglar Alarm Battery in Orpington](/categories/servicing-and-repairs.php).
+If you are looking for a local, friendly and trusted home security sytems company in Orpington to service your current alarm system, get in touch. [Burglar Alarm Service in Orpington](/categories/servicing-and-repairs/) and [Burglar Alarm Battery in Orpington](/categories/servicing-and-repairs/).
 
-We can create any package to suit your needs so if you need more or less sensors, or you would like an additional keypad or you want to add on some more keytags, we can help with it all. Check out some of our existing burglar alarm packages here: [Burglar Alarm System in Orpington.](/categories/burglar-alarms.php)
+We can create any package to suit your needs so if you need more or less sensors, or you would like an additional keypad or you want to add on some more keytags, we can help with it all. Check out some of our existing burglar alarm packages here: [Burglar Alarm System in Orpington.](/categories/burglar-alarms/)
 
-We also offer CCTV packages. Feel free to give us a call or send us an email if you have any questions. Take a look at our current CCTV packages here: [CCTV Systems in Orpington.](/categories/cctv.php)
+We also offer CCTV packages. Feel free to give us a call or send us an email if you have any questions. Take a look at our current CCTV packages here: [CCTV Systems in Orpington.](/categories/cctv/)
 
 ![Burglar Alarm Company Van Orpington CCTV Orpington Alarm Service Battery Orpingron](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto/ysizh3plzbep45fgjb0g.webp "Orpington High Elms Van ")
