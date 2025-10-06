@@ -24,8 +24,12 @@ const convertReviewsIndex = () => {
     const markdown = convertToMarkdown(reviewsPath);
     const content = processContent(markdown, 'page');
 
+    // Extract only the intro text before "Click Here To Leave A Review!"
+    const clickHerePattern = /\[Click Here To Leave A Review!\]/i;
+    const introContent = content.split(clickHerePattern)[0].trim();
+
     const frontmatter = generatePageFrontmatter(metadata, 'reviews');
-    const fullContent = `${frontmatter}\n\n${content}`;
+    const fullContent = `${frontmatter}\n\n${introContent}`;
     const outputPath = path.join(outputDir, 'reviews.md');
 
     writeMarkdownFile(outputPath, fullContent);
