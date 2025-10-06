@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { prepDir } = require('./filesystem');
 
 /**
  * Extract all favicon-related links from HTML content
@@ -81,6 +82,9 @@ const extractFavicons = (oldSitePath, outputPath) => {
   };
 
   console.log('Extracting favicons...');
+
+  // Clean and prepare the favicon output directory
+  prepDir(outputPath);
 
   // Find and read any HTML file to get favicon links
   const htmlFiles = fs.readdirSync(oldSitePath)

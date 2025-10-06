@@ -1,6 +1,6 @@
 const path = require('path');
 const config = require('../config');
-const { ensureDir, listHtmlFiles } = require('../utils/filesystem');
+const { listHtmlFiles, prepDir } = require('../utils/filesystem');
 const { extractCategoryName } = require('../utils/metadata-extractor');
 const { generateCategoryFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadEmbeddedImages } = require('../utils/image-downloader');
@@ -29,7 +29,7 @@ const convertCategories = async () => {
   console.log('Converting categories...');
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.categories);
-  ensureDir(outputDir);
+  prepDir(outputDir);
 
   const categoriesDir = path.join(config.OLD_SITE_PATH, config.paths.categories);
   const files = listHtmlFiles(categoriesDir);

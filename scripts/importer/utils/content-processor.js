@@ -23,9 +23,11 @@ const extractMainContent = (markdown, contentType) => {
     }
 
     // Skip forms (contact forms should be handled by layout)
-    if (line.includes('**Name:') || line.includes('**Phone:') || line.includes('**Email:') ||
-        line.includes('**Product Enquiry:') || line.includes('**Your Postcode:') ||
-        line.includes('**Message:') || line.includes('**Captcha:')) {
+    // Only break on actual form field labels (with escaped asterisk), not contact information
+    if (line.includes('**Name: \\*') || line.includes('**Phone: \\*') ||
+        line.includes('**Email: \\*') || line.includes('**Product Enquiry:') ||
+        line.includes('**Your Postcode:') || line.includes('**Message:') ||
+        line.includes('**Captcha:')) {
       break;
     }
 

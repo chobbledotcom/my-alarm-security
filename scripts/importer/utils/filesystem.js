@@ -59,6 +59,15 @@ const cleanDirectory = (dir) => {
 };
 
 /**
+ * Prepare a directory for import by ensuring it exists and is clean
+ * @param {string} dir - Directory path to prepare
+ */
+const prepDir = (dir) => {
+  ensureDir(dir);
+  cleanDirectory(dir);
+};
+
+/**
  * Download a file from URL
  * @param {string} url - URL to download from
  * @param {string} filepath - Local path to save file
@@ -104,6 +113,7 @@ module.exports = {
   writeMarkdownFile,
   listHtmlFiles,
   cleanDirectory,
+  prepDir,
   downloadFile,
   slugFromFilename,
   markdownFilename

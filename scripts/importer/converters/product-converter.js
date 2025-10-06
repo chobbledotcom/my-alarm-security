@@ -1,6 +1,6 @@
 const path = require('path');
 const config = require('../config');
-const { ensureDir, listHtmlFiles, writeMarkdownFile } = require('../utils/filesystem');
+const { listHtmlFiles, prepDir, writeMarkdownFile } = require('../utils/filesystem');
 const { extractPrice, extractReviews, extractProductName, extractProductImages } = require('../utils/metadata-extractor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadProductImage, downloadEmbeddedImages } = require('../utils/image-downloader');
@@ -66,8 +66,8 @@ const convertProducts = async () => {
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.products);
   const reviewsDir = path.join(config.OUTPUT_BASE, 'reviews');
-  ensureDir(outputDir);
-  ensureDir(reviewsDir);
+  prepDir(outputDir);
+  prepDir(reviewsDir);
 
   const productsDir = path.join(config.OLD_SITE_PATH, config.paths.products);
   const files = listHtmlFiles(productsDir);

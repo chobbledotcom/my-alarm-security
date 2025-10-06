@@ -209,6 +209,14 @@ $gap: 1rem;
     grid-template-columns: 1fr;
   }
 
+  body.item & {
+    grid-template-columns: repeat(2, 1fr);
+
+    @media (max-width: $mobile) {
+      grid-template-columns: 1fr;
+    }
+  }
+
   li {
     display: grid;
     grid-template-columns: auto auto;
@@ -222,6 +230,7 @@ $gap: 1rem;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    height: min-content;
 
     @media (max-width: $mobile) {
       grid-template-columns: 1fr;
@@ -244,8 +253,8 @@ $gap: 1rem;
         &:first-child::before {
           content: "\201C";
           font-size: 2rem;
-          line-height: 1;
-          vertical-align: top;
+          line-height: 0;
+          vertical-align: baseline;
           margin-right: 0.25rem;
           color: var(--color-link);
         }
@@ -253,8 +262,8 @@ $gap: 1rem;
         &:last-child::after {
           content: "\201D";
           font-size: 2rem;
-          line-height: 1;
-          vertical-align: top;
+          line-height: 0;
+          vertical-align: -0.4em;
           margin-left: 0.25rem;
           color: var(--color-link);
         }
@@ -289,6 +298,13 @@ $gap: 1rem;
       text-align: center;
       font-style: italic;
       font-size: 0.9rem;
+
+      a {
+        color: #ccc;
+        &:hover {
+          color: var(--color-link);
+        }
+      }
     }
   }
 }
