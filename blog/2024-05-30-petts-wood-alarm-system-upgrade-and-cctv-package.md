@@ -1,7 +1,7 @@
 ---
 title: "Petts Wood Intruder Alarm Company. Petts Wood Cctv Company"
 date: 2024-05-30
-header_text: "Petts Wood Intruder Alarm Company. Petts Wood Cctv Company"
+header_text: "Petts Wood Alarm System Upgrade And Cctv Package"
 meta_title: "Petts Wood Intruder Alarm Company. Petts Wood Cctv Company"
 meta_description: "Intruder Alarm and CCTV Company. Petts Wood, Orpington, Bromley, Sevenoaks, Bexley, Dartford, Greenwich. 020 8302 4065."
 permalink: "/blog/petts-wood-alarm-system-upgrade-and-cctv-package/"

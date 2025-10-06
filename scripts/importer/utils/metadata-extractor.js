@@ -1,4 +1,14 @@
 /**
+ * Extract breadcrumb text from HTML content
+ * @param {string} htmlContent - HTML content to extract breadcrumb from
+ * @returns {string|null} Extracted breadcrumb text or null
+ */
+const extractBreadcrumbText = (htmlContent) => {
+  const breadcrumbMatch = htmlContent.match(/<li\s+class=["']breadcrumb-item\s+active["']>([^<]+)<\/li>/i);
+  return breadcrumbMatch ? breadcrumbMatch[1].trim() : null;
+};
+
+/**
  * Extract metadata from HTML content using regex patterns
  * @param {string} htmlContent - HTML content to extract metadata from
  * @returns {Object} Extracted metadata
@@ -26,10 +36,16 @@ const extractMetadata = (htmlContent) => {
     metadata.permalink = `/${urlPath}/`;
   }
 
-  // Extract og:title for header text
-  const ogTitleMatch = htmlContent.match(/<meta\s+property=["']og:title["']\s+content=["'](.*?)["']/i);
-  if (ogTitleMatch) {
-    metadata.header_text = ogTitleMatch[1];
+  // Extract header text: prefer breadcrumb over og:title for cleaner names
+  const breadcrumbText = extractBreadcrumbText(htmlContent);
+  if (breadcrumbText) {
+    metadata.header_text = breadcrumbText;
+  } else {
+    // Fallback to og:title
+    const ogTitleMatch = htmlContent.match(/<meta\s+property=["']og:title["']\s+content=["'](.*?)["']/i);
+    if (ogTitleMatch) {
+      metadata.header_text = ogTitleMatch[1];
+    }
   }
 
   return metadata;

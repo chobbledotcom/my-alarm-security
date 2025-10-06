@@ -1,7 +1,7 @@
 ---
 title: "Burglar Alarm Security System Company Orpington Bromley"
 date: 2018-11-30
-header_text: "Burglar Alarm Security System Company Orpington Bromley"
+header_text: "Patio Doors"
 meta_title: "Burglar Alarm Security System Company Orpington Bromley"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/patio-doors/"

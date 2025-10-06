@@ -1,7 +1,7 @@
 ---
 title: "Intruder Burglar Alarm And Cctv Company Orpington Bromley Bexley"
 date: 2018-05-06
-header_text: "Intruder Burglar Alarm And Cctv Company Orpington Bromley Bexley"
+header_text: "Our New Van Now Has Sign Writing"
 meta_title: "Intruder Burglar Alarm And Cctv Company Orpington Bromley Bexley"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/our-new-van-now-has-sign-writing/"

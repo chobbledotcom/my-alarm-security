@@ -1,7 +1,7 @@
 ---
 title: "Home Burglar Alarm System Company Eltham Greenwich"
 date: 2019-04-11
-header_text: "Home Burglar Alarm System Company Eltham Greenwich"
+header_text: "Tools For The Job"
 meta_title: "Home Burglar Alarm System Company Eltham Greenwich"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/tools-for-the-job/"
