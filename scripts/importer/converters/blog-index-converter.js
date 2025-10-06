@@ -18,7 +18,7 @@ header_text: "Latest Blog Posts"
 meta_title: "Latest Blog Posts | MyAlarm Security"
 meta_description: "All of the latest news from MyAlarm Security about home security, burglar alarms, and CCTV systems."
 permalink: "/blog/"
-layout: news
+layout: news-archive.html
 eleventyNavigation:
   key: News
   order: 5
