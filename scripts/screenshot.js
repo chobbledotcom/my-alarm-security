@@ -100,6 +100,8 @@ async function waitForServer(port, timeout = 30000) {
 }
 
 async function takeScreenshots() {
+  checkDependencies();
+
   console.log('Preparing site...');
   prep();
 
