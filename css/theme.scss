@@ -138,10 +138,6 @@ $gap: 1rem;
     filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.1));
     perspective: 100px;
     border-radius: 0 0 var(--border-radius) var(--border-radius);
-
-    @media (max-width: $mobile) {
-      padding-top: 56.25%;
-    }
   }
 
   .carousel__viewport {
