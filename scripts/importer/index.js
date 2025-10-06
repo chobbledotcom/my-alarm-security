@@ -66,7 +66,7 @@ const main = async () => {
     tracker.add('Favicons', extractFavicons(oldSitePath, faviconOutputPath));
     console.log('');
 
-    tracker.add('Homepage Content', convertHomeContent());
+    tracker.add('Homepage Content', await convertHomeContent());
     console.log('');
 
     tracker.add('Pages', await convertPages());
