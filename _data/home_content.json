@@ -1,56 +1,56 @@
 {
-	"hero": {
-		"service_cards": [
-			{
-				"title": "BURGLAR ALARMS",
-				"description": "Burglar Alarms provide one of the best deterrents against a break in and an effective response in the event of one. We can design your burglar alarm system to suit your needs. We offer both wired and wireless systems with the latest app controlled technology.",
-				"link": "/categories/burglar-alarms/",
-				"image": "https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto,w_370,h_370,c_fill/kzpjhnljckbdxh3kj20c.png"
-			},
-			{
-				"title": "CCTV SYSTEMS",
-				"description": "CCTV camera systems are becoming popular due to their efficiency and effectiveness in providing security and reassurance for all types of premises. All of our systems can be set up for remote viewing via a smartphone, tablet or computer.",
-				"link": "/categories/cctv/",
-				"image": "https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto,w_370,h_370,c_fill/ejajxywfmnfgavh5xtn3.png"
-			},
-			{
-				"title": "Access Control",
-				"description": "Access control and door entry systems... Allow freedom of movement for authorised personnel to certain and designated areas of a premises as well as restrictive access to sensitive areas and general access of a building for complete peace of mind.",
-				"link": "/categories/access-control/",
-				"image": "https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto,w_370,h_370,c_fill/dgxdicyzg24k2lcuvdbl.png"
-			}
-		]
-	},
-	"main_content": {
-		"paragraphs": [
-			"Homes and businesses with no security measures in place are five times more likely to be broken in to than those with simple security measures. Did you know that over 70% of people only have a Home Alarm/Security System, Burglar Alarm or CCTV installed after they or someone they know has been broken into or had an attempted break in? Don't be one of these statistics. Protect what you have with MyAlarm Security.",
-			"We offer the latest in smart technology with Home Security burglar alarms that can be linked to your phone or device and controlled from anywhere in the world providing there is an internet connection. Our CCTV equipment enables the user to view their premises whilst out and about so you have peace of mind that your home, your valuables and your safe haven are secure.",
-			"Specialists in all types of Home Security, Business Security and Building security based in between New Eltham and Sidcup, Bexley and covering Greenwich, Orpington, Swanley, Wilmington, Hextable, Bromley, Gravesend, Chislehurst, Bexleyheath, Ebbsfleet, Welling, Petts Wood, Swanscombe and more. We are right on the borders of London and Kent."
-		],
-		"highlight": "DBS checked and with full public liability insurance."
-	},
-	"why_choose_us": {
-		"heading": "Why Choose Us?",
-		"features": [
-			{
-				"title": "Fully Certified Engineers",
-				"icon": "/assets/icons/fully-certified-engineers.svg"
-			},
-			{
-				"title": "24/7 Customer Service",
-				"icon": "/assets/icons/24-7-service.svg"
-			},
-			{
-				"title": "High Quality Systems",
-				"icon": "/assets/icons/shield.svg"
-			},
-			{
-				"title": "Professionally Fitted",
-				"icon": "/assets/icons/tools.svg"
-			}
-		]
-	},
-	"reviews": {
-		"heading": "Our Reviews"
-	}
+  "hero": {
+    "service_cards": [
+      {
+        "title": "BURGLAR ALARMS",
+        "description": "Burglar Alarms provide one of the best deterrents against a break in and an effective response in the event of one. We can design your burglar alarm system to suit your needs. We offer both wired and wireless systems with the latest app controlled technology.",
+        "link": "categories/burglar-alarms",
+        "image": "https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto,w_370,h_370,c_fill/kzpjhnljckbdxh3kj20c.png"
+      },
+      {
+        "title": "CCTV SYSTEMS",
+        "description": "CCTV camera systems are becoming popular due to their efficiency and effectiveness in providing security and reassurance for all types of premises. All of our systems can be set up for remote viewing via a smartphone, tablet or computer.",
+        "link": "categories/cctv",
+        "image": "https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto,w_370,h_370,c_fill/ejajxywfmnfgavh5xtn3.png"
+      },
+      {
+        "title": "Access Control",
+        "description": "Access control and door entry systems... Allow freedom of movement for authorised personnel to certain and designated areas of a premises as well as restrictive access to sensitive areas and general access of a building for complete peace of mind.",
+        "link": "categories/access-control",
+        "image": "https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto,w_370,h_370,c_fill/dgxdicyzg24k2lcuvdbl.png"
+      }
+    ]
+  },
+  "main_content": {
+    "paragraphs": [
+      "Homes and businesses with no security measures in place are five times more likely to be broken in to than those with simple security measures. Did you know that over 70% of people only have a Home Alarm/Security System, Burglar Alarm or CCTV installed after they or someone they know has been broken into or had an attempted break in? Don't be one of these statistics. Protect what you have with MyAlarm Security.",
+      "We offer the latest in smart technology with Home Security burglar alarms that can be linked to your phone or device and controlled from anywhere in the world providing there is an internet connection. Our CCTV equipment enables the user to view their premises whilst out and about so you have peace of mind that your home, your valuables and your safe haven are secure.",
+      "Specialists in all types of Home Security, Business Security and Building security based in between New Eltham and Sidcup, Bexley and covering Greenwich, Orpington, Swanley, Wilmington, Hextable, Bromley, Gravesend, Chislehurst, Bexleyheath, Ebbsfleet, Welling, Petts Wood, Swanscombe and more. We are right on the borders of London and Kent."
+    ],
+    "highlight": "DBS checked and with full public liability insurance."
+  },
+  "why_choose_us": {
+    "heading": "Why Choose Us?",
+    "features": [
+      {
+        "title": "Fully Certified Engineers",
+        "icon": "/assets/icons/fully-certified-engineers.svg"
+      },
+      {
+        "title": "24/7 Customer Service",
+        "icon": "/assets/icons/24-7-service.svg"
+      },
+      {
+        "title": "High Quality Systems",
+        "icon": "/assets/icons/shield.svg"
+      },
+      {
+        "title": "Professionally Fitted",
+        "icon": "/assets/icons/tools.svg"
+      }
+    ]
+  },
+  "reviews": {
+    "heading": "Our Reviews"
+  }
 }

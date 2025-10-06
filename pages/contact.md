@@ -6,7 +6,7 @@ permalink: "/pages/contact/"
 layout: contact.html
 eleventyNavigation:
   key: Contact
-  order: 5
+  order: 6
 ---
 
 # Contact us here at MyAlarm Security 
