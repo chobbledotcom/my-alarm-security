@@ -16,7 +16,7 @@
              {%- assign capitalized_words = capitalized_words | append: " " | append: capitalized_word -%}
            {%- endif -%}
          {%- endfor -%}
-         <a href="{{ area.url }}">{{ capitalized_words }}</a>{% unless forloop.last %}, {% endunless %}
+         <a href="{{ area.url }}#content">{{ capitalized_words }}</a>{% unless forloop.last %}, {% endunless %}
        {%- endunless -%}
      {%- endfor -%}
 </p>
