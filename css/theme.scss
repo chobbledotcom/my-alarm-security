@@ -220,10 +220,11 @@ $gap: 1rem;
   li {
     display: grid;
     grid-template-columns: auto auto;
-    grid-template-rows: auto auto auto;
+    grid-template-rows: auto auto auto auto;
     grid-template-areas:
       "review review"
       "name rating"
+      "date date"
       "products products";
     gap: $gap;
     list-style: none;
@@ -238,6 +239,7 @@ $gap: 1rem;
         "review"
         "name"
         "rating"
+        "date"
         "products";
     }
 
@@ -291,6 +293,14 @@ $gap: 1rem;
         justify-self: center;
         text-align: center;
       }
+    }
+
+    .date {
+      grid-area: date;
+      text-align: center;
+      font-size: 0.85rem;
+      color: #999;
+      font-style: italic;
     }
 
     .products {
