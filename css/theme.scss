@@ -6,9 +6,12 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("/assets/fonts/fjalla-one-latin-ext-400-normal.woff2") format("woff2"),
-       url("/assets/fonts/fjalla-one-latin-ext-400-normal.woff") format("woff");
-  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  src:
+    url("/assets/fonts/fjalla-one-latin-ext-400-normal.woff2") format("woff2"),
+    url("/assets/fonts/fjalla-one-latin-ext-400-normal.woff") format("woff");
+  unicode-range:
+    U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+    U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
 @font-face {
@@ -16,15 +19,20 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("/assets/fonts/fjalla-one-latin-400-normal.woff2") format("woff2"),
-       url("/assets/fonts/fjalla-one-latin-400-normal.woff") format("woff");
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  src:
+    url("/assets/fonts/fjalla-one-latin-400-normal.woff2") format("woff2"),
+    url("/assets/fonts/fjalla-one-latin-400-normal.woff") format("woff");
+  unicode-range:
+    U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+    U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
 :root {
   --color-bg: #ffffff;
-  --color-text: #000000;
+  --color-text: #444444;
   --color-link: #ec2023;
+  --color-link-hover: #333;
   --border-radius: 5px;
   --border: 0px solid #58648c;
   --box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -228,7 +236,7 @@ $gap: 1rem;
       font-style: normal;
 
       &::before {
-        content: '\201C';
+        content: "\201C";
         font-size: 2rem;
         line-height: 1;
         margin-right: 0.25rem;
@@ -236,7 +244,7 @@ $gap: 1rem;
       }
 
       &::after {
-        content: '\201D';
+        content: "\201D";
         font-size: 2rem;
         line-height: 1;
         margin-left: 0.25rem;
@@ -275,5 +283,6 @@ $gap: 1rem;
 
 body > footer .socials li a img,
 body > footer .socials li a:hover img {
-  filter: invert(15%) sepia(100%) saturate(5294%) hue-rotate(352deg) brightness(99%) contrast(88%) !important;
+  filter: invert(15%) sepia(100%) saturate(5294%) hue-rotate(352deg)
+    brightness(99%) contrast(88%) !important;
 }
