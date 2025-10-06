@@ -1,6 +1,5 @@
 ---
 name: "Avril W"
-rating: 5
 products: ["products/basic-system-539.md", "products/pet-package-849.md", "products/servicing-and-repairs.md", "products/standard-system-599.md", "products/ultimate-package-cctv-intruder-alarm-system-1549.md"]
 ---
 

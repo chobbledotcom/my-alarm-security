@@ -1,45 +1,12 @@
 const path = require('path');
 const config = require('../config');
-const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles, downloadFile, downloadEmbeddedImages } = require('../utils/filesystem');
+const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles } = require('../utils/filesystem');
+const { downloadImage, downloadEmbeddedImages } = require('../utils/image-downloader');
 const { extractMetadata, extractPrice, extractReviews, extractProductName, extractProductImages } = require('../utils/metadata-extractor');
 const { convertToMarkdown } = require('../utils/pandoc-converter');
 const { processContent } = require('../utils/content-processor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
 const { scanProductCategories } = require('../utils/category-scanner');
-
-/**
- * Remove Cloudinary transformation parameters to get original source URL
- * @param {string} url - Cloudinary URL with transformations
- * @returns {string} URL without f_auto,q_auto transformations
- */
-const removeCloudinaryTransformations = (url) => {
-  return url.replace(/\/f_auto,q_auto\//g, '/');
-};
-
-/**
- * Download product image and return local path
- * @param {string} imageUrl - Cloudinary URL
- * @param {string} slug - Product slug
- * @returns {Promise<string>} Local image path
- */
-const downloadProductImage = async (imageUrl, slug) => {
-  if (!imageUrl) return '';
-
-  const sourceUrl = removeCloudinaryTransformations(imageUrl);
-  const imagesDir = path.join(__dirname, '..', '..', '..', 'images', 'products');
-  ensureDir(imagesDir);
-
-  const filename = `${slug}.webp`;
-  const localPath = path.join(imagesDir, filename);
-
-  try {
-    await downloadFile(sourceUrl, localPath);
-    return `/images/products/${filename}`;
-  } catch (error) {
-    console.error(`    Warning: Failed to download image for ${slug}:`, error.message);
-    return '';
-  }
-};
 
 /**
  * Convert a single product HTML file to markdown
@@ -98,7 +65,7 @@ const convertProduct = async (file, inputDir, outputDir, reviewsDir, reviewsMap,
     }
 
     // Download image and get local path
-    const localImagePath = await downloadProductImage(images.header_image, slug);
+    const localImagePath = await downloadImage(images.header_image, 'products', `${slug}.webp`);
 
     // Download embedded images in content
     const contentWithLocalImages = await downloadEmbeddedImages(content, 'products', slug);

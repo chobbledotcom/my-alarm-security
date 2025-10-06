@@ -1,6 +1,5 @@
 ---
 name: "Jackie W"
-rating: 5
 products: ["products/standard-system-599.md"]
 ---
 
