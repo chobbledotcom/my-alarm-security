@@ -6,12 +6,12 @@
     <meta name="description" content="{{ meta_description }}" />
   {%- endif -%}
 
-  <link rel="stylesheet" href="/css/nav.css" />
-  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="stylesheet" href="{{ '/css/nav.css' | cacheBust }}" />
+  <link rel="stylesheet" href="{{ '/css/style.css' | cacheBust }}" />
   {%- for file in scssFiles -%}
-    <link rel="stylesheet" href="/css/{{ file }}.css" />
+    <link rel="stylesheet" href="{{ '/css/' | append: file | append: '.css' | cacheBust }}" />
   {%- endfor -%}
-  <link rel="stylesheet" href="/css/theme.css" />
+  <link rel="stylesheet" href="{{ '/css/theme.css' | cacheBust }}" />
 
   <link rel="license" href="https://www.gnu.org/licenses/gpl-3.0.en.html" />
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
