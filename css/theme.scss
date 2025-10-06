@@ -164,11 +164,10 @@ $gap: 1rem;
       li {
         scroll-snap-align: start;
         flex-shrink: 0;
-        width: 100vw;
-        max-width: var(--width-content);
+        width: 100%;
 
         @media (max-width: $mobile) {
-          width: 100vw;
+          width: 100%;
         }
 
         img {
