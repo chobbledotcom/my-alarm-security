@@ -104,10 +104,14 @@ const extractProductName = (htmlContent) => {
  * @returns {string} Date in YYYY-MM-DD format
  */
 const extractBlogDate = (content, defaultDate = '2020-01-01') => {
-  const dateMatch = content.match(/Posted Date:\s*(.*?)(?:\n|$)/);
+  const dateMatch = content.match(/Posted Date:\s*(?:[A-Za-z]+,\s*)?(.+?)(?:\n|$|\\)/);
   if (dateMatch) {
     try {
-      return new Date(dateMatch[1]).toISOString().split('T')[0];
+      const dateStr = dateMatch[1].trim();
+      const parsedDate = new Date(dateStr);
+      if (!isNaN(parsedDate.getTime())) {
+        return parsedDate.toISOString().split('T')[0];
+      }
     } catch {
       return defaultDate;
     }

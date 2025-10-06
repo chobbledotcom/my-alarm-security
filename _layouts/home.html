@@ -52,7 +52,7 @@ layout: base.html
         {% endfor %}
       </div>
       <blockquote>
-        {{ review.data.body | markdownify }}
+        {{ review.data.body }}
         <footer><strong>{{ review.data.name }}</strong></footer>
       </blockquote>
     </article>

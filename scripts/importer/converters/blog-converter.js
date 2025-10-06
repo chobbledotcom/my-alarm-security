@@ -1,6 +1,6 @@
 const path = require('path');
 const config = require('../config');
-const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles } = require('../utils/filesystem');
+const { ensureDir, readHtmlFile, writeMarkdownFile, listHtmlFiles, cleanDirectory } = require('../utils/filesystem');
 const { extractMetadata, extractBlogDate } = require('../utils/metadata-extractor');
 const { convertToMarkdown } = require('../utils/pandoc-converter');
 const { processContent } = require('../utils/content-processor');
@@ -19,8 +19,8 @@ const convertBlogPost = (file, inputDir, outputDir) => {
     const htmlContent = readHtmlFile(htmlPath);
     const metadata = extractMetadata(htmlContent);
     const markdown = convertToMarkdown(htmlPath);
+    const date = extractBlogDate(markdown, config.DEFAULT_DATE);
     const content = processContent(markdown, 'blog');
-    const date = extractBlogDate(content, config.DEFAULT_DATE);
 
     const slug = file.replace('.php.html', '');
     const filename = `${date}-${slug}.md`;
@@ -46,6 +46,7 @@ const convertBlogPosts = () => {
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.news);
   ensureDir(outputDir);
+  cleanDirectory(outputDir);
 
   const blogDir = path.join(config.OLD_SITE_PATH, config.paths.blog);
   const files = listHtmlFiles(blogDir);
