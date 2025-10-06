@@ -1,5 +1,5 @@
 ---
-header_text: "Burglar Alarm System Swanley Cctv Systems In Swanley, Kent"
+header_text: "Swanley"
 meta_title: "Burglar Alarm System Swanley Cctv Systems In Swanley, Kent"
 meta_description: ""
 permalink: "/pages/swanley/"

@@ -1,7 +1,7 @@
 ---
 title: "Burglar Alarm Company Cctv Bean Shoreham"
 date: 2018-06-04
-header_text: "Burglar Alarm Company Cctv Bean Shoreham"
+header_text: "Upgrades Are Necessary"
 meta_title: "Burglar Alarm Company Cctv Bean Shoreham"
 meta_description: ""
 permalink: "/news/upgrades-are-necessary/"
