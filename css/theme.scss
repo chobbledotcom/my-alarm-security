@@ -244,8 +244,8 @@ $gap: 1rem;
         &:first-child::before {
           content: "\201C";
           font-size: 2rem;
-          line-height: 1;
-          vertical-align: top;
+          line-height: 0;
+          vertical-align: baseline;
           margin-right: 0.25rem;
           color: var(--color-link);
         }
@@ -253,8 +253,8 @@ $gap: 1rem;
         &:last-child::after {
           content: "\201D";
           font-size: 2rem;
-          line-height: 1;
-          vertical-align: top;
+          line-height: 0;
+          vertical-align: -0.4em;
           margin-left: 0.25rem;
           color: var(--color-link);
         }
