@@ -53,18 +53,20 @@ function sync() {
   const excludes = rootExcludes
     .map(e => `--exclude="${e}"`)
     .join(' ');
-  
+
   const cmd = [
     'rsync -ru',
     excludes,
     '--include="*/"',
     '--include="**/*.md"',
     '--include="**/*.scss"',
+    '--include="**/*.woff"',
+    '--include="**/*.woff2"',
     '--exclude="*"',
     `"${root}/"`,
     `"${dev}/src/"`
   ].join(' ');
-  
+
   execSync(cmd);
 }
 
