@@ -9,6 +9,8 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 const { convertPages, convertBlogPosts, convertProducts, convertCategories, convertHomeContent } = require('./converters');
+const { extractFavicons } = require('./utils/favicon-extractor');
+const config = require('./config');
 
 /**
  * Check if pandoc is installed
@@ -77,6 +79,12 @@ const main = async () => {
     // Clean images directory first
     cleanImagesDirectory();
 
+    // Extract favicons
+    const oldSitePath = config.OLD_SITE_PATH;
+    const faviconOutputPath = path.join(config.OUTPUT_BASE, config.paths.favicon);
+    results.favicons = extractFavicons(oldSitePath, faviconOutputPath);
+    console.log('');
+
     // Convert homepage content first
     results.home = convertHomeContent();
     console.log('');
@@ -99,6 +107,7 @@ const main = async () => {
     console.log('Conversion Summary:');
     console.log('='.repeat(50));
 
+    displayResults('Favicons', results.favicons);
     displayResults('Homepage Content', results.home);
     displayResults('Pages', results.pages);
     displayResults('Blog Posts', results.blog);
