@@ -37,15 +37,26 @@ layout: base.html
 </section>
 {% endif %} {% if home_content.reviews %}
 <section>
-  <h2>{{ home_content.reviews.heading }}</h2>
-  {% assign sorted_reviews = collections.reviews | reverse %}
-  {% for review in sorted_reviews limit:9 %}
-  <article>
-    <blockquote>
-      {{ review.data.body | markdownify }}
-      <footer><strong>{{ review.data.name }}</strong></footer>
-    </blockquote>
-  </article>
-  {% endfor %}
+  <h2 class="centered">{{ home_content.reviews.heading }}</h2>
+  <div class="reviews-grid">
+    {% assign sorted_reviews = collections.reviews | reverse %}
+    {% for review in sorted_reviews limit:9 %}
+    <article>
+      <div class="stars" aria-label="{{ review.data.rating }} out of 5 stars">
+        {% for i in (1..5) %}
+          {% if i <= review.data.rating %}
+            <span class="star filled">★</span>
+          {% else %}
+            <span class="star">☆</span>
+          {% endif %}
+        {% endfor %}
+      </div>
+      <blockquote>
+        {{ review.data.body | markdownify }}
+        <footer><strong>{{ review.data.name }}</strong></footer>
+      </blockquote>
+    </article>
+    {% endfor %}
+  </div>
 </section>
 {% endif %}

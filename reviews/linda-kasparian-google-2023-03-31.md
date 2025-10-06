@@ -1,6 +1,7 @@
 ---
 name: Linda Kasparian
 url: https://www.google.com/maps/contrib/101706198065243528418?hl=en
+rating: 5
 ---
 
 I can highly recommend MyAlarmSecurity.
