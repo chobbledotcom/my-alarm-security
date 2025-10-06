@@ -3,6 +3,7 @@
 const { execSync } = require('child_process');
 const path = require('path');
 const fs = require('fs');
+const { extractMetadata } = require('./importer/utils/metadata-extractor');
 
 const root = path.resolve(__dirname, '..');
 const oldSite = path.join(root, 'old_site');
@@ -117,6 +118,90 @@ function mapOldToNew(oldPath) {
   return oldPath;
 }
 
+// Extract metadata from old site HTML file
+function getOldSiteMetadata(urlPath) {
+  const phpFileName = urlPath === '/' ? 'index.php.html' : urlPath.substring(1) + '.php.html';
+  const filePath = path.join(oldSite, phpFileName);
+
+  try {
+    const htmlContent = fs.readFileSync(filePath, 'utf-8');
+    return extractMetadata(htmlContent);
+  } catch (error) {
+    return null;
+  }
+}
+
+// Extract metadata from new site HTML file
+function getNewSiteMetadata(urlPath) {
+  const htmlPath = urlPath === '/' ? path.join(newSite, 'index.html') : path.join(newSite, urlPath.substring(1), 'index.html');
+
+  try {
+    const htmlContent = fs.readFileSync(htmlPath, 'utf-8');
+
+    // Extract title
+    const titleMatch = htmlContent.match(/<title>([^<]+)<\/title>/);
+    const title = titleMatch ? titleMatch[1].trim() : null;
+
+    // Extract meta description
+    const descMatch = htmlContent.match(/<meta\s+name=["']description["']\s+content=["']([^"']+)["']/i);
+    const description = descMatch ? descMatch[1].trim() : null;
+
+    return {
+      title: title,
+      meta_description: description
+    };
+  } catch (error) {
+    return null;
+  }
+}
+
+// Normalize metadata value for comparison
+function normalizeMetaValue(value) {
+  if (value === null || value === undefined || value === '') {
+    return null;
+  }
+  return value.trim();
+}
+
+// Compare metadata between old and new site
+function compareMetadata(oldPath, newPath) {
+  const oldMeta = getOldSiteMetadata(oldPath);
+  const newMeta = getNewSiteMetadata(newPath);
+
+  if (!oldMeta || !newMeta) {
+    return { match: false, reason: 'missing_metadata' };
+  }
+
+  const mismatches = [];
+
+  // Compare title
+  const oldTitle = normalizeMetaValue(oldMeta.title);
+  const newTitle = normalizeMetaValue(newMeta.title);
+  if (oldTitle !== newTitle) {
+    mismatches.push({
+      field: 'title',
+      old: oldTitle,
+      new: newTitle
+    });
+  }
+
+  // Compare meta description
+  const oldDesc = normalizeMetaValue(oldMeta.meta_description);
+  const newDesc = normalizeMetaValue(newMeta.meta_description);
+  if (oldDesc !== newDesc) {
+    mismatches.push({
+      field: 'meta_description',
+      old: oldDesc,
+      new: newDesc
+    });
+  }
+
+  return {
+    match: mismatches.length === 0,
+    mismatches: mismatches
+  };
+}
+
 // Compare paths
 console.log('='.repeat(80));
 console.log('PATH COMPARISON REPORT');
@@ -138,6 +223,7 @@ const newPathsSet = new Set(newPaths.map(normalizePath));
 const matched = [];
 const missing = [];
 const moved = [];
+const metadataMismatches = [];
 
 for (const oldPath of oldPaths) {
   const normalized = normalizePath(oldPath);
@@ -145,8 +231,26 @@ for (const oldPath of oldPaths) {
 
   if (newPathsSet.has(normalized)) {
     matched.push(oldPath);
+
+    // Check metadata
+    const metaComparison = compareMetadata(oldPath, oldPath);
+    if (!metaComparison.match && metaComparison.mismatches) {
+      metadataMismatches.push({
+        path: oldPath,
+        mismatches: metaComparison.mismatches
+      });
+    }
   } else if (mapped !== oldPath && newPathsSet.has(normalizePath(mapped))) {
     moved.push({ old: oldPath, new: mapped });
+
+    // Check metadata for moved paths
+    const metaComparison = compareMetadata(oldPath, mapped);
+    if (!metaComparison.match && metaComparison.mismatches) {
+      metadataMismatches.push({
+        path: `${oldPath} => ${mapped}`,
+        mismatches: metaComparison.mismatches
+      });
+    }
   } else {
     missing.push(oldPath);
   }
@@ -172,6 +276,7 @@ console.log(`→ Moved/renamed: ${moved.length}/${oldPaths.length}`);
 console.log(`✓ Total accounted: ${totalAccounted}/${oldPaths.length} (${Math.round(totalAccounted / oldPaths.length * 100)}%)`);
 console.log(`✗ Missing paths: ${missing.length}`);
 console.log(`+ New paths only: ${newOnly.length}`);
+console.log(`⚠ Metadata mismatches: ${metadataMismatches.length}`);
 console.log();
 
 // Print matched paths
@@ -206,13 +311,35 @@ if (newOnly.length > 0) {
   console.log();
 }
 
+// Print metadata mismatches
+if (metadataMismatches.length > 0) {
+  console.log('METADATA MISMATCHES');
+  console.log('-'.repeat(80));
+  metadataMismatches.forEach(item => {
+    console.log(`  ⚠ ${item.path}`);
+    item.mismatches.forEach(mismatch => {
+      console.log(`    ${mismatch.field}:`);
+      console.log(`      OLD: ${mismatch.old === null ? '(empty)' : `"${mismatch.old}"`}`);
+      console.log(`      NEW: ${mismatch.new === null ? '(empty)' : `"${mismatch.new}"`}`);
+    });
+    console.log();
+  });
+}
+
 console.log('='.repeat(80));
 
-// Exit with error if there are missing paths
-if (missing.length > 0) {
-  console.log(`\n⚠ ${missing.length} paths from old site are missing in new site`);
+// Exit with error if there are missing paths or metadata mismatches
+if (missing.length > 0 || metadataMismatches.length > 0) {
+  const errors = [];
+  if (missing.length > 0) {
+    errors.push(`${missing.length} paths from old site are missing in new site`);
+  }
+  if (metadataMismatches.length > 0) {
+    errors.push(`${metadataMismatches.length} pages have metadata mismatches`);
+  }
+  console.log(`\n⚠ ${errors.join(' and ')}`);
   process.exit(1);
 } else {
-  console.log('\n✓ All old site paths are present in new site!');
+  console.log('\n✓ All old site paths are present in new site with matching metadata!');
   process.exit(0);
 }
