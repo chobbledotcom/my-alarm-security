@@ -45,7 +45,7 @@ layout: base.html
       <span class="review">{{ review.content }}</span>
       <span class="name">
         {% if review.data.url %}
-        <a href="{{ review.data.url }}">{{ review.data.name }}</a>
+        <a href="{{ review.data.url }}" target="_blank">{{ review.data.name }}</a>
         {% else %}
         {{ review.data.name }}
         {% endif %}
