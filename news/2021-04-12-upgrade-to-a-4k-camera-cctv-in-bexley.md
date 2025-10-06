@@ -1,8 +1,8 @@
 ---
-title: "Cctv Company In Bexley"
+title: "Upgrade To A 4k Camera Cctv In Bexley"
 date: 2021-04-12
 header_text: "Upgrade to a 4k camera CCTV in Bexley"
-meta_title: "Cctv Company In Bexley"
+meta_title: "Cctv Company In Bexley - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Bexley. Call 020 8302 4065"
 permalink: "/blog/upgrade-to-a-4k-camera-cctv-in-bexley/"
 ---

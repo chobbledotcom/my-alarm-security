@@ -2,7 +2,7 @@
 title: "Supreme Package 24hr Colour Cctv Plus Intruder Alarm System £1749"
 price: "£1749.00"
 header_text: "Supreme Package"
-meta_title: "Intruder Burglar Alarm And Cctv Company Orpington Bromley Eltham"
+meta_title: "Intruder Burglar Alarm And Cctv Company Orpington Bromley Eltham - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Orpington. Call 020 8302 4065"
 permalink: "/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749/"
 categories: ["categories/burglar-alarms.md", "categories/cctv.md", "categories/special-offers.md"]
@@ -29,6 +29,12 @@ Product Specifications!
 - 1 x External siren for the front
 - 1 x Decoy siren for the rear
 - 1 x App controlled panel
+
+**Info...**
+
+- Available to view remotely anywhere in the world with an internet connection
+- All cables, power supplies and sundries included
+- Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
 
 Our Prices!

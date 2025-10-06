@@ -1,6 +1,6 @@
 ---
 header_text: "Burglar Alarm System Shoreham"
-meta_title: "Local Security Company. Alarm System Shoreham, Cctv Shoreham."
+meta_title: "Local Security Company. Alarm System Shoreham, Cctv Shoreham. - My Alarm Security"
 meta_description: ""
 permalink: "/pages/shoreham/"
 layout: page

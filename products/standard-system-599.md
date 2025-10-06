@@ -2,7 +2,7 @@
 title: "Standard System £599"
 price: "£599.00"
 header_text: "Standard System"
-meta_title: "Standard System - Quality Systems, Professionally Fitted."
+meta_title: "Standard System - Quality Systems, Professionally Fitted. - My Alarm Security"
 meta_description: "Standard System - Fully Certified Engineers, 247 Customer Service, High Quality Systems, Professionally Fitted. We are right on the borders of London and Kent."
 permalink: "/products/standard-system-599/"
 categories: ["categories/burglar-alarms.md"]
@@ -19,6 +19,16 @@ header_image: "/images/products/standard-system-599.webp"
 
 Product Specifications!
 
+
+**Package includes**
+
+- 1 x Door contact
+- 4 x Movement sensors (can be pet friendly)
+- 1 x External siren for the front
+- 1 X Decoy Siren For The Rear
+- 1 X App Controlled Panel With 12 Months Free App Connectivity (£20 A Year Thereafter)
+
+**Info** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
 
 Our Prices!

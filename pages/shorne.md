@@ -1,6 +1,6 @@
 ---
 header_text: "Burglar Alarm System Shorne"
-meta_title: "Alarm System Shorne, Cctv Shorne. Alarm Service Shorne"
+meta_title: "Alarm System Shorne, Cctv Shorne. Alarm Service Shorne - My Alarm Security"
 meta_description: ""
 permalink: "/pages/shorne/"
 layout: page
