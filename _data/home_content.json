@@ -1,4 +1,18 @@
 {
+  "banner": {
+    "special_offer": {
+      "message": "Special offer - Wireless app controlled Burglar Alarms From £539",
+      "link": "/categories/special-offers/#content"
+    },
+    "images": [
+      "/images/home/home-banner-0-mode5xpritlde2jjrzzg.jpg",
+      "/images/home/home-banner-1-ak04m0unuqm0vqmx08r6.webp",
+      "/images/home/home-banner-2-zexlpbpwdo1gnaxh3bya.jpg",
+      "/images/home/home-banner-3-sxxuxsuwysfhrc9xbuhe.png",
+      "/images/home/home-banner-4-uq0uhefyh6a1uyk3fmik.png",
+      "/images/home/home-banner-5-y7tcukf6svqmt1eyx9cv.png"
+    ]
+  },
   "hero": {
     "service_cards": [
       {

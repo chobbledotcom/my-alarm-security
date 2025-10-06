@@ -16,6 +16,13 @@ const convertHomeContent = async () => {
     const html = fs.readFileSync(oldSitePath, 'utf-8');
 
     const homeContent = {
+      banner: {
+        special_offer: {
+          message: "",
+          link: ""
+        },
+        images: []
+      },
       hero: {
         service_cards: []
       },
@@ -31,6 +38,26 @@ const convertHomeContent = async () => {
         heading: "Our Reviews"
       }
     };
+
+    // Extract special offer banner message
+    const specialOfferMatch = html.match(/<div class="col-12 col-md-9[^>]*>\s*<p class="m-0[^>]*>([^<]+)<\/p>\s*<\/div>\s*<div class="col-12 col-md-3[^>]*>\s*<a href="([^"]+)"/);
+    if (specialOfferMatch) {
+      homeContent.banner.special_offer.message = specialOfferMatch[1].trim();
+      homeContent.banner.special_offer.link = `/${specialOfferMatch[2].replace('.php.html', '')}/#content`;
+    }
+
+    // Extract banner carousel images
+    const carouselPattern = /<div class="carousel-item[^>]*>\s*<img src="([^"]+)"/g;
+    let carouselMatch;
+    let bannerIndex = 0;
+    while ((carouselMatch = carouselPattern.exec(html)) !== null) {
+      const imageUrl = carouselMatch[1].trim();
+      const localImagePath = await downloadImage(imageUrl, 'home', `banner-${bannerIndex}`);
+      if (localImagePath) {
+        homeContent.banner.images.push(localImagePath);
+        bannerIndex++;
+      }
+    }
 
     // Extract service cards section with images
     const serviceCardPattern = /<div class="col-xl-4[^>]*>[\s\S]*?<img src="([^"]+)"[^>]*>[\s\S]*?<h3[^>]*style="color:[^"]*">([^<]+)<\/h3>[\s\S]*?<p class="card-text py-2">([^<]+)<\/p>[\s\S]*?<a href="([^"]+)"[^>]*>More Info<\/a>/g;
@@ -100,6 +127,8 @@ const convertHomeContent = async () => {
     fs.writeFileSync(outputPath, JSON.stringify(homeContent, null, 2));
 
     console.log('✅ Homepage content extracted successfully');
+    console.log(`   - ${homeContent.banner.images.length} banner images`);
+    console.log(`   - Special offer: ${homeContent.banner.special_offer.message ? 'Yes' : 'No'}`);
     console.log(`   - ${homeContent.hero.service_cards.length} service cards`);
     console.log(`   - ${homeContent.main_content.paragraphs.length} content paragraphs`);
     console.log(`   - ${homeContent.why_choose_us.features.length} features`);
