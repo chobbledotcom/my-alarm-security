@@ -1,0 +1,8 @@
+---
+layout: base.html
+---
+
+<h1>{{ header_text }}</h1>
+
+{% assign sorted_reviews = collections.review | reverse %}
+{% include "reviews-list.html", reviews: sorted_reviews, show_dates: true %}

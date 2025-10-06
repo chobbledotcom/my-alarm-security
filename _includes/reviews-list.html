@@ -14,6 +14,9 @@
         {%- if i <= review.data.rating -%}★{%- else -%}☆{%- endif -%}
       {%- endfor %}
     </span>
+    {%- if show_dates -%}
+    <span class="date">{{ review.page.date | date: "%b '%y" }}</span>
+    {%- endif -%}
     {%- if product_links and review.data.products.size > 0 -%}
     <span class="products">
       {% for slug in review.data.products -%}
