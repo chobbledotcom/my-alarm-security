@@ -42,7 +42,7 @@ layout: base.html
   {% for review in sorted_reviews limit:9 %}
   <article>
     <blockquote>
-      {{ review.data.body | markdownify }}
+      {{ review.data.body }}
       <footer><strong>{{ review.data.name }}</strong></footer>
     </blockquote>
   </article>
