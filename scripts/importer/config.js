@@ -11,7 +11,7 @@ const config = {
   // Paths for different content types
   paths: {
     pages: 'pages',
-    news: 'blog', // Output directory for blog posts
+    news: 'news', // Output directory for blog posts
     products: 'products',
     categories: 'categories',
     blog: 'blog', // Source directory in old site
