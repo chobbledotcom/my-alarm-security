@@ -36,7 +36,7 @@ function prep() {
     .join(' ');
   
   execSync(`rsync -r --delete ${templateExcludeArgs} "${template}/" "${dev}/"`);
-  execSync(`rsync -r ${rootExcludeArgs} "${root}/" "${dev}/src/"`);
+  execSync(`rsync -ra ${rootExcludeArgs} "${root}/" "${dev}/src/"`);
   
   sync();
   
