@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="<script>alert('xss')</script>">
+  <title><script>alert('xss')</script> Widget</title>
+</head>
+<body>
+  <div id="main">
+    <section class="page_section">
+      <h1>Widget with <script>alert('xss')</script> in title</h1>
+      <p>Content with <script src="evil.js"></script> embedded.</p>
+
+      <p onclick="alert('xss')">Click me</p>
+
+      <a href="javascript:alert('xss')">Dangerous link</a>
+
+      <img src="x" onerror="alert('xss')">
+
+      <p>{{ template_injection }}</p>
+      <p>${code_injection}</p>
+      <p>#{ruby_injection}</p>
+    </section>
+  </div>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content='
+---
+malicious: frontmatter
+title: "Injected Title"
+---
+actual: malicious content
+'>
+  <title>Title: "with: colons" and 'quotes'</title>
+</head>
+<body>
+  <div id="main">
+    <h1>Category with YAML-breaking characters</h1>
+    <p>Title has: colons, "quotes", and 'apostrophes'</p>
+    <p>Description contains:
+---
+fake: frontmatter
+---
+    </p>
+    <pre>
+---
+code: that looks like frontmatter
+title: "Evil"
+---
+    </pre>
+  </div>
+</body>
+</html>

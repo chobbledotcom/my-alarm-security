@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="date" content="2024-01-15">
+  <title>Circular Link Test</title>
+</head>
+<body>
+  <div id="main">
+    <h1>Circular Links</h1>
+    <a href="../blog/circular-link-hell.php.html">Link to self</a>
+    <a href="./circular-link-hell.php.html">Relative to self</a>
+    <a href="../blog/../blog/../blog/circular-link-hell.php.html">Complex circular</a>
+
+    <img src="../images/../../images/../../images/logo.png" alt="Path traversal">
+    <img src="../../../../../../../../etc/passwd" alt="Directory traversal">
+
+    <a href="file:///etc/passwd">File protocol</a>
+    <a href="//evil.com/steal">Protocol-relative URL</a>
+  </div>
+</body>
+</html>

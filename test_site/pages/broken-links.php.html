@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Broken Link Conversions</title>
+</head>
+<body>
+  <div id="main">
+    <h1>Widget Links</h1>
+
+    <a href="/products/widget.php">Internal PHP link</a>
+    <a href="../products/widget.php.html">Relative HTML link</a>
+    <a href="/products/widget.php.html">Absolute HTML link</a>
+    <a href="https://example.com/widget">External link</a>
+
+    <a href="/products/widget.php#specifications">Link with anchor</a>
+    <a href="#top">Same-page anchor</a>
+
+    <a href="/products/widget.php?id=123">Link with query string</a>
+    <a href="/products/widget.php?id=123&color=red">Multiple query params</a>
+
+    <a href="/products/../categories/widgets.php">Link with ..</a>
+
+    <a>Link with no href</a>
+    <a href="">Empty href</a>
+    <a href="#">Just hash</a>
+
+    <p>Email: <a href="mailto:test@example.com">test@example.com</a></p>
+    <p>Phone: <a href="tel:+1234567890">Call us</a></p>
+  </div>
+</body>
+</html>

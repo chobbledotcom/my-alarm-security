@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Broken Table Formatting</title>
+</head>
+<body>
+  <div id="main">
+    <h1>Widget Specifications</h1>
+
+    <table>
+      <tr>
+        <td>Size</td>
+        <td>10cm</td>
+      </tr>
+      <tr>
+        <td>Weight</td>
+        <td>200g</td>
+      </tr>
+    </table>
+
+    <h2>Table with headers</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Feature</th>
+          <th>Value</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Power</td>
+          <td>100W</td>
+        </tr>
+        <tr>
+          <td>Voltage</td>
+          <td>240V</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Table with colspan</h2>
+    <table>
+      <tr>
+        <td colspan="2">Full width cell</td>
+      </tr>
+      <tr>
+        <td>Left</td>
+        <td>Right</td>
+      </tr>
+    </table>
+
+    <h2>Table with pipes in content</h2>
+    <table>
+      <tr>
+        <td>Command</td>
+        <td>ls -la | grep test</td>
+      </tr>
+      <tr>
+        <td>Size</td>
+        <td>10cm | 20cm</td>
+      </tr>
+    </table>
+
+    <h2>Nested table</h2>
+    <table>
+      <tr>
+        <td>Outer</td>
+        <td>
+          <table>
+            <tr>
+              <td>Inner</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </div>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Broken Image References</title>
+</head>
+<body>
+  <div id="main">
+    <h1>Widget Gallery</h1>
+
+    <img src="/images/widget.jpg" alt="Absolute path">
+    <img src="../images/widget.jpg" alt="Relative path">
+    <img src="images/widget.jpg" alt="No leading slash">
+    <img src="https://example.com/widget.jpg" alt="External">
+
+    <p>Image in link: <a href="/products"><img src="/images/thumb.jpg" alt="Thumbnail"></a></p>
+
+    <img src="/images/widget with spaces.jpg" alt="Spaces in path">
+    <img src="/images/widget%20encoded.jpg" alt="URL encoded">
+
+    <img alt="Alt before src" src="/images/widget.jpg">
+    <img src="/images/widget.jpg">
+    <img alt="No src attribute">
+
+    <picture>
+      <source srcset="/images/widget-large.jpg" media="(min-width: 800px)">
+      <img src="/images/widget-small.jpg" alt="Responsive">
+    </picture>
+  </div>
+</body>
+</html>
