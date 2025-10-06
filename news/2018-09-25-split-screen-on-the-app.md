@@ -1,8 +1,8 @@
 ---
-title: "Cctv Company Bromley Orpington Bexley"
+title: "Split Screen On The App"
 date: 2018-09-25
 header_text: "Split Screen On The App"
-meta_title: "Cctv Company Bromley Orpington Bexley"
+meta_title: "Cctv Company Bromley Orpington Bexley - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/split-screen-on-the-app/"
 ---
