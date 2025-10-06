@@ -118,10 +118,10 @@ function mapOldToNew(oldPath) {
   return oldPath;
 }
 
-// Extract headings from HTML content
+// Extract headings from HTML content (H1-H3 only)
 function extractHeadings(htmlContent) {
   const headings = [];
-  const headingRegex = /<(h[1-6])[^>]*>(.*?)<\/\1>/gi;
+  const headingRegex = /<(h[1-3])[^>]*>(.*?)<\/\1>/gi;
   let match;
 
   while ((match = headingRegex.exec(htmlContent)) !== null) {
