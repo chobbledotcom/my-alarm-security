@@ -7,10 +7,6 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/blog/protecting-sidcup/"
 ---
 
-#### Protecting Sidcup
-
-# Protecting Sidcup
-
 MyAlarm Security is based in Sidcup and we often take enquiries for customers very local to ourselves.
 
 This particular install was very close to home, the customer explained that they were going to get a few local companies to quote and will go with the one he felt most comfortable with.

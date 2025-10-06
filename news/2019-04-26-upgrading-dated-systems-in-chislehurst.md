@@ -7,10 +7,6 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/blog/upgrading-dated-systems-in-chislehurst/"
 ---
 
-#### Upgrading Dated Systems In Chislehurst
-
-# Upgrading Dated Systems In Chislehurst
-
 We have everything you need for your home security needs, from upgrading an existing system to a complete full app controlled [burglar alarm and cctv system](/categories/servicing-and-repairs/). This customer in Chislehurst had a basic system around 20 years old which kept going off at all hours of the day and night giving the customer (and their neighbours) many sleepless nights.
 
 The customer called us to ask for a quotation to upgrade and whilst on site we had a quick look at no charge to see if we could identify the fault to at least silence the system and give the customer a good nights sleep. Not only did we identify that the back up battery was most likely the culprit but we also disconnected it due to it being swollen and leaking and being a potential fire hazard. We left a safe system that was no longer going to disrupt her sleep.

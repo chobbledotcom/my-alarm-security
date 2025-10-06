@@ -7,10 +7,6 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/blog/above-and-beyond/"
 ---
 
-#### Above And Beyond
-
-# Above And Beyond
-
 This customer on the [Sidcup and Bromley](/pages/bromley/) border had a new 7 camera IP based [CCTV](/categories/cctv/) security system installed and had asked specially for black cameras which was fine but they also wanted a camera on the porch area covering the front door which only come in white?
 
 Step forward MyAlarm Security as nothing stops us giving you guys exactly what you want. we took the camera apart and masked all the necessary components ready for a spray, below are the pictures before and after and I think you\'ll agree they look pretty incredible.

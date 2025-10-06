@@ -7,10 +7,6 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/blog/bromley-protection/"
 ---
 
-#### Bromley Protection
-
-# Bromley Protection
-
 We have recently had lots of calls from customers in Bromley, Petts Wood, Chislehurst and Orpington complaining of rising burglaries.
 
 This installation was in a detached property in [Bromley](/pages/bromley/) and they asked for our smart app controlled [burglar alarm security system and our popular CCTV package.](/categories/special-offers/)

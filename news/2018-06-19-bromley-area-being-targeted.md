@@ -7,10 +7,6 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/blog/bromley-area-being-targeted/"
 ---
 
-#### Bromley Area Being Targeted
-
-# Bromley Area Being Targeted
-
 Its really nice to know that this customer in Bromley on the outskirts of Bexley and Sidcup, decided to heed our motto of being proactive and not reactive by securing their property with one of our [smart app controlled burglar alarm security systems](/categories/burglar-alarms/).
 
 After numerous break ins down their road, these customers decided to deter the thieves before they had a chance to potentially target them.

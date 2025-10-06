@@ -53,13 +53,17 @@ eleventyNavigation:
  * @param {Object} metadata - Extracted metadata
  * @param {string} slug - Post slug
  * @param {string} date - Post date
+ * @param {string} blogHeading - The H1 heading from blog post content
  * @returns {string} Frontmatter YAML
  */
-const generateBlogFrontmatter = (metadata, slug, date) => {
+const generateBlogFrontmatter = (metadata, slug, date, blogHeading = null) => {
+  // Use the actual H1 from content for header_text, fallback to breadcrumb or title
+  const headerText = blogHeading || metadata.header_text || metadata.title || '';
+
   return `---
 title: "${metadata.title || slug.replace(/-/g, ' ')}"
 date: ${date}
-header_text: "${metadata.header_text || metadata.title || ''}"
+header_text: "${headerText}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/blog/${slug}/"

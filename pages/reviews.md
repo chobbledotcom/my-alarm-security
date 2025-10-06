@@ -9,6 +9,6 @@ eleventyNavigation:
   order: 4
 ---
 
-Please find all of our customer reviews below!
+# Reviews
 
-## Leave Us A Review!
+Please find all of our customer reviews below!

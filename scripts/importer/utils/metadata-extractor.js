@@ -11,6 +11,20 @@ const extractBreadcrumbText = (htmlContent) => {
 };
 
 /**
+ * Extract the main H1 heading from blog post content
+ * @param {string} htmlContent - HTML content to extract H1 from
+ * @returns {string|null} Extracted H1 text or null
+ */
+const extractBlogHeading = (htmlContent) => {
+  // Find the main content H1 (not in header/footer/nav)
+  const h1Match = htmlContent.match(/<h1[^>]*>([^<]+)<\/h1>/i);
+  if (h1Match) {
+    return h1Match[1].trim();
+  }
+  return null;
+};
+
+/**
  * Extract metadata from HTML content using regex patterns
  * @param {string} htmlContent - HTML content to extract metadata from
  * @returns {Object} Extracted metadata
@@ -227,6 +241,7 @@ const extractFaviconLinks = (htmlContent) => {
 
 module.exports = {
   extractBreadcrumbText,
+  extractBlogHeading,
   extractMetadata,
   extractPrice,
   extractCategory,

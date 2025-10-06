@@ -1,15 +1,11 @@
 ---
 title: "Intruder Burglar Alarm And Cctv Company Orpington Bromley Bexley"
 date: 2018-05-06
-header_text: "Our New Van Now Has Sign Writing"
+header_text: "OUR NEW VAN NOW HAS SIGN WRITING!!!"
 meta_title: "Intruder Burglar Alarm And Cctv Company Orpington Bromley Bexley"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/our-new-van-now-has-sign-writing/"
 ---
-
-#### Our New Van Now Has Sign Writing
-
-# OUR NEW VAN NOW HAS SIGN WRITING!!!
 
 We was soo excited when ordering our van a few months ago that as soon as we decided on the make and model, we started the designing of our van wrap. When we received our new van in a pristine white it looked amazing but we knew the best way to advertise locally in and around Bexley and Orpington was to get it sign written. Along with a website and leaflets, we decided that having our van sign written lets everyone know what we do. We decided to go with a local company to do our van signage after seeing lots of designs of their work which we were very happy with.
 

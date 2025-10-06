@@ -7,10 +7,6 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/blog/flush-chrome-keypad/"
 ---
 
-#### Flush Chrome Keypad
-
-# Flush Chrome Keypad
-
 If you have the opportunity to sink your keypad in to the wall, this is what it could look like.
 
 Incredible chrome finish flush keypad which looks amazing.

@@ -105,6 +105,15 @@ const cleanContent = (content, contentType) => {
     content = removeProductListings(content);
   }
 
+  // For blog posts, remove duplicate H1 and H4 breadcrumb headings since header_text already provides the title
+  if (contentType === 'blog') {
+    // Remove all H1 headings from blog content (header_text will display the title)
+    content = content.replace(/^#\s+.+$/gm, '');
+    // Remove H4 breadcrumb titles that appear at the start
+    content = content.replace(/^####\s+.+$/gm, '');
+    content = content.trim();
+  }
+
   return content
     .replace(/Posted By:.*?\n/g, '') // Remove blog post metadata
     .replace(/^:::\s*.*$/gm, '') // Remove all pandoc div markers

@@ -119,7 +119,7 @@ function mapOldToNew(oldPath) {
 }
 
 // Extract headings from HTML content (H1-H3 only)
-function extractHeadings(htmlContent) {
+function extractHeadings(htmlContent, isBlogPost = false) {
   const headings = [];
   const headingRegex = /<(h[1-3])[^>]*>(.*?)<\/\1>/gi;
   let match;
@@ -142,6 +142,30 @@ function extractHeadings(htmlContent) {
     }
   }
 
+  // For old blog posts with no H1, check if there's an H4 breadcrumb we should treat as H1
+  if (isBlogPost && headings.length === 0) {
+    const h4Regex = /<h4[^>]*>(.*?)<\/h4>/gi;
+    let h4Match;
+    while ((h4Match = h4Regex.exec(htmlContent)) !== null) {
+      const text = h4Match[1]
+        .replace(/<[^>]+>/g, '')
+        .replace(/&nbsp;/g, ' ')
+        .replace(/&amp;/g, '&')
+        .replace(/&lt;/g, '<')
+        .replace(/&gt;/g, '>')
+        .replace(/&quot;/g, '"')
+        .replace(/&#39;/g, "'")
+        .replace(/\s+/g, ' ')
+        .trim();
+
+      // Skip footer contact headings
+      if (text !== 'Contact MyAlarm Security' && text) {
+        headings.push({ level: 'h1', text });
+        break; // Only take the first H4 as the title
+      }
+    }
+  }
+
   return headings;
 }
 
@@ -153,7 +177,8 @@ function getOldSiteMetadata(urlPath) {
   try {
     const htmlContent = fs.readFileSync(filePath, 'utf-8');
     const metadata = extractMetadata(htmlContent);
-    metadata.headings = extractHeadings(htmlContent);
+    const isBlogPost = urlPath.startsWith('/blog/') && urlPath !== '/blog';
+    metadata.headings = extractHeadings(htmlContent, isBlogPost);
     return metadata;
   } catch (error) {
     return null;

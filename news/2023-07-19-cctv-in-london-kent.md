@@ -7,10 +7,6 @@ meta_description: "If you are looking to have CCTV installed at your home or bus
 permalink: "/blog/cctv-in-london-kent/"
 ---
 
-#### Cctv In London / Kent
-
-# [CCTV in London / Kent](/categories/cctv/)
-
 Closed-circuit television (CCTV) is a widely used technology in today\'s world. It has become an important tool in public safety and security management. CCTV systems capture and record images over a specific area or location. These systems are commonly used by businesses, organisations, and individuals to monitor and record activities to deter crime and to provide evidence for investigations. CCTV technology is particularly important in London and Kent, where crime rates are relatively high.
 
 CCTV systems have become increasingly popular in London and Kent in recent years, and for good reason. We have installed many systems in and around New Eltham, Sidcup, Bexley, Greenwich, Blackheath, Orpington, Bromley, Sevenoaks and Dartford. CCTV is used to monitor and record a variety of activities, including theft, vandalism, and assault, among others. It is important for businesses and organisations to install CCTV systems, as it can deter criminal activities and provide evidence for investigations. It is also important for individuals to install the systems at their homes for the protection of their property and loved ones. We serve a variety of areas including Bexley, Dartford, Greenhithe, Bromley, Orpington, Petts Wood and surrounding areas.
