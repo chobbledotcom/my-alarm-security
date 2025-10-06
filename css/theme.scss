@@ -92,6 +92,100 @@ $gap: 1rem;
   text-align: center;
 }
 
+.home-banner {
+  margin-bottom: $gap * 2;
+
+  .special-offer {
+    background: var(--color-link);
+    color: var(--nav-link-color);
+    padding: $gap;
+    border-radius: var(--border-radius) var(--border-radius) 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: $gap;
+
+    @media (max-width: $mobile) {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    p {
+      margin: 0;
+      font-size: 1.1rem;
+      font-weight: bold;
+    }
+
+    a {
+      display: inline-block;
+      padding: $gap * 0.5 $gap;
+      background: var(--nav-link-active-color);
+      color: var(--form-button-hover-text-color);
+      text-decoration: none;
+      border-radius: var(--border-radius);
+      white-space: nowrap;
+
+      &:hover {
+        background: var(--form-button-hover-text-color);
+        color: var(--nav-link-active-color);
+      }
+    }
+  }
+
+  .banner-scroll {
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-link) transparent;
+    border-radius: 0 0 var(--border-radius) var(--border-radius);
+    box-shadow: var(--box-shadow);
+
+    &::-webkit-scrollbar {
+      height: 8px;
+    }
+
+    &::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background: var(--color-link);
+      border-radius: 4px;
+    }
+
+    ul {
+      display: flex;
+      gap: 0;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      width: max-content;
+
+      li {
+        scroll-snap-align: start;
+        flex-shrink: 0;
+        width: 100%;
+
+        @media (max-width: $mobile) {
+          width: 100%;
+        }
+
+        img {
+          display: block;
+          width: 100%;
+          height: auto;
+          object-fit: cover;
+          aspect-ratio: 3 / 1;
+
+          @media (max-width: $mobile) {
+            aspect-ratio: 16 / 9;
+          }
+        }
+      }
+    }
+  }
+}
+
 .featured {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

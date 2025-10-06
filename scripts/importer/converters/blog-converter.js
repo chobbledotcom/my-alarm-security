@@ -25,10 +25,11 @@ const convertBlogPosts = async () => {
   console.log('Converting blog posts to news...');
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.news);
-  prepDir(outputDir);
-
   const blogDir = path.join(config.OLD_SITE_PATH, config.paths.blog);
   const files = listHtmlFiles(blogDir);
+
+  // News directory only contains imported blog posts, safe to clean all
+  prepDir(outputDir);
 
   return await convertBatch(files, blogDir, outputDir);
 };

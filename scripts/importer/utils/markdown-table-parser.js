@@ -22,6 +22,13 @@ const extractListItems = (cellContent) => {
   const lines = cellContent.split('\n').map(l => l.trim()).filter(l => l);
   const items = [];
 
+  // If there's more than one line, treat each line as a list item
+  // (multi-line cells in spec tables are typically lists)
+  if (lines.length > 1) {
+    return lines;
+  }
+
+  // Single line: check if it's explicitly a list item
   for (const line of lines) {
     if (isListItem(line)) {
       items.push(line);
@@ -138,11 +145,17 @@ const formatSpecificationTable = (tableLines) => {
   const result = [];
   const rows = parseTableRows(tableLines);
 
-  for (const row of rows) {
+  for (let i = 0; i < rows.length; i++) {
+    const row = rows[i];
     if (row.cells.length < 2) continue;
 
     const label = row.cells[0].trim();
     const value = row.cells[1].trim();
+
+    // Skip header row (first row with generic labels like "Specification" and "Details")
+    if (i === 0 && label.match(/^Specification/i) && value.match(/^Details?$/i)) {
+      continue;
+    }
 
     // Check if value contains list items
     const listItems = extractListItems(value);
@@ -190,6 +203,7 @@ const formatPriceTable = (tableLines) => {
 /**
  * Parse table rows from raw lines
  * Handles multi-line cells by detecting alignment patterns
+ * Supports pandoc-style tables with aligned columns
  * @param {string[]} lines - Table lines
  * @returns {Array<{cells: string[]}>} Parsed rows
  */
@@ -199,14 +213,24 @@ const parseTableRows = (lines) => {
   const rows = [];
   let currentRow = null;
 
+  // Detect the first column position from the first line with content
+  let firstColumnPos = null;
+
   for (const line of lines) {
     // Skip separator lines
     if (line.match(/^[\s-]+$/)) continue;
     if (!line.trim()) continue;
 
-    // Try to detect if this is a new row or continuation
-    // New rows typically start at column 0 or have the label pattern
-    const isNewRow = !line.startsWith(' ') || line.match(/^\s*[A-Z][a-z]+.*?:/);
+    // If we haven't detected the first column yet, use this line
+    if (firstColumnPos === null) {
+      firstColumnPos = line.search(/\S/);
+    }
+
+    // Determine if this is a new row or continuation
+    // New rows start at the first column position
+    // Continuation lines are indented beyond the first column
+    const lineStart = line.search(/\S/);
+    const isNewRow = !currentRow || lineStart === firstColumnPos;
 
     if (isNewRow) {
       // Start new row
@@ -214,7 +238,7 @@ const parseTableRows = (lines) => {
         rows.push(currentRow);
       }
 
-      // Parse cells - split on excessive whitespace
+      // Parse cells - split on 2+ spaces
       const cells = line.split(/\s{2,}/).map(c => c.trim()).filter(c => c);
       currentRow = { cells };
     } else if (currentRow) {

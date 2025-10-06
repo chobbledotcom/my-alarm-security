@@ -63,9 +63,10 @@ eleventyNavigation:
 const generateBlogFrontmatter = (metadata, slug, date, blogHeading = null) => {
   // Use the actual H1 from content for header_text, fallback to breadcrumb or title
   const headerText = blogHeading || metadata.header_text || metadata.title || '';
+  const postTitle = metadata.header_text || slug.replace(/-/g, ' ');
 
   return `---
-title: "${metadata.title || slug.replace(/-/g, ' ')}"
+title: "${postTitle}"
 date: ${date}
 header_text: "${headerText}"
 meta_title: "${metadata.title || ''}"

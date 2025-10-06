@@ -1,4 +1,5 @@
 const { parseSpecificationTables } = require('./markdown-table-parser');
+const { extractSpecificationTable, extractPriceTable } = require('./html-table-extractor');
 
 /**
  * Extract main content from markdown (remove nav, footer, etc.)
@@ -146,15 +147,21 @@ const cleanContent = (content, contentType) => {
  * Process raw markdown to extract and clean content
  * @param {string} markdown - Raw markdown from pandoc
  * @param {string} contentType - Type of content
+ * @param {string} htmlContent - Original HTML content (for product tables)
  * @returns {string} Processed and cleaned content
  */
-const processContent = (markdown, contentType) => {
+const processContent = (markdown, contentType, htmlContent = null) => {
   const extracted = extractMainContent(markdown, contentType);
   let cleaned = cleanContent(extracted, contentType);
 
-  // Parse and format specification tables for products
-  if (contentType === 'product') {
-    cleaned = parseSpecificationTables(cleaned);
+  // For products, extract tables from HTML and inject into markdown content
+  if (contentType === 'product' && htmlContent) {
+    const specs = extractSpecificationTable(htmlContent);
+    const prices = extractPriceTable(htmlContent);
+
+    // Remove the placeholder sections and replace with HTML-extracted content
+    cleaned = cleaned.replace(/Product Specifications![\s\S]*?(?=Our Prices!|$)/i, specs + '\n\n');
+    cleaned = cleaned.replace(/Our Prices![\s\S]*?(?=\n\n-{5,}|$)/i, prices);
   }
 
   return cleaned;

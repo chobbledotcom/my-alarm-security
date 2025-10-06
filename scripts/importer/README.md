@@ -29,11 +29,53 @@ scripts/importer/
 Run the conversion:
 ```bash
 # From project root
-node scripts/convert-old-site.js
+npm run convert-old-site
 
 # Or directly
 node scripts/importer/index.js
 ```
+
+## Folder Cleaning Behavior
+
+The importer uses smart cleanup to preserve non-imported files:
+
+**Full cleanup (all files):**
+- `images/` - Completely removed and recreated (including subdirectories)
+- `news/` - All files removed (only contains imported blog posts)
+- `products/` - All files removed (only contains imported products)
+- `categories/` - All files removed (only contains imported categories)
+- `assets/favicon/` - All files removed (only contains imported favicons)
+
+**Selective cleanup (only imported files):**
+- `pages/` - Only deletes files from old_site (preserves `home.md`, `not-found.md`, `products.md`, `service-areas.md`, `thank-you.md`)
+- `reviews/` - Only deletes product reviews from old_site (preserves Google reviews with `-google-` in filename)
+
+**Protected folders (never touched):**
+- `.git/`, `scripts/`, `old_site/`, `css/`, `app/`, `_data/`, `_includes/`, `_layouts/`
+
+**How it works:**
+
+The `prepDir()` function accepts an optional filter function:
+```javascript
+prepDir(dir, shouldDelete)  // shouldDelete(filename) returns true to delete
+```
+
+Examples:
+```javascript
+// Delete all files
+prepDir(outputDir);
+
+// Delete only imported pages (preserve manually created)
+const importedPageNames = new Set(['about-us.md', 'contact.md', ...]);
+prepDir(outputDir, filename => importedPageNames.has(filename));
+```
+
+This ensures:
+- Fresh content on each import
+- No stale files from previous runs
+- Manually created files are preserved
+- Google reviews are not deleted
+- Protected folders remain intact
 
 ## Module Responsibilities
 

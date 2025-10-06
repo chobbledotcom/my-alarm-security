@@ -43,28 +43,32 @@ const listHtmlFiles = (dir) => {
 };
 
 /**
- * Clean all files from a directory
+ * Clean files from a directory, optionally filtering which files to delete
  * @param {string} dir - Directory to clean
+ * @param {Function} shouldDelete - Optional function(filename) that returns true if file should be deleted
  */
-const cleanDirectory = (dir) => {
+const cleanDirectory = (dir, shouldDelete = null) => {
   if (fs.existsSync(dir)) {
     const files = fs.readdirSync(dir);
     files.forEach(file => {
       const filePath = path.join(dir, file);
       if (fs.statSync(filePath).isFile()) {
-        fs.unlinkSync(filePath);
+        if (!shouldDelete || shouldDelete(file)) {
+          fs.unlinkSync(filePath);
+        }
       }
     });
   }
 };
 
 /**
- * Prepare a directory for import by ensuring it exists and is clean
+ * Prepare a directory for import by ensuring it exists and cleaning files
  * @param {string} dir - Directory path to prepare
+ * @param {Function} shouldDelete - Optional function(filename) that returns true if file should be deleted
  */
-const prepDir = (dir) => {
+const prepDir = (dir, shouldDelete = null) => {
   ensureDir(dir);
-  cleanDirectory(dir);
+  cleanDirectory(dir, shouldDelete);
 };
 
 /**
