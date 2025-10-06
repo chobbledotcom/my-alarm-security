@@ -2,8 +2,6 @@ const path = require('path');
 const config = require('../config');
 const { ensureDir, readHtmlFile, writeMarkdownFile } = require('../utils/filesystem');
 const { extractMetadata } = require('../utils/metadata-extractor');
-const { convertToMarkdown } = require('../utils/pandoc-converter');
-const { processContent } = require('../utils/content-processor');
 const { generatePageFrontmatter } = require('../utils/frontmatter-generator');
 
 /**
@@ -21,14 +19,11 @@ const convertReviewsIndex = () => {
   try {
     const htmlContent = readHtmlFile(reviewsPath);
     const metadata = extractMetadata(htmlContent);
-    const markdown = convertToMarkdown(reviewsPath);
-    const content = processContent(markdown, 'page');
 
     const frontmatter = generatePageFrontmatter(metadata, 'reviews');
-    const fullContent = `${frontmatter}\n\n${content}`;
     const outputPath = path.join(outputDir, 'reviews.md');
 
-    writeMarkdownFile(outputPath, fullContent);
+    writeMarkdownFile(outputPath, frontmatter);
     console.log('  Converted: reviews.md');
     return { successful: 1, failed: 0, total: 1 };
   } catch (error) {
