@@ -1,11 +1,12 @@
 ---
-header_text: "Burglar Alarm Servicing in Beckenham"
-meta_title: "Burglar Alarm System Company Beckenham Cctv Beckenham - My Alarm Security"
-meta_description: "Burglar Alarm System West Wickham Security Beckenham Security. CCTV systems. Home Security, Burglar Alarm Service Battery Beckenham. Alarm Company Near Me"
-permalink: "/pages/beckenham/"
+header_text: Burglar Alarm Servicing in Beckenham
+meta_description: Burglar Alarm System West Wickham Security Beckenham Security.
+  CCTV systems. Home Security, Burglar Alarm Service Battery Beckenham. Alarm
+  Company Near Me
+meta_title: Burglar Alarm System Company Beckenham Cctv Beckenham - MyAlarm Security
 layout: page
+permalink: /pages/beckenham/
 ---
-
 We offer battery changes, part changes and servicing to all different makes and models of burglar alarm systems. Maybe you have inherited the system or you\'ve lost the details of the original installer, don\'t worry we can help. We offer one off servicing, battery changes, part replacement and upgrades to all types of home and business burglar alarm systems. We cover the boroughs of Bromley, Lewisham, Bexley, Dartford, Sevenoaks and Greenwich.
 
 Give us a call or send us an email to get your burglar alarm serviced or burglar alarm battery changes in Beckenham or surrounding areas. [Burglar Alarm Service in Beckenham.](/categories/burglar-alarms/)
