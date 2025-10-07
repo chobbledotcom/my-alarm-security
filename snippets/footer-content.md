@@ -1,5 +1,4 @@
 ---
 name: Footer
 ---
-
-©️ My Alarm Security 2025
+©️ MyAlarm Security 2025
