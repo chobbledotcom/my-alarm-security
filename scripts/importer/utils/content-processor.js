@@ -121,26 +121,19 @@ const cleanContent = (content, contentType) => {
     .replace(/Posted By:.*?\n/g, '') // Remove blog post metadata
     .replace(/^\[\s*Back [Tt]o\s+[^\]]+\]\([^)]+\)(\{[^}]+\})?\s*$/gm, '') // Remove "Back to" links
     .replace(/^:::\s*.*$/gm, '') // Remove all pandoc div markers
-    .replace(/\[[^\]]+\]\{style="[^"]*"\}/g, (match) => {
-      // Extract text from [text]{style="..."} patterns
-      const textMatch = match.match(/\[([^\]]+)\]/);
-      return textMatch ? textMatch[1] : match;
-    })
-    .replace(/\{style="[^"]*"\}/g, '') // Remove remaining style attributes
-    .replace(/\{[^}]*\}/g, '') // Remove remaining attribute blocks
-    .replace(/\[ \]/g, '') // Remove empty checkbox markers from ql-cursor spans
-    .replace(/\[([^\[\]]*?)\](?!\()/g, '$1') // Remove square brackets not part of links
-    .replace(/^\[([^\]]+)\]\s*$/gm, '$1') // Remove square brackets around standalone lines
-    .replace(/^(#+)\s*\[([^\]]+)\]\s*$/gm, '$1 $2') // Fix headers with square brackets
-    .replace(/\[{2,}/g, '[') // Fix multiple opening brackets
-    .replace(/\]{2,}/g, ']') // Fix multiple closing brackets
-    .replace(/\*{3,}/g, '**') // Fix multiple asterisks
-    .replace(/\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\]/g, '**[$1]($2)**') // Fix **[link](url)**]
-    .replace(/\]\*\*\s*$/gm, '**') // Fix trailing ]** at end of line
-    .replace(/\)\*\*\]\s*$/gm, ')**') // Fix trailing )**] at end of line
-    .replace(/\\\s*$/gm, '') // Remove trailing backslashes
-    .replace(/\(\.\.\/([^)]+)\.php\.html\)/g, '(/$1/)') // Fix relative links: ../pages/foo.php.html -> /pages/foo/
-    .replace(/\n\s*\n\s*\n/g, '\n\n') // Normalize whitespace
+    .replace(/\{[^}]*\}/g, '') // Remove any remaining attribute blocks
+    .replace(/\[ \]/g, '') // Remove empty checkbox markers
+    // Fix multiple asterisks
+    .replace(/\*{3,}/g, '**')
+    .replace(/\*\*[ \t\u00A0]+\*\*/g, '**')
+    // Fix space (including nbsp) before/after ** at end of line
+    .replace(/[ \t\u00A0]+\*\*[ \t\u00A0]*$/gm, '**')
+    // Remove trailing backslashes
+    .replace(/\\[ \t]*$/gm, '')
+    // Fix relative links: ../pages/foo.php.html -> /pages/foo/
+    .replace(/\(\.\.\/([^)]+)\.php\.html\)/g, '(/$1/)')
+    // Normalize whitespace
+    .replace(/\n\s*\n\s*\n/g, '\n\n')
     .trim();
 };
 
