@@ -450,10 +450,13 @@ $gap: 1rem;
   color: var(--nav-link-color);
   text-decoration: none;
   border-radius: var(--border-radius);
+  transition: transform 0.2s ease, background 0.2s ease;
 
   &:hover {
     background: var(--form-button-hover-bg-color);
     color: var(--nav-link-color);
+    text-decoration: none;
+    transform: scale(1.05);
   }
 }
 
