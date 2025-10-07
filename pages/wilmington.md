@@ -10,7 +10,7 @@ If it is a new home security system in Wilmington that you are looking to get or
 
 Check out some of our popular burglar alarm system packages here: [Burglar Alarm Systems Wilmington](/categories/burglar-alarms/)
 
-# Burglar Alarm Service Wilmington  
+# Burglar Alarm Service Wilmington 
 
 If your current alarm system is in need of some TLC - a new battery, a new keypad, maybe you have a fault on one of the zones - or maybe you are having some refurbishment works doing and need the system moved or temporarily disabled - we can help with it all. From cut cables to sensor relocation to alarm system upgrades, you have come to the right place. We are a local, family run company based in Sidcup with 30 years of experience in the electronic security industry. There isnt an alarm panel out there that we havent come across before. Check out some of our amazing reviews on Google for peace of mind that the company you are choosing are the right ones for you.
 

@@ -10,7 +10,7 @@ Details
 
 It is important that you read this section of our Privacy Notice so you are aware of how we are collecting or processing personal data about you which complies with the General Data Protection Regulation (GDPR).
 
-We are known as the \"Data Controller\" of the personal data collected from you to enter into a contract of service delivery \GDPR,Art.6(b)
+We are known as the \"Data Controller\" of the personal data collected from you to enter into a contract of service delivery \[GDPR,Art.6(b)\]
 
 Information we collect
 

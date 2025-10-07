@@ -117,52 +117,18 @@ const cleanContent = (content, contentType) => {
 
   content = content.trim();
 
-  // Remove style attributes and clean up nested bracket structures
-  content = content
+  return content
     .replace(/Posted By:.*?\n/g, '') // Remove blog post metadata
     .replace(/^\[\s*Back [Tt]o\s+[^\]]+\]\([^)]+\)(\{[^}]+\})?\s*$/gm, '') // Remove "Back to" links
     .replace(/^:::\s*.*$/gm, '') // Remove all pandoc div markers
-    // Remove all {style="..."} attributes first
-    .replace(/\{style="[^"]*"\}/g, '')
-    // Remove all other attribute blocks
-    .replace(/\{[^}]*\}/g, '')
-    // Fix double brackets in links: ]]( -> ]( and [[text]( -> [text](
-    .replace(/\]\]\(/g, '](')
-    .replace(/\[\[([^\]]+)\]\(/g, '[$1](');
-
-  // Remove [text] wrappers not part of links (may need multiple passes for nesting)
-  for (let i = 0; i < 3; i++) {
-    content = content.replace(/\[([^\[\]]+)\](?!\()/g, '$1');
-  }
-
-  content = content
-    .replace(/\[ \]/g, '') // Remove empty checkbox markers from ql-cursor spans
+    .replace(/\{[^}]*\}/g, '') // Remove any remaining attribute blocks
+    .replace(/\[ \]/g, '') // Remove empty checkbox markers
     // Fix text+link where word is split: "Sa[les@...](url)" -> "[Sales@...](url)"
-    .replace(/([a-z]+)\[([a-z][^\]]*)\]\(/gi, '[$1$2](');
-
-  // Remove [text] wrappers again after word merging created new patterns
-  for (let i = 0; i < 3; i++) {
-    content = content.replace(/\[([^\[\]]+)\](?!\()/g, '$1');
-  }
-
-  return content
-    // Fix [**bold with [link](url)**] patterns - remove outer brackets
-    .replace(/\[\*\*([^\]]*\[[^\]]+\]\([^)]+\)[^\]]*)\*\*\]/g, '**$1**')
-    // Fix trailing ]**] patterns at end of line
-    .replace(/\]\*\*\][ \t]*$/gm, '**')
-    // Fix standalone brackets around entire lines (but preserve newlines)
-    .replace(/^\[([^\]]+)\][ \t]*$/gm, '$1')
-    // Fix leading bracket at start of line before bold
-    .replace(/^\[\*\*/gm, '**')
-    // Fix headers with square brackets
-    .replace(/^(#+)[ \t]+\[([^\]]+)\][ \t]*$/gm, '$1 $2')
-    // Clean up any remaining multiple brackets
-    .replace(/\[{2,}/g, '[')
-    .replace(/\]{2,}/g, ']')
-    // Fix multiple asterisks (including spaces between them)
+    .replace(/([a-z]+)\[([a-z][^\]]*)\]\(/gi, '[$1$2](')
+    // Fix multiple asterisks
     .replace(/\*{3,}/g, '**')
     .replace(/\*\*[ \t\u00A0]+\*\*/g, '**')
-    // Fix space (including nbsp) before ** at end of line
+    // Fix space (including nbsp) before/after ** at end of line
     .replace(/[ \t\u00A0]+\*\*[ \t\u00A0]*$/gm, '**')
     // Remove trailing backslashes
     .replace(/\\[ \t]*$/gm, '')
