@@ -83,6 +83,6 @@ layout: base.html
   {% assign sorted_reviews = collections.review | reverse %} {% assign reviews =
   sorted_reviews | slice: 0, 9 %} {% include "reviews-list.html", reviews:
   reviews %}
-  <a href="/reviews/#content">Read More Reviews</a>
+  <a href="/reviews/#content" class="read-more-reviews">Read More Reviews</a>
 </section>
 {% endif %}

@@ -55,9 +55,9 @@
   --main-heading-color: #ec2023;
   --form-border: 1px solid #ec2023;
   --form-input-bg-color: #e0e0e0;
-  --form-button-border: 2px solid #ec2023;
-  --form-button-hover-text-color: #241f31;
-  --form-button-hover-border: 2px solid #241f31;
+  --form-button-border: 0px solid #ec2023;
+  --form-button-hover-text-color: #ffffff;
+  --form-button-hover-border: 0px solid #241f31;
 }
 
 @media (min-width: 769px) {
@@ -446,6 +446,23 @@ $gap: 1rem;
       font-size: 0.9rem;
       text-align: center;
     }
+  }
+}
+
+.read-more-reviews {
+  display: block;
+  text-align: center;
+  margin: $gap * 2 auto;
+  max-width: max-content;
+  padding: $gap * 0.5 $gap;
+  background: var(--color-link);
+  color: var(--nav-link-color);
+  text-decoration: none;
+  border-radius: var(--border-radius);
+
+  &:hover {
+    background: var(--form-button-hover-text-color);
+    color: var(--nav-link-color);
   }
 }
 
