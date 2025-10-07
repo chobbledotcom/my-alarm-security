@@ -67,21 +67,23 @@ const downloadProductImage = async (imageUrl, slug) =>
  * @returns {Promise<string>} Content with updated local image paths
  */
 const downloadEmbeddedImages = async (content, contentType, slug) => {
-  const imageRegex = /!\[([^\]]*)\]\((https:\/\/res\.cloudinary\.com\/[^)]+)\)/g;
+  const imageRegex = /!\[([^\]]*)\]\((https:\/\/res\.cloudinary\.com\/[^)]+?)(?:\s+"([^"]*)")?\)/g;
   const matches = [...content.matchAll(imageRegex)];
 
   let updatedContent = content;
 
   for (const match of matches) {
+    const fullMatch = match[0];
     const altText = match[1];
     const imageUrl = match[2];
+    const titleText = match[3];
     const webPath = await downloadImage(imageUrl, contentType, slug);
 
     if (webPath) {
-      updatedContent = updatedContent.replace(
-        `![${altText}](${imageUrl})`,
-        `![${altText}](${webPath})`
-      );
+      const replacement = titleText
+        ? `![${altText}](${webPath} "${titleText}")`
+        : `![${altText}](${webPath})`;
+      updatedContent = updatedContent.replace(fullMatch, replacement);
     }
   }
 

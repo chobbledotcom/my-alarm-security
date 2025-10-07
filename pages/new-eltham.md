@@ -22,4 +22,4 @@ Why not checkout some of our premade CCTV packages below. All of our systems can
 
 [Burglar Alarm System New Eltham.](/categories/burglar-alarms/)
 
-![New Eltham Burglar Alarm System CCTV Security New Eltham Alarm Battery Intruder](https://res.cloudinary.com/kbs/image/upload/f_auto,q_auto/seklxyqqfr3gaczwyfnu.webp "New Eltham SE9 Alarm System CCTV ")
+![New Eltham Burglar Alarm System CCTV Security New Eltham Alarm Battery Intruder](/images/pages/pages-new-eltham-seklxyqqfr3gaczwyfnu.webp "New Eltham SE9 Alarm System CCTV ")
