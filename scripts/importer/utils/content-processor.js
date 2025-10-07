@@ -123,8 +123,6 @@ const cleanContent = (content, contentType) => {
     .replace(/^:::\s*.*$/gm, '') // Remove all pandoc div markers
     .replace(/\{[^}]*\}/g, '') // Remove any remaining attribute blocks
     .replace(/\[ \]/g, '') // Remove empty checkbox markers
-    // Fix text+link where word is split: "Sa[les@...](url)" -> "[Sales@...](url)"
-    .replace(/([a-z]+)\[([a-z][^\]]*)\]\(/gi, '[$1$2](')
     // Fix multiple asterisks
     .replace(/\*{3,}/g, '**')
     .replace(/\*\*[ \t\u00A0]+\*\*/g, '**')
