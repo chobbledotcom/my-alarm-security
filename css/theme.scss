@@ -383,18 +383,9 @@ $gap: 1rem;
     }
 
     a {
+      @extend .button-primary;
       align-self: end;
       justify-self: center;
-      display: inline-block;
-      padding: $gap * 0.5 $gap;
-      background: var(--color-link);
-      color: var(--nav-link-color);
-      text-decoration: none;
-      border-radius: var(--border-radius);
-
-      &:hover {
-        background: var(--form-button-hover-text-color);
-      }
     }
   }
 }
@@ -452,11 +443,8 @@ $gap: 1rem;
   }
 }
 
-.read-more-reviews {
-  display: block;
-  text-align: center;
-  margin: $gap * 2 auto;
-  max-width: max-content;
+.button-primary {
+  display: inline-block;
   padding: $gap * 0.5 $gap;
   background: var(--color-link);
   color: var(--nav-link-color);
@@ -464,9 +452,17 @@ $gap: 1rem;
   border-radius: var(--border-radius);
 
   &:hover {
-    background: var(--form-button-hover-text-color);
+    background: var(--form-button-hover-bg-color);
     color: var(--nav-link-color);
   }
+}
+
+.read-more-reviews {
+  @extend .button-primary;
+  display: block;
+  text-align: center;
+  margin: $gap * 2 auto;
+  max-width: max-content;
 }
 
 .reviews-grid {
