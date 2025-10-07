@@ -55,9 +55,12 @@
   --main-heading-color: #ec2023;
   --form-border: 1px solid #ec2023;
   --form-input-bg-color: #e0e0e0;
-  --form-button-border: 2px solid #ec2023;
-  --form-button-hover-text-color: #241f31;
-  --form-button-hover-border: 2px solid #241f31;
+  --form-button-bg-color: #ec2023;
+  --form-button-text-color: #ffffff;
+  --form-button-border: 0px solid #ec2023;
+  --form-button-hover-bg-color: #241f31;
+  --form-button-hover-text-color: #ffffff;
+  --form-button-hover-border: 0px solid #241f31;
 }
 
 @media (min-width: 769px) {
@@ -380,18 +383,9 @@ $gap: 1rem;
     }
 
     a {
+      @extend .button-primary;
       align-self: end;
       justify-self: center;
-      display: inline-block;
-      padding: $gap * 0.5 $gap;
-      background: var(--color-link);
-      color: var(--nav-link-color);
-      text-decoration: none;
-      border-radius: var(--border-radius);
-
-      &:hover {
-        background: var(--form-button-hover-text-color);
-      }
     }
   }
 }
@@ -447,6 +441,31 @@ $gap: 1rem;
       text-align: center;
     }
   }
+}
+
+.button-primary {
+  display: inline-block;
+  padding: $gap * 0.5 $gap;
+  background: var(--color-link);
+  color: var(--nav-link-color);
+  text-decoration: none;
+  border-radius: var(--border-radius);
+  transition: transform 0.2s ease, background 0.2s ease;
+
+  &:hover {
+    background: var(--form-button-hover-bg-color);
+    color: var(--nav-link-color);
+    text-decoration: none;
+    transform: scale(1.05);
+  }
+}
+
+.read-more-reviews {
+  @extend .button-primary;
+  display: block;
+  text-align: center;
+  margin: $gap * 2 auto;
+  max-width: max-content;
 }
 
 .reviews-grid {
