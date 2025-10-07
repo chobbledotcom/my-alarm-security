@@ -13,4 +13,4 @@ Access control and door entry systems allow access via an electronic reader syst
 
 Access control offers peace of mind by offering a high level of security as the premises\' entrances are controlled by powerful electromagnets that are released only if an authorised person presents their card/fob to the reader.
 
-[**Contact Us**](/contact/) to discuss your requirements and to book a free no obligation visit.
+**Contact Us**](/contact/) to discuss your requirements and to book a free no obligation visit.

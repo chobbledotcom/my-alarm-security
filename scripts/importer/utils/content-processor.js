@@ -117,30 +117,59 @@ const cleanContent = (content, contentType) => {
 
   content = content.trim();
 
-  return content
+  // Remove style attributes and clean up nested bracket structures
+  content = content
     .replace(/Posted By:.*?\n/g, '') // Remove blog post metadata
     .replace(/^\[\s*Back [Tt]o\s+[^\]]+\]\([^)]+\)(\{[^}]+\})?\s*$/gm, '') // Remove "Back to" links
     .replace(/^:::\s*.*$/gm, '') // Remove all pandoc div markers
-    .replace(/\[[^\]]+\]\{style="[^"]*"\}/g, (match) => {
-      // Extract text from [text]{style="..."} patterns
-      const textMatch = match.match(/\[([^\]]+)\]/);
-      return textMatch ? textMatch[1] : match;
-    })
-    .replace(/\{style="[^"]*"\}/g, '') // Remove remaining style attributes
-    .replace(/\{[^}]*\}/g, '') // Remove remaining attribute blocks
+    // Remove all {style="..."} attributes first
+    .replace(/\{style="[^"]*"\}/g, '')
+    // Remove all other attribute blocks
+    .replace(/\{[^}]*\}/g, '')
+    // Fix double brackets in links: ]]( -> ]( and [[text]( -> [text](
+    .replace(/\]\]\(/g, '](')
+    .replace(/\[\[([^\]]+)\]\(/g, '[$1](');
+
+  // Remove [text] wrappers not part of links (may need multiple passes for nesting)
+  for (let i = 0; i < 3; i++) {
+    content = content.replace(/\[([^\[\]]+)\](?!\()/g, '$1');
+  }
+
+  content = content
     .replace(/\[ \]/g, '') // Remove empty checkbox markers from ql-cursor spans
-    .replace(/\[([^\[\]]*?)\](?!\()/g, '$1') // Remove square brackets not part of links
-    .replace(/^\[([^\]]+)\]\s*$/gm, '$1') // Remove square brackets around standalone lines
-    .replace(/^(#+)\s*\[([^\]]+)\]\s*$/gm, '$1 $2') // Fix headers with square brackets
-    .replace(/\[{2,}/g, '[') // Fix multiple opening brackets
-    .replace(/\]{2,}/g, ']') // Fix multiple closing brackets
-    .replace(/\*{3,}/g, '**') // Fix multiple asterisks
-    .replace(/\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\]/g, '**[$1]($2)**') // Fix **[link](url)**]
-    .replace(/\]\*\*\s*$/gm, '**') // Fix trailing ]** at end of line
-    .replace(/\)\*\*\]\s*$/gm, ')**') // Fix trailing )**] at end of line
-    .replace(/\\\s*$/gm, '') // Remove trailing backslashes
-    .replace(/\(\.\.\/([^)]+)\.php\.html\)/g, '(/$1/)') // Fix relative links: ../pages/foo.php.html -> /pages/foo/
-    .replace(/\n\s*\n\s*\n/g, '\n\n') // Normalize whitespace
+    // Fix text+link where word is split: "Sa[les@...](url)" -> "[Sales@...](url)"
+    .replace(/([a-z]+)\[([a-z][^\]]*)\]\(/gi, '[$1$2](');
+
+  // Remove [text] wrappers again after word merging created new patterns
+  for (let i = 0; i < 3; i++) {
+    content = content.replace(/\[([^\[\]]+)\](?!\()/g, '$1');
+  }
+
+  return content
+    // Fix [**bold with [link](url)**] patterns - remove outer brackets
+    .replace(/\[\*\*([^\]]*\[[^\]]+\]\([^)]+\)[^\]]*)\*\*\]/g, '**$1**')
+    // Fix trailing ]**] patterns at end of line
+    .replace(/\]\*\*\][ \t]*$/gm, '**')
+    // Fix standalone brackets around entire lines (but preserve newlines)
+    .replace(/^\[([^\]]+)\][ \t]*$/gm, '$1')
+    // Fix leading bracket at start of line before bold
+    .replace(/^\[\*\*/gm, '**')
+    // Fix headers with square brackets
+    .replace(/^(#+)[ \t]+\[([^\]]+)\][ \t]*$/gm, '$1 $2')
+    // Clean up any remaining multiple brackets
+    .replace(/\[{2,}/g, '[')
+    .replace(/\]{2,}/g, ']')
+    // Fix multiple asterisks (including spaces between them)
+    .replace(/\*{3,}/g, '**')
+    .replace(/\*\*[ \t\u00A0]+\*\*/g, '**')
+    // Fix space (including nbsp) before ** at end of line
+    .replace(/[ \t\u00A0]+\*\*[ \t\u00A0]*$/gm, '**')
+    // Remove trailing backslashes
+    .replace(/\\[ \t]*$/gm, '')
+    // Fix relative links: ../pages/foo.php.html -> /pages/foo/
+    .replace(/\(\.\.\/([^)]+)\.php\.html\)/g, '(/$1/)')
+    // Normalize whitespace
+    .replace(/\n\s*\n\s*\n/g, '\n\n')
     .trim();
 };
 

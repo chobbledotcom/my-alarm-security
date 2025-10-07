@@ -31,4 +31,4 @@ Our Prices!
 
 ------------------------------------------------------------------------
 
-[**Contact Us**](/contact/) for more information.
+**Contact Us**](/contact/) for more information.
