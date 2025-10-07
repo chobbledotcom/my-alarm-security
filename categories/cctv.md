@@ -19,4 +19,4 @@ We also offer wireless [Burglar Alarm Systems](burglar-alarms.php.html) that can
 
 The image below shows the differences at night time between a conventional camera (5mp analogue) and a Colorvu camera. Both camera types show up full colour during the day however the conventional cameras only offer black and white night time imaging. ColorVu cameras provide 24hr colour images.
 
-![CCTV Systems](/images/categories/categories-cctv-fz8jnnwdtcm5voycphbt.png "CCTV Systems")
+![CCTV Systems](/images/categories/categories-cctv-fz8jnnwdtcm5voycphbt.png)

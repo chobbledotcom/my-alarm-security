@@ -36,23 +36,23 @@ Specialists in all types of Home Security, Business Security and Building securi
 
 **DBS checked and with full public liability insurance.**
 
-![MyAlarm Security](/images/pages/pages-thamesmead-oeflaeyeglmvvu4nxkv0.png "MyAlarm Security")
+![MyAlarm Security](/images/pages/pages-thamesmead-oeflaeyeglmvvu4nxkv0.png)
 
-![My Alarm Security](/images/pages/pages-thamesmead-rubndkmdvgoxj9berm3a.jpg "My Alarm Security")
+![My Alarm Security](/images/pages/pages-thamesmead-rubndkmdvgoxj9berm3a.jpg)
 
-![Fully Certified Engineers](/images/pages/pages-thamesmead-ytwmwogsrbck9axbamnu.png "Fully Certified Engineers")
+![Fully Certified Engineers](/images/pages/pages-thamesmead-ytwmwogsrbck9axbamnu.png)
 
 **Fully Certified Engineers**
 
-![24/7 Customer Service](/images/pages/pages-thamesmead-iqrzhnfuuzobhjxhovcu.png "24/7 Customer Service")
+![24/7 Customer Service](/images/pages/pages-thamesmead-iqrzhnfuuzobhjxhovcu.png)
 
 **24/7 Customer Service**
 
-![High Quality Systems](/images/pages/pages-thamesmead-uwb4yiykbcwepkugogci.png "High Quality Systems")
+![High Quality Systems](/images/pages/pages-thamesmead-uwb4yiykbcwepkugogci.png)
 
 **High Quality Systems**
 
-![Professionally Fitted](/images/pages/pages-thamesmead-ln9gryvfgmobruniuoxm.png "Professionally Fitted")
+![Professionally Fitted](/images/pages/pages-thamesmead-ln9gryvfgmobruniuoxm.png)
 
 **Professionally Fitted**
 
