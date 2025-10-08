@@ -1,4 +1,5 @@
 const path = require('path');
+const fs = require('fs');
 
 // Configuration for the importer
 const config = {
@@ -18,5 +19,21 @@ const config = {
     favicon: 'assets/favicon'
   }
 };
+
+// Load importer options
+const loadOptions = () => {
+  const optionsPath = path.join(__dirname, '../../_data/importer-options.json');
+  if (fs.existsSync(optionsPath)) {
+    try {
+      return JSON.parse(fs.readFileSync(optionsPath, 'utf8'));
+    } catch (error) {
+      console.warn('Warning: Failed to parse importer-options.json, using defaults');
+      return {};
+    }
+  }
+  return {};
+};
+
+config.options = loadOptions();
 
 module.exports = config;

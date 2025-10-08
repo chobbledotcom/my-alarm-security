@@ -5,6 +5,9 @@ meta_title: "Access Control"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Access Control and CCTV in Orpington. Call 020 8302 4065"
 permalink: "/categories/access-control/"
 featured: false
+eleventyNavigation:
+  key: Access Control
+  order: 20
 ---
 
 Access control and door entry systems give you full control over who has access to your building and secure areas.

@@ -61,15 +61,24 @@ eleventyNavigation:
 /**
  * Generate products.md with minimal content (products listed by template)
  */
-const generateProductsPage = () => `---
+const generateProductsPage = () => {
+  const config = require('../config');
+
+  let frontmatter = `---
 header_text: "Our Security Packages"
 meta_title: "Security Packages | Burglar Alarms & CCTV | MyAlarm Security"
 meta_description: "Browse our complete range of security packages: burglar alarms, CCTV systems, and combined packages. Professional installation across South East London and Kent."
 permalink: "/products/"
-layout: products
+layout: products`;
+
+  if (!config.options.categoriesInNavigation) {
+    frontmatter += `
 eleventyNavigation:
   key: Products
-  order: 3
+  order: 3`;
+  }
+
+  frontmatter += `
 ---
 
 # Our Security Packages
@@ -77,24 +86,39 @@ eleventyNavigation:
 We offer a comprehensive range of security packages designed to protect your home or business.
 `;
 
+  return frontmatter;
+};
+
 /**
  * Generate service-areas.md with short intro (areas listed by template)
  */
-const generateServiceAreasPage = () => `---
+const generateServiceAreasPage = () => {
+  const config = require('../config');
+
+  let frontmatter = `---
 header_text: "Service Areas"
 meta_title: "Service Areas | Security Installation Across South East London & Kent"
 meta_description: "We provide professional burglar alarm and CCTV installation across South East London and Kent including Bexley, Dartford, Bromley, Orpington, Greenwich and surrounding areas."
 permalink: "/service-areas/"
-layout: service-areas.html
+layout: service-areas.html`;
+
+  if (!config.options.categoriesInNavigation) {
+    frontmatter += `
 eleventyNavigation:
   key: Service Areas
-  order: 4
+  order: 4`;
+  }
+
+  frontmatter += `
 ---
 
 # Service Areas
 
 We provide professional security installation and maintenance services across South East London and Kent.
 `;
+
+  return frontmatter;
+};
 
 /**
  * Generate not-found.md
@@ -132,19 +156,31 @@ Your message has been sent - we will be in touch.
 /**
  * Generate blog index page
  */
-const generateBlogPage = () => `---
+const generateBlogPage = () => {
+  const config = require('../config');
+
+  let frontmatter = `---
 header_text: News
 meta_description:
 meta_title: News
 permalink: /blog/
-layout: blog
+layout: blog`;
+
+  if (!config.options.categoriesInNavigation) {
+    frontmatter += `
 eleventyNavigation:
   key: News
-  order: 2
+  order: 2`;
+  }
+
+  frontmatter += `
 ---
 
 # News
 `;
+
+  return frontmatter;
+};
 
 /**
  * Generate reviews index page

@@ -12,11 +12,11 @@ const { convertSingle, convertBatch } = createConverter({
     categoryName: (htmlContent) => extractCategoryName(htmlContent),
     categoryHeading: (htmlContent) => extractContentHeading(htmlContent)
   },
-  frontmatterGenerator: (metadata, slug, extracted) => {
+  frontmatterGenerator: (metadata, slug, extracted, context) => {
     if (extracted.categoryName) {
       metadata.title = extracted.categoryName;
     }
-    return generateCategoryFrontmatter(metadata, slug, extracted.categoryHeading);
+    return generateCategoryFrontmatter(metadata, slug, extracted.categoryHeading, context.categoryIndex);
   },
   beforeWrite: async (content, extracted, slug) =>
     await downloadEmbeddedImages(content, 'categories', slug)

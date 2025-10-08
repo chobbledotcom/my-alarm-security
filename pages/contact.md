@@ -6,7 +6,7 @@ permalink: "/contact/"
 layout: contact.html
 eleventyNavigation:
   key: Contact
-  order: 6
+  order: 99
 ---
 
 It couldn't be easier to get in touch with the team here! You can use the contact form at the bottom of this page, or:

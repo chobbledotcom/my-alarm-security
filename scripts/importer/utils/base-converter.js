@@ -51,7 +51,7 @@ const createConverter = ({
         content = await beforeWrite(content, extracted, slug, context);
       }
 
-      const result = frontmatterGenerator(metadata, slug, extracted);
+      const result = frontmatterGenerator(metadata, slug, extracted, context);
       const frontmatter = result.frontmatter || result;
       filename = result.filename || filename;
 
@@ -84,8 +84,10 @@ const createConverter = ({
     let successful = 0;
     let failed = 0;
 
-    for (const file of files) {
-      if (await convertSingle(file, inputDir, outputDir, context)) {
+    for (let i = 0; i < files.length; i++) {
+      const file = files[i];
+      const fileContext = { ...context, categoryIndex: i };
+      if (await convertSingle(file, inputDir, outputDir, fileContext)) {
         successful++;
       } else {
         failed++;

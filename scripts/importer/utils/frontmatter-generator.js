@@ -7,11 +7,11 @@ const PAGE_CONFIG = {
   },
   'contact': {
     layout: 'contact.html',
-    nav: {key: 'Contact', order: 6}
+    nav: {key: 'Contact', order: 99}
   },
   'reviews': {
     layout: 'reviews.html',
-    nav: {key: 'Reviews', order: 4}
+    nav: {key: 'Reviews', order: 98}
   }
 };
 
@@ -121,20 +121,34 @@ features: []`;
  * @param {Object} metadata - Extracted metadata
  * @param {string} slug - Category slug
  * @param {string} categoryHeading - The H1 heading from category content
+ * @param {number} categoryIndex - Zero-based index of this category
  * @returns {string} Frontmatter YAML
  */
-const generateCategoryFrontmatter = (metadata, slug, categoryHeading = null) => {
+const generateCategoryFrontmatter = (metadata, slug, categoryHeading = null, categoryIndex = 0) => {
+  const config = require('../config');
+
   // Use the actual H1 from content for header_text, fallback to breadcrumb or title
   const headerText = categoryHeading || metadata.header_text || metadata.title || '';
 
-  return `---
+  let frontmatter = `---
 title: "${metadata.title || ''}"
 header_text: "${headerText}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/categories/${slug}/"
-featured: false
----`;
+featured: false`;
+
+  // Add navigation if categoriesInNavigation option is enabled
+  if (config.options.categoriesInNavigation) {
+    const navOrder = 20 + categoryIndex;
+    frontmatter += `
+eleventyNavigation:
+  key: ${metadata.title || headerText}
+  order: ${navOrder}`;
+  }
+
+  frontmatter += '\n---';
+  return frontmatter;
 };
 
 /**

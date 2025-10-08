@@ -6,7 +6,7 @@ permalink: "/reviews/"
 layout: reviews.html
 eleventyNavigation:
   key: Reviews
-  order: 4
+  order: 98
 ---
 
 Please find all of our customer reviews below!
