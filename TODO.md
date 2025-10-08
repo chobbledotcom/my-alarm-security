@@ -15,4 +15,4 @@ Also, there is a map on that page in German showing Chobbles location lol.
 
 Im pretty sure that is it for now anyway lol.
 
-I know you mentioned about the meta titles adding My Alarm Security in every one, is this something i can delete myself or would you prefer i dont touch anything for the moment?
+I know you mentioned about the meta titles adding MyAlarm Security in every one, is this something i can delete myself or would you prefer i dont touch anything for the moment?
