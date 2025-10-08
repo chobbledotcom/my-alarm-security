@@ -105,6 +105,12 @@ h6 {
 nav {
   font-family: var(--font-family-heading);
   font-weight: 400;
+  a {
+    text-decoration: none;
+    &:hover {
+      text-decoration: none;
+    }
+  }
 }
 
 $mobile: 768px;
