@@ -2,9 +2,11 @@
 title: "We Have Landed"
 date: 2018-04-26
 header_text: "WE HAVE LANDED"
-meta_title: "Burglar Alarm Systems Battery And Servicing In Bexley Bromley - MyAlarm Security"
+meta_title: "Burglar Alarm Systems Battery And Servicing In Bexley Bromley - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/we-have-landed/"
+gallery:
+  - "/images/products/we-have-landed.webp"
 ---
 
 We are extremely proud here at MyAlarm Security at our base in **Sidcup,**Bexley** to introduce to you our new and updated website packed with information and [special offers](/categories/special-offers/) for you to browse over.
@@ -15,4 +17,4 @@ We have a new demo kit coming soon to showcase our equipment and show you how ea
 
 Please feel free to navigate through our website and be sure to give us a call to book your free no obligation survey/design now here: [Contact Us](/contact/).
 
-![We Have Landed](https://res.cloudinary.com/kbs/image/upload/hvjrdv9t38jsxujyjium.jpg)
+![We Have Landed](/images/news/news-we-have-landed-hvjrdv9t38jsxujyjium.jpg)

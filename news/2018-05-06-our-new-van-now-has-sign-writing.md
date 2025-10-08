@@ -2,9 +2,11 @@
 title: "Our New Van Now Has Sign Writing"
 date: 2018-05-06
 header_text: "OUR NEW VAN NOW HAS SIGN WRITING!!!"
-meta_title: "Intruder Burglar Alarm And Cctv Company Orpington Bromley Bexley - MyAlarm Security"
+meta_title: "Intruder Burglar Alarm And Cctv Company Orpington Bromley Bexley - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/our-new-van-now-has-sign-writing/"
+gallery:
+  - "/images/products/our-new-van-now-has-sign-writing.webp"
 ---
 
 We was soo excited when ordering our van a few months ago that as soon as we decided on the make and model, we started the designing of our van wrap. When we received our new van in a pristine white it looked amazing but we knew the best way to advertise locally in and around Bexley and Orpington was to get it sign written. Along with a website and leaflets, we decided that having our van sign written lets everyone know what we do. We decided to go with a local company to do our van signage after seeing lots of designs of their work which we were very happy with.
@@ -19,4 +21,4 @@ With the majority of our local work around Greenwich, New Eltham, Sidcup, Wellin
 
 Let us know what you think?
 
-![Our New Van Now Has Sign Writing](https://res.cloudinary.com/kbs/image/upload/kn42g7zs2azc8bgruixg.jpg)
+![Our New Van Now Has Sign Writing](/images/news/news-our-new-van-now-has-sign-writing-kn42g7zs2azc8bgruixg.jpg)

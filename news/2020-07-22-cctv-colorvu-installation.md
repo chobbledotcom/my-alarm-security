@@ -2,9 +2,11 @@
 title: "Cctv Colorvu Installation"
 date: 2020-07-22
 header_text: "CCTV ColorVu installation"
-meta_title: "Cctv Colorvu Installation Orpington - MyAlarm Security"
+meta_title: "Cctv Colorvu Installation Orpington - My Alarm Security"
 meta_description: "CCTV ColorVu installation. For all your home and business security. Burglar Alarm Servicing, installation, Alarm Battery, CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/cctv-colorvu-installation/"
+gallery:
+  - "/images/products/cctv-colorvu-installation.webp"
 ---
 
 We were recently called to a premises after another recommendation of our new [ColorVu CCTV](/categories/cctv/) camera installations. These are by far the most popular CCTV home security system and we haven\'t fitted a conventional camera in months. On the free site survey we offer a demo of all our equipment whether it\'s for a house alarm in [Sidcup](/pages/sidcup/) or CCTV Installation in Bexley we make sure you know exactly what your paying for. We turn with demo equipment so you can physically see what the product looks like and how robust it is.
@@ -13,4 +15,4 @@ As you can see on this property in the Dartford and Bexley area, when we have ho
 
 With full app control these guys can monitor their home CCTV live or replay recorded footage anywhere in the world, all you need is an internet connection.
 
-![Cctv Colorvu Installation](https://res.cloudinary.com/kbs/image/upload/n9kfdcrnc4uafunesaqq.jpg)
+![Cctv Colorvu Installation](/images/news/news-cctv-colorvu-installation-n9kfdcrnc4uafunesaqq.jpg)

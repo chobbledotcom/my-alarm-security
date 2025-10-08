@@ -2,9 +2,11 @@
 title: "Upgrades Are Necessary"
 date: 2018-06-04
 header_text: "Upgrades are necessary"
-meta_title: "Burglar Alarm Company Cctv Bean Shoreham - MyAlarm Security"
+meta_title: "Burglar Alarm Company Cctv Bean Shoreham - My Alarm Security"
 meta_description: ""
 permalink: "/blog/upgrades-are-necessary/"
+gallery:
+  - "/images/products/upgrades-are-necessary.webp"
 ---
 
 When we get asked to upgrade any [Burglar Alarm System or CCTV System](/categories/special-offers/) in areas such as Sidcup, Bexley, Orpington, New Eltham, Greenwich, Gravesend, Bromley etc, we come across all sorts of abominations.
@@ -15,4 +17,4 @@ We go above and beyond at every single job. Our workmanship has and always will 
 
 Feel free to [contact us](/contact/) if you have any questions. Our friendly team are always happy to help.
 
-![Upgrades Are Necessary](https://res.cloudinary.com/kbs/image/upload/jjlphxevesonm2agrcqm.jpg)
+![Upgrades Are Necessary](/images/news/news-upgrades-are-necessary-jjlphxevesonm2agrcqm.jpg)

@@ -2,9 +2,11 @@
 title: "Bad Installs"
 date: 2020-10-16
 header_text: "Bad installs"
-meta_title: "Cctv Company Eltham Blackheath - MyAlarm Security"
+meta_title: "Cctv Company Eltham Blackheath - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/bad-installs/"
+gallery:
+  - "/images/products/bad-installs.webp"
 ---
 
 Here at MyAlarm Security we have seen some awful CCTV installations over the years with people thinking they will \'give it a go\' well it\'s not always that easy i\'m afraid. We are all for people doing it themsekves, but paying someone who hasnt got a clue is something we always try to advise against. Check that the person or company you have chosen is experienced, have a look at reviews, check they have the correct insurances and ask as many questions as you can.
@@ -27,4 +29,4 @@ Another happy customer.
 
 For an idea on pricing, please see our [CCTV packages](/categories/cctv/).
 
-![Bad Installs](https://res.cloudinary.com/kbs/image/upload/kro3qblolsyrxitpbf8c.jpg)
+![Bad Installs](/images/news/news-bad-installs-kro3qblolsyrxitpbf8c.jpg)

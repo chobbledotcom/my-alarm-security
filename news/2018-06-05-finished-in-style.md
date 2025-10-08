@@ -2,9 +2,11 @@
 title: "Finished In Style"
 date: 2018-06-05
 header_text: "Finished In Style"
-meta_title: "Burglar Alarm System Upgrade Petts Wood - MyAlarm Security"
+meta_title: "Burglar Alarm System Upgrade Petts Wood - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/finished-in-style/"
+gallery:
+  - "/images/products/finished-in-style.webp"
 ---
 
 We recently upgraded a property in Petts Wood near [Orpington](/pages/orpington/) and as you can see the old siren was a different shape to the new one.
@@ -15,4 +17,4 @@ Our attention to detail is second to none. We take pride in all of our work.
 
 [Contact us](/contact/) if you have any questions. We are always happy to help.
 
-![Finished In Style](https://res.cloudinary.com/kbs/image/upload/xxzz7e65tnejfuwhhygy.jpg)
+![Finished In Style](/images/news/news-finished-in-style-xxzz7e65tnejfuwhhygy.jpg)

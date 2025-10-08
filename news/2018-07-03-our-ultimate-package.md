@@ -2,9 +2,11 @@
 title: "Our Ultimate Package"
 date: 2018-07-03
 header_text: "Our ultimate package"
-meta_title: "Home Alarm System Battery And Cctv Sidcup - MyAlarm Security"
+meta_title: "Home Alarm System Battery And Cctv Sidcup - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/our-ultimate-package/"
+gallery:
+  - "/images/products/our-ultimate-package.webp"
 ---
 
 Our Ultimate Package is proving very popular in [Sidcup](/pages/sidcup/), [Bexley](/pages/bexley/) and New Eltham.
@@ -19,4 +21,4 @@ Home alarm [Bexley](/pages/bexley/)
 
 Please note that as technology advances, so does our equipment and packages. Please see here for our most recent [packages](/categories/special-offers/). Some package names may change.
 
-![Our Ultimate Package](https://res.cloudinary.com/kbs/image/upload/jrsayupkfuccdpf3vuvd.jpg)
+![Our Ultimate Package](/images/news/news-our-ultimate-package-jrsayupkfuccdpf3vuvd.jpg)

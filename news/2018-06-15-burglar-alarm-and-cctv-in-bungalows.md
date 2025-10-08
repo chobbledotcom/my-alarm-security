@@ -2,9 +2,11 @@
 title: "Burglar Alarm And Cctv In Bungalows"
 date: 2018-06-15
 header_text: "Bungalows"
-meta_title: "Bungalow Burglar Alarm Bungalow Cctv Bexley - MyAlarm Security"
+meta_title: "Bungalow Burglar Alarm Bungalow Cctv Bexley - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/burglar-alarm-and-cctv-in-bungalows/"
+gallery:
+  - "/images/products/burglar-alarm-and-cctv-in-bungalows.webp"
 ---
 
 We think bungalows are beautiful and are very common in Sidcup, Bexley, Bexleyheath and Welling.
@@ -19,4 +21,4 @@ We have created some popular packages however we can adapt any package to suit y
 
 We cover a wide area of the South East including Bexley, Greenwich, Dartford, Bromley, Sevenoaks, Gravesend, Orpington and surrounding areas.
 
-![Burglar Alarm And Cctv In Bungalows](https://res.cloudinary.com/kbs/image/upload/h4nc8dvbcompu7s3mgxq.jpg)
+![Burglar Alarm And Cctv In Bungalows](/images/news/news-burglar-alarm-and-cctv-in-bungalows-h4nc8dvbcompu7s3mgxq.jpg)

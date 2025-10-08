@@ -2,9 +2,11 @@
 title: "App Control"
 date: 2018-05-16
 header_text: "App Controlled Burglar Alarm System"
-meta_title: "App Control Burglar Alarm Company Near Me Bexley Bromley Orpington - MyAlarm Security"
+meta_title: "App Control Burglar Alarm Company Near Me Bexley Bromley Orpington - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/app-control/"
+gallery:
+  - "/images/products/app-control.webp"
 ---
 
 You may not have seen what our app looks like so we thought we would explain a little more.
@@ -23,4 +25,4 @@ Take a look at some of our [popular burglar alarm system packages here](/categor
 
 Feel free to [contact us](/contact/) with any questions or queries you may have. Our friendly team are always happy to help.
 
-![App Control](https://res.cloudinary.com/kbs/image/upload/vqffat6itovowu9wnoiy.jpg)
+![App Control](/images/news/news-app-control-vqffat6itovowu9wnoiy.jpg)
