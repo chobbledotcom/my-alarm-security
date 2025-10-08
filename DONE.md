@@ -22,5 +22,8 @@
 - Re-ran importer successfully to apply order fields
 - Added order field to products section in .pages.yml for CMS
 
+## Product images - duplicate prices
+- **NOTE**: User mentioned removing "price at the top left above the photo" - this appears to be referring to the price text embedded in the product images themselves. These will need to be edited manually in image editing software, or we need to clarify what they mean.
+
 ## Links and Accessibility
 - **NOTE**: Regarding hidden links in the text - we should have a conversation about accessibility and why visible/obvious links are beneficial for all users (including those using screen readers, those with cognitive disabilities, and for SEO). Hidden links can create a poor user experience as users don't know what's clickable. Clear link styling helps everyone navigate the site more effectively.

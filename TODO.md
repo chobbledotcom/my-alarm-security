@@ -1,8 +1,3 @@
-In each package:
-I know we talked about it already but just thought id note down everything.
-
-Can we remove the price at the top left that is just above the photo (that also shows the price)
-
 In the description on the right:
 Can we remove the title ABOUT
 Can we remove where is says basic system in black (underneath the red heading that says basic system - which we can keep) Can we also remove the words Specifications, Reviews, Products Specifications please. This will be the same across all of the products.
