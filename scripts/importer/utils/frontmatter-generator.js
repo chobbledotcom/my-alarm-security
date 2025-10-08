@@ -1,3 +1,5 @@
+const { PRODUCT_ORDER } = require('../constants');
+
 /**
  * Configuration for page-specific layouts, navigation, and metadata
  */
@@ -96,10 +98,14 @@ const generateProductFrontmatter = (metadata, slug, price, categories, productNa
   // Use the actual H1 from content for header_text, fallback to product name or metadata
   const headerText = productHeading || productName || metadata.header_text || metadata.title || '';
 
+  // Get product order, default to 50 if not in mapping
+  const productOrder = PRODUCT_ORDER[slug] || 50;
+
   // Base frontmatter
   let frontmatter = `---
 title: "${productName || metadata.title || ''}"
 price: "${price}"
+order: ${productOrder}
 header_text: "${headerText}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"

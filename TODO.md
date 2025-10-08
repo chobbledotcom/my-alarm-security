@@ -1,14 +1,3 @@
-Products:
-Can we remove this tab altogether and just have Burglar Alarms and CCTV with their own tab, moved to the header
-
-Burglar Alarms:
-When i click on it, there is ALOT of words before yoy get to the package. Im thinking to swap the content and packages around so the packages are the first thing people see when they click on that page. And then all the words after. I want to grab their attention with our package and price first - and then they can read on.
-
-In the text (on burglar alarm page and some of the others) some of the hyperlinks (i think thats what they are called - the internal links) are showing as red/underlined. Some of them were hidden (as in the same colour as all of the text) within the content and then linked to a news article or a location page. Will i have to change all of these manually? We wouldnt be able to change them all with a code as some of those links like the Contact Us and links to products WERE and need to remain highligted. (i feel like ive explained that awfully lol)
-
-Order of packages:
-Can we have them in price order please, so Basic, Standard and Pet. Could we maybe have those 3 on one line and then a line underneath with the Ultimate and Supreme?
-
 In each package:
 I know we talked about it already but just thought id note down everything.
 

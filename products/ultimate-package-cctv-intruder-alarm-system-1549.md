@@ -1,6 +1,7 @@
 ---
 title: "Ultimate Package Cctv Intruder Alarm System £1549"
 price: "£1549.00"
+order: 6
 header_text: "Ultimate Package"
 meta_title: "Cctv And Intruder Burglar Alarm System Package Bexley Bromley - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV packages. Call 020 8302 4065"
