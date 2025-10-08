@@ -214,6 +214,17 @@ const extractProductImages = (htmlContent) => {
 };
 
 /**
+ * Extract blog post image from markdown content
+ * @param {string} markdown - Markdown content to extract image from
+ * @returns {string} Image URL or empty string
+ */
+const extractBlogImage = (markdown) => {
+  // Look for image in markdown: ![alt text](url)
+  const imageMatch = markdown.match(/!\[.*?\]\((https?:\/\/[^\)]+)\)/);
+  return imageMatch ? imageMatch[1] : '';
+};
+
+/**
  * Extract favicon links from HTML content
  * @param {string} htmlContent - HTML content to extract favicon links from
  * @returns {Array<Object>} Array of favicon link objects
@@ -267,5 +278,6 @@ module.exports = {
   extractBlogDate,
   extractReviews,
   extractProductImages,
+  extractBlogImage,
   extractFaviconLinks
 };

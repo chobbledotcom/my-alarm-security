@@ -1,18 +1,26 @@
 const path = require('path');
 const config = require('../config');
 const { listHtmlFiles, prepDir } = require('../utils/filesystem');
-const { extractBlogDate, extractBlogHeading } = require('../utils/metadata-extractor');
+const { extractBlogDate, extractBlogHeading, extractBlogImage } = require('../utils/metadata-extractor');
 const { generateBlogFrontmatter } = require('../utils/frontmatter-generator');
+const { downloadProductImage, downloadEmbeddedImages } = require('../utils/image-downloader');
 const { createConverter } = require('../utils/base-converter');
 
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'blog',
   extractors: {
     date: (htmlContent, markdown) => extractBlogDate(markdown, config.DEFAULT_DATE),
-    blogHeading: (htmlContent) => extractBlogHeading(htmlContent)
+    blogHeading: (htmlContent) => extractBlogHeading(htmlContent),
+    blogImage: (htmlContent, markdown) => extractBlogImage(markdown)
+  },
+  beforeWrite: async (content, extracted, slug) => {
+    if (extracted.blogImage) {
+      extracted.localImagePath = await downloadProductImage(extracted.blogImage, slug);
+    }
+    return await downloadEmbeddedImages(content, 'news', slug);
   },
   frontmatterGenerator: (metadata, slug, extracted) => ({
-    frontmatter: generateBlogFrontmatter(metadata, slug, extracted.date, extracted.blogHeading),
+    frontmatter: generateBlogFrontmatter(metadata, slug, extracted.date, extracted.blogHeading, extracted.localImagePath),
     filename: `${extracted.date}-${slug}.md`
   })
 });
