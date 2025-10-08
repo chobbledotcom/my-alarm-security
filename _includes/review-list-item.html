@@ -1,0 +1,31 @@
+<li>
+  <span class="review">{{ review.content }}</span>
+  <span class="name">
+    {{ review.data.name }}
+    {%- if review.data.url -%}
+      {%- assign link_text = "view review" -%}
+      {%- if review.data.url contains "google.com" -%}
+        {%- assign link_text = "view on Google" -%}
+      {%- elsif review.data.url contains "facebook.com" -%}
+        {%- assign link_text = "view on Facebook" -%}
+      {%- endif -%}
+      (<a href="{{ review.data.url }}" target="_blank" rel="nofollow">{{ link_text }}</a>)
+    {%- endif -%}
+  </span>
+  <span class="rating" aria-label="{{ review.data.rating }} out of 5 stars">
+    {% for i in (1..5) -%}
+      {%- if i <= review.data.rating -%}★{%- else -%}☆{%- endif -%}
+    {%- endfor %}
+  </span>
+  {%- if layout == "reviews.html" -%}
+  <span class="date">{{ review.page.date | date: "%b '%y" }}</span>
+  {%- endif -%}
+  {%- if product_links and review.data.products.size > 0 -%}
+  <span class="products">
+    {% for slug in review.data.products -%}
+      {% assign product = collections.products | where: "fileSlug", slug | first -%}
+      <a href="{{ product.url }}">{{ product.data.title }}</a>{%- unless forloop.last -%}, {% endunless -%}
+    {%- endfor -%}
+  </span>
+  {%- endif -%}
+</li>
