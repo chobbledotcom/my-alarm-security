@@ -9,7 +9,7 @@
       {%- elsif review.data.url contains "facebook.com" -%}
         {%- assign link_text = "view on Facebook" -%}
       {%- endif -%}
-      <br>(<a href="{{ review.data.url }}" target="_blank" rel="nofollow">{{ link_text }}</a>)
+      <br><a href="{{ review.data.url }}" target="_blank" rel="nofollow">({{ link_text }})</a>
     {%- endif -%}
   </span>
   <span class="rating" aria-label="{{ review.data.rating }} out of 5 stars">
