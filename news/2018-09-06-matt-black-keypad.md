@@ -2,9 +2,11 @@
 title: "Matt Black Keypad"
 date: 2018-09-06
 header_text: "Matt Black Keypad"
-meta_title: "Burglar Alarm Company Orpington - MyAlarm Security"
+meta_title: "Burglar Alarm Company Orpington - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/matt-black-keypad/"
+gallery:
+  - "/images/products/matt-black-keypad.webp"
 ---
 
 On our recent installation in [Orpington](/pages/orpington/) on the borders of Petts Wood and Chislehurst we installed a wired version of our very popular smart wireless home security alarm systems found here [Special Offers](/categories/special-offers/).
@@ -17,4 +19,4 @@ The finishes on the product we use are amazing as seen in a previous post here 
 
 Read more about our home security systems in your area here: [Burglar Alarms](/categories/burglar-alarms/).
 
-![Matt Black Keypad](https://res.cloudinary.com/kbs/image/upload/imlgi8x4rv2ahsjwnpeb.jpg)
+![Matt Black Keypad](/images/news/news-matt-black-keypad-imlgi8x4rv2ahsjwnpeb.jpg)

@@ -2,9 +2,11 @@
 title: "Pyronix Alarm System"
 date: 2023-07-28
 header_text: "Pyronix Alarm System"
-meta_title: "House Alarm System Battery Orpington - MyAlarm Security"
+meta_title: "House Alarm System Battery Orpington - My Alarm Security"
 meta_description: "Pyronix Alarm System Orpington, Bromley, Greenwich, Bexley, Dartford, Gravesend. Contact us 020 8302 4065"
 permalink: "/blog/pyronix-alarm-system/"
+gallery:
+  - "/images/products/pyronix-alarm-system.webp"
 ---
 
 Looking for a reliable and top-of-the-line alarm system for your home or business in Sidcup, New Eltham, Eltham, Blackheath, Bromley, Petts wood, West Wickham, Orpington, Dartford, Bexley, Bexleyheath, Erith, Crayford, Bexley park, Sevenoaks, Bean, Shoreham, Gravesend, Ebbsfleet, Bluewater, Charlton, Swanley, Hextable, Welling, or Wilmington? Look no further than MyAlarm Security! We offer alarm systems by the leading manufacturer - Pyronix.
@@ -19,4 +21,4 @@ We also offer [system servicing, fault diagnosis and repair](/categories/servici
 
 [Contact us](/contact/) now to discuss.
 
-![Pyronix Alarm System](https://res.cloudinary.com/kbs/image/upload/yoxrorhmy6872tkqb5aa.jpg)
+![Pyronix Alarm System](/images/news/news-pyronix-alarm-system-yoxrorhmy6872tkqb5aa.jpg)

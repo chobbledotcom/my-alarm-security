@@ -2,9 +2,11 @@
 title: "Above And Beyond"
 date: 2018-08-02
 header_text: "Above And Beyond"
-meta_title: "Cctv Company Chislehurst - MyAlarm Security"
+meta_title: "Cctv Company Chislehurst - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/above-and-beyond/"
+gallery:
+  - "/images/products/above-and-beyond.webp"
 ---
 
 This customer on the [Sidcup and Bromley](/pages/bromley/) border had a new 7 camera IP based [CCTV](/categories/cctv/) security system installed and had asked specially for black cameras which was fine but they also wanted a camera on the porch area covering the front door which only come in white?
@@ -15,4 +17,4 @@ When looking for a reliable and professional security system including [alarm sy
 
 Contact us [here](/contact/).
 
-![Above And Beyond](https://res.cloudinary.com/kbs/image/upload/oaxivjubqoiinm3yyyyz.jpg)
+![Above And Beyond](/images/news/news-above-and-beyond-oaxivjubqoiinm3yyyyz.jpg)

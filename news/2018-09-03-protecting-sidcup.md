@@ -2,9 +2,11 @@
 title: "Protecting Sidcup"
 date: 2018-09-03
 header_text: "Protecting Sidcup"
-meta_title: "Burglar Alarm And Cctv Systems In Sidcup - MyAlarm Security"
+meta_title: "Burglar Alarm And Cctv Systems In Sidcup - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/protecting-sidcup/"
+gallery:
+  - "/images/products/protecting-sidcup.webp"
 ---
 
 MyAlarm Security is based in Sidcup and we often take enquiries for customers very local to ourselves.
@@ -17,4 +19,4 @@ We pride ourselves on our knowledge and professionalism and coupled with our ver
 
 [Burglar Alarm CCTV Sidcup](/categories/special-offers/)
 
-![Protecting Sidcup](https://res.cloudinary.com/kbs/image/upload/jn9si5jbcdxqo5xc68hz.jpg)
+![Protecting Sidcup](/images/news/news-protecting-sidcup-jn9si5jbcdxqo5xc68hz.jpg)

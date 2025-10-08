@@ -2,9 +2,11 @@
 title: "Long Drill Bit"
 date: 2020-08-05
 header_text: "Long Drill Bit"
-meta_title: "Cctv Company Bexleyheath Crayford Welling - MyAlarm Security"
+meta_title: "Cctv Company Bexleyheath Crayford Welling - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/long-drill-bit/"
+gallery:
+  - "/images/products/long-drill-bit.webp"
 ---
 
 It\'s not often that we need drill bits like this one on Home security installations but when we do it\'s nice to have everything you need on board.
@@ -13,4 +15,4 @@ This drill bit is 10mm in diameter and a whopping 1 meter long, there isn\'t a w
 
 Pair this with one of our [Home Alarms](/categories/burglar-alarms/) and you have the perfect Home Security System. All of our Security options come with app control and can be accessed anywhere in the world as long as you have internet access on your phone, receive a notification from your alarm in [Bexley, Bexleyheath](/pages/bexley/), [Orpington](/pages/orpington/) and more straight to your phone and then check your CCTV System for visual verification, from the app you can screen shot incidents or screen record a video clip to share externally via Facebook, Whatsapp or Email.
 
-![Long Drill Bit](https://res.cloudinary.com/kbs/image/upload/wgkp3sod0uon7e5c22x3.jpg)
+![Long Drill Bit](/images/news/news-long-drill-bit-wgkp3sod0uon7e5c22x3.jpg)

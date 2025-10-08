@@ -2,9 +2,11 @@
 title: "Patio Doors"
 date: 2018-11-30
 header_text: "Patio doors"
-meta_title: "Burglar Alarm Security System Company Orpington Bromley - MyAlarm Security"
+meta_title: "Burglar Alarm Security System Company Orpington Bromley - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/patio-doors/"
+gallery:
+  - "/images/products/patio-doors.webp"
 ---
 
 Burglaries through rear patio/bi-fold doors are at an all time high. All we see lately around Sidcup, New Eltham, Bromley, Orpington, Petts Wood, Bexley and Chislehurst is how burglaries are taking place with the entry point through the glazing of the doors.
@@ -17,4 +19,4 @@ Our \'[Pet Package](/products/pet-package-849/)\' is the perfect start of a comp
 
 Our aim is to trigger the alarm before any movement is detected on the inside and this will hopefully be enough to scare the thieves away and not come back. Check out all of our \'[Special Offers](/categories/special-offers/)\' here.
 
-![Patio Doors](https://res.cloudinary.com/kbs/image/upload/f4lkhisu0jjdsu5wyflc.jpg)
+![Patio Doors](/images/news/news-patio-doors-f4lkhisu0jjdsu5wyflc.jpg)

@@ -2,9 +2,11 @@
 title: "Another Property Protected In Bromley"
 date: 2018-06-26
 header_text: "Another Property Protected in Bromley"
-meta_title: "Burglar Alarm Installation Bromley - MyAlarm Security"
+meta_title: "Burglar Alarm Installation Bromley - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/another-property-protected-in-bromley/"
+gallery:
+  - "/images/products/another-property-protected-in-bromley.webp"
 ---
 
 We have recently taken a lot of calls from residents in [Bromley](/pages/bromley/), [Orpington](/pages/orpington/), Chislehurst, Petts Wood and Chelsfield who are worried about all the break ins being reported in these areas.
@@ -21,4 +23,4 @@ Our external bell box which we fit to all home security burglar alarm system job
 
 Contact us [here](/contact/).
 
-![Another Property Protected In Bromley](https://res.cloudinary.com/kbs/image/upload/n86xv0hs7nodstiewsmt.jpg)
+![Another Property Protected In Bromley](/images/news/news-another-property-protected-in-bromley-n86xv0hs7nodstiewsmt.jpg)

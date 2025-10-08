@@ -2,9 +2,11 @@
 title: "Home Security Systems A Necessity In London And Kent"
 date: 2023-07-02
 header_text: "Home Security Systems: A Necessity in London and Kent?"
-meta_title: "Home Security Alarm Orpington - MyAlarm Security"
+meta_title: "Home Security Alarm Orpington - My Alarm Security"
 meta_description: "Are you looking to have a burglar alarm installed at your property? Have a look at some of our packages or contact us for more information."
 permalink: "/blog/home-security-systems-a-necessity-in-london-and-kent/"
+gallery:
+  - "/images/products/home-security-systems-a-necessity-in-london-and-kent.webp"
 ---
 
 Home Security Systems: A Necessity in London and Kent?
@@ -37,4 +39,4 @@ In conclusion, home security systems are a necessity in London and Kent, given t
 
 Feel free to [contact us](/contact/) for any advice, any questions you may have or to book a free home survey. In the meantime, why not have a look at some of our premade[ burglar alarm](/categories/burglar-alarms/) and [CCTV](/categories/cctv/) packages here. We can custom design any package to suit your needs.
 
-![Home Security Systems A Necessity In London And Kent](https://res.cloudinary.com/kbs/image/upload/qzps00ooia4kfzrsavkd.jpg)
+![Home Security Systems A Necessity In London And Kent](/images/news/news-home-security-systems-a-necessity-in-london-and-kent-qzps00ooia4kfzrsavkd.jpg)

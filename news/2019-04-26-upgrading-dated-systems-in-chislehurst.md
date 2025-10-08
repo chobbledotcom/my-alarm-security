@@ -2,9 +2,11 @@
 title: "Upgrading Dated Systems In Chislehurst"
 date: 2019-04-26
 header_text: "Upgrading Dated Systems In Chislehurst"
-meta_title: "Pet Friendly Burglar Alarm System Upgrade In Chislehurst - MyAlarm Security"
+meta_title: "Pet Friendly Burglar Alarm System Upgrade In Chislehurst - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/upgrading-dated-systems-in-chislehurst/"
+gallery:
+  - "/images/products/upgrading-dated-systems-in-chislehurst.webp"
 ---
 
 We have everything you need for your home security needs, from upgrading an existing system to a complete full app controlled [burglar alarm and cctv system](/categories/servicing-and-repairs/). This customer in Chislehurst had a basic system around 20 years old which kept going off at all hours of the day and night giving the customer (and their neighbours) many sleepless nights.
@@ -19,4 +21,4 @@ Of course all wired upgrades benefit from our complimentary backlit siren for th
 
 We can build any package to suit your property or requirements. Have a look at some of our [packages here](/categories/burglar-alarms/) or [contact us](/contact/) with any questions you may have.
 
-![Upgrading Dated Systems In Chislehurst](https://res.cloudinary.com/kbs/image/upload/q4p8s4ktpigr3mdwj9az.jpg)
+![Upgrading Dated Systems In Chislehurst](/images/news/news-upgrading-dated-systems-in-chislehurst-q4p8s4ktpigr3mdwj9az.jpg)

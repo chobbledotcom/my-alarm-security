@@ -60,21 +60,29 @@ eleventyNavigation:
  * @param {string} slug - Post slug
  * @param {string} date - Post date
  * @param {string} blogHeading - The H1 heading from blog post content
+ * @param {string} localImagePath - Local path to downloaded image
  * @returns {string} Frontmatter YAML
  */
-const generateBlogFrontmatter = (metadata, slug, date, blogHeading = null) => {
+const generateBlogFrontmatter = (metadata, slug, date, blogHeading = null, localImagePath = null) => {
   // Use the actual H1 from content for header_text, fallback to breadcrumb or title
   const headerText = blogHeading || metadata.header_text || metadata.title || '';
   const postTitle = metadata.header_text || slug.replace(/-/g, ' ');
 
-  return `---
+  let frontmatter = `---
 title: "${postTitle}"
 date: ${date}
 header_text: "${headerText}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
-permalink: "/blog/${slug}/"
----`;
+permalink: "/blog/${slug}/"`;
+
+  // Add gallery with the downloaded image
+  if (localImagePath) {
+    frontmatter += `\ngallery:\n  - "${localImagePath}"`;
+  }
+
+  frontmatter += '\n---';
+  return frontmatter;
 };
 
 /**

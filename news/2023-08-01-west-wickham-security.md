@@ -2,9 +2,11 @@
 title: "West Wickham Security"
 date: 2023-08-01
 header_text: "West Wickham Security"
-meta_title: "Wickham Security - MyAlarm Security"
+meta_title: "Wickham Security - My Alarm Security"
 meta_description: "West Wickham Security. For all of your home and business security needs in West Wickham, give us a call 020 8302 4065. Burglar alarm and cctv. Servicing."
 permalink: "/blog/west-wickham-security/"
+gallery:
+  - "/images/products/west-wickham-security.webp"
 ---
 
 We often get phone calls or emails from customers who want to know if we travel a little bit further afield such as Keston, Badgers Mount and [West Wickham](/pages/west-wickham/) and the answer to that is yes, we do indeed cover these areas. We have many customers who have house alarms and security systems in West Wickham who need their systems [serviced](/categories/servicing-and-repairs/), looked at or altered for renovation works. West Wickham, Bromley. Petts Wood are all areas that we cover installing, upgrading, servicing, fault finding, repair burglar alarm system. We also install [CCTV](/categories/cctv/) and [Access Control Door Entry systems](/categories/access-control/) so if this is something that you may be interested in, don\'t hesitate to get in touch.
@@ -13,4 +15,4 @@ We have lots of packages to suit your home or business. Why not take a look at 
 
 [Contact Us](/contact/) with any questions you might have. Our friendly team are always happy to help.
 
-![West Wickham Security](https://res.cloudinary.com/kbs/image/upload/nuqskrlyntntstkyqv2s.jpg)
+![West Wickham Security](/images/news/news-west-wickham-security-nuqskrlyntntstkyqv2s.jpg)

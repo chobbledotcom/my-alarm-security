@@ -2,9 +2,11 @@
 title: "Cctv In London / Kent"
 date: 2023-07-19
 header_text: "CCTV in London / Kent"
-meta_title: "Cctv In Bexley - MyAlarm Security"
+meta_title: "Cctv In Bexley - My Alarm Security"
 meta_description: "If you are looking to have CCTV installed at your home or business, contact us for more information, 020 8302 4065. CCTV in New Eltham, Orpington, Bromley."
 permalink: "/blog/cctv-in-london-kent/"
+gallery:
+  - "/images/products/cctv-in-london-kent.webp"
 ---
 
 Closed-circuit television (CCTV) is a widely used technology in today\'s world. It has become an important tool in public safety and security management. CCTV systems capture and record images over a specific area or location. These systems are commonly used by businesses, organisations, and individuals to monitor and record activities to deter crime and to provide evidence for investigations. CCTV technology is particularly important in London and Kent, where crime rates are relatively high.
@@ -23,4 +25,4 @@ So if you are thinking of having [CCTV](/categories/cctv/) installed at your hom
 
  Have a look at some of our ready made packages or give us a [call for more information.](/contact/)
 
-![Cctv In London / Kent](https://res.cloudinary.com/kbs/image/upload/lawurn0b8li9fnsv2eki.png)
+![Cctv In London / Kent](/images/news/news-cctv-in-london-kent-lawurn0b8li9fnsv2eki.png)

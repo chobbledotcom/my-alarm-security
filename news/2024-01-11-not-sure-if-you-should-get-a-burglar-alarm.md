@@ -2,9 +2,11 @@
 title: "Not Sure If You Should Get A Burglar Alarm?"
 date: 2024-01-11
 header_text: "Not sure if you should get a Burglar Alarm?"
-meta_title: "Burglar Alarm Sidcup - MyAlarm Security"
+meta_title: "Burglar Alarm Sidcup - My Alarm Security"
 meta_description: "Not sure if you should get a Burglar Alarm in Sidcup? Call us on 020 8302 4065"
 permalink: "/blog/not-sure-if-you-should-get-a-burglar-alarm/"
+gallery:
+  - "/images/products/not-sure-if-you-should-get-a-burglar-alarm.webp"
 ---
 
 Investing in a [home burglar alarm](/categories/burglar-alarms/) system offers numerous benefits, contributing to enhanced security and peace of mind. Here are several compelling reasons why getting a home burglar alarm is a wise decision:
@@ -27,4 +29,4 @@ In summary, a [home burglar alarm](/categories/burglar-alarms/) system provides 
 
 [Contact us](/contact/) for more information or have a browse on our website at some of our packages. We offer [burglar alarm systems](/categories/burglar-alarms/) and [cctv systems.](/categories/cctv/)
 
-![Not Sure If You Should Get A Burglar Alarm?](https://res.cloudinary.com/kbs/image/upload/smwzk5k5btoaxgxr9gps.jpg)
+![Not Sure If You Should Get A Burglar Alarm?](/images/news/news-not-sure-if-you-should-get-a-burglar-alarm-smwzk5k5btoaxgxr9gps.jpg)

@@ -2,9 +2,11 @@
 title: "Ladder Stand-off"
 date: 2018-12-04
 header_text: "Ladder Stand-off"
-meta_title: "Home Security Burglar Alarm System In Bexley - MyAlarm Security"
+meta_title: "Home Security Burglar Alarm System In Bexley - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/ladder-stand-off/"
+gallery:
+  - "/images/products/ladder-stand-off.webp"
 ---
 
 Pretty boring i know but this new piece of kit we brought is amazing. Such a simple idea thats been around for years but never really thought it would benefit us but my goodness - does it!
@@ -13,4 +15,4 @@ On a recent install of a smart [**home security burglar alarm system in Bexley**
 
 They are also brilliant when fitting one of our [CCTV camera systems](/categories/cctv/) as we often fit cameras on the underside of the bay this means we do not have to lean out to fix the camera.
 
-![Ladder Stand-off](https://res.cloudinary.com/kbs/image/upload/xnlqomls12lykirgmn8y.jpg)
+![Ladder Stand-off](/images/news/news-ladder-stand-off-xnlqomls12lykirgmn8y.jpg)
