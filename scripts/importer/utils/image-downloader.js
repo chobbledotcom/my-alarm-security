@@ -76,6 +76,13 @@ const downloadEmbeddedImages = async (content, contentType, slug) => {
     const fullMatch = match[0];
     const altText = match[1];
     const imageUrl = match[2];
+
+    // Skip images without alt text (e.g., decorative icons)
+    if (!altText || altText.trim() === '') {
+      updatedContent = updatedContent.replace(fullMatch, '');
+      continue;
+    }
+
     const webPath = await downloadImage(imageUrl, contentType, slug);
 
     if (webPath) {

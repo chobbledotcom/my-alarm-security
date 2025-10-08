@@ -12,7 +12,7 @@ const convertToMarkdown = (htmlFile) => {
     // This produces much cleaner markdown as pandoc doesn't try to preserve inline styling
     const result = execSync(
       `sed 's/<span[^>]*>//g; s/<\\/span>//g' "${htmlFile}" | pandoc -f html -t markdown --wrap=none`,
-      { encoding: 'utf8', shell: '/bin/bash' }
+      { encoding: 'utf8' }
     );
     return result;
   } catch (error) {

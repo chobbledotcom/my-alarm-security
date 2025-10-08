@@ -141,14 +141,22 @@ const extractProductName = (htmlContent) => {
 const extractBlogDate = (content, defaultDate = '2020-01-01') => {
   const dateMatch = content.match(/Posted Date:\s*(?:[A-Za-z]+,\s*)?(.+?)(?:\n|$|\\)/);
   if (dateMatch) {
-    try {
-      const dateStr = dateMatch[1].trim();
-      const parsedDate = new Date(dateStr);
-      if (!isNaN(parsedDate.getTime())) {
-        return parsedDate.toISOString().split('T')[0];
-      }
-    } catch {
-      return defaultDate;
+    const dateStr = dateMatch[1].trim();
+
+    // Parse date string directly without Date constructor to avoid timezone issues
+    const monthNames = {
+      'january': '01', 'february': '02', 'march': '03', 'april': '04',
+      'may': '05', 'june': '06', 'july': '07', 'august': '08',
+      'september': '09', 'october': '10', 'november': '11', 'december': '12'
+    };
+
+    // Format: "Month Day, Year" (e.g., "June 10, 2024")
+    const match = dateStr.match(/([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4})/);
+    if (match) {
+      const month = monthNames[match[1].toLowerCase()];
+      const day = match[2].padStart(2, '0');
+      const year = match[3];
+      return `${year}-${month}-${day}`;
     }
   }
   return defaultDate;

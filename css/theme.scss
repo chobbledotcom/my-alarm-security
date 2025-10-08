@@ -77,7 +77,7 @@
   }
 }
 
-/* body_classes: header-centered-dark */
+/* body_classes: header-centered */
 
 header {
   background: none !important;
@@ -376,6 +376,7 @@ $gap: 1rem;
     h2 {
       margin: 0 0 $gap 0;
       color: var(--color-link);
+      text-align: center;
     }
 
     p {
@@ -450,7 +451,9 @@ $gap: 1rem;
   color: var(--nav-link-color);
   text-decoration: none;
   border-radius: var(--border-radius);
-  transition: transform 0.2s ease, background 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    background 0.2s ease;
 
   &:hover {
     background: var(--form-button-hover-bg-color);
