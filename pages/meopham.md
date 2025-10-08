@@ -1,6 +1,6 @@
 ---
 header_text: "Burglar Alarm System Meopham"
-meta_title: "Alarm System Meopham, Cctv Meopham, House Alarm Service Meopham - My Alarm Security"
+meta_title: "Alarm System Meopham, Cctv Meopham, House Alarm Service Meopham - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/meopham/"
 layout: page

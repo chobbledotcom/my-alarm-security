@@ -1,6 +1,6 @@
 ---
 header_text: "Burglar Alarm Service in Eynsford"
-meta_title: "Alarm System Eynsford, Cctv System Eynsford. Alarm Service Eynsford - My Alarm Security"
+meta_title: "Alarm System Eynsford, Cctv System Eynsford. Alarm Service Eynsford - MyAlarm Security"
 meta_description: "Alarm System Eynsford, CCTV System Eynsford. Alarm Service Eynsford, Alarm Battery Replacement Eynsford, Home Alarm System Eynsford. Tel 020 8302 4065"
 permalink: "/pages/eynsford/"
 layout: page

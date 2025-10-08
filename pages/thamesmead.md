@@ -38,7 +38,7 @@ Specialists in all types of Home Security, Business Security and Building securi
 
 ![MyAlarm Security](/images/pages/pages-thamesmead-oeflaeyeglmvvu4nxkv0.png)
 
-![My Alarm Security](/images/pages/pages-thamesmead-rubndkmdvgoxj9berm3a.jpg)
+![MyAlarm Security](/images/pages/pages-thamesmead-rubndkmdvgoxj9berm3a.jpg)
 
 ![Fully Certified Engineers](/images/pages/pages-thamesmead-ytwmwogsrbck9axbamnu.png)
 
