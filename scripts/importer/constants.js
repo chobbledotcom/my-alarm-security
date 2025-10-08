@@ -13,6 +13,15 @@ const PRODUCT_ORDER = {
   'servicing-and-repairs': 99
 };
 
+/**
+ * Find and replace patterns to apply to all generated markdown files
+ * Format: { "search": "replacement" }
+ */
+const FIND_REPLACES = {
+  "My Alarm Security": "MyAlarm Security"
+};
+
 module.exports = {
-  PRODUCT_ORDER
+  PRODUCT_ORDER,
+  FIND_REPLACES
 };

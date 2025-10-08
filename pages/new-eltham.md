@@ -1,6 +1,6 @@
 ---
 header_text: "Looking for a Trusted Security System Company in New Eltham?"
-meta_title: "Security Systems Company New Eltham Alarm System Cctvcctv - My Alarm Security"
+meta_title: "Security Systems Company New Eltham Alarm System Cctvcctv - MyAlarm Security"
 meta_description: "Burglar Alarm company in New Eltham. Burglar alarm systems, CCTV, Security Company near me New Eltham. Service, alarm battery, upgrade. Contact 020 8302 4065"
 permalink: "/pages/new-eltham/"
 layout: page

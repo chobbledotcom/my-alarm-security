@@ -2,7 +2,7 @@
 title: "Bromley Area Being Targeted"
 date: 2018-06-19
 header_text: "Bromley Area Being Targeted"
-meta_title: "Bromley Security Company Burglar Alarm And Cctv - My Alarm Security"
+meta_title: "Bromley Security Company Burglar Alarm And Cctv - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV Bromley. Call 020 8302 4065 or email us."
 permalink: "/blog/bromley-area-being-targeted/"
 ---

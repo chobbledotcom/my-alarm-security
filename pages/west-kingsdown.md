@@ -1,6 +1,6 @@
 ---
 header_text: "Burglar Alarm Servicing in West Kingsdown"
-meta_title: "Burglar Alarm System West Kingsdown Cctv System West Kingsdown - My Alarm Security"
+meta_title: "Burglar Alarm System West Kingsdown Cctv System West Kingsdown - MyAlarm Security"
 meta_description: "Home Burglar Alarm System West Kingsdown. CCTV systems West Kingsdown. Home Security Systems, Burglar Alarm Service Battery. Alarm Company Near Me 020 8302 4065"
 permalink: "/pages/west-kingsdown/"
 layout: page

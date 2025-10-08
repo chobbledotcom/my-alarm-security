@@ -2,7 +2,7 @@
 title: "Bad Installs"
 date: 2020-10-16
 header_text: "Bad installs"
-meta_title: "Cctv Company Eltham Blackheath - My Alarm Security"
+meta_title: "Cctv Company Eltham Blackheath - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/bad-installs/"
 ---

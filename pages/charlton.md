@@ -1,6 +1,6 @@
 ---
 header_text: "Burglar Alarm System Charlton"
-meta_title: "Alarm System Charlton, Cctv Charlton. Alarm Service Charlton - My Alarm Security"
+meta_title: "Alarm System Charlton, Cctv Charlton. Alarm Service Charlton - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/charlton/"
 layout: page

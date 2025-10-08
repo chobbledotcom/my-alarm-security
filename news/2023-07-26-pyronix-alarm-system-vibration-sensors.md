@@ -2,7 +2,7 @@
 title: "Pyronix Alarm System Vibration Sensors"
 date: 2023-07-26
 header_text: "Pyronix Alarm System Vibration Sensors"
-meta_title: "Burglar Alarm System Bexley - My Alarm Security"
+meta_title: "Burglar Alarm System Bexley - MyAlarm Security"
 meta_description: "For all of your home and business security - intruder alarm and cctv systems, give us a call 020 8302 4065. Bexley, Bromley, Orpington, New Eltham"
 permalink: "/blog/pyronix-alarm-system-vibration-sensors/"
 ---

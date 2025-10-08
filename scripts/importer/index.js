@@ -10,6 +10,7 @@ const path = require('path');
 const { execSync } = require('child_process');
 const { convertPages, convertBlogPosts, convertProducts, convertCategories, convertHomeContent, convertBlogIndex, convertReviewsIndex, convertSpecialPages } = require('./converters');
 const { extractFavicons } = require('./utils/favicon-extractor');
+const { applyFindReplacesRecursive } = require('./utils/find-replace');
 const ResultsTracker = require('./utils/results-tracker');
 const config = require('./config');
 
@@ -89,6 +90,10 @@ const main = async () => {
 
     tracker.add('Reviews Index', await convertReviewsIndex());
     console.log('');
+
+    console.log('Applying find/replace patterns to all markdown files...');
+    applyFindReplacesRecursive(config.OUTPUT_BASE);
+    console.log('✓ Find/replace patterns applied\n');
 
     tracker.displaySummary();
 

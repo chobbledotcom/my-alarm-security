@@ -1,6 +1,6 @@
 ---
 header_text: "Burglar Alarm System in Greenhithe"
-meta_title: "Burglar Alarm System Greenhithe Cctv Systems In Greenhithe - My Alarm Security"
+meta_title: "Burglar Alarm System Greenhithe Cctv Systems In Greenhithe - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/greenhithe/"
 layout: page

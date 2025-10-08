@@ -2,7 +2,7 @@
 title: "Burglar Alarm And Cctv In Bungalows"
 date: 2018-06-15
 header_text: "Bungalows"
-meta_title: "Bungalow Burglar Alarm Bungalow Cctv Bexley - My Alarm Security"
+meta_title: "Bungalow Burglar Alarm Bungalow Cctv Bexley - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/burglar-alarm-and-cctv-in-bungalows/"
 ---

@@ -1,6 +1,6 @@
 ---
 header_text: "Burglar Alarm Servicing in Longfield"
-meta_title: "Alarm System Longfield, Cctv Longfield. Alarm Service Longfield - My Alarm Security"
+meta_title: "Alarm System Longfield, Cctv Longfield. Alarm Service Longfield - MyAlarm Security"
 meta_description: "Alarm System Longfield, CCTV Longfield. Alarm Service Longfield, Alarm Battery Replacement Longfield, Home Alarm System Longfield. Tel 020 8302 4065"
 permalink: "/pages/longfield/"
 layout: page

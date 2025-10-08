@@ -2,7 +2,7 @@
 title: "Finished In Style"
 date: 2018-06-05
 header_text: "Finished In Style"
-meta_title: "Burglar Alarm System Upgrade Petts Wood - My Alarm Security"
+meta_title: "Burglar Alarm System Upgrade Petts Wood - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/finished-in-style/"
 ---
