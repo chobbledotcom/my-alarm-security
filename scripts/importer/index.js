@@ -91,8 +91,12 @@ const main = async () => {
     tracker.add('Reviews Index', await convertReviewsIndex());
     console.log('');
 
-    console.log('Applying find/replace patterns to all markdown files...');
-    applyFindReplacesRecursive(config.OUTPUT_BASE);
+    console.log('Applying find/replace patterns to markdown files...');
+    const targetDirs = ['pages', 'products', 'categories'];
+    targetDirs.forEach(dir => {
+      const dirPath = path.join(config.OUTPUT_BASE, dir);
+      applyFindReplacesRecursive(dirPath);
+    });
     console.log('✓ Find/replace patterns applied\n');
 
     tracker.displaySummary();
