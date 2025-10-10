@@ -1,5 +1,5 @@
 ---
-meta_title: "Burglar Alarm Battery Service And Cctv Company In Bromley - MyAlarm Security"
+meta_title: "Burglar Alarm Battery Service And CCTV Company In Bromley - MyAlarm Security"
 meta_description: "Your local home and business security company specialsing in burglar alarms, cctv door, entry access control in Bromley. Contact us on 020 8302 4065."
 permalink: "/pages/bromley/"
 layout: page

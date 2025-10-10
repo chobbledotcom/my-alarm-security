@@ -19,8 +19,6 @@ gallery: ["/images/products/standard-system-599.webp"]
 -   Specifications
 -   Reviews
 
-Product Specifications!
-
 
 **Package includes**
 
@@ -32,8 +30,6 @@ Product Specifications!
 
 **Info** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-
-Our Prices!
 
 
 **Our Price:** £599.00

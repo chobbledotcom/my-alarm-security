@@ -1,8 +1,8 @@
 ---
-title: "Cctv Package 1 £999"
+title: "CCTV Package 1 £999"
 price: "£999.00"
 order: 4
-meta_title: "Cctv Package Burglar Alarm System Bromley Dartford Welling - MyAlarm Security"
+meta_title: "CCTV Package Burglar Alarm System Bromley Dartford Welling - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065"
 permalink: "/products/cctv-package-1-999/"
 categories: ["categories/cctv.md"]
@@ -12,14 +12,12 @@ gallery: ["/images/products/cctv-package-1-999.webp"]
 
 # CCTV Package 1
 
-#### Cctv Package 1 £999
+#### CCTV Package 1 £999
 
 **CCTV Package 1**
 
 -   Specifications
 -   Reviews
-
-Product Specifications!
 
 
 **Package includes:**
@@ -33,8 +31,6 @@ Product Specifications!
 - Conventional cameras with day time colour images and black and white night time images
 - Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-
-Our Prices!
 
 
 **Our Price:** £999.00
