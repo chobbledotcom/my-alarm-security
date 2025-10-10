@@ -28,8 +28,6 @@ const extractSpecificationTable = (htmlContent) => {
 
   if (!specsMatch) return '';
 
-  result.push('Product Specifications!\n');
-
   const tableContent = specsMatch[1];
   const rows = [];
   let currentLabel = null;
@@ -106,8 +104,6 @@ const extractPriceTable = (htmlContent) => {
   const priceMatch = htmlContent.match(/<div class="menu-heading[^"]*">Our Prices!<\/div>\s*<table class="table table-striped">([\s\S]*?)<\/table>/i);
 
   if (!priceMatch) return '';
-
-  result.push('Our Prices!\n');
 
   const tableContent = priceMatch[1];
 
