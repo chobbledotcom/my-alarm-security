@@ -10,22 +10,29 @@ layout: base.html
     <a href="{{ home_content.banner.special_offer.link }}">VIEW OFFERS</a>
   </div>
   {% endif %} {% if home_content.banner.images.size > 0 %}
-  <div class="swiper">
-    <div class="swiper-wrapper">
-      {% for image in home_content.banner.images %}
-      <div class="swiper-slide">
-        <img src="{{ image }}" alt="Banner {{ forloop.index }}" loading="lazy" />
+  <div class="home-banner-inner">
+    <div class="swiper">
+      <div class="swiper-wrapper">
+        {% for image in home_content.banner.images %}
+        <div class="swiper-slide">
+          <img
+            src="{{ image }}"
+            alt="Banner {{ forloop.index }}"
+            loading="lazy"
+          />
+        </div>
+        {% endfor %}
       </div>
-      {% endfor %}
+      <div class="swiper-pagination"></div>
     </div>
-    <div class="swiper-pagination"></div>
   </div>
   <script src="/assets/js/lib/swiper-bundle.min.js"></script>
   <script>
-    new Swiper('.swiper', {
+    new Swiper(".swiper", {
       loop: true,
+      setWrapperSize: true,
       autoplay: { delay: 4000 },
-      pagination: { el: '.swiper-pagination', clickable: true }
+      pagination: { el: ".swiper-pagination", clickable: true },
     });
   </script>
   {% endif %}
