@@ -115,13 +115,11 @@ jobs:
           if [ "${{ github.ref }}" = "refs/heads/main" ]; then
             echo "storage_zone_name=${{ secrets.BUNNY_PRODUCTION_STORAGE_ZONE_NAME }}" >> $GITHUB_OUTPUT
             echo "storage_zone_password=${{ secrets.BUNNY_PRODUCTION_STORAGE_ZONE_PASSWORD }}" >> $GITHUB_OUTPUT
-            echo "pull_zone_id_rewrite=${{ secrets.BUNNY_PRODUCTION_PULL_ZONE_ID_REWRITE }}" >> $GITHUB_OUTPUT
-            echo "pull_zone_id_deploy=${{ secrets.BUNNY_PRODUCTION_PULL_ZONE_ID_DEPLOY }}" >> $GITHUB_OUTPUT
+            echo "pull_zone_id_deploy=${{ secrets.BUNNY_PRODUCTION_PULL_ZONE_ID }}" >> $GITHUB_OUTPUT
           else
             echo "storage_zone_name=${{ secrets.BUNNY_STAGING_STORAGE_ZONE_NAME }}" >> $GITHUB_OUTPUT
             echo "storage_zone_password=${{ secrets.BUNNY_STAGING_STORAGE_ZONE_PASSWORD }}" >> $GITHUB_OUTPUT
-            echo "pull_zone_id_rewrite=${{ secrets.BUNNY_STAGING_PULL_ZONE_ID_REWRITE }}" >> $GITHUB_OUTPUT
-            echo "pull_zone_id_deploy=${{ secrets.BUNNY_STAGING_PULL_ZONE_ID_DEPLOY }}" >> $GITHUB_OUTPUT
+            echo "pull_zone_id_deploy=${{ secrets.BUNNY_STAGING_PULL_ZONE_ID }}" >> $GITHUB_OUTPUT
           fi
 
       - name: Purge Rewrite Zone
@@ -135,7 +133,7 @@ jobs:
           concurrency: "5"
           enable-delete-action: true
           enable-purge-pull-zone: true
-          pull-zone-id: ${{ steps.deployment_env.outputs.pull_zone_id_rewrite }}
+          pull-zone-id: ${{ secrets.BUNNY_REWRITE_PULL_ZONE_ID }}
           replication-timeout: "15000"
 
       - name: Deploy to Bunny
