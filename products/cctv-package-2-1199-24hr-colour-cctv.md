@@ -7,6 +7,7 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/products/cctv-package-2-1199-24hr-colour-cctv/"
 categories: ["categories/cctv.md"]
 features: []
+gallery: ["/images/products/cctv-package-2-1199-24hr-colour-cctv.webp"]
 ---
 
 # CCTV Package 2

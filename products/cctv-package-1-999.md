@@ -7,6 +7,7 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/products/cctv-package-1-999/"
 categories: ["categories/cctv.md"]
 features: []
+gallery: ["/images/products/cctv-package-1-999.webp"]
 ---
 
 # CCTV Package 1

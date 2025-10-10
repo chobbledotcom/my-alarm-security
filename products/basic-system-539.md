@@ -7,6 +7,7 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/products/basic-system-539/"
 categories: ["categories/burglar-alarms.md"]
 features: []
+gallery: ["/images/products/basic-system-539.webp"]
 ---
 
 # Basic System

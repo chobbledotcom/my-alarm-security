@@ -7,6 +7,7 @@ meta_description: "Standard System - Fully Certified Engineers, 247 Customer Ser
 permalink: "/products/standard-system-599/"
 categories: ["categories/burglar-alarms.md"]
 features: []
+gallery: ["/images/products/standard-system-599.webp"]
 ---
 
 # Standard System

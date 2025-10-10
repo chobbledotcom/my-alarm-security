@@ -7,6 +7,7 @@ meta_description: "Pet friendly home and business security. Burglar Alarm Servic
 permalink: "/products/pet-package-849/"
 categories: ["categories/burglar-alarms.md"]
 features: []
+gallery: ["/images/products/pet-package-849.webp"]
 ---
 
 # Pet Package
