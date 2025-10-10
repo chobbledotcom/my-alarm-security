@@ -1,10 +1,11 @@
 ---
-header_text: "Burglar Alarm System Badgers Mount"
 meta_title: "Alarm System Badgers Mount, Cctv Badgers Mount. Alarm Service - MyAlarm Security"
 meta_description: "Alarm System Badgers Mount, CCTV Badgers Mount. Alarm Service Badgers Mount, Alarm Battery Replacement Badgers Mount, Home Alarm Badgers Mount. 020 8302 4065"
 permalink: "/pages/badgers-mount/"
 layout: page
 ---
+
+# Burglar Alarm System Badgers Mount 
 
 If youre looking for a local home and business security company, then you have come to the right place! We are a local, family run company based in Sidcup and cover Badgers Mount and surrounding areas for all things home and business security related. So if your existing burglar alarm system has developed a fault or it needs an alarm system service - or maybe you are looking to get a brand new system installed or your old one upgraded, then give us a call or send us an email. We can create any package to suit your needs. Why not check out some of our existing packages here: [Burglar Alarm Systems in Badgers Mount.](/categories/burglar-alarms/)
 

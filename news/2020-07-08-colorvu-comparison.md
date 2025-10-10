@@ -1,13 +1,14 @@
 ---
 title: "Colorvu Comparison"
 date: 2020-07-08
-header_text: "Colorvu comparison"
 meta_title: "Cctv Company Bromley Orpington - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/colorvu-comparison/"
 gallery:
   - "/images/products/colorvu-comparison.webp"
 ---
+
+# Colorvu comparison
 
 We have recently started installing the new market leading brand Hikvisions latest release, the [Colorvu CCTV cameras](/products/cctv-package-2-1199-24hr-colour-cctv/).
 

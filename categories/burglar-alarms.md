@@ -1,6 +1,5 @@
 ---
 title: "Burglar Alarms"
-header_text: "Burglar Alarms"
 meta_title: "Burglar Alarms"
 meta_description: "BURGLAR ALARM all types of Home Security, Business security based New Eltham, Sidcup, Bexley covering Greenwich, Orpington, Bromley, Dartford and surrounding"
 permalink: "/categories/burglar-alarms/"
@@ -9,6 +8,8 @@ eleventyNavigation:
   key: Burglar Alarms
   order: 21
 ---
+
+# Burglar Alarms 
 
 Why wait until a break in or an attempted break in to have home security or a burglar alarm fitted? With so many burglaries and attempted break-ins, don\'t leave it until its to late. Protect what is yours and deter any intruders by installing a **MyAlarm Security Burglar Alarm System**.
 

@@ -1,10 +1,11 @@
 ---
-header_text: "Burglar Alarm Servicing in Ebbsfleet"
 meta_title: "Alarm System Ebbsfleet, Cctv Ebbsfleet. Alarm Service Ebbsfleet - MyAlarm Security"
 meta_description: "Alarm System Ebbsfleet, CCTV Ebbsfleet. Alarm Service Ebbsfleet, Alarm Battery Replacement Ebbsfleet, Home Alarm System Ebbsfleet. Tel 020 8302 4065"
 permalink: "/pages/ebbsfleet/"
 layout: page
 ---
+
+# Burglar Alarm Servicing in Ebbsfleet 
 
 Does your existing house alarm need a service or a new battery? Maybe you have a zone fault or a tamper? Or maybe you just want a service and the system checked over. We offer alarm system servicing, alarm system battery changes, sensor replacements, panel replacements and more for all makes and models of alarm systems. If you do not know the brand of alarm system, dont worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [burglar alarm services in Ebbsfleet.](/categories/servicing-and-repairs/)
 

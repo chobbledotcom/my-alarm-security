@@ -1,10 +1,11 @@
 ---
-header_text: "Burglar Alarm and CCTV in Petts Wood"
 meta_title: "Petts Wood Intruder Alarm System Company. Petts Wood Cctv Company - MyAlarm Security"
 meta_description: "Burglar Alarm and CCTV Company Petts Wood. Alarm System Servicing, Batteries, Upgrades. Tel 020 8302 4065. Orpington, Bromley, West Wickham, Bexley"
 permalink: "/pages/petts-wood/"
 layout: page
 ---
+
+# **Burglar Alarm and CCTV in Petts Wood** 
 
 If you\'re interested in having a security system installed or upgraded in your home or business in Petts Wood, we\'re a local, reputable and reliable security company you can trust! We\'re based in Sidcup, just down the road, and we travel throughout Bromley and Petts Wood - and beyond, to make sure that people throughout the region can benefit from our incredible systems and our top-quality customer service team.
 

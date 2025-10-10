@@ -1,10 +1,11 @@
 ---
-header_text: "Burglar Alarm Servicing in Erith"
 meta_title: "Alarm System Erith, Cctv Erith. Alarm Service Erith - MyAlarm Security"
 meta_description: "Alarm System Erith, CCTV Erith. Alarm Service Erith, Alarm Battery Replacement Erith, Home Alarm System Erith. Home Security System Erith. Tel 020 8302 4065"
 permalink: "/pages/erith/"
 layout: page
 ---
+
+# Burglar Alarm Servicing in Erith 
 
 Does your existing house alarm need a service or a new battery? Maybe you have a zone fault or a tamper? Or maybe you just want a service and the system checked over. We offer servicing, alarm system battery changes, sensor replacements, panel replacements and more for all makes and models of alarm systems. If you do not know the brand of alarm system, dont worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [Burglar Alarm servicing in Erith.](/categories/servicing-and-repairs/)
 

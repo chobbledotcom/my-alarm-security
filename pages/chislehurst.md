@@ -1,10 +1,11 @@
 ---
-header_text: "Burglar Alarm System Chislehurst"
 meta_title: "Burglar Alarm System Chislehurst Cctv Systems In Chislehurst, - MyAlarm Security"
 meta_description: "Burglar Alarm System Chislehurst. CCTV systems Chislehurst. Home Security Systems, Burglar Alarm Service Alarm Battery Chislehurst. Contact us  020 8302 4065"
 permalink: "/pages/chislehurst/"
 layout: page
 ---
+
+# Burglar Alarm System Chislehurst 
 
 We are a local family run home and business security company based in Sidcup, We cover the area of Chislehurst as well as the whole of the Bromley borough installing, maintaining and servicing burglar alarm systems. We specialise in all aspects of home and business electronic security such as door entry systems, access control systems and CCTV systems. If you are thinking of having a brand new alarm system installed at your property in Chislehurst or are looking to upgrade your current system, we can help. We offer a free no obligation site survey where we can show you a demo kit of the system. We will identify vulnerable areas and go though sensor placement with you. A burglar alarm system survey takes less than 10 minutes. We wont spend hours trying to hard sell you a system. We will give you the price there and then and then leave it up to you to decide if you want to proceed. We will never, ever chase you. For an idea on prices, please check out our current most popular packages here: [Burglar Alarm Packages Chislehurst.](/categories/burglar-alarms/) We have tailor created some packages which can have additional sensors, key fobs and door contacts added to, to suit your requirements. Feel free to contact us if you have any questions or would like to book a site survey.
 

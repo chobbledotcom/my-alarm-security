@@ -1,10 +1,11 @@
 ---
-header_text: "Why Choose Us?"
 meta_title: "Burglar Alarm And Cctv Bexley Orpington Bromley Dartford Eltham"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV.. Call 020 8302 4065 or send an email"
 permalink: "/pages/thamesmead/"
 layout: page
 ---
+
+# Why Choose Us?
 
 ### BURGLAR ALARMS 
 
@@ -39,6 +40,8 @@ Specialists in all types of Home Security, Business Security and Building securi
 ![MyAlarm Security](/images/pages/pages-thamesmead-oeflaeyeglmvvu4nxkv0.png)
 
 ![MyAlarm Security](/images/pages/pages-thamesmead-rubndkmdvgoxj9berm3a.jpg)
+
+# Why Choose Us? 
 
 ![Fully Certified Engineers](/images/pages/pages-thamesmead-ytwmwogsrbck9axbamnu.png)
 

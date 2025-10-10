@@ -1,10 +1,11 @@
 ---
-header_text: "Burglar Alarm System Gravesend"
 meta_title: "Alarm System Gravesend, Cctv Gravesend. Alarm Service Gravesend - MyAlarm Security"
 meta_description: "Alarm System Gravesend, CCTV Gravesend. Alarm Service Gravesend, Alarm Battery Replacement Gravesend, Home Alarm System Gravesend. Tel 020 8302 4065"
 permalink: "/pages/gravesend/"
 layout: page
 ---
+
+# Burglar Alarm System Gravesend 
 
 If you are looking for a local home and business security company, then you have come to the right place! We are a family run company based in Sidcup and cover Gravesend and surrounding areas for all things home and business security related. If your existing burglar alarm system has developed a fault or it needs an alarm system service - or maybe you are looking to get a brand new system installed or upgraded, then give us a call. We can create any package to suit your needs. Why not check out some of our existing packages here: [Burglar Alarm Systems in Gravesend.](/categories/burglar-alarms/) We can tailor create any package to suit your property or requirements. Additional sensors, door contacts, keypads and more can be added to any of our packages. Contact us if you have any questions. Are team are always happy to help.
 

@@ -1,5 +1,4 @@
 ---
-header_text: "About MyAlarm Security"
 meta_title: "Home Burglar Alarm System Bexley Sidcup Orpington Bromley - MyAlarm Security"
 meta_description: "Burglar Alarm System brand new installation, upgrade, service, battery change, panel replacement, decommision. Bexley, Dartford, Orpington, Bromley, Sevenoaks."
 permalink: "/pages/about-us/"
@@ -8,6 +7,8 @@ eleventyNavigation:
   key: About
   order: 2
 ---
+
+# About MyAlarm Security 
 
 **Why Choose MyAlarm Security?**
 

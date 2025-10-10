@@ -1,11 +1,12 @@
 ---
 title: "Does Your Alarm System Need A Service Or A New Battery?"
 date: 2024-06-10
-header_text: "Does Your Alarm System Need A Service Or A New Battery?"
 meta_title: "Alarm System New Battery Service - My Alarm Security"
 meta_description: "Does Your Alarm System Need A Service Or A New Battery? Orpington, Bromley, Sevenoaks, Greenwich, Bexley, Dartford, Gravesend. Contact us 020 8302 4065"
 permalink: "/blog/does-your-alarm-system-need-a-service-or-a-new-battery/"
 ---
+
+# Does Your Alarm System Need A Service Or A New Battery? 
 
 We often get phone calls from people who can no longer get hold of the original installer of their alarm system. Maybe the company was sold, the owners retired or the company was re-branded. Whatever the reason, this is definitely something we are able to help with.
 

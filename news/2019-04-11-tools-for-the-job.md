@@ -1,13 +1,14 @@
 ---
 title: "Tools For The Job"
 date: 2019-04-11
-header_text: "Tools for the job"
 meta_title: "Home Burglar Alarm System Company Eltham Greenwich - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/tools-for-the-job/"
 gallery:
   - "/images/products/tools-for-the-job.webp"
 ---
+
+# Tools for the job
 
 Here at MyAlarm Security we have accumulated some specialist tools over the past 21 years of installing security systems, from [burglar alarm home](/categories/burglar-alarms/) security systems to [cctv](/categories/cctv/) installations and everything in between we always have the right tool for the job.
 

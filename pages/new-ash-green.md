@@ -1,10 +1,11 @@
 ---
-header_text: "Burglar Alarm System New Ash Green"
 meta_title: "Alarm System New Ash Green, Cctv New Ash Green. Alarm Battery - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/new-ash-green/"
 layout: page
 ---
+
+# Burglar Alarm System New Ash Green 
 
 If youre looking for a local home and business security company, then you have come to the right place! We are a local, family run company based in Sidcup and cover New Ash Green and surrounding areas for all things home and business security related. So if your existing burglar alarm system has developed a fault or it needs an alarm system service - or maybe you are looking to get a brand new system installed or your old one upgraded, then give us a call or send us an email. We can create any package to suit your needs. Why not check out some of our existing packages here: [Burglar Alarm Systems in New Ash Green.](/categories/burglar-alarms/)
 

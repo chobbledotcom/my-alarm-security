@@ -1,6 +1,5 @@
 ---
 title: "Servicing And Repairs"
-header_text: "Alarm System Service and Repairs"
 meta_title: "Servicing And Repairs"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065"
 permalink: "/categories/servicing-and-repairs/"
@@ -9,6 +8,8 @@ eleventyNavigation:
   key: Servicing And Repairs
   order: 23
 ---
+
+# Alarm System Service and Repairs 
 
 Do you have an existing [burglar alarm system](burglar-alarms.php.html) that you would like looked at, serviced or repaired? Maybe your alarm needs a new battery or other batteries/devices replacing or the keypad no longer works? Or maybe you\'re having decorating done or home improvements and the carpet fitter or builder has gone through a cable and you need an emergency call out or need a sensor or door contact removed or replaced. If there is anything needing doing to your burglar alarm system, you have come to the right place.
 
