@@ -1,9 +1,11 @@
-<script async delay src="/assets/js/lib/swiper-bundle.min.js"></script>
+<script async delay src="/assets/js/lib/swiper-bundle.min.js" onload="initSwiper()"></script>
 <script>
-  new Swiper(".swiper", {
-    loop: true,
-    setWrapperSize: true,
-    autoplay: { delay: 4000 },
-    pagination: { el: ".swiper-pagination", clickable: true },
-  });
+  function initSwiper() {
+    new Swiper(".swiper", {
+      loop: true,
+      setWrapperSize: true,
+      autoplay: { delay: 4000 },
+      pagination: { el: ".swiper-pagination", clickable: true },
+    });
+  }
 </script>
