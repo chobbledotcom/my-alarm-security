@@ -7,6 +7,7 @@ meta_description: "Servicing and Repairs - Fully Certified Engineers, 247 Custom
 permalink: "/products/servicing-and-repairs/"
 categories: ["categories/servicing-and-repairs.md"]
 features: []
+gallery: ["/images/products/servicing-and-repairs.webp"]
 ---
 
 # Servicing and Repairs
@@ -18,15 +19,11 @@ features: []
 -   Specifications
 -   Reviews
 
-Product Specifications!
-
 
 **Tel.** 020 8302 4065
 
 **Email.** sales@myalarmsecurity.co.uk
 
-
-Our Prices!
 
 
 

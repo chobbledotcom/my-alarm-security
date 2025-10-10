@@ -1,24 +1,23 @@
 ---
-title: "Supreme Package 24hr Colour Cctv Plus Intruder Alarm System £1749"
+title: "Supreme Package 24hr Colour CCTV Plus Intruder Alarm System £1749"
 price: "£1749.00"
 order: 7
-meta_title: "Intruder Burglar Alarm And Cctv Company Orpington Bromley Eltham - MyAlarm Security"
+meta_title: "Intruder Burglar Alarm And CCTV Company Orpington Bromley Eltham - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Orpington. Call 020 8302 4065"
 permalink: "/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749/"
 categories: ["categories/burglar-alarms.md", "categories/cctv.md", "categories/special-offers.md"]
 features: []
+gallery: ["/images/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.webp"]
 ---
 
 # Supreme Package
 
-#### Supreme Package 24hr Colour Cctv Plus Intruder Alarm System £1749
+#### Supreme Package 24hr Colour CCTV Plus Intruder Alarm System £1749
 
 **Supreme Package**
 
 -   Specifications
 -   Reviews
-
-Product Specifications!
 
 
 **Package includes:**
@@ -37,8 +36,6 @@ Product Specifications!
 - All cables, power supplies and sundries included
 - Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-
-Our Prices!
 
 
 **Our Price:** £1749.00

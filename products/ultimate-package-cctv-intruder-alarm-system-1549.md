@@ -1,24 +1,23 @@
 ---
-title: "Ultimate Package Cctv Intruder Alarm System £1549"
+title: "Ultimate Package CCTV Intruder Alarm System £1549"
 price: "£1549.00"
 order: 6
-meta_title: "Cctv And Intruder Burglar Alarm System Package Bexley Bromley - MyAlarm Security"
+meta_title: "CCTV And Intruder Burglar Alarm System Package Bexley Bromley - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV packages. Call 020 8302 4065"
 permalink: "/products/ultimate-package-cctv-intruder-alarm-system-1549/"
 categories: ["categories/burglar-alarms.md", "categories/cctv.md", "categories/special-offers.md"]
 features: []
+gallery: ["/images/products/ultimate-package-cctv-intruder-alarm-system-1549.webp"]
 ---
 
 # Ultimate Package
 
-#### Ultimate Package Cctv Intruder Alarm System £1549
+#### Ultimate Package CCTV Intruder Alarm System £1549
 
 **Ultimate Package**
 
 -   Specifications
 -   Reviews
-
-Product Specifications!
 
 
 **Package Includes**
@@ -37,8 +36,6 @@ Product Specifications!
 - All cables, power supplies and sundries included
 - Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-
-Our Prices!
 
 
 **Our Price:** £1549.00

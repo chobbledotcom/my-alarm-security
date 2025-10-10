@@ -1,5 +1,5 @@
 ---
-meta_title: "Alarm System Keston, Cctv Keston. Alarm Service Battery Keston - MyAlarm Security"
+meta_title: "Alarm System Keston, CCTV Keston. Alarm Service Battery Keston - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/keston/"
 layout: page

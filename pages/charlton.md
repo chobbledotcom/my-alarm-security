@@ -1,5 +1,5 @@
 ---
-meta_title: "Alarm System Charlton, Cctv Charlton. Alarm Service Charlton - MyAlarm Security"
+meta_title: "Alarm System Charlton, CCTV Charlton. Alarm Service Charlton - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/charlton/"
 layout: page

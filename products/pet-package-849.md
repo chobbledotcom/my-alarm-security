@@ -7,6 +7,7 @@ meta_description: "Pet friendly home and business security. Burglar Alarm Servic
 permalink: "/products/pet-package-849/"
 categories: ["categories/burglar-alarms.md"]
 features: []
+gallery: ["/images/products/pet-package-849.webp"]
 ---
 
 # Pet Package
@@ -17,8 +18,6 @@ features: []
 
 -   Specifications
 -   Reviews
-
-Product Specifications!
 
 
 **Package Includes:**
@@ -33,8 +32,6 @@ Product Specifications!
 
 **Info:** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-
-Our Prices!
 
 
 **Our Price:** £849.00

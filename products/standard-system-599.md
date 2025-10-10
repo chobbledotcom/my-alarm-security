@@ -7,6 +7,7 @@ meta_description: "Standard System - Fully Certified Engineers, 247 Customer Ser
 permalink: "/products/standard-system-599/"
 categories: ["categories/burglar-alarms.md"]
 features: []
+gallery: ["/images/products/standard-system-599.webp"]
 ---
 
 # Standard System
@@ -17,8 +18,6 @@ features: []
 
 -   Specifications
 -   Reviews
-
-Product Specifications!
 
 
 **Package includes**
@@ -31,8 +30,6 @@ Product Specifications!
 
 **Info** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-
-Our Prices!
 
 
 **Our Price:** £599.00

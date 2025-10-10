@@ -7,6 +7,7 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 permalink: "/products/basic-system-539/"
 categories: ["categories/burglar-alarms.md"]
 features: []
+gallery: ["/images/products/basic-system-539.webp"]
 ---
 
 # Basic System
@@ -17,8 +18,6 @@ features: []
 
 -   Specifications
 -   Reviews
-
-Product Specifications!
 
 
 **Package Includes:**
@@ -32,8 +31,6 @@ Product Specifications!
 
 **Info:** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-
-Our Prices!
 
 
 **Our Price:** £539.00
