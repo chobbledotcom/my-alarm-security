@@ -24,7 +24,6 @@ const generateHomePage = () => {
   const description = descMatch ? descMatch[1] : 'Professional burglar alarm and CCTV installation across South East London and Kent.';
 
   return `---
-header_text: "${title}"
 meta_title: "${title}"
 meta_description: "${description}"
 permalink: "/"
@@ -34,7 +33,7 @@ eleventyNavigation:
   order: 1
 ---
 
-# Home
+# ${title}
 `;
 };
 
@@ -44,7 +43,6 @@ eleventyNavigation:
 const createDefaultHomePage = () => {
   const title = 'MyAlarm Security | Burglar Alarms & CCTV Systems';
   return `---
-header_text: "${title}"
 meta_title: "${title}"
 meta_description: "Professional burglar alarm and CCTV installation across South East London and Kent."
 permalink: "/"
@@ -54,7 +52,7 @@ eleventyNavigation:
   order: 1
 ---
 
-# Home
+# ${title}
 `;
 };
 
@@ -65,7 +63,6 @@ const generateProductsPage = () => {
   const config = require('../config');
 
   let frontmatter = `---
-header_text: "Our Security Packages"
 meta_title: "Security Packages | Burglar Alarms & CCTV | MyAlarm Security"
 meta_description: "Browse our complete range of security packages: burglar alarms, CCTV systems, and combined packages. Professional installation across South East London and Kent."
 permalink: "/products/"
@@ -96,7 +93,6 @@ const generateServiceAreasPage = () => {
   const config = require('../config');
 
   let frontmatter = `---
-header_text: "Service Areas"
 meta_title: "Service Areas | Security Installation Across South East London & Kent"
 meta_description: "We provide professional burglar alarm and CCTV installation across South East London and Kent including Bexley, Dartford, Bromley, Orpington, Greenwich and surrounding areas."
 permalink: "/service-areas/"
@@ -124,13 +120,14 @@ We provide professional security installation and maintenance services across So
  * Generate not-found.md
  */
 const generateNotFoundPage = () => `---
-header_text: Not Found
 meta_description:
 meta_title: Not Found
 no_index: true
 
 permalink: /not_found.html
 ---
+
+# Not Found
 
 ## Page Not Found
 
@@ -141,12 +138,13 @@ Whoops! It looks like you followed an invalid link - **[click here to go back to
  * Generate thank-you.md
  */
 const generateThankYouPage = () => `---
-header_text: Thank You
 meta_description:
 meta_title: Thank You
 navigationParent: Contact
 no_index: true
 ---
+
+# Thank You
 
 ## Thank You
 
@@ -160,7 +158,6 @@ const generateBlogPage = () => {
   const config = require('../config');
 
   let frontmatter = `---
-header_text: News
 meta_description:
 meta_title: News
 permalink: /blog/
@@ -186,7 +183,6 @@ eleventyNavigation:
  * Generate reviews index page
  */
 const generateReviewsPage = () => `---
-header_text: Reviews
 meta_description:
 meta_title: Reviews
 permalink: /reviews/
