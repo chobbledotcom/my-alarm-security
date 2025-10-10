@@ -1,13 +1,14 @@
 ---
 title: "Burglar Alarm And Cctv Systems Sidcup"
 date: 2022-11-23
-header_text: "Burglar Alarm and CCTV Systems Sidcup"
 meta_title: "Burglar Alarm And Cctv Systems In Sidcup - My Alarm Security"
 meta_description: "Burglar Alarm and CCTV Systems Sidcup. For all of your home and business security. Alarm Battery and CCTV in Sidcup. Call 020 8302 4065"
 permalink: "/blog/burglar-alarm-and-cctv-systems-sidcup/"
 gallery:
   - "/images/products/burglar-alarm-and-cctv-systems-sidcup.webp"
 ---
+
+# Burglar Alarm and CCTV Systems Sidcup
 
 Here at MyAlarm Security, we are constantly keeping our eyes and ears open for the latest technology, versions and new equipment that is on the market. We are lucky enough to have fantastic relationships with our wholesalers, manufacturers and the sales and support teams for our chosen products which are Pyronix and Hik. They are both leading brands in their fields with customers all over the world.
 

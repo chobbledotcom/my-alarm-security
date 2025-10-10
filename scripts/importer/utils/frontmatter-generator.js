@@ -32,11 +32,7 @@ const generatePageFrontmatter = (metadata, slug, pageHeading = null) => {
   const rootPages = ['contact', 'reviews'];
   const permalink = rootPages.includes(slug) ? `/${slug}/` : `/pages/${slug}/`;
 
-  // Use the actual H1 from content for header_text, fallback to breadcrumb or title
-  const headerText = pageHeading || metadata.header_text || metadata.title || '';
-
   let frontmatter = `---
-header_text: "${headerText}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "${permalink}"
@@ -64,14 +60,11 @@ eleventyNavigation:
  * @returns {string} Frontmatter YAML
  */
 const generateBlogFrontmatter = (metadata, slug, date, blogHeading = null, localImagePath = null) => {
-  // Use the actual H1 from content for header_text, fallback to breadcrumb or title
-  const headerText = blogHeading || metadata.header_text || metadata.title || '';
   const postTitle = metadata.header_text || slug.replace(/-/g, ' ');
 
   let frontmatter = `---
 title: "${postTitle}"
 date: ${date}
-header_text: "${headerText}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/blog/${slug}/"`;
@@ -103,9 +96,6 @@ const generateProductFrontmatter = (metadata, slug, price, categories, productNa
     ? `[${categoryArray.map(c => `"${c}"`).join(', ')}]`
     : '[]';
 
-  // Use the actual H1 from content for header_text, fallback to product name or metadata
-  const headerText = productHeading || productName || metadata.header_text || metadata.title || '';
-
   // Get product order, default to 50 if not in mapping
   const productOrder = PRODUCT_ORDER[slug] || 50;
 
@@ -114,17 +104,11 @@ const generateProductFrontmatter = (metadata, slug, price, categories, productNa
 title: "${productName || metadata.title || ''}"
 price: "${price}"
 order: ${productOrder}
-header_text: "${headerText}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/products/${slug}/"
 categories: ${categoriesYaml}
 features: []`;
-
-  // Add header image only (no gallery)
-  if (images && images.header_image) {
-    frontmatter += `\nheader_image: "${images.header_image}"`;
-  }
 
   frontmatter += '\n---';
   return frontmatter;
@@ -141,12 +125,8 @@ features: []`;
 const generateCategoryFrontmatter = (metadata, slug, categoryHeading = null, categoryIndex = 0) => {
   const config = require('../config');
 
-  // Use the actual H1 from content for header_text, fallback to breadcrumb or title
-  const headerText = categoryHeading || metadata.header_text || metadata.title || '';
-
   let frontmatter = `---
 title: "${metadata.title || ''}"
-header_text: "${headerText}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/categories/${slug}/"
@@ -157,7 +137,7 @@ featured: false`;
     const navOrder = 20 + categoryIndex;
     frontmatter += `
 eleventyNavigation:
-  key: ${metadata.title || headerText}
+  key: ${metadata.title || categoryHeading || ''}
   order: ${navOrder}`;
   }
 

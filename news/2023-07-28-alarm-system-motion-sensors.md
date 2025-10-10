@@ -1,13 +1,14 @@
 ---
 title: "Alarm System Motion Sensors"
 date: 2023-07-28
-header_text: "Alarm System Motion Sensors"
 meta_title: "Alarm System Movement Sensor Faulty Orpington Bexley Bromley - My Alarm Security"
 meta_description: "Do you have a faulty Alarm System Motion Sensor? Maybe you need your sensor removed for decorating or a refurb. Give us a call on 020 8302 4065."
 permalink: "/blog/alarm-system-motion-sensors/"
 gallery:
   - "/images/products/alarm-system-motion-sensors.webp"
 ---
+
+# Alarm System Motion Sensors
 
 Do you have an alarm system sesnor that you need replaced/turned off or moved? Maybe it no longer works or your circumstances have changed and you have a pet which is now triggering the system everytime it is set. We can add or remove existing movement sensors to your current system. If you are having decorating or a refurb, we can hep by temporarily removing or disabling the sensor from the system. Maybe the current sensor has been damaged and you need it replaced? For all things burglar alarm sensor related, give us a call or send us an email. We are based in Sidcup but cover a much wider area including Dartford, Orpington, Bromley, Sevenoaks, Greenhithe, Greenwich and surrounding areas.
 

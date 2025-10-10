@@ -2,14 +2,14 @@
 title: "Servicing And Repairs"
 price: "£0.00"
 order: 99
-header_text: "Servicing and Repairs"
 meta_title: "Servicing And Repairs - Quality Systems, Pro Fitted. - MyAlarm Security"
 meta_description: "Servicing and Repairs - Fully Certified Engineers, 247 Customer Service, High Quality Systems, Professionally Fitted. We are on the borders of London and Kent."
 permalink: "/products/servicing-and-repairs/"
 categories: ["categories/servicing-and-repairs.md"]
 features: []
-header_image: "/images/products/servicing-and-repairs.webp"
 ---
+
+# Servicing and Repairs
 
 #### Servicing And Repairs
 
@@ -31,5 +31,7 @@ Our Prices!
 
 
 ------------------------------------------------------------------------
+
+# Servicing and Repairs
 
 [**Contact Us**](/contact/) for more information.

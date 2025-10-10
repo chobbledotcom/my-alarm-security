@@ -1,10 +1,11 @@
 ---
-header_text: "Burglar Alarm and CCTV Systems in Bromley"
 meta_title: "Burglar Alarm Battery Service And Cctv Company In Bromley - MyAlarm Security"
 meta_description: "Your local home and business security company specialsing in burglar alarms, cctv door, entry access control in Bromley. Contact us on 020 8302 4065."
 permalink: "/pages/bromley/"
 layout: page
 ---
+
+# **Burglar Alarm and CCTV Systems in Bromley** 
 
 We are proud to serve the London Borough of Bromley (although if you are local - like us, Bromley is classed as Kent). With its vast green spaces and beautiful woodland its hard to believe that Bromley is so close to London. The London Borough of Bromley is the largest and southeastern most of the London boroughs. It stretches from the A20 Chislehurst right down to Biggin Hill then over from Chelsfield and the M25 to Beckenham and West Wickham, its an extremely large place and we are proud to serve the whole borough servicing and installing [burglar alarms](/categories/burglar-alarms/) and [cctv systems](/categories/cctv/).
 

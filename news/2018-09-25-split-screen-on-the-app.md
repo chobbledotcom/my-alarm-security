@@ -1,13 +1,14 @@
 ---
 title: "Split Screen On The App"
 date: 2018-09-25
-header_text: "Split screen on the app"
 meta_title: "Cctv Company Bromley Orpington Bexley - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/split-screen-on-the-app/"
 gallery:
   - "/images/products/split-screen-on-the-app.webp"
 ---
+
+# Split screen on the app
 
 This installation of our [CCTV package 1](/products/cctv-package-1-999/) was in Bromley, using our 2MP cameras with a 30M IR range the customer was over the moon with the end result not only has he got the coverage he needed but without seeing a single cable also seen in No Cables?!?!
 

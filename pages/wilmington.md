@@ -1,10 +1,11 @@
 ---
-header_text: "Burglar Alarm System Wilmington"
 meta_title: "Wilmington Alarm Systems Wilmington Cctv Company. Home Security - MyAlarm Security"
 meta_description: "Burglar Alarm System Wilmington. CCTV systems Wilmington. Home Security Systems, Burglar Alarm Service Alarm Battery Wilmington. Contact us  020 8302 4065."
 permalink: "/pages/wilmington/"
 layout: page
 ---
+
+# Burglar Alarm System Wilmington 
 
 If it is a new home security system in Wilmington that you are looking to get or maybe you would like a burglar alarm system installed at your business premises instead, MyAlarm Security can help. We offer the latest in smart security systems with app integration which allows you to remotely set and unset your system as well as be notified of any alarm activations from anywhere in the world. The app can be set up on various devices so all members of the family can have access.
 

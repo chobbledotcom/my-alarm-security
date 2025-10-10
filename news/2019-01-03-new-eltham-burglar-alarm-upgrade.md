@@ -1,13 +1,14 @@
 ---
 title: "New Eltham Burglar Alarm Upgrade"
 date: 2019-01-03
-header_text: "New Eltham Burglar Alarm Upgrade"
 meta_title: "New Eltham Burglar Alarm Upgrade - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/new-eltham-burglar-alarm-upgrade/"
 gallery:
   - "/images/products/new-eltham-burglar-alarm-upgrade.webp"
 ---
+
+# New Eltham Burglar Alarm Upgrade
 
 Another story of a break-in in **New Eltham and Sidcup** border i\'m afraid to say. The customer did have a **burglar alarm** security system (not fitted by us) but unfortunately wasn\'t working as the system hadn\'t been serviced in years. We specialise in the [maintenance, upgrading and fault finding](/categories/servicing-and-repairs/) on all non DIY alarm security systems.
 

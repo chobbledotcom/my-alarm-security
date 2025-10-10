@@ -1,13 +1,14 @@
 ---
 title: "New Website"
 date: 2018-03-26
-header_text: "NEW WEBSITE"
 meta_title: "Cctv Package Burglar Alarm System Bromley Orpington Sidcup - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/new-website/"
 gallery:
   - "/images/products/new-website.webp"
 ---
+
+# NEW WEBSITE
 
 We was mega excited here at **MyAlarm Security** at our office in **Sidcup** at the launch of our brand new website. We was heavily involved in the design and layout and are really pleased with the result. We find that there\'s nothing more off-putting than a really busy website that\'s confusing to navigate around. We have made an easy to navigate around catagory for each product including [Burglar Alarms](/categories/burglar-alarms/),[ CCTV Systems](/categories/cctv/) and[ Access Control ](/categories/access-control/)systems which contains all of the necessary information for your home and business security. We have tried to make our website simple and not fill it with to much industry jargon but still containing the information that you, as the home or business owner would like to know.
 

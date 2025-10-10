@@ -1,13 +1,14 @@
 ---
 title: "Pyronix Alarm System Vibration Sensors"
 date: 2023-07-26
-header_text: "Pyronix Alarm System Vibration Sensors"
 meta_title: "Burglar Alarm System Bexley - My Alarm Security"
 meta_description: "For all of your home and business security - intruder alarm and cctv systems, give us a call 020 8302 4065. Bexley, Bromley, Orpington, New Eltham"
 permalink: "/blog/pyronix-alarm-system-vibration-sensors/"
 gallery:
   - "/images/products/pyronix-alarm-system-vibration-sensors.webp"
 ---
+
+# Pyronix Alarm System Vibration Sensors
 
 When it comes to securing your property, it\'s important to have the right tools and systems in place. One essential component of any home or business alarm system is a sensor, and Pyronix is a trusted brand that offers reliable and high-quality options for protecting your home or business.
 

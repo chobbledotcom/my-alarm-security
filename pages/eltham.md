@@ -1,10 +1,11 @@
 ---
-header_text: "Burglar Alarm System Eltham"
 meta_title: "Burglar Alarm System Eltham Cctv Eltham Home Alarm Service Eltham - MyAlarm Security"
 meta_description: "Burglar Alarm System Eltham. CCTV Systems Eltham. Home Security Systems, Burglar Alarm Service Alarm Battery Eltham. Contact us  020 8302 4065."
 permalink: "/pages/eltham/"
 layout: page
 ---
+
+# Burglar Alarm System Eltham 
 
 We are a local, family run company based in Sidcup and cover Eltham and surrounding areas for all things home and business security related. We are right on the borders of New Eltham SE9 and cover the boroughs of Greenwich, Bexley, Bromley, Dartford and Sevenoaks. So if your existing burglar alarm system has developed a fault or it needs an alarm system service - or maybe you are looking to get a brand new system installed or upgraded, then give us a call. We can create any package to suit your needs. Why not check out some of our existing packages here: [Burglar Alarm Systems in Eltham.](/categories/burglar-alarms/)
 

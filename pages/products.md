@@ -1,5 +1,4 @@
 ---
-header_text: "Our Security Packages"
 meta_title: "Security Packages | Burglar Alarms & CCTV | MyAlarm Security"
 meta_description: "Browse our complete range of security packages: burglar alarms, CCTV systems, and combined packages. Professional installation across South East London and Kent."
 permalink: "/products/"

@@ -1,10 +1,11 @@
 ---
-header_text: "Burglar Alarm Service in Bickley"
 meta_title: "Burglar Alarm System Home Security Company Bickley Alarm Battery - MyAlarm Security"
 meta_description: "Home Burglar Alarm System Bickley. CCTV systems Bickley. Home Security System, Burglar Alarm Service Battery. Alarm Company Near Me Bickley 020 8302 4065"
 permalink: "/pages/bickley/"
 layout: page
 ---
+
+# Burglar Alarm Service in Bickley 
 
 Are you looking for a local home seurity company to service your burglar alarm system in Bickley? Does your alarm siren battery need replacing? Maybe your alarm system has a fault on a zone or one of the sensors isn\'t working? This is something we can help you with. We often get calls from home and business owners where they need help with their current alarm system but cant get in touch with the original installer - or would prefer to use another company. It doesn\'t matter that we did not install your system or have never serviced it before, we can still help. With over 30 years in the security industry, there isn\'t any alarm system panel brands that we do not know. If your alarm system doesn\'t have any branding, just send us a photo via email to <Sales@MyAlarmSecurity.co.uk> and we can identify your system for you. We carry parts and batteries for various brands so can certainly help with any issues you are having. Give us a call on 020 8302 4065 or send us an email to get booked in at Sales@MyAlarmSecurity.co.uk
 

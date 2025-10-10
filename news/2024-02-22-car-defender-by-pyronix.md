@@ -1,13 +1,14 @@
 ---
 title: "Car Defender By Pyronix"
 date: 2024-02-22
-header_text: "Car Defender By Pyronix"
 meta_title: "Car Defender Vehicle Security Bexley Bromley Orpington Sidcup Eltham - My Alarm Security"
 meta_description: "The Car Defender has been designed to prevent vehicles from being stolen or from vehicle break ins by triggering your burglar alarm when an attempt is made"
 permalink: "/blog/car-defender-by-pyronix/"
 gallery:
   - "/images/products/car-defender-by-pyronix.webp"
 ---
+
+# Car Defender By Pyronix
 
 The Pyronix Car Defender has been designed to prevent vehicles from being stolen, especially keyless car thefts, or from vehicle break in, especially vans, by triggering your property burglar alarm when an attempt is made. These devices are easy to install - they just wrap round your steering wheel, or internally on your doors. When movement or vibration is detected, your property burglar alarm will activate.
 

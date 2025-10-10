@@ -1,13 +1,14 @@
 ---
 title: "Upgrade To A 4k Camera Cctv In Bexley"
 date: 2021-04-12
-header_text: "Upgrade to a 4k camera CCTV in Bexley"
 meta_title: "Cctv Company In Bexley - My Alarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Bexley. Call 020 8302 4065"
 permalink: "/blog/upgrade-to-a-4k-camera-cctv-in-bexley/"
 gallery:
   - "/images/products/upgrade-to-a-4k-camera-cctv-in-bexley.webp"
 ---
+
+# Upgrade to a 4k camera CCTV in Bexley
 
 We\'ve been fitting our 24hour colour CCTV security systems in [Bexley](/pages/sidcup/), Sidcup and all surrounding areas for some time now at 5mp per camera. The images are pure HD, recently the manufacturer released a 4k version which is incredible. The recorder is only capable of streaming 1 out of the 4 channels at the moment as the images are so high quality.
 
