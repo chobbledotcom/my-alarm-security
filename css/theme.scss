@@ -207,6 +207,14 @@ $gap: 1rem;
     background: var(--color-bg);
     border-radius: var(--border-radius);
 
+    a:has(img) {
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: none;
+      }
+    }
+
     img {
       width: 100%;
       height: auto;
@@ -224,7 +232,7 @@ $gap: 1rem;
       margin: 0 0 $gap 0;
     }
 
-    a {
+    p + a {
       @extend .button-primary;
       align-self: end;
       justify-self: center;
