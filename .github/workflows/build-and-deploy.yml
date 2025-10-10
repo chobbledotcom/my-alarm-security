@@ -113,10 +113,10 @@ jobs:
         id: deployment_env
         run: |
           if [ "${{ github.ref }}" = "refs/heads/main" ]; then
-            echo "storage_zone_name=my-alarm-security" >> $GITHUB_OUTPUT
-            echo "storage_zone_password=${{ secrets.BUNNY_STORAGE_ZONE_PASSWORD }}" >> $GITHUB_OUTPUT
-            echo "pull_zone_id_rewrite=4585882" >> $GITHUB_OUTPUT
-            echo "pull_zone_id_deploy=4587571" >> $GITHUB_OUTPUT
+            echo "storage_zone_name=${{ secrets.BUNNY_PRODUCTION_STORAGE_ZONE_NAME }}" >> $GITHUB_OUTPUT
+            echo "storage_zone_password=${{ secrets.BUNNY_PRODUCTION_STORAGE_ZONE_PASSWORD }}" >> $GITHUB_OUTPUT
+            echo "pull_zone_id_rewrite=${{ secrets.BUNNY_PRODUCTION_PULL_ZONE_ID_REWRITE }}" >> $GITHUB_OUTPUT
+            echo "pull_zone_id_deploy=${{ secrets.BUNNY_PRODUCTION_PULL_ZONE_ID_DEPLOY }}" >> $GITHUB_OUTPUT
           else
             echo "storage_zone_name=${{ secrets.BUNNY_STAGING_STORAGE_ZONE_NAME }}" >> $GITHUB_OUTPUT
             echo "storage_zone_password=${{ secrets.BUNNY_STAGING_STORAGE_ZONE_PASSWORD }}" >> $GITHUB_OUTPUT
