@@ -392,6 +392,8 @@ $gap: 1rem;
     .name {
       grid-area: name;
       align-self: center;
+      font-weight: bold;
+      font-size: 0.9rem;
 
       @media (max-width: $mobile) {
         text-align: center;

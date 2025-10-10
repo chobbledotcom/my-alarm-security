@@ -3,13 +3,13 @@
   <span class="name">
     {{ review.data.name }}
     {%- if review.data.url -%}
-      {%- assign link_text = "view review" -%}
+      {%- assign link_text = "View review" -%}
       {%- if review.data.url contains "google.com" -%}
-        {%- assign link_text = "view on Google" -%}
+        {%- assign link_text = "View on Google" -%}
       {%- elsif review.data.url contains "facebook.com" -%}
-        {%- assign link_text = "view on Facebook" -%}
+        {%- assign link_text = "View on Facebook" -%}
       {%- endif -%}
-      <br><a href="{{ review.data.url }}" target="_blank" rel="nofollow">({{ link_text }})</a>
+      <br><a href="{{ review.data.url }}" target="_blank" rel="nofollow">{{ link_text }}</a>
     {%- endif -%}
   </span>
   <span class="rating" aria-label="{{ review.data.rating }} out of 5 stars">
