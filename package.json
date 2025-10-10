@@ -13,5 +13,8 @@
 		"clean": "rm -rf .build _site",
 		"convert-old-site": "node scripts/convert-old-site.js",
 		"compare-paths": "node scripts/compare-paths.js"
+	},
+	"dependencies": {
+		"swiper": "^12.0.2"
 	}
 }
