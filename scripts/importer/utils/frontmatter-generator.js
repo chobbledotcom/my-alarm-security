@@ -110,6 +110,11 @@ permalink: "/products/${slug}/"
 categories: ${categoriesYaml}
 features: []`;
 
+  // Add gallery if header_image exists
+  if (images?.header_image) {
+    frontmatter += `\ngallery: ["${images.header_image}"]`;
+  }
+
   frontmatter += '\n---';
   return frontmatter;
 };
