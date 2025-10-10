@@ -33,7 +33,9 @@ layout: base.html
   {% for card in home_content.hero.service_cards %}
   <article>
     {% if card.image %}
-    <img src="{{ card.image }}" alt="{{ card.title }}" />
+    <a href="{{ card.link }}">
+      <img src="{{ card.image }}" alt="{{ card.title }}" />
+    </a>
     {% endif %}
     <h2>{{ card.title }}</h2>
     <p>{{ card.description }}</p>
