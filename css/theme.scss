@@ -451,3 +451,17 @@ body > footer .socials li a:hover img {
   filter: invert(15%) sepia(100%) saturate(5294%) hue-rotate(352deg)
     brightness(99%) contrast(88%) !important;
 }
+
+.items a.image-link {
+  aspect-ratio: 4/3;
+  overflow: hidden;
+  position: relative;
+
+  .image-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
