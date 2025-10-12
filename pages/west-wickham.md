@@ -9,7 +9,7 @@ layout: page
 
 Does your burglar alarm system in West Wickham need a maintenance service? Maybe you need a sensor moved or taken down for decorating or refurbishment works? Or maybe you would like to add some additional sensors? Whatever you need, from a [routine service](/categories/servicing-and-repairs/) and battery changes to a brand new system, we can help with it all.
 
-We know West Wickham well having visited [Coney Hall rec](https://www.bromley.gov.uk/directory-record/932/coney-hall-recreation-ground) many, many times over the years, not to mention [Miller and Carter restaurant](https://www.millerandcarter.co.uk/restaurants/london/millerandcarterbromley) (they do simply the best steak). We are proud to serve the residents and businesses of West Wickham and have many customers within the West Wickham area as well as surrounding areas such as [Bromley](bromley.php.html), Keston and Hayes.
+We know West Wickham well having visited [Coney Hall rec](https://www.bromley.gov.uk/directory-record/932/coney-hall-recreation-ground) many, many times over the years, not to mention [Miller and Carter restaurant](https://www.millerandcarter.co.uk/restaurants/london/millerandcarterbromley) (they do simply the best steak). We are proud to serve the residents and businesses of West Wickham and have many customers within the West Wickham area as well as surrounding areas such as [Bromley](/pages/bromley/), Keston and Hayes.
 
 # Burglar Alarm System in West Wickham 
 

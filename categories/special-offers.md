@@ -11,9 +11,9 @@ eleventyNavigation:
 
 # **SPECIAL OFFERS FOR BURGLAR ALARM AND CCTV PACKAGES** 
 
-We have been in the home and business security industry for over 30 years and during that time have visited and installed home security systems and business security systems such as [burglar alarms](burglar-alarms.php.html), [CCTV](cctv.php.html), [door entry systems and access control](access-control.php.html) to many properties throughout London and Kent. We are based in Sidcup, Bexley right on the borders of New Eltham.
+We have been in the home and business security industry for over 30 years and during that time have visited and installed home security systems and business security systems such as [burglar alarms](/categories/burglar-alarms/), [CCTV](/categories/cctv/), [door entry systems and access control](/categories/access-control/) to many properties throughout London and Kent. We are based in Sidcup, Bexley right on the borders of New Eltham.
 
-The most common question people ask when they call us is, how much does a [burglar alarm](burglar-alarms.php.html) and [CCTV](cctv.php.html) cost to have fitted? We have created some amazing packages to give you an idea of price. These packages are our most popular and generally cover most properties. These packages can have additional equipment added to suit your property or requirements. The prices quoted include all materials and labour. There are no hideen charges.
+The most common question people ask when they call us is, how much does a [burglar alarm](/categories/burglar-alarms/) and [CCTV](/categories/cctv/) cost to have fitted? We have created some amazing packages to give you an idea of price. These packages are our most popular and generally cover most properties. These packages can have additional equipment added to suit your property or requirements. The prices quoted include all materials and labour. There are no hideen charges.
 
 We cover a vast range of areas installing home and business security including [Bexley](/pages/bexley/), [Greenwich](/pages/greenwich/), [Bromley](/pages/bromley/), [Sevenoaks](/pages/sevenoaks/), [Orpington](/pages/orpington/), [Gravesend](/pages/gravesend/), [Dartford](/pages/dartford/) and surrounding areas.
 
