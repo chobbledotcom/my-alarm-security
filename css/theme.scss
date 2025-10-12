@@ -312,7 +312,7 @@ $gap: 1rem;
   }
 }
 
-.read-more-reviews {
+.read-more {
   @extend .button-primary;
   display: block;
   text-align: center;
@@ -450,6 +450,10 @@ body > footer .socials li a img,
 body > footer .socials li a:hover img {
   filter: invert(15%) sepia(100%) saturate(5294%) hue-rotate(352deg)
     brightness(99%) contrast(88%) !important;
+}
+
+body.home section {
+  margin-bottom: 4rem;
 }
 
 .items a.image-link {

@@ -68,20 +68,17 @@ layout: base.html
   <h2 class="centered">Latest News</h2>
   {%- assign posts = collections.news | reverse -%}
   <ul class="items">
-    {%- for post in posts limit: 10 -%}
-      {% include "news-list-item.html" %}
-    {%- endfor -%}
+    {%- for post in posts limit: 10 -%} {% include "news-list-item.html" %} {%-
+    endfor -%}
   </ul>
-  <a href="/blog/#content">Read More News</a>
+  <a href="/blog/#content" class="read-more">Read More News</a>
 </section>
-{% endif %}
-
-{% if home_content.reviews %}
+{% endif %} {% if home_content.reviews %}
 <section>
   <h2 class="centered">{{ home_content.reviews.heading }}</h2>
   {% assign sorted_reviews = collections.review | reverse %} {% assign reviews =
   sorted_reviews | slice: 0, 9 %} {% include "reviews-list.html", reviews:
   reviews %}
-  <a href="/reviews/#content" class="read-more-reviews">Read More Reviews</a>
+  <a href="/reviews/#content" class="read-more">Read More Reviews</a>
 </section>
 {% endif %}
