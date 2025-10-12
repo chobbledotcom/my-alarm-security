@@ -5,7 +5,7 @@ meta_description: We provide professional burglar alarm and CCTV installation
 meta_title: Service Areas | Security Installation Across South East London & Kent
 eleventyNavigation:
   key: Service Areas
-  order: 9
+  order: 30
 layout: service-areas.html
 permalink: /service-areas/
 ---
