@@ -33,10 +33,10 @@ As with everything, equipment and batteries have a life span. The manufacturer s
 
 Already have an alarm?
 
-Have an existing alarm system that you would like looked at, [serviced, repaired or upgraded](servicing-and-repairs.php.html)? Maybe it needs some battery changes or is showing a fault? We\'ve been in the trade for well over 30 years and know most alarm system brands - both old and new, so don\'t hesitate to get in contact. We service alarm systems both old and new regardless of who it was installed by. So if your system needs an alarm battery, [Contact Us](/contact/) and we can help. Don\'t worry if you don\'t know the make or model of your system, just send us a photo of the panel and we can ID it for you. From replacing a worn keypad to a full upgrade we can do it all. [Contact Us](/contact/) [](/contact/) for more information.
+Have an existing alarm system that you would like looked at, [serviced, repaired or upgraded](/categories/servicing-and-repairs/)? Maybe it needs some battery changes or is showing a fault? We\'ve been in the trade for well over 30 years and know most alarm system brands - both old and new, so don\'t hesitate to get in contact. We service alarm systems both old and new regardless of who it was installed by. So if your system needs an alarm battery, [Contact Us](/contact/) and we can help. Don\'t worry if you don\'t know the make or model of your system, just send us a photo of the panel and we can ID it for you. From replacing a worn keypad to a full upgrade we can do it all. [Contact Us](/contact/) [](/contact/) for more information.
 
-Why not pair one of our Home Burglar Alarm Systems with a professionally installed [CCTV System](cctv.php.html) [](cctv.php.html) for the ultimate in home and business security.
+Why not pair one of our Home Burglar Alarm Systems with a professionally installed [CCTV System](/categories/cctv/) [](/categories/cctv/) for the ultimate in home and business security.
 
-**Take a look in our** [**Special Offers**](special-offers.php.html) **area to view our excellent pre built** [**CCTV**](cctv.php.html) **and Burglar Alarm Packages.**
+**Take a look in our** [**Special Offers**](/categories/special-offers/) **area to view our excellent pre built** [**CCTV**](/categories/cctv/) **and Burglar Alarm Packages.**
 
 **We are a family run business based in Sidcup right on the borders of New Eltham. We provide our services in Bexley, Bromley, Orpington, Dartford, Sevenoaks, Gravesend, Greenwich and surrounding areas.**

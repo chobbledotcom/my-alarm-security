@@ -11,7 +11,7 @@ eleventyNavigation:
 
 # Alarm System Service and Repairs 
 
-Do you have an existing [burglar alarm system](burglar-alarms.php.html) that you would like looked at, serviced or repaired? Maybe your alarm needs a new battery or other batteries/devices replacing or the keypad no longer works? Or maybe you\'re having decorating done or home improvements and the carpet fitter or builder has gone through a cable and you need an emergency call out or need a sensor or door contact removed or replaced. If there is anything needing doing to your burglar alarm system, you have come to the right place.
+Do you have an existing [burglar alarm system](/categories/burglar-alarms/) that you would like looked at, serviced or repaired? Maybe your alarm needs a new battery or other batteries/devices replacing or the keypad no longer works? Or maybe you\'re having decorating done or home improvements and the carpet fitter or builder has gone through a cable and you need an emergency call out or need a sensor or door contact removed or replaced. If there is anything needing doing to your burglar alarm system, you have come to the right place.
 
 Here is a list of some of the most common calls we get:
 

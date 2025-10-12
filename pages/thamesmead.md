@@ -13,15 +13,15 @@ Burglar Alarms provide one of the best deterrents against a break in and an effe
 
 [More Info](/categories/burglar-alarms/)
 
-[](../categories/cctv.php.html "View More")
+[](/categories/cctv/ "View More")
 
-### CCTV SYSTEMS 
+### CCTV SYSTEMS
 
 CCTV camera systems are becoming popular due to their efficiency and effectiveness in providing security and reassurance for all types of premises. All of our systems can be set up for remote viewing via a smartphone, tablet or computer.
 
 [More Info](/categories/cctv/)
 
-[](../categories/access-control.php.html "View More")
+[](/categories/access-control/ "View More")
 
 ### Access Control 
 
