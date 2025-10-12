@@ -63,7 +63,20 @@ layout: base.html
     {% endfor %}
   </ul>
 </section>
-{% endif %} {% if home_content.reviews %}
+{% endif %} {% if homepage.show_news %}
+<section>
+  <h2 class="centered">Latest News</h2>
+  {%- assign posts = collections.news | reverse -%}
+  <ul class="items">
+    {%- for post in posts limit: 10 -%}
+      {% include "news-list-item.html" %}
+    {%- endfor -%}
+  </ul>
+  <a href="/blog/#content">Read More News</a>
+</section>
+{% endif %}
+
+{% if home_content.reviews %}
 <section>
   <h2 class="centered">{{ home_content.reviews.heading }}</h2>
   {% assign sorted_reviews = collections.review | reverse %} {% assign reviews =
