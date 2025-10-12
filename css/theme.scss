@@ -457,7 +457,8 @@ body > footer .socials li a:hover img {
   overflow: hidden;
   position: relative;
 
-  .image-wrapper {
+  .image-wrapper,
+  .image-wrapper img {
     position: absolute;
     top: 0;
     left: 0;
