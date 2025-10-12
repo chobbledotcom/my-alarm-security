@@ -28,7 +28,9 @@ layout: base.html
   </div>
   {% endif %}
 </section>
-{% endif %} {% if home_content.hero %}
+{% endif %}
+
+{% if home_content.hero %}
 <section class="featured">
   {% for card in home_content.hero.service_cards %}
   <article>
@@ -43,15 +45,20 @@ layout: base.html
   </article>
   {% endfor %}
 </section>
-{% endif %} {% if home_content.main_content %}
+{% endif %}
+
+{% if home_content.main_content %}
 <section class="main-content">
   {% for paragraph in home_content.main_content.paragraphs %}
   <p>{{ paragraph }}</p>
-  {% endfor %} {% if home_content.main_content.highlight %}
+  {% endfor %}
+  {% if home_content.main_content.highlight %}
   <p><strong>{{ home_content.main_content.highlight }}</strong></p>
   {% endif %}
 </section>
-{% endif %} {% if home_content.why_choose_us %}
+{% endif %}
+
+{% if home_content.why_choose_us %}
 <h2 class="centered">{{ home_content.why_choose_us.heading }}</h2>
 <section class="why-choose-us">
   <ul>
@@ -63,22 +70,27 @@ layout: base.html
     {% endfor %}
   </ul>
 </section>
-{% endif %} {% if homepage.show_news %}
+{% endif %}
+
+{% if homepage.show_news %}
 <section>
   <h2 class="centered">Latest News</h2>
   {%- assign posts = collections.news | reverse -%}
   <ul class="items">
-    {%- for post in posts limit: 10 -%} {% include "news-list-item.html" %} {%-
-    endfor -%}
+    {%- for post in posts limit: 4 -%}
+    {% include "news-list-item.html" %}
+    {%- endfor -%}
   </ul>
   <a href="/blog/#content" class="read-more">Read More News</a>
 </section>
-{% endif %} {% if home_content.reviews %}
+{% endif %}
+
+{% if home_content.reviews %}
 <section>
   <h2 class="centered">{{ home_content.reviews.heading }}</h2>
-  {% assign sorted_reviews = collections.review | reverse %} {% assign reviews =
-  sorted_reviews | slice: 0, 9 %} {% include "reviews-list.html", reviews:
-  reviews %}
+  {% assign sorted_reviews = collections.review | reverse %}
+  {% assign reviews = sorted_reviews | slice: 0, 9 %}
+  {% include "reviews-list.html", reviews: reviews %}
   <a href="/reviews/#content" class="read-more">Read More Reviews</a>
 </section>
 {% endif %}
