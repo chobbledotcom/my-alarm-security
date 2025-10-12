@@ -66,11 +66,11 @@ layout: base.html
 {% endif %} {% if homepage.show_news %}
 <section>
   <h2 class="centered">Latest News</h2>
+  {%- assign posts = collections.news | reverse -%}
   <ul class="items">
-    {% assign posts = collections.news | reverse %}
-    {% for post in posts limit: 10 %}
+    {%- for post in posts limit: 10 -%}
       {% include "news-list-item.html" %}
-    {% endfor %}
+    {%- endfor -%}
   </ul>
   <a href="/blog/#content">Read More News</a>
 </section>
