@@ -1,23 +1,19 @@
 ---
-title: "Standard System £599"
-price: "£599.00"
+title: Standard System £599
+categories:
+  - categories/burglar-alarms.md
+price: £599.00
 order: 2
-meta_title: "Standard System - Quality Systems, Professionally Fitted. - MyAlarm Security"
-meta_description: "Standard System - Fully Certified Engineers, 247 Customer Service, High Quality Systems, Professionally Fitted. We are right on the borders of London and Kent."
-permalink: "/products/standard-system-599/"
-categories: ["categories/burglar-alarms.md"]
-features: []
-gallery: ["/images/products/standard-system-599.webp"]
+gallery:
+  - /images/products/standard-system-599.webp
+meta_description: Standard System - Fully Certified Engineers, 247 Customer
+  Service, High Quality Systems, Professionally Fitted. We are right on the
+  borders of London and Kent.
+meta_title: Standard System - Quality Systems, Professionally Fitted. - MyAlarm Security
 ---
-
 # Standard System
 
 #### Standard System £599
-
-**Standard System**
-
--   Specifications
--   Reviews
 
 
 **Package includes**
