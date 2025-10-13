@@ -1,20 +1,22 @@
 ---
-meta_title: "Home Burglar Alarm System Bexley Sidcup Orpington Bromley - MyAlarm Security"
-meta_description: "Burglar Alarm System brand new installation, upgrade, service, battery change, panel replacement, decommision. Bexley, Dartford, Orpington, Bromley, Sevenoaks."
-permalink: "/pages/about-us/"
-layout: page
+meta_description: Burglar Alarm System brand new installation, upgrade, service,
+  battery change, panel replacement, decommision. Bexley, Dartford, Orpington,
+  Bromley, Sevenoaks.
+meta_title: Home Burglar Alarm System Bexley Sidcup Orpington Bromley Bexley
+  Near Me - MyAlarm Security
 eleventyNavigation:
   key: About
   order: 2
+layout: page
+permalink: /pages/about-us/
 ---
-
 # About MyAlarm Security 
 
 **Why Choose MyAlarm Security?**
 
 With over 27 years experience in the security industry, having worked as the senior service engineer manager overseeing all engineers for some of the largest companies across the South East of England, our founder Matt decided it was time to start his own company. MyAlarm Security was founded in 2017 in Sidcup and is a family run business. The company has flourished and has grown to be a highly recommended and well established local company with many 5 star reviews.
 
-MyAlarm Security is your trusted, local home and business security company across Bexley, Orpington, Dartford, Sevenoaks, Greenwich and surrounding areas. We are a friendly and professional team who are highly skilled, qualified and experienced to handle all of your residential and commercial security needs.
+MyAlarm Security is your trusted, local home and business security company across Bexley, Bromley, Orpington, Dartford, Sevenoaks, Greenwich and surrounding areas. We are a friendly and professional team who are highly skilled, qualified and experienced to handle all of your residential and commercial security needs.
 
 We provide up front pricing and are transparent with all of our costs with a clear and concise explanation of the work required.
 
