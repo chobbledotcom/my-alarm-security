@@ -3,6 +3,9 @@ meta_title: "Alarm System Keston, CCTV Keston. Alarm Service Battery Keston - My
 meta_description: ""
 permalink: "/pages/keston/"
 layout: page
+eleventyNavigation:
+  key: Keston
+  parent: Service Areas
 ---
 
 # Burglar Alarm System Keston 

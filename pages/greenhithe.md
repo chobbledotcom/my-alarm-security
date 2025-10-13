@@ -3,6 +3,9 @@ meta_title: "Burglar Alarm System Greenhithe CCTV Systems In Greenhithe - MyAlar
 meta_description: ""
 permalink: "/pages/greenhithe/"
 layout: page
+eleventyNavigation:
+  key: Greenhithe
+  parent: Service Areas
 ---
 
 # Burglar Alarm System in Greenhithe 

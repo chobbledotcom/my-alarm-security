@@ -3,6 +3,9 @@ meta_title: "Burglar Alarm System Company Beckenham CCTV Beckenham - MyAlarm Sec
 meta_description: "Burglar Alarm System West Wickham Security Beckenham Security. CCTV systems. Home Security, Burglar Alarm Service Battery Beckenham. Alarm Company Near Me"
 permalink: "/pages/beckenham/"
 layout: page
+eleventyNavigation:
+  key: Beckenham
+  parent: Service Areas
 ---
 
 # Burglar Alarm Servicing in Beckenham 

@@ -3,6 +3,9 @@ meta_title: "Local Security Company. Alarm System Shoreham, CCTV Shoreham. - MyA
 meta_description: ""
 permalink: "/pages/shoreham/"
 layout: page
+eleventyNavigation:
+  key: Shoreham
+  parent: Service Areas
 ---
 
 # Burglar Alarm System Shoreham 

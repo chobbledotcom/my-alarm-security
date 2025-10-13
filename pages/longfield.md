@@ -3,6 +3,9 @@ meta_title: "Alarm System Longfield, CCTV Longfield. Alarm Service Longfield - M
 meta_description: "Alarm System Longfield, CCTV Longfield. Alarm Service Longfield, Alarm Battery Replacement Longfield, Home Alarm System Longfield. Tel 020 8302 4065"
 permalink: "/pages/longfield/"
 layout: page
+eleventyNavigation:
+  key: Longfield
+  parent: Service Areas
 ---
 
 # Burglar Alarm Servicing in Longfield 
