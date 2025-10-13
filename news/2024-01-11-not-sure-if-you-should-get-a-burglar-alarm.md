@@ -4,7 +4,7 @@ date: 2025-09-11
 gallery:
   - /images/products/not-sure-if-you-should-get-a-burglar-alarm.webp
 meta_description: Not sure if you should get a Burglar Alarm in Sidcup? Call us on 020 8302 4065
-meta_title: Burglar Alarm Sidcup - MyAlarm Security
+meta_title: Burglar Alarm Sidcup Bromley Orpington Bexley New Eltham - MyAlarm Security
 ---
 # Not sure if you should get a Burglar Alarm?
 
