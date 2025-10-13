@@ -25,4 +25,3 @@ We are based in [Sidcup](/pages/sidcup/), right on the borders of New Eltham and
 
 [Contact us](/contact/) today with any questions that you may have. Our helpful and experienced team will be more than happy to help and advise.
 
-![Does Your Alarm System Need A Service Or A New Battery?](https://res.cloudinary.com/kbs/image/upload/)

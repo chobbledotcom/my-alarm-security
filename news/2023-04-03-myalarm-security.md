@@ -19,5 +19,3 @@ In addition to providing peace of mind, investing in a burglar alarm system can 
 We are based in New Eltham / Sidcup and cover a large area including Bromley, Orpington, Dartford, Greenhithe, Gravesend, Greenwich, Sevenoaks and surrounding areas.
 
 [Contact us](/contact/) with any questions you may have. Our team are always happy to help.
-
-![Myalarm Security](https://res.cloudinary.com/kbs/image/upload/)
