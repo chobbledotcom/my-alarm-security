@@ -1,14 +1,13 @@
 ---
-title: "Servicing And Repairs"
-meta_title: "Servicing And Repairs"
-meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065"
-permalink: "/categories/servicing-and-repairs/"
-featured: false
+title: Servicing And Repairs
+meta_description: For all of your home and business security. Burglar Alarm
+  Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302
+  4065
+meta_title: Servicing And Repairs
 eleventyNavigation:
   key: Servicing And Repairs
   order: 23
 ---
-
 # Alarm System Service and Repairs 
 
 Do you have an existing [burglar alarm system](/categories/burglar-alarms/) that you would like looked at, serviced or repaired? Maybe your alarm needs a new battery or other batteries/devices replacing or the keypad no longer works? Or maybe you\'re having decorating done or home improvements and the carpet fitter or builder has gone through a cable and you need an emergency call out or need a sensor or door contact removed or replaced. If there is anything needing doing to your burglar alarm system, you have come to the right place.
@@ -38,9 +37,3 @@ We are based in New Eltham/Sidcup and cover a wide range of areas including [Bex
 We offer one-off and emergency call outs / services. Give us a call on 020 8302 4065 and our friendly team will be happy to help
 
 [**Contact Us**](/contact/) for more information.
-
-#### Showing 1 result
-
-Sort Products By:
-
-Select an Option Display New Products First Display Products On Sale First Display Popular Products First Product Name - Ascending Product Name - Descending Product Price - Ascending Product Price - Descending
