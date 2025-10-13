@@ -3,6 +3,9 @@ meta_title: "Burglar Alarm System Dartford CCTV Dartford, Alarm Battery - MyAlar
 meta_description: "Home Burglar Alarm System Dartford. CCTV Dartford. Home Security System, Burglar Alarm Service Battery. Alarm Company Near Me Dartford, Bexley 020 8302 4065"
 permalink: "/pages/dartford/"
 layout: page
+eleventyNavigation:
+  key: Dartford
+  parent: Service Areas
 ---
 
 # Burglar Alarm Servicing in Dartford 

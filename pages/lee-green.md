@@ -3,6 +3,9 @@ meta_title: "Alarm System Lee Green, CCTV Lee Green. Alarm Service Lee Green - M
 meta_description: ""
 permalink: "/pages/lee-green/"
 layout: page
+eleventyNavigation:
+  key: Lee Green
+  parent: Service Areas
 ---
 
 # Burglar Alarm Servicing in Lee Green 

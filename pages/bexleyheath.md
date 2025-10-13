@@ -3,6 +3,9 @@ meta_title: "Home Security System Bexleyheath Burglar Alarm Bexleyheath. - MyAla
 meta_description: ""
 permalink: "/pages/bexleyheath/"
 layout: page
+eleventyNavigation:
+  key: Bexleyheath
+  parent: Service Areas
 ---
 
 # Burglar Alarm Servicing in Bexleyheath 

@@ -3,6 +3,9 @@ meta_title: "Burglar Alarm System And CCTV Systems In Swanscombe, Kent Da - MyAl
 meta_description: "Burglar Alarm System Swanscombe. CCTV systems Swanscombe. Home Security Systems, Burglar Alarm Service Battery. Contact us for more information 020 8302 4065."
 permalink: "/pages/swanscombe/"
 layout: page
+eleventyNavigation:
+  key: Swanscombe
+  parent: Service Areas
 ---
 
 # Burglar Alarm System in Swanscombe 

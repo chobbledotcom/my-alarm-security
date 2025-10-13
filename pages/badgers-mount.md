@@ -3,6 +3,9 @@ meta_title: "Alarm System Badgers Mount, CCTV Badgers Mount. Alarm Service - MyA
 meta_description: "Alarm System Badgers Mount, CCTV Badgers Mount. Alarm Service Badgers Mount, Alarm Battery Replacement Badgers Mount, Home Alarm Badgers Mount. 020 8302 4065"
 permalink: "/pages/badgers-mount/"
 layout: page
+eleventyNavigation:
+  key: Badgers Mount
+  parent: Service Areas
 ---
 
 # Burglar Alarm System Badgers Mount 

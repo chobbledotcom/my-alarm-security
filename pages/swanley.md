@@ -3,6 +3,9 @@ meta_title: "Burglar Alarm System Swanley CCTV Systems In Swanley, Kent - MyAlar
 meta_description: ""
 permalink: "/pages/swanley/"
 layout: page
+eleventyNavigation:
+  key: Swanley
+  parent: Service Areas
 ---
 
 # Burglar Alarm System Swanley 

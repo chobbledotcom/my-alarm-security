@@ -3,6 +3,9 @@ meta_title: "Alarm System Hayes Bromley, CCTV Hayes Bromley - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/hayes/"
 layout: page
+eleventyNavigation:
+  key: Hayes
+  parent: Service Areas
 ---
 
 # Burglar Alarm System Hayes, Bromley 

@@ -3,6 +3,9 @@ meta_title: "Burglar Alarm System CCTV In Blackheath Greenwich Alarm Company - M
 meta_description: "Burglar Alarm System Blackheath. CCTV Systems Blackheath. Home Security System, Burglar Alarm Service Battery. Alarm Company Near Me Blackheath 020 8302 4065"
 permalink: "/pages/blackheath/"
 layout: page
+eleventyNavigation:
+  key: Blackheath
+  parent: Service Areas
 ---
 
 # Burglar Alarm System in Blackheath 
