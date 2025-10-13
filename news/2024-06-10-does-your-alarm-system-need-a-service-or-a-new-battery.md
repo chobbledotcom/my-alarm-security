@@ -1,11 +1,14 @@
 ---
-title: "Does Your Alarm System Need A Service Or A New Battery?"
+title: Does Your Alarm System Need A Service Or A New Battery?
 date: 2024-06-10
-meta_title: "Alarm System New Battery Service - My Alarm Security"
-meta_description: "Does Your Alarm System Need A Service Or A New Battery? Orpington, Bromley, Sevenoaks, Greenwich, Bexley, Dartford, Gravesend. Contact us 020 8302 4065"
-permalink: "/blog/does-your-alarm-system-need-a-service-or-a-new-battery/"
+gallery:
+  - /images/news/Burglar Alarm System Battery 24 7 Callout Emergency Engineer
+    Bexley Orpington Bromley New Eltham Chislehurst Dartford.jpg
+meta_description: Does Your Alarm System Need A Service Or A New Battery?
+  Orpington, Bromley, Sevenoaks, Greenwich, Bexley, Dartford, Gravesend. Contact
+  us 020 8302 4065
+meta_title: Alarm System New Battery Service Emergency Engineer - MyAlarm Security
 ---
-
 # Does Your Alarm System Need A Service Or A New Battery? 
 
 We often get phone calls from people who can no longer get hold of the original installer of their alarm system. Maybe the company was sold, the owners retired or the company was re-branded. Whatever the reason, this is definitely something we are able to help with.
