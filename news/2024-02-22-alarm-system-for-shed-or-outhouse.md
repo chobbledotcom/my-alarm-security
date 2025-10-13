@@ -1,14 +1,13 @@
 ---
-title: Alarm System For Shed Or Outhouse
-date: 2025-02-22
+title: "Alarm System For Shed Or Outhouse"
+date: 2024-02-22
+meta_title: "Shed Outhouse Office Alarm System Bromley Orpington Bexley Eltham - My Alarm Security"
+meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Orpington. Call 020 8302 4065"
+permalink: "/blog/alarm-system-for-shed-or-outhouse/"
 gallery:
-  - /images/products/alarm-system-for-shed-or-outhouse.webp
-meta_description: For all of your home and business security. Burglar Alarm
-  Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Orpington.
-  Call 020 8302 4065
-meta_title: Shed Outhouse Office Alarm System Bromley Orpington Bexley Eltham -
-  MyAlarm Security
+  - "/images/products/alarm-system-for-shed-or-outhouse.webp"
 ---
+
 # Alarm System For Shed Or Outhouse
 
 Did you know that you can add your shed/outhouse/garage into your home alarm system? Here we have a garden shed that is made of plastic. We have installed a door contact on to the inside of the double shed doors and have linked this sensor up to the main house burglar alarm system. Door contacts/movement sensors can also be installed on to wooden sheds as well as plastic sheds or even summer houses etc. We have added a 'shed set' setting on to the system so that when you are home and want your home alarm off, you can set the shed set only, so if someone was to try and gain access to the shed, it would trigger your alarm system.
