@@ -125,6 +125,20 @@ content:
     path: _data/home_content.json
     format: json
     fields:
+      - name: banner
+        label: Banner Section
+        type: object
+        fields:
+          - name: special_offer
+            label: Special Offer
+            type: object
+            fields:
+              - { name: message, type: string, label: Offer Message, required: true }
+              - { name: link, type: string, label: Link URL, required: true }
+          - name: images
+            label: Banner Images
+            type: image
+            list: true
       - name: hero
         label: Hero Section
         type: object
