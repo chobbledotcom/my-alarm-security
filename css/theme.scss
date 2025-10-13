@@ -476,3 +476,11 @@ body.home section {
 .latest-news {
   text-align: center;
 }
+
+nav {
+  @media (max-width: $mobile) {
+    a[href="/service-areas/"] + ul {
+      display: none;
+    }
+  }
+}
