@@ -73,7 +73,7 @@ layout: base.html
 {% endif %}
 
 {% if homepage.show_news %}
-<section>
+<section class="latest-news">
   <h2 class="centered">Latest News</h2>
   {%- assign posts = collections.news | reverse -%}
   <ul class="items">
