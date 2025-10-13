@@ -22,4 +22,4 @@ We provide up front pricing and are transparent with all of our costs with a cle
 
 Call our friendly team on **020 8302 4065** or [**Contact Us**](/contact/) online now.
 
-![MyAlarm Security](/images/pages/kn0qr1ujabqxosacfamc.webp)
+![MyAlarm Security](/images/pages/matt-and-daughter.webp)
