@@ -1,10 +1,9 @@
 ---
 title: Burglar Alarms
-featured: false
 meta_description: BURGLAR ALARM all types of Home Security, Business security
   based New Eltham, Sidcup, Bexley covering Greenwich, Orpington, Bromley,
   Dartford and surrounding
-meta_title: Burglar Alarms New Eltham, Sidcup, Bexley, Greenwich, Orpington,
+meta_title: Burglar Alarm New Eltham, Sidcup, Bexley, Greenwich, Orpington,
   Bromley, Dartford
 ---
 # Burglar Alarms 
