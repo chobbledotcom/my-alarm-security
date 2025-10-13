@@ -1,11 +1,13 @@
 ---
-title: "Petts Wood Alarm System Upgrade And Cctv Package"
+title: Petts Wood Alarm System Upgrade And Cctv Package
 date: 2024-05-30
-meta_title: "Petts Wood Intruder Alarm Company. Petts Wood Cctv Company - My Alarm Security"
-meta_description: "Intruder Alarm and CCTV Company. Petts Wood, Orpington, Bromley, Sevenoaks, Bexley, Dartford, Greenwich. 020 8302 4065."
-permalink: "/blog/petts-wood-alarm-system-upgrade-and-cctv-package/"
+gallery:
+  - /images/MyAlarm Security Systems Burglar Alarm CCTV Bexley Bromley Dartford
+    Orpington KEYPAD SPENCER.jpg
+meta_description: Intruder Alarm and CCTV Company. Petts Wood, Orpington,
+  Bromley, Sevenoaks, Bexley, Dartford, Greenwich. 020 8302 4065.
+meta_title: Petts Wood Intruder Alarm Company. Petts Wood Cctv Company - MyAlarm Security
 ---
-
 # [**Petts Wood Alarm System Upgrade and CCTV Package**] 
 
 We recently was asked to attend a property where the homeowner had sadly had their car stolen off of their drive. Car theft seems to be rife recently with more and more cars being stolen. 
