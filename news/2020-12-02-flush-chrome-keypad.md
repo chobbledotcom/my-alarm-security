@@ -1,7 +1,7 @@
 ---
 title: "Flush Chrome Keypad"
 date: 2020-12-02
-meta_title: "Burglar Alarm Company Bromley - My Alarm Security"
+meta_title: "Burglar Alarm Company Bromley - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Bromley. Call 020 8302 4065"
 permalink: "/blog/flush-chrome-keypad/"
 gallery:

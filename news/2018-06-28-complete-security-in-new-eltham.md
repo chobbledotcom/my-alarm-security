@@ -1,7 +1,7 @@
 ---
 title: "Complete Security In New Eltham"
 date: 2018-06-28
-meta_title: "Home Burglar Alarm And Cctv New Eltham - My Alarm Security"
+meta_title: "Home Burglar Alarm And CCTV New Eltham - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/complete-security-in-new-eltham/"
 gallery:

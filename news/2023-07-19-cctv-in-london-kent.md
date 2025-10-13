@@ -1,7 +1,7 @@
 ---
-title: "Cctv In London / Kent"
+title: "CCTV In London / Kent"
 date: 2023-07-19
-meta_title: "Cctv In Bexley - My Alarm Security"
+meta_title: "CCTV In Bexley - MyAlarm Security"
 meta_description: "If you are looking to have CCTV installed at your home or business, contact us for more information, 020 8302 4065. CCTV in New Eltham, Orpington, Bromley."
 permalink: "/blog/cctv-in-london-kent/"
 gallery:
@@ -26,4 +26,4 @@ So if you are thinking of having [CCTV](/categories/cctv/) installed at your hom
 
  Have a look at some of our ready made packages or give us a [call for more information.](/contact/)
 
-![Cctv In London / Kent](/images/news/news-cctv-in-london-kent-lawurn0b8li9fnsv2eki.png)
+![CCTV In London / Kent](/images/news/news-cctv-in-london-kent-lawurn0b8li9fnsv2eki.png)

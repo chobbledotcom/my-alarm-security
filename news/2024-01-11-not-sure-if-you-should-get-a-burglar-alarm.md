@@ -1,7 +1,7 @@
 ---
 title: "Not Sure If You Should Get A Burglar Alarm?"
 date: 2024-01-11
-meta_title: "Burglar Alarm Sidcup - My Alarm Security"
+meta_title: "Burglar Alarm Sidcup - MyAlarm Security"
 meta_description: "Not sure if you should get a Burglar Alarm in Sidcup? Call us on 020 8302 4065"
 permalink: "/blog/not-sure-if-you-should-get-a-burglar-alarm/"
 gallery:

@@ -18,6 +18,7 @@ const PRODUCT_ORDER = {
  * Format: { "search": "replacement" }
  */
 const FIND_REPLACES = {
+  ".php.html": "/",
   "Cctv": "CCTV",
   "My Alarm Security": "MyAlarm Security"
 };

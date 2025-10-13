@@ -1,7 +1,7 @@
 ---
-title: "Petts Wood Alarm System Upgrade And Cctv Package"
+title: "Petts Wood Alarm System Upgrade And CCTV Package"
 date: 2024-05-30
-meta_title: "Petts Wood Intruder Alarm Company. Petts Wood Cctv Company - My Alarm Security"
+meta_title: "Petts Wood Intruder Alarm Company. Petts Wood CCTV Company - MyAlarm Security"
 meta_description: "Intruder Alarm and CCTV Company. Petts Wood, Orpington, Bromley, Sevenoaks, Bexley, Dartford, Greenwich. 020 8302 4065."
 permalink: "/blog/petts-wood-alarm-system-upgrade-and-cctv-package/"
 ---
@@ -24,4 +24,4 @@ This homeowner is now protected with the latest Burglar Alarm System and CCTV in
 
 [Contact us](/contact/) is you have any questions or would like further information on any of our systems. We are a family run company based in Sidcup and cover Orpington, Bromley, Petts Wood, Dartford, Knockholt, Crockenhill, Bexley, Greenwich, Gravesend, Erith, Sevenoaks and surrounding areas.
 
-![Petts Wood Alarm System Upgrade And Cctv Package](https://res.cloudinary.com/kbs/image/upload/)
+![Petts Wood Alarm System Upgrade And CCTV Package](https://res.cloudinary.com/kbs/image/upload/)
