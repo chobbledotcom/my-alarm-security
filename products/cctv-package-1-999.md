@@ -14,8 +14,6 @@ meta_title: CCTV Package Burglar Alarm System Bromley Dartford New Eltham Sidcup
 ---
 # CCTV Package 1
 
-#### CCTV Package 1 £999
-
 **Package includes:**
 
 - 4 x 5MP Analogue eyeball type cameras (conventional cameras)
@@ -27,8 +25,6 @@ meta_title: CCTV Package Burglar Alarm System Bromley Dartford New Eltham Sidcup
 - Full App control from your smart phone/device
 - Conventional cameras with day time colour images and black and white night time images
 - Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
-
-
 
 **Our Price:** £999.00
 
