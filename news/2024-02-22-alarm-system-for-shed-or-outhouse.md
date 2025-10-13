@@ -7,7 +7,7 @@ meta_description: For all of your home and business security. Burglar Alarm
   Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Orpington.
   Call 020 8302 4065
 meta_title: Shed Outhouse Office Alarm System Bromley Orpington Bexley Eltham -
-  My Alarm Security
+  MyAlarm Security
 ---
 # Alarm System For Shed Or Outhouse
 
