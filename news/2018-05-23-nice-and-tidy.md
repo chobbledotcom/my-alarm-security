@@ -1,7 +1,7 @@
 ---
 title: "Nice And Tidy"
 date: 2018-05-23
-meta_title: "Burglar Alarm Company Petts Wood - My Alarm Security"
+meta_title: "Burglar Alarm Company Petts Wood - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/nice-and-tidy/"
 gallery:

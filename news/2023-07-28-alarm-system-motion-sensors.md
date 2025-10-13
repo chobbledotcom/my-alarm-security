@@ -1,7 +1,7 @@
 ---
 title: "Alarm System Motion Sensors"
 date: 2023-07-28
-meta_title: "Alarm System Movement Sensor Faulty Orpington Bexley Bromley - My Alarm Security"
+meta_title: "Alarm System Movement Sensor Faulty Orpington Bexley Bromley - MyAlarm Security"
 meta_description: "Do you have a faulty Alarm System Motion Sensor? Maybe you need your sensor removed for decorating or a refurb. Give us a call on 020 8302 4065."
 permalink: "/blog/alarm-system-motion-sensors/"
 gallery:

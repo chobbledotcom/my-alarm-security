@@ -92,7 +92,7 @@ const main = async () => {
     console.log('');
 
     console.log('Applying find/replace patterns to markdown files...');
-    const targetDirs = ['pages', 'products', 'categories'];
+    const targetDirs = ['pages', 'products', 'categories', 'news'];
     targetDirs.forEach(dir => {
       const dirPath = path.join(config.OUTPUT_BASE, dir);
       applyFindReplacesRecursive(dirPath);

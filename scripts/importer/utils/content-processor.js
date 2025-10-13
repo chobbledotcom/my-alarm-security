@@ -119,6 +119,8 @@ const cleanContent = (content, contentType) => {
     .replace(/^:::\s*.*$/gm, '') // Remove all pandoc div markers
     .replace(/\{[^}]*\}/g, '') // Remove any remaining attribute blocks
     .replace(/\[ \]/g, '') // Remove empty checkbox markers
+    // Remove broken cloudinary image links
+    .replace(/^!\[.*?\]\(https:\/\/res\.cloudinary\.com\/kbs\/image\/upload\/\)\s*$/gm, '')
     // Fix multiple asterisks
     .replace(/\*{3,}/g, '**')
     .replace(/\*\*[ \t\u00A0]+\*\*/g, '**')

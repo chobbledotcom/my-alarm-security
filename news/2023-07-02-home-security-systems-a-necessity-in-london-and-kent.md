@@ -1,7 +1,7 @@
 ---
 title: "Home Security Systems A Necessity In London And Kent"
 date: 2023-07-02
-meta_title: "Home Security Alarm Orpington - My Alarm Security"
+meta_title: "Home Security Alarm Orpington - MyAlarm Security"
 meta_description: "Are you looking to have a burglar alarm installed at your property? Have a look at some of our packages or contact us for more information."
 permalink: "/blog/home-security-systems-a-necessity-in-london-and-kent/"
 gallery:
@@ -20,7 +20,7 @@ Burglary rates in both London and Kent have seen a steady increase over the past
 
 Importance of Home Security Systems
 
-Having a home security system installed is an excellent way to protect your property from intruders. A security system not only provides peace of mind but also acts as a deterrent for burglars. At MyAlarm security, we can create any package to suit your property layout and requirements to include sensors (door contacts) placed at doors and windows, motion detectors, and a central control panel. The system is designed to alert the homeowner if there is a break-in attempt. We also offer keytags and keyfobs for ease of setting/unsetting which can be used as a panic button. Have a read up on one of our other blogs here about the system we use: [Pyronix Alarm System.](/blog/pyronix-alarm-system/)
+Having a home security system installed is an excellent way to protect your property from intruders. A security system not only provides peace of mind but also acts as a deterrent for burglars. At MyAlarm security, we can create any package to suit your property layout and requirements to include sensors (door contacts) placed at doors and windows, motion detectors, and a central control panel. The system is designed to alert the homeowner if there is a break-in attempt. We also offer keytags and keyfobs for ease of setting/unsetting which can be used as a panic button. Have a read up on one of our other blogs here about the system we use: [Pyronix Alarm System.](pyronix-alarm-system/)
 
 In addition to burglary prevention, home security systems also allow homeowners to monitor their homes remotely. With the advancements in technology, it's possible to receive live alerts on your smartphone or computer when there is an attempted break-in or any other sensor activations.
 

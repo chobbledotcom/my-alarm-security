@@ -1,7 +1,7 @@
 ---
-title: "Black Cctv Camera"
+title: "Black CCTV Camera"
 date: 2020-06-30
-meta_title: "Cctv Package Bexley Welling Chislehurst - My Alarm Security"
+meta_title: "CCTV Package Bexley Welling Chislehurst - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/black-cctv-camera/"
 gallery:
@@ -24,4 +24,4 @@ We cover Bexley, Bromley, Dartford, Eltham, New Eltham, Welling, Bexleyheath, Or
 
 We have a number of special offers and and pre-built home security alarm and CCTV system packages here Special Offers
 
-![Black Cctv Camera](/images/news/news-black-cctv-camera-mdjexqwntvvo93crzbyc.jpg)
+![Black CCTV Camera](/images/news/news-black-cctv-camera-mdjexqwntvvo93crzbyc.jpg)

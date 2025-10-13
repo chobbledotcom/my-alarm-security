@@ -1,7 +1,7 @@
 ---
 title: "Car Defender By Pyronix"
 date: 2024-02-22
-meta_title: "Car Defender Vehicle Security Bexley Bromley Orpington Sidcup Eltham - My Alarm Security"
+meta_title: "Car Defender Vehicle Security Bexley Bromley Orpington Sidcup Eltham - MyAlarm Security"
 meta_description: "The Car Defender has been designed to prevent vehicles from being stolen or from vehicle break ins by triggering your burglar alarm when an attempt is made"
 permalink: "/blog/car-defender-by-pyronix/"
 gallery:

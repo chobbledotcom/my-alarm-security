@@ -1,7 +1,7 @@
 ---
-title: "Cctv Image"
+title: "CCTV Image"
 date: 2018-08-22
-meta_title: "Cctv Company Orpington - My Alarm Security"
+meta_title: "CCTV Company Orpington - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
 permalink: "/blog/cctv-image/"
 gallery:
@@ -18,4 +18,4 @@ So along with the [CCTV](/categories/cctv/) installation, we also had our app co
 
 Contact us [here](/contact/).
 
-![Cctv Image](/images/news/news-cctv-image-xlsdhnvcwps22cnvg9mg.jpg)
+![CCTV Image](/images/news/news-cctv-image-xlsdhnvcwps22cnvg9mg.jpg)
