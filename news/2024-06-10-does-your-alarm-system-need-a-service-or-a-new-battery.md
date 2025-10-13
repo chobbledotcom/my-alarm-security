@@ -21,5 +21,3 @@ Maybe you're looking to have an existing system upgraded or a brand new system f
 We are based in [Sidcup](/pages/sidcup/), right on the borders of New Eltham and [Orpington](/pages/orpington/), so are in a very central location and can easily and quickly access the areas of [Bromley](/pages/bromley/), [West Wickham](/pages/west-wickham/), Chislehurst, Orpington, Bexley, Swanley, Welling, Bexleyheath, Dartford, Swanscombe, Bean, Wilmington, Crayford, Erith, Petts Wood, Chelsfield (to name but a few areas) and their surrounding areas.
 
 [Contact us](/contact/) today with any questions that you may have. Our helpful and experienced team will be more than happy to help and advise.
-
-![Does Your Alarm System Need A Service Or A New Battery?](https://res.cloudinary.com/kbs/image/upload/)
