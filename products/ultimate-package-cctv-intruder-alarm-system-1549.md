@@ -30,7 +30,7 @@ meta_title: CCTV And Intruder Burglar Alarm System Package Bexley Bromley -
 **Info...**
 
 - Available to view remotely anywhere in the world with an internet connection.
-- All cables, power supplies and sundries included
+- All cables and sundries included
 - Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
 **Our Price:** £1549.00
