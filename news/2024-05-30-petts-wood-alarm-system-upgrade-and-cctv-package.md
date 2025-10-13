@@ -25,5 +25,3 @@ The alarm system app allows certain zones/areas/rooms to be set at different tim
 This homeowner is now protected with the latest Burglar Alarm System and CCTV in Petts Wood. 
 
 [Contact us](/contact/) is you have any questions or would like further information on any of our systems. We are a family run company based in Sidcup and cover Orpington, Bromley, Petts Wood, Dartford, Knockholt, Crockenhill, Bexley, Greenwich, Gravesend, Erith, Sevenoaks and surrounding areas.
-
-![Petts Wood Alarm System Upgrade And Cctv Package](https://res.cloudinary.com/kbs/image/upload/)
