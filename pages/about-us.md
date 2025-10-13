@@ -24,14 +24,3 @@ Call our friendly team on **020 8302 4065** or [**Contact Us**](/contact/) onlin
 
 
 
-
-**Fully Certified Engineers**
-
-
-**24/7 Customer Service**
-
-
-**High Quality Systems**
-
-
-**Professionally Fitted**
