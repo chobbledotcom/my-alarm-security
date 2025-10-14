@@ -25,12 +25,12 @@ meta_title: CCTV And Intruder Burglar Alarm System Package Bexley Bromley -
 - 1 x App controlled panel with 12 months free app connectivity (£20 a year thereafter)
 - 4 x 5MP eyeball type cameras
 - 1 x 2tb hard drive recorder
-- Hard wired system
 
 **Info...**
 
 - Available to view remotely anywhere in the world with an internet connection.
 - All cables and sundries included
+- Hard wired CCTV system
 - Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
 **Our Price:** £1549.00
