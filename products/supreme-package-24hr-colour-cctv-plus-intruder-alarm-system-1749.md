@@ -30,6 +30,7 @@ meta_title: Intruder Burglar Alarm And CCTV Company Orpington Bromley Eltham -
 
 - Available to view remotely anywhere in the world with an internet connection and app subscription (Burlgar Alarm Only)
 - All cables and sundries included
+- Hardwired CCTV system
 - Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
 **Our Price:** £1749.00
