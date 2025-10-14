@@ -7,7 +7,7 @@ meta_title: Burglar Alarm New Eltham, Sidcup, Bexley, Greenwich, Orpington,
   Bromley, Dartford
 eleventyNavigation:
   key: Burglar Alarms
-  order: 21
+  order: 3
 ---
 # Burglar Alarms 
 
