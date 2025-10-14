@@ -26,7 +26,6 @@ meta_title: Intruder Burglar Alarm System Company Bexley - MyAlarm Security
 
 **Our Price:** £539.00
 
-# Basic System
 
 Our basic package was primarily designed for use in properties such as flats, upper maisonettes and some open plan commercial premises that have less entry points.
 
