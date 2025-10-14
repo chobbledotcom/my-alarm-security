@@ -18,17 +18,12 @@ meta_title: CCTV Package Burglar Alarm System Bromley Dartford New Eltham Sidcup
 
 - 4 x 5MP Analogue eyeball type cameras (conventional cameras)
 - 1 x 2 TB Hardrive with 30 day storage
-- Hardwired System
 
 **Info...**
 
 - Full App control from your smart phone/device
+- Hardwired system
 - Conventional cameras with day time colour images and black and white night time images
 - Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
 **Our Price:** £999.00
-
-
-------------------------------------------------------------------------
-
-# CCTV Package 1
