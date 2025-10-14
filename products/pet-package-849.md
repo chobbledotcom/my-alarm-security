@@ -28,9 +28,6 @@ meta_title: Pet Friendly Burglar Alarm System Orpington Bromley Bexley Sidcup
 
 **Our Price:** £849.00
 
-------------------------------------------------------------------------
-
-# Pet Package
 
 Our pet package was designed for premises with cats and/or dogs up to 24 kg\'s.
 
