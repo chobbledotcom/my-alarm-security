@@ -44,6 +44,6 @@ Our packages also include an external siren for the front and a decoy for the re
 
 The app is also included within this package which enables you to arm/disarm and receive notifications from anywhere in the world as long as your panel remains connected to your router and you have internet on your mobile devices. The app subscription is free for the first. If you wish to continue using the app after the first year, there is an app subscription fee of £20 per year*. The app is optional and if you choose not to renew your subscription, your system will still work as it should - you just wont be able to remotely access the system or be notified of any activations.
 
-All of our packages and systems can be customized to suit your property and requirements. Additional movement sensors, door contacts, vibration sensors, keypads, keyfobs, keytags and more can be added to any of our packages to better suit your needs.
+All of our packages and systems can be customised to suit your property and requirements. Additional movement sensors, door contacts, vibration sensors, keypads, keyfobs, keytags and more can be added to any of our packages to better suit your needs.
 
 *App subscription subject to price increase by the developer.
