@@ -27,7 +27,6 @@ meta_title: Standard System Alarm Package. Door Contact, Movement Sensors, Alarm
 
 **Our Price:** £599.00
 
-# Standard System
 
 Our standard package was designed to suit most residential premises and is by far our most popular package.
 
