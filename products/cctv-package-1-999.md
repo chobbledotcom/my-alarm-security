@@ -19,7 +19,7 @@ meta_title: CCTV Package Burglar Alarm System Bromley Dartford New Eltham Sidcup
 - 4 x 5MP Analogue eyeball type cameras (conventional cameras)
 - 1 x 2 TB Hardrive with 30 day storage
 
-**Info...**
+**Info:**
 
 - Full App control from your smart phone/device
 - Hardwired system
