@@ -26,7 +26,7 @@ meta_title: CCTV And Intruder Burglar Alarm System Package Bexley Bromley -
 - 4 x 5MP eyeball type cameras
 - 1 x 2tb hard drive recorder
 
-**Info...**
+**Info:**
 
 - Available to view remotely anywhere in the world with an internet connection.
 - All cables and sundries included
