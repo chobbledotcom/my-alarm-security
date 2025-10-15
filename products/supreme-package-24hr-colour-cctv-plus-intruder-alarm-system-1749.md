@@ -26,7 +26,7 @@ meta_title: Intruder Burglar Alarm And CCTV Company Orpington Bromley Eltham -
 - 1 x Decoy siren for the rear
 - 1 x App controlled panel
 
-**Info...**
+**Info:**
 
 - Available to view remotely anywhere in the world with an internet connection and app subscription (Burlgar Alarm Only)
 - All cables and sundries included
