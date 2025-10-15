@@ -24,7 +24,10 @@ meta_title: Intruder Burglar Alarm And CCTV Company Orpington Bromley Eltham -
 - 4 x Movement sensors (can be pet friendly)
 - 1 x External siren for the front
 - 1 x Decoy siren for the rear
-- 1 x App controlled panel
+- 1 x App controlled panel with 12 months free app connectivity (£20 a year thereafter) 
+- 1 x 4 Channel digital video recorder
+- 1 x 2tb hard drive recorder
+- Full CCTV app control
 
 **Info:**
 
