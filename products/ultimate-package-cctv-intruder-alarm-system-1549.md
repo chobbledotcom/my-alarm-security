@@ -24,7 +24,9 @@ meta_title: CCTV And Intruder Burglar Alarm System Package Bexley Bromley -
 - 1 x Decoy siren for the rear
 - 1 x App controlled panel with 12 months free app connectivity (£20 a year thereafter)
 - 4 x 5MP eyeball type cameras
+- 1 x 4 Channel digital video recorder
 - 1 x 2tb hard drive recorder
+- Full CCTV app control
 
 **Info:**
 
