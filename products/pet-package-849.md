@@ -33,7 +33,7 @@ Our pet package was designed for premises with cats and/or dogs up to 24 kg\'s.
 
 The package is designed to give your pets free reign without the worry of triggering any movement sensors.
 
-The pet package includes 2 x set/unset keyfobs which also pair as remote panic buttons which work up to 60 meters from your main control panel.
+The pet package includes 2 x set/unset keyfobs which also pair as remote panic buttons which work up to 60 meters from your main control panel. Also included are two pet friendly movement sensors and four shock sensors for doors and/or windows. 
 
 All of our packages come with a door contact for the entry/exit door which starts your audible countdown timer to remind you to turn the system off. Our entry and exit timers can be adjusted to suit your requirements.
 
