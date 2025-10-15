@@ -6,7 +6,7 @@ meta_description: For all of your home and business security. Burglar Alarm
 meta_title: Servicing And Repairs
 eleventyNavigation:
   key: Servicing And Repairs
-  order: 23
+  order: 5
 ---
 # Alarm System Service and Repairs 
 
