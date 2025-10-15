@@ -129,15 +129,18 @@ $gap: 1rem;
     a {
       display: inline-block;
       padding: $gap * 0.5 $gap;
-      background: var(--nav-link-active-color);
-      color: var(--form-button-hover-text-color);
+      background: #000000;
+      color: #ffffff;
+      border: 2px solid #000000;
       text-decoration: none;
       border-radius: var(--border-radius);
       white-space: nowrap;
+      font-family: var(--font-family-heading);
 
       &:hover {
-        background: var(--form-button-hover-text-color);
-        color: var(--nav-link-active-color);
+        background: var(--nav-link-active-color);
+        color: #000000;
+        border: 2px solid #000000;
       }
     }
   }
