@@ -16,7 +16,7 @@ meta_title: Colour CCTV Package Bexley Dartford Orpington And Burglar Alarm -
 
 **Package includes:**
 
-- 4 x 5MP ColorVu eyeball type cameras with 24 hour colour images
+- 4 x 3K ColorVu eyeball type cameras with 24 hour colour images
 - 1 x 2TB Hardrive with 30 day storage
 
 **Info...**
