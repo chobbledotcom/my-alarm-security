@@ -20,4 +20,4 @@ Check out some of our premade premade packages here. All of our packages can be 
 [Burglar Alarm System Sevenoaks.](/categories/burglar-alarms/)
 
 [CCTV Packages Sevenoaks.](/categories/cctv/)
-{% include "area-list-shortcode.html", prefix: "We also provide services in ", suffix: "." %}
+{% include "area-list-shortcode.html", prefix: "Our services are also available in ", suffix: "." %}
