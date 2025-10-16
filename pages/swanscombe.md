@@ -27,3 +27,4 @@ If you have any questions or would like to book a free survey, you can fill in y
 Email: Sales@MyAlarmSecurity.co.uk
 
 Tel: 020 8302 4065
+{% include "area-list-shortcode.html", prefix: "We also provide services in ", suffix: "." %}
