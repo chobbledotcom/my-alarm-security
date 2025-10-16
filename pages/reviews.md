@@ -7,8 +7,9 @@ eleventyNavigation:
 layout: reviews.html
 permalink: /reviews/
 ---
+
 # Reviews
 
-Please find all of our customer reviews below!
+Check out some of our customer reviews below. You can see more on [our Google Maps listing, here](https://share.google/lHdeUROjKe5zqlOpj) or on [our Facebook page, here](https://www.facebook.com/MyAlarm)
 
 ---

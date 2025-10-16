@@ -1,30 +1,22 @@
 {
-  "language": "en-GB",
-  "organization": {
-    "description": "MyAlarm Security",
-    "legalName": "MyAlarm Security",
-    "foundingDate": "MyAlarm Security",
-    "founders": [
-      {
-        "name": "MyAlarm Security"
-      }
-    ],
-    "address": {
-      "streetAddress": "40 Northcote Road",
-      "addressLocality": "Sidcup",
-      "addressRegion": "Kent",
-      "postalCode": "DA14 6PW",
-      "addressCountry": "GB"
-    },
-    "contactPoint": [
-      {
-        "telephone": "020 8302 4065",
-        "contactType": "customer service",
-        "areaServed": "London Kent",
-        "availableLanguage": [
-          "English"
-        ]
-      }
-    ]
-  }
+	"language": "en-GB",
+	"organization": {
+		"description": "Specialists in all types of Home Security, Business Security and Building security based in between New Eltham and Sidcup, Bexley and covering Greenwich, Orpington, Swanley, Wilmington, Hextable, Bromley, Gravesend, Chislehurst, Bexleyheath, Ebbsfleet, Welling, Petts Wood, Swanscombe and more. We are right on the borders of London and Kent.",
+		"legalName": "MyAlarm Security",
+		"address": {
+			"streetAddress": "40 Northcote Road",
+			"addressLocality": "Sidcup",
+			"addressRegion": "Kent",
+			"postalCode": "DA14 6PW",
+			"addressCountry": "GB"
+		},
+		"contactPoint": [
+			{
+				"telephone": "020 8302 4065",
+				"contactType": "customer service",
+				"areaServed": "London Kent",
+				"availableLanguage": ["English"]
+			}
+		]
+	}
 }

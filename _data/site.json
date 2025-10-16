@@ -1,8 +1,9 @@
 {
-  "name": "MyAlarm Security",
-  "url": "https://www.myalarmsecurity.co.uk",
-  "socials": {
-    "Facebook": "https://www.facebook.com/MyAlarm",
-    "RSS": "/feed.xml"
-  }
+	"name": "MyAlarm Security",
+	"url": "https://www.myalarmsecurity.co.uk",
+	"socials": {
+		"Facebook": "https://www.facebook.com/MyAlarm",
+		"Google": "https://share.google/lHdeUROjKe5zqlOpj",
+		"RSS": "/feed.xml"
+	}
 }
