@@ -20,4 +20,5 @@ We offer the latest in CCTV. Our ColorVu CCTV cameras have been extremely popula
 Does your existing house alarm need a new battery? Maybe the keypad no longer works or you have a zone or sensor fault? Or maybe you just want a service and the system checked over for your insurance or for your own peace of mind. We offer servicing and alarm system battery changes for all makes and models of alarms. If you dont know the brand of alarm system, dont worry, just send us a photo of the panel and we can identify it from there. Send your photo and enquiry to us at <Sales@MyAlarmSecurity.co.uk> or give us a call for more info on having your burglar alarm serviced in Blackheath.
 
 It couldnt be easier to get in touch with us. Simpy fill out your details on our [contact form](/contact/) and one of our helpful team will give you a call or email as soon as possible. You can also email us direct at Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.
-{% include "area-list-shortcode.html", prefix: "We also provide services in ", suffix: "." %}
+
+{% include "area-list-shortcode.html", prefix: "Our security services extend to ", suffix: "." %}

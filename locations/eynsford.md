@@ -22,4 +22,5 @@ For an idea on prices, please check out our current most popular packages here: 
 Our family run, local, friendly and reliable company can help with all aspects of your home and business security. We offer the latest CCTV with our ColorVu cameras which offer 24 hour colour footage. Check out our CCTV packages here: [CCTV in Eynsford.](/categories/cctv/) We offer free site surveys to go through camera placement as well as harddrive and recorder placement within your home or business. All of our CCTV systems are hard wired and we aim to keep the cabling as neat and tidy as we can with as little cable exposed as possible.
 
 Dont delay, call us today on 020 8302 4065. Alternatively, send us an email at Sales@MyAlarmSecurity.co.uk or head over to our [Contact Page](/contact/) and fill in your details and one of our friendly team will call or email you back as soon as possible.
-{% include "area-list-shortcode.html", prefix: "We also provide services in ", suffix: "." %}
+
+{% include "area-list-shortcode.html", prefix: "We also provide alarm and CCTV services in ", suffix: "." %}

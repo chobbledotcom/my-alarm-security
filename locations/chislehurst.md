@@ -18,4 +18,5 @@ Are you looking for an engineer visit for a burglar alarm call out in Chislehurs
 # CCTV Installation in Chislehurst 
 
 Our family run, local, friendly and reliable company can help with all aspects of your home and business security. We offer the latest CCTV with our ColorVu cameras which offer 24 hour colour footage. Check out our CCTV packages here: [CCTV in Chislehurst.](/categories/cctv/)
-{% include "area-list-shortcode.html", prefix: "We also provide services in ", suffix: "." %}
+
+{% include "area-list-shortcode.html", prefix: "Our services are also available in ", suffix: "." %}

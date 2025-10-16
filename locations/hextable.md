@@ -20,4 +20,5 @@ We offer various services for alarm systems such as battery changes, part replac
 If you are looking to get a hard wired, professionally installed CCTV system at your property, then look no further than MyAlarm Security. We offer the latest in CCTV technology with our 24 hour colour images cameras. Check out some of our packages here: [CCTV in Hextable.](/categories/cctv/)
 
 Feel free to contact us if you have any questions. [Contact Us Here](/contact/)
-{% include "area-list-shortcode.html", prefix: "We also provide services in ", suffix: "." %}
+
+{% include "area-list-shortcode.html", prefix: "We cover ", suffix: " and surrounding areas." %}

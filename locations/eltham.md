@@ -20,4 +20,5 @@ We also offer the latest in CCTV packages. Our 24 hour colour CCTV cameras have 
 # Burglar Alarm Servicing in Eltham 
 
 Does your existing house alarm need a new battery? Maybe the keypad no longer works or there is a fault on one of the zones/sensors? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarm systems. If you dont know the brand of alarm system, dont worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on burglar alarm service in Eltham.
-{% include "area-list-shortcode.html", prefix: "We also provide services in ", suffix: "." %}
+
+{% include "area-list-shortcode.html", prefix: "We proudly serve ", suffix: " and the surrounding areas." %}

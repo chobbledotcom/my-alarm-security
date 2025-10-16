@@ -28,6 +28,5 @@ Are you looking for a burglar alarm company in Bexleyheath? Maybe you cant get h
 If you are looking for a local, friendly and professional company to install CCTV at your property in Bexley and surrounding areas then look no further. We can help! We offer hard wired CCTV packages that do not rely on an internet connection to record and store footage. All of our CCTV systems come with approx 30 days storage. Check out some of our packages here: [CCTV in Bexley.](/categories/cctv/) Contact us if you have any questions.
 
 It couldnt be more easier to speak with us. You can use our contact us for found here: [Contact us](/contact/) - and fill in your details and we will get back to you as soon as we can. You can also email us direct at: Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.
-We also provide services in
 
-{% include "area-list-shortcode.html", prefix: "", suffix: "" %}.
+{% include "area-list-shortcode.html", prefix: "We also install burglar alarms and CCTV in ", suffix: "." %}

@@ -92,4 +92,5 @@ Our Reviews
 > Friday late afternoon my alarm started going off non stop inside and out after a very short power cut. Could not turn it off. Called Matt after getting no off of net mums it was in the evening and he came out straight away knew exactly what he was doing, checked all sensors etc and my alarm was fixed. I would 100 % recommend Matt and would not hesitate to call him again for any alarm problems or upgrades etc.
 >
 > **Wendy B** Tuesday, June 27, 2023
-{% include "area-list-shortcode.html", prefix: "We also provide services in ", suffix: "." %}
+
+{% include "area-list-shortcode.html", prefix: "We also provide alarm and CCTV services in ", suffix: "." %}

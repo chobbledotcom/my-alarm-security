@@ -18,4 +18,5 @@ We offer the latest in CCTV. Our ColorVu CCTV cameras have been extremely popula
 # Burglar Alarm Servicing in Gravesend 
 
 Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarms. If you dont know the brand of alarm system, dont worry, just send us a photo of the panel and we can identify it from there. Send your photo and enquiry to us at <Sales@MyAlarmSecurity.co.uk> or give us a call on 020 8302 4065 for more info on having your [burglar alarm serviced in Gravesend.](/categories/servicing-and-repairs/)
-{% include "area-list-shortcode.html", prefix: "We also provide services in ", suffix: "." %}
+
+{% include "area-list-shortcode.html", prefix: "Need a security company? We also work in ", suffix: "." %}

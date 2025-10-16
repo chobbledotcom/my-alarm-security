@@ -32,4 +32,5 @@ Call us on 020 8302 4065 or send an email to Sales@MyAlarmSecurity.co.uk to get 
 Enhance your property\'s security with CCTV installation in Greenwich. We supply and install the latest camera systems, including ColorVu CCTV, which provides 24/7 full-colour footage for clear, reliable surveillance. s a local, family-run business, we pride ourselves on offering friendly, honest service with no hard sell. Take a look at our [CCTV packages in Greenwich](/categories/cctv/) to see what best fits your needs.
 
 For a tailored quote or to schedule a site visit, [contact us today.](/contact/)
-{% include "area-list-shortcode.html", prefix: "We also provide services in ", suffix: "." %}
+
+{% include "area-list-shortcode.html", prefix: "We also serve customers in ", suffix: "." %}
