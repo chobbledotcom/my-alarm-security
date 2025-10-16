@@ -23,3 +23,4 @@ Are you looking for burglar alarm call out in Sidcup? Does your system need a se
 Our family run, local, friendly and reliable company can help with all aspects of your home and business security. We offer the latest CCTV with our ColorVu cameras which offer 24 hour colour footage. All of our CCTV systems are hard wired so you do not have to rely on your internet for footage to be recorded. Check out our latest CCTV packages here: [CCTV in Sidcup.](/categories/cctv/)
 
 #
+{% include "area-list-shortcode.html", prefix: "We also provide services in ", suffix: "." %}
