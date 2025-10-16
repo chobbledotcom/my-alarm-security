@@ -93,6 +93,23 @@ nav {
       text-decoration: none;
     }
   }
+
+  /* 3-column layout for Service Areas dropdown - only on hover */
+  @media (min-width: 769px) {
+    body.horizontal-nav & ul li:hover ul {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      white-space: normal;
+      padding: 1rem;
+      gap: 0.5rem;
+      position: absolute;
+      right: 0;
+      width: 380px;
+      li {
+        display: block;
+      }
+    }
+  }
 }
 
 $mobile: 768px;
