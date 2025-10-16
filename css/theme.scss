@@ -492,10 +492,3 @@ body.home section {
   }
 }
 
-nav {
-  @media (max-width: $mobile) {
-    a[href="/service-areas/"] + ul {
-      display: none;
-    }
-  }
-}
