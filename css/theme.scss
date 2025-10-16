@@ -491,3 +491,10 @@ body.home section {
     }
   }
 }
+
+/* Hide Service Areas submenu on mobile */
+@media (max-width: $mobile) {
+  nav li:has(> a[href="/service-areas/"]) > ul {
+    display: none !important;
+  }
+}
