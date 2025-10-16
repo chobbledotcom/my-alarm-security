@@ -2,7 +2,6 @@
 meta_title: "Alarm System Charlton, CCTV Charlton. Alarm Service Charlton - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/charlton/"
-layout: page
 eleventyNavigation:
   key: Charlton
   parent: Service Areas

@@ -2,7 +2,6 @@
 meta_title: "Alarm System Lee Green, CCTV Lee Green. Alarm Service Lee Green - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/lee-green/"
-layout: page
 eleventyNavigation:
   key: Lee Green
   parent: Service Areas

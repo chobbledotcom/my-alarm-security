@@ -1,3 +1,4 @@
 {
-  "tags": ["location"]
+  "tags": ["location"],
+  "layout": "page"
 }

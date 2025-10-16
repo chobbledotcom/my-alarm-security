@@ -54,7 +54,6 @@ content:
           - { name: key, type: string }
           - { name: parent, type: string }
           - { name: order, type: number }
-      - { name: layout, type: string }
       - { name: permalink, type: string }
       
   - name: news

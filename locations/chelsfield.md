@@ -2,7 +2,6 @@
 meta_title: "Alarm System Chelsfield, CCTV Chelsfield. Alarm Service Chelsfield - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/chelsfield/"
-layout: page
 eleventyNavigation:
   key: Chelsfield
   parent: Service Areas

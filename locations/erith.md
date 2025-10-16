@@ -2,7 +2,6 @@
 meta_title: "Alarm System Erith, CCTV Erith. Alarm Service Erith - MyAlarm Security"
 meta_description: "Alarm System Erith, CCTV Erith. Alarm Service Erith, Alarm Battery Replacement Erith, Home Alarm System Erith. Home Security System Erith. Tel 020 8302 4065"
 permalink: "/pages/erith/"
-layout: page
 eleventyNavigation:
   key: Erith
   parent: Service Areas

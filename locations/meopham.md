@@ -2,7 +2,6 @@
 meta_title: "Alarm System Meopham, CCTV Meopham, House Alarm Service Meopham - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/meopham/"
-layout: page
 eleventyNavigation:
   key: Meopham
   parent: Service Areas

@@ -2,7 +2,6 @@
 meta_title: "Alarm System Shorne, CCTV Shorne. Alarm Service Shorne - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/shorne/"
-layout: page
 eleventyNavigation:
   key: Shorne
   parent: Service Areas
