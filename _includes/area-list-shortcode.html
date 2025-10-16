@@ -1,5 +1,4 @@
-{%- assign service_areas = collections.all | where: "data.layout", "page" | where_exp: "item", "item.url contains '/pages/'" | where_exp: "item", "item.inputPath contains '/locations/'" -%}
-{%- assign sorted_areas = service_areas | sort: "fileSlug" -%}
+{%- assign sorted_areas = collections.location | sort: "fileSlug" -%}
 {%- for area in sorted_areas -%}
   {%- assign words = area.fileSlug | replace: "-", " " | split: " " -%}
   {%- assign capitalized_words = "" -%}
