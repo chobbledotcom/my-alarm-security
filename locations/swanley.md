@@ -18,4 +18,5 @@ We also offer the latest in CCTV packages. Our ColorVu CCTV cameras have been ex
 # Burglar Alarm Servicing in Swanley 
 
 Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarm systems. If you dont know the brand of alarm system, dont worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on burglar alarm service in Swanley.
+
 {% include "area-list-shortcode.html", prefix: "We proudly serve ", suffix: " and the surrounding areas." %}

@@ -22,4 +22,5 @@ Does your burglar alarm need a service or a battery change? Maybe you are lookin
 If you are looking to get a hard wired, professionally installed CCTV system at your property, then look no further than MyAlarm Security. We offer the latest in CCTV technology with our 24 hour colour images cameras. Check out some of our packages here: [CCTV in Beckenham.](/categories/cctv/)
 
 If you have any questions or would like to book a free survey, you can fill in your details on our contact form, give us a call or send us an email. Our team look forward to hearing from you.
+
 {% include "area-list-shortcode.html", prefix: "We cover ", suffix: " and surrounding areas." %}

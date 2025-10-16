@@ -20,4 +20,5 @@ SECURITY SPECIALISTS
 When you\'re choosing a security system in Petts Wood, you\'ll want to work with a company that knows what is needed and has been in the security installation business for a number of years. With well over 25 years of experience, there isn\'t much we don\'t know about alarm systems and CCTV. From a one room shop to a 20+ room house, we have seen and done it all.
 
 If you\'d like to find out more about what you can receive from us, please don\'t hesitate to get in touch! Give us a call us on 020 8302 4065 or [contact us](/contact/) with any questions you may have.
+
 {% include "area-list-shortcode.html", prefix: "We also serve customers in ", suffix: "." %}
