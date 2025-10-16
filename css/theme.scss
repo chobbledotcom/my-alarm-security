@@ -96,7 +96,7 @@ nav {
 
   /* 3-column layout for Service Areas dropdown - only on hover */
   @media (min-width: 769px) {
-    body.horizontal-nav & ul li:hover ul:has(li a[href*="/pages/"]) {
+    body.horizontal-nav & ul li:hover ul {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       white-space: normal;
