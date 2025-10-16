@@ -19,4 +19,7 @@ Do you need a [burglar alarm](/categories/burglar-alarms/) installed at your hom
 # [CCTV in Bromley](/categories/cctv/) 
 
 Thinking about getting cctv installed at your home or business? Look no further than our amazing cctv packages. We can tailor create any package to suit your needs. All of our CCTV packages are hard wired and come with app integration for remote viewing and playback options. Check out some of our latest CCTV packages here: [CCTV in Bromley.](/categories/cctv/)
-{% include "area-list-shortcode.html", prefix: "We also provide services in ", suffix: "." %}
+
+We also provide services in
+
+{% include "area-list-shortcode.html", prefix: "", suffix: "" %}.
