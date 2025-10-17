@@ -1,5 +1,34 @@
-<link rel="preload" href="/assets/fonts/fjalla-one-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
-<script async delay src="/assets/js/lib/swiper-bundle.min.js" onload="initSwiper()"></script>
+<script>
+  window.goatcounter = { no_onload: true };
+  const trackPageView = () => {
+    if (typeof window.goatcounter.count === "function") {
+      window.goatcounter.count({
+        path: location.pathname + location.search + location.hash,
+      });
+    }
+  };
+  document.addEventListener("DOMContentLoaded", trackPageView);
+  document.addEventListener("turbo:load", trackPageView);
+</script>
+<script
+  data-goatcounter="https://analytics.myalarmsecurity.co.uk/count"
+  async
+  src="https://analytics.myalarmsecurity.co.uk/count.js"
+></script>
+
+<link
+  rel="preload"
+  href="/assets/fonts/fjalla-one-latin-400-normal.woff2"
+  as="font"
+  type="font/woff2"
+  crossorigin
+/>
+<script
+  async
+  delay
+  src="/assets/js/lib/swiper-bundle.min.js"
+  onload="initSwiper()"
+></script>
 <script>
   function initSwiper() {
     new Swiper(".swiper", {
