@@ -25,5 +25,3 @@ This app lets you have complete control and confidence that your home is secure 
 Take a look at some of our [popular burglar alarm system packages here](/categories/burglar-alarms/). We have created some of the most popular equipment and have created packages but rest assured that we can create ANY package to suit your property or requirements. Maybe you need more room sensors or more window and door sensors? Maybe you have someone in the property who is deaf or hard of hearing? Or maybe you need extra keyfobs for the cleaner or your teenagers? Not a problem. We can create a package to suit your needs. We also offer [CCTV packages](/categories/cctv/) as well as [Door Entry and Access Control](/categories/access-control/).
 
 Feel free to [contact us](/contact/) with any questions or queries you may have. Our friendly team are always happy to help.
-
-![App Control](/images/news/news-app-control-vqffat6itovowu9wnoiy.jpg)

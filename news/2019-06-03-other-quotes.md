@@ -13,5 +13,3 @@ gallery:
 We always ask our customers to get other quotes and compare the [security burglar alarm](/categories/burglar-alarms/) market. We are competitively priced and with a wealth of knowledge within the security alarm and cctv industry being a friendly company to deal with is an added bonus.
 
 We love what we do here at MyAlarm Security and we are experts in our field. This customer in the Sidcup/Bexley borders really liked our quotation and obligation free advice. We finished up with a really neat install which (apart from an alarm system) actually looked like we hadn\'t even been there, good old Henry Hoover! We will always clean up after ourselves.
-
-![Other Quotes?](/images/news/news-other-quotes-s6w2h5entc7zzwvgbntx.jpg)

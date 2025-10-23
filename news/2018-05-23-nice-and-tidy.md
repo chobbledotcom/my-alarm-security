@@ -19,5 +19,3 @@ It meant drilling in at an angle in to the cupboard and meeting the hole with th
 We believe that customer satisfaction is the key to success. Knowing that our customers are pleased with our work, is complete job satisfaction for us. Personal recomendations go a long way and building a good relationship with our customers is always paramount.
 
 Please feel free to [contact us](/contact/) with any questions or queries that you may have. Our friendly team are always happy to help.
-
-![Nice And Tidy](/images/news/news-nice-and-tidy-r9glvhm3zssvyqwlcklw.jpg)

@@ -29,5 +29,3 @@ Investing in a [home burglar alarm](/categories/burglar-alarms/) system offers n
 In summary, a [home burglar alarm](/categories/burglar-alarms/) system provides a range of benefits, from deterring potential intruders to offering peace of mind and protecting your valuables. It is a practical investment in the safety and security of your home and loved ones.
 
 [Contact us](/contact/) for more information or have a browse on our website at some of our packages. We offer [burglar alarm systems](/categories/burglar-alarms/) and [cctv systems.](/categories/cctv/)
-
-![Not Sure If You Should Get A Burglar Alarm?](/images/news/news-not-sure-if-you-should-get-a-burglar-alarm-smwzk5k5btoaxgxr9gps.jpg)

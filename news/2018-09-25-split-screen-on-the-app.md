@@ -21,5 +21,3 @@ These images are of our 2MP CCTV system and you can see the images of our 5MP CC
 Please note that as technology advances, some of our older packages may no longer be available. 
 
 [Contact us](/contact/) for more info.
-
-![Split Screen On The App](/images/news/news-split-screen-on-the-app-datxsrzqwjuyfpia15ck.jpg)

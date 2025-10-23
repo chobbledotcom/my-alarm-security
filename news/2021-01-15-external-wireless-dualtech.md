@@ -21,5 +21,3 @@ The [back lit siren, detectors](/categories/burglar-alarms/) and [CCTV](/categor
 We have kept in touch with the customer and they report no other break ins.
 
 Sometimes you have to imagine the outlay in cost as a long term investment as you don\'t always know how many burglars you have deterred from your property and any loss and damage caused out weighs the cost of any house alarm or CCTV.
-
-![External Wireless Dualtech](/images/news/news-external-wireless-dualtech-wb9flmkz5c6nbjdv4tyw.jpg)

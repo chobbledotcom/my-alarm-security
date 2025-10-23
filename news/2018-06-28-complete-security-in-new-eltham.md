@@ -23,5 +23,3 @@ You can see from this picture that we can expertly achieve some amazing position
 [CCTV System Sidcup](/categories/cctv/)
 
 Contact us [here](/contact/).
-
-![Complete Security In New Eltham](/images/news/news-complete-security-in-new-eltham-w1760jfqudwtfclsyqag.jpg)

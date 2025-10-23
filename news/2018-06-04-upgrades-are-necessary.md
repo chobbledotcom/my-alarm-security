@@ -17,5 +17,3 @@ I really cant understand how some so called engineers can leave a job the way th
 We go above and beyond at every single job. Our workmanship has and always will be 10/10. We believe customer satisfaction is the key to success. If you are happy, then you will recommend us to your friends and family. There is no better review, than that of someone you know.
 
 Feel free to [contact us](/contact/) if you have any questions. Our friendly team are always happy to help.
-
-![Upgrades Are Necessary](/images/news/news-upgrades-are-necessary-jjlphxevesonm2agrcqm.jpg)

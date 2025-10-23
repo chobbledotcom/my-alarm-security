@@ -17,5 +17,3 @@ We try our best when fitting our [Burglar Alarm Systems](/categories/burglar-ala
 Our attention to detail is second to none. We take pride in all of our work.
 
 [Contact us](/contact/) if you have any questions. We are always happy to help.
-
-![Finished In Style](/images/news/news-finished-in-style-xxzz7e65tnejfuwhhygy.jpg)

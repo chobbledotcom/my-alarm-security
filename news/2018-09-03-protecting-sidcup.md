@@ -19,5 +19,3 @@ It didn\'t take long for the call to come through asking for a date for the inst
 We pride ourselves on our knowledge and professionalism and coupled with our very competitive rates we are the number 1 choice for all your home and business security needs servicing Sidcup, Bexley, New Eltham, Orpington, Bromley, Petts Wood , Beckenham, Catford, Welling, Swanley, Greenwich and all other surrounding areas.
 
 [Burglar Alarm CCTV Sidcup](/categories/special-offers/)
-
-![Protecting Sidcup](/images/news/news-protecting-sidcup-jn9si5jbcdxqo5xc68hz.jpg)

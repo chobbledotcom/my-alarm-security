@@ -17,5 +17,3 @@ Put yourself for a minute, in the shoes of a would be intruder. Now, if you were
 Welling security systems
 
 Feel free to [contact us](/contact/) with any questions you have. Our team are always happy to help.
-
-![Deterrent](/images/news/news-deterrent-r9nlnk2kxyuyno2yf4e0.jpg)

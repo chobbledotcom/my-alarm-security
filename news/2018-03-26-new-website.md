@@ -17,5 +17,3 @@ We will update the website with new info and photos of security installations we
 We are only at the end of a phone line or email, so if you have any questions or would like some free home security advice, then just give us a call or send an email. We aim to respond to all emails the same day. [Contact Us here](/contact/).
 
 Check back here soon for more info.
-
-![New Website](/images/news/news-new-website-mvca78iutycbvtb1demc.jpg)

@@ -21,5 +21,3 @@ We have upgraded their home [burglar alarm](/products/standard-system-599/) secu
 We take a lot of pride in our home security [Burglar Alarms and CCTV Packages](/categories/special-offers/) and are very proud to be serving our local areas in Sidcup, New Eltham, Bexley, Greenwich, Bromley, Orpington and Dartford.
 
 **Burglar Alarm System New Eltham, Bexley**
-
-![New Eltham Burglar Alarm Upgrade](/images/news/news-new-eltham-burglar-alarm-upgrade-lb5sjyuailpchduwjofs.jpg)

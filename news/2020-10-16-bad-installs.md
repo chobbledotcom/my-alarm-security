@@ -29,5 +29,3 @@ Needless to say the installation is now securely installed with no water ingress
 Another happy customer.
 
 For an idea on pricing, please see our [CCTV packages](/categories/cctv/).
-
-![Bad Installs](/images/news/news-bad-installs-kro3qblolsyrxitpbf8c.jpg)

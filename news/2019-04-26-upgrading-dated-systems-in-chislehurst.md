@@ -21,5 +21,3 @@ We go above and beyond to make sure the customers requirements are met to the hi
 Of course all wired upgrades benefit from our complimentary backlit siren for the full effect.
 
 We can build any package to suit your property or requirements. Have a look at some of our [packages here](/categories/burglar-alarms/) or [contact us](/contact/) with any questions you may have.
-
-![Upgrading Dated Systems In Chislehurst](/images/news/news-upgrading-dated-systems-in-chislehurst-q4p8s4ktpigr3mdwj9az.jpg)

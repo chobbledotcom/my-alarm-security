@@ -17,5 +17,3 @@ We love speaking to customers and giving our advice on the best way to secure th
 We have a new demo kit coming soon to showcase our equipment and show you how easy it is to use. This equipment is market leading and is the most reliable and user friendly kit around and after over 20 years in the trade we have seen a lot of kit to compare it to.
 
 Please feel free to navigate through our website and be sure to give us a call to book your free no obligation survey/design now here: [Contact Us](/contact/).
-
-![We Have Landed](/images/news/news-we-have-landed-hvjrdv9t38jsxujyjium.jpg)

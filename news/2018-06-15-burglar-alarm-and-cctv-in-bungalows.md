@@ -21,5 +21,3 @@ We have created some popular packages however we can adapt any package to suit y
 [Contact us for more info](/contact/).
 
 We cover a wide area of the South East including Bexley, Greenwich, Dartford, Bromley, Sevenoaks, Gravesend, Orpington and surrounding areas.
-
-![Burglar Alarm And CCTV In Bungalows](/images/news/news-burglar-alarm-and-cctv-in-bungalows-h4nc8dvbcompu7s3mgxq.jpg)
