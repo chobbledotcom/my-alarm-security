@@ -68,6 +68,7 @@ content:
       - name: gallery
         type: image
         label: Gallery
+        options: { multiple: { max: 1 } }
       - { name: meta_description, type: string, label: Meta Description }
       - { name: meta_title, type: string, label: Meta Title }
       
