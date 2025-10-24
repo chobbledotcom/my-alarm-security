@@ -21,5 +21,3 @@ So why wait? Contact MyAlarm Security today to learn more about how we can help 
 We also offer [system servicing, fault diagnosis and repair](/categories/servicing-and-repairs/) on other brands/models of alarm systems. With over 25 years in the industry, there isn\'t many alarm systems that we don\'t know.
 
 [Contact us](/contact/) now to discuss.
-
-![Pyronix Alarm System](/images/news/news-pyronix-alarm-system-yoxrorhmy6872tkqb5aa.jpg)

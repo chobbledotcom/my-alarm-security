@@ -15,5 +15,3 @@ We often get phone calls or emails from customers who want to know if we travel 
 We have lots of packages to suit your home or business. Why not take a look at [Burglar Alarms](/categories/burglar-alarms/) or [CCTV](/categories/cctv/). Alternatively, if your system needs a service or and alarm battery in West Wickham, Sidcup, Bromley, Orpington, Bexley, then don\'t hesitate to get in touch. If your system wasn\'t installed by us, thats fine we can still help you out. If you are not sure of the make or model of your alarm system, please email us a photo and we can ID it for you.
 
 [Contact Us](/contact/) with any questions you might have. Our friendly team are always happy to help.
-
-![West Wickham Security](/images/news/news-west-wickham-security-nuqskrlyntntstkyqv2s.jpg)

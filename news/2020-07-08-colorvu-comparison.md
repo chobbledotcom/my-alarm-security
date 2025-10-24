@@ -23,5 +23,3 @@ Have a look at some of our [CCTV packages here](/categories/cctv/). We can creat
 Feel free to get in touch for a free estimate, we cover from Sidcup, New Eltham and Eltham to Bexley, Bexleyheath and Dartford, Sevenoaks and Gravesend, Orpington and Bromley across to Greenwich to Beckenham and lots more areas.
 
 Dont hesitate to [get in touch](/contact/) if you have any questions.
-
-![Colorvu Comparison](/images/news/news-colorvu-comparison-elh2qpjgzyjzltl8bghh.jpg)

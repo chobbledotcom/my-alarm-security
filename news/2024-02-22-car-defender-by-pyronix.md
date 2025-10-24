@@ -17,5 +17,3 @@ These car defenders can be linked up to any of our wireless burglar alarm system
 See our [burglar alarm packages here](/categories/burglar-alarms/) or alternatively [contact us](/contact/) to have one of these car defenders added to your system.
 
 Have a look at this video for full information on the car defender and see for yourself how it works: [](https://youtu.be/-ITA2MsqPCA) **[Car Defender Video](https://youtu.be/-ITA2MsqPCA)**[**.**](https://youtu.be/-ITA2MsqPCA)
-
-![Car Defender By Pyronix](/images/news/news-car-defender-by-pyronix-nnxlqze2rajr4a3ty4xj.jpg)

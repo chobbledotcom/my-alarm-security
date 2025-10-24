@@ -19,5 +19,3 @@ They went for perimeter protection with vibration sensors and door contacts on a
 They wanted CCTV to protect each side so we had 2 on the front 2 on the back and 1 one each side.
 
 [Contact us](/contact/) if you have a home or business in Bromley or surrounding areas that you would like to protect.
-
-![Bromley Protection](/images/news/news-bromley-protection-u6nmn9t1qzfci3cbwzmv.jpg)

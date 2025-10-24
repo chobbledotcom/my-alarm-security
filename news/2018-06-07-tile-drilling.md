@@ -15,5 +15,3 @@ When installing our [Burglar Alarms](/categories/burglar-alarms/) or [CCTV Syste
 Once drilled, rawlplugs and screws give a brilliant secure hold.
 
 CCTV Sidcup Bexley and Alarm System Sidcup Bexley
-
-![Tile Drilling](/images/news/news-tile-drilling-gu7vbqulngp8urrnu9zm.jpg)

@@ -17,5 +17,3 @@ I think the thing i really like about these are that the wired [burglar alarm sy
 Today we had a job in Sidcup, Bexley, Kent to add an additional wired detector to the existing house alarm system and as you can see with some tricky drilling we managed to make a wired sensor actually look wireless.
 
 We\'re very proud to use all of our knowledge and expertise to give you guys the best finish we can.
-
-![Pir Movement Sensor](/images/news/news-pir-movement-sensor-xxytbtvtzfzu9anqgwbd.jpg)

@@ -19,5 +19,3 @@ These cameras also look great with a silver shroud around the lens. Why not add 
 Our CCTV package is often taken alongside our [home alarm systems](/categories/burglar-alarms/), all [packages can be found here](/categories/special-offers/).
 
 Prices correct at time of publish April 2021 and may change in the future.
-
-![Upgrade To A 4k Camera CCTV In Bexley](/images/news/news-upgrade-to-a-4k-camera-cctv-in-bexley-tkindt1030zlscqgvpni.jpg)

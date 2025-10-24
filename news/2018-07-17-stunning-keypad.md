@@ -19,5 +19,3 @@ The [burglar alarm](/categories/burglar-alarms/) security system now not only pe
 They also added flush panic buttons to the security system.
 
 [Contact us](/contact/) for more information and other colour options.
-
-![Stunning Keypad](/images/news/news-stunning-keypad-h2xljq1uraxtom6715me.jpg)

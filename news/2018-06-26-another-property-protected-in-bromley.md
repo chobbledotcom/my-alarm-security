@@ -23,5 +23,3 @@ These guys had a pet - a young, energetic cat, and were worried that the cat may
 Our external bell box which we fit to all home security burglar alarm system jobs, is a visual deterrent letting any potential intruders know that your home is fitted with an [intruder alarm](/categories/burglar-alarms/).
 
 Contact us [here](/contact/).
-
-![Another Property Protected In Bromley](/images/news/news-another-property-protected-in-bromley-n86xv0hs7nodstiewsmt.jpg)

@@ -21,5 +21,3 @@ Its not as expensive as you think and may save your precious items that money ca
 [Burglar Alarm](/categories/burglar-alarms/) [CCTV](/categories/cctv/) [Bromley](/pages/bromley/)
 
 [Burglar Alarm](/categories/burglar-alarms/) [CCTV](/categories/cctv/) Bexley
-
-![Bromley Area Being Targeted](/images/news/news-bromley-area-being-targeted-qhrgwledl2oavywcrwuu.jpg)

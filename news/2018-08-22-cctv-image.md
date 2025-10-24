@@ -17,5 +17,3 @@ Well here is the answer to your queries. I\'m sure you\'ll agree that they are s
 So along with the [CCTV](/categories/cctv/) installation, we also had our app controlled smart home [burglar alarm](/categories/burglar-alarms/) security system in place so when locking up after a days work they were sure that their property was safe.
 
 Contact us [here](/contact/).
-
-![CCTV Image](/images/news/news-cctv-image-xlsdhnvcwps22cnvg9mg.jpg)

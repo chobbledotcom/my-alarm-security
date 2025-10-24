@@ -15,5 +15,3 @@ We work alongside a lot of building companies and have built up a brilliant repu
 If your home or business is being completely refurbished or if it has just been done, either way we can help to create you a [home security system and cctv package](/categories/special-offers/) that will suit your family and requirements.
 
 Dont hesitate to [contact us](/contact/) if you have any questions.
-
-![New Refurbishment - House Alarm And CCTV In Chislehurst](/images/news/news-new-refurbishment-house-alarm-and-cctv-in-chislehurst-wcza71enpbqpwwfjs7il.jpg)

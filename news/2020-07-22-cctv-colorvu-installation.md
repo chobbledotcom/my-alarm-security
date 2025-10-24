@@ -15,5 +15,3 @@ We were recently called to a premises after another recommendation of our new [C
 As you can see on this property in the Dartford and Bexley area, when we have home security installations we treat each property like it\'s our own, going the extra mile to keep cables to a minimum. This customer was delighted with the outcome and now feels safer than ever with his new camera system.
 
 With full app control these guys can monitor their home CCTV live or replay recorded footage anywhere in the world, all you need is an internet connection.
-
-![CCTV Colorvu Installation](/images/news/news-cctv-colorvu-installation-n9kfdcrnc4uafunesaqq.jpg)

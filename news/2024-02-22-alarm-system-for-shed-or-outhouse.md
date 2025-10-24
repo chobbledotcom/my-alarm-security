@@ -17,5 +17,3 @@ With all of our [burglar alarm systems](/categories/burglar-alarms/), we can cre
 The distance of the shed/outhouse/garage would have to be measured and the signal strength would have to be checked to make sure it can be linked.
 
 ![](../images/uploaded/images/Door-contact-Welling-Eltham-Crayford-Erith-New-Eltham.jpg)
-
-![Alarm System For Shed Or Outhouse](/images/news/news-alarm-system-for-shed-or-outhouse-gtxzk2kf1u5yj48cv55n.jpg)

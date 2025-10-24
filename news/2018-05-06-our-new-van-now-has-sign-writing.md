@@ -21,5 +21,3 @@ With our van parked outside your premises, it also lets anyone passing know that
 With the majority of our local work around Greenwich, New Eltham, Sidcup, Welling, Bexley, Bromley, Dartford and Orpington we are sure to turn some heads. We cant be missed in our van and are confident that our design not only looks good but also signifies what we do.
 
 Let us know what you think?
-
-![Our New Van Now Has Sign Writing](/images/news/news-our-new-van-now-has-sign-writing-kn42g7zs2azc8bgruixg.jpg)

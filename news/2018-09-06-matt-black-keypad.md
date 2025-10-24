@@ -19,5 +19,3 @@ The functions on this keypad are amazing with a choice of setting part sets like
 The finishes on the product we use are amazing as seen in a previous post here Stunning keypad.
 
 Read more about our home security systems in your area here: [Burglar Alarms](/categories/burglar-alarms/).
-
-![Matt Black Keypad](/images/news/news-matt-black-keypad-imlgi8x4rv2ahsjwnpeb.jpg)

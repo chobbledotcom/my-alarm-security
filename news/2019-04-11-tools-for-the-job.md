@@ -19,5 +19,3 @@ We needed a very long screwdriver which is a half meter in length to release the
 We have used these screwdrivers for burglar alarm home security systems also when fixings are hard to reach.
 
 There isnt much we cant do!
-
-![Tools For The Job](/images/news/news-tools-for-the-job-o9jwjkjuyectxkhzdxdv.jpg)

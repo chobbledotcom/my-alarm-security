@@ -17,5 +17,3 @@ Step forward MyAlarm Security as nothing stops us giving you guys exactly what y
 When looking for a reliable and professional security system including [alarm systems](/categories/burglar-alarms/), door entry and [access contro](/categories/access-control/)l and have doubts about the aesthetics, please talk to us as you may be supprised.
 
 Contact us [here](/contact/).
-
-![Above And Beyond](/images/news/news-above-and-beyond-oaxivjubqoiinm3yyyyz.jpg)

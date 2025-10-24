@@ -21,5 +21,3 @@ Home alarm [Sidcup](/pages/sidcup/)
 Home alarm [Bexley](/pages/bexley/)
 
 Please note that as technology advances, so does our equipment and packages. Please see here for our most recent [packages](/categories/special-offers/). Some package names may change.
-
-![Our Ultimate Package](/images/news/news-our-ultimate-package-jrsayupkfuccdpf3vuvd.jpg)
