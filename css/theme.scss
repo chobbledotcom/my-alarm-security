@@ -99,6 +99,12 @@ nav {
 
   /* 3-column layout for Service Areas dropdown - only on hover */
   @media (min-width: 769px) {
+    body.horizontal-nav nav ul {
+      gap: 0.5rem;
+      a {
+        padding: 0.5rem;
+      }
+    }
     body.horizontal-nav & ul li:hover ul {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
