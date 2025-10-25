@@ -1,65 +1,6 @@
-# Chobble Client Site Builder
+# MyAlarm Security
 
-Quick static site generator that combines the [Chobble Template](https://git.chobble.com/chobble/chobble-template/) with your content.
+Family-run home and business security company based in Sidcup, serving Bexley, Bromley, Orpington, Dartford, Greenwich and surrounding areas. We specialise in burglar alarms, CCTV systems, and access control with over 27 years of industry experience.
 
-## Quick Start
-
-1. **Add your content** - Edit markdown files and images in the relevant folders
-2. **Push to GitHub** - The site builds automatically via GitHub Actions
-3. **Deploy happens automatically** - Site deploys to Neocities (or your chosen host)
-
-## What Goes Where
-
-The `.pages.yml` defines all your content types:
-- `pages/` - Static pages with navigation
-- `news/` - Blog posts with dates
-- `products/` - Shop items with prices and Etsy links
-- `categories/` - Product categories
-- `team/` - Team member profiles
-- `reviews/` - Customer testimonials
-- `events/` - Upcoming events
-- `menus/`, `menu-categories/`, `menu-items/` - Restaurant menu system
-- `snippets/` - Reusable content bits
-- `images/` - All your images
-
-## How It Works
-
-When you push to GitHub:
-1. GitHub Actions merges your content with the template
-2. Builds the static site with Eleventy
-3. Deploys to your configured hosting (Neocities by default)
-
-## Configuration
-
-Set these GitHub secrets for your repo:
-- `NEOCITIES_API_KEY` - For deployment
-- `FORMSPARK_ID` - For contact forms (optional)
-- `BOTPOISON_PUBLIC_KEY` - For spam protection (optional)
-
-## Local Development
-
-Run `./bin/build` to build locally. The output appears in `result/`.
-
-### System Requirements
-
-The site conversion scripts require:
-- **Node.js** (v18 or later)
-- **pandoc** - For HTML to Markdown conversion
-
-Install pandoc:
-```bash
-# Ubuntu/Debian
-apt-get install -y pandoc
-
-# macOS
-brew install pandoc
-```
-
-### Converting Old Site Content
-
-To import content from the old site:
-```bash
-node scripts/convert-old-site.js
-```
-
-This will convert HTML files from `old_site/` to markdown in the appropriate directories.
+- Website: https://www.myalarmsecurity.co.uk
+- Built with: https://chobble.com/services/chobble-template/
