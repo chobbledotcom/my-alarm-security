@@ -1,16 +1,16 @@
 <script>
-  const trackPageView = () => {
-    if (typeof window.umami !== "undefined") {
-      window.umami.track(location.pathname + location.search + location.hash);
+  document.addEventListener("turbo:load", () => {
+    if (window.umami) {
+      window.umami.track();
     }
-  };
-  document.addEventListener("turbo:load", trackPageView);
+  });
 </script>
 
 <script
   defer
   src="https://who.chobble.com/u"
   data-website-id="2285b836-350e-495e-baab-6e72c573354e"
+  data-auto-track="false"
 ></script>
 
 <link
