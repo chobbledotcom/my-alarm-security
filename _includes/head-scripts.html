@@ -1,22 +1,17 @@
 <script>
-  window.goatcounter = { no_onload: true };
   const trackPageView = () => {
-    if (typeof window.goatcounter.count === "function") {
-      window.goatcounter.count({
-        path: location.pathname + location.search + location.hash,
-      });
+    if (typeof window.umami !== "undefined") {
+      window.umami.track(location.pathname + location.search + location.hash);
     }
   };
-  document.addEventListener("DOMContentLoaded", trackPageView);
   document.addEventListener("turbo:load", trackPageView);
 </script>
-<script
-  data-goatcounter="https://analytics.myalarmsecurity.co.uk/count"
-  async
-  src="https://analytics.myalarmsecurity.co.uk/count.js"
-></script>
 
-<script defer src="https://who.chobble.com/u" data-website-id="2285b836-350e-495e-baab-6e72c573354e"></script>
+<script
+  defer
+  src="https://who.chobble.com/u"
+  data-website-id="2285b836-350e-495e-baab-6e72c573354e"
+></script>
 
 <link
   rel="preload"
