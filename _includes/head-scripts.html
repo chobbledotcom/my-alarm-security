@@ -1,12 +1,3 @@
-<script>
-  const trackPageView = () => {
-    if (typeof window.umami !== "undefined") {
-      window.umami.track(location.pathname + location.search + location.hash);
-    }
-  };
-  document.addEventListener("turbo:load", trackPageView);
-</script>
-
 <script
   defer
   src="https://who.chobble.com/u"
