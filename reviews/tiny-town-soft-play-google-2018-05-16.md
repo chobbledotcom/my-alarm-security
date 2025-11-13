@@ -9,5 +9,6 @@ products:
 categories:
   - categories/burglar-alarms.md
   - categories/cctv.md
+  - categories/special-offers.md
 ---
 Alarm and CCTV system fitted at home and business premises. Very happy with systems and high standards of workmanship. Explained well and engineer very knowledgable. Would highly reccommend.
