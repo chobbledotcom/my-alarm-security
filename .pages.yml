@@ -15,6 +15,7 @@ content:
     label: Pages
     path: pages
     type: collection
+    filename: '{primary}.md'
     subfolders: false
     view:
       fields: [permalink, meta_title ]
@@ -38,6 +39,7 @@ content:
     label: Locations
     path: locations
     type: collection
+    filename: '{primary}.md'
     subfolders: false
     view:
       fields: [permalink, meta_title ]
