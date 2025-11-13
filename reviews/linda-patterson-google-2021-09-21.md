@@ -9,6 +9,7 @@ products:
 categories:
   - categories/burglar-alarms.md
   - categories/cctv.md
+  - categories/special-offers.md
 ---
 Hi Matt thank you for your prompt service ,great job, great advice  ,will certainly use you again ,cameras and alarm all working fine
 Colin
