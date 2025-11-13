@@ -131,6 +131,7 @@ content:
       - name: products
         label: Products
         type: reference
+        required: false
         options:
           collection: products
           multiple: true
@@ -140,6 +141,7 @@ content:
       - name: categories
         label: Categories
         type: reference
+        required: false
         options:
           collection: categories
           multiple: true
