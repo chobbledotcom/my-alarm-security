@@ -292,3 +292,7 @@ content:
               - { name: contactType, type: string, label: Contact Type }
               - { name: areaServed, type: string, label: Area Served }
               - { name: availableLanguage, type: string, label: Available Languages, list: true }
+settings:
+  hide: true
+  content:
+    merge: true

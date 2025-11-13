@@ -7,3 +7,4 @@ yarn-error.log*
 .DS_Store
 .direnv
 CLAUDE.md
+.env
