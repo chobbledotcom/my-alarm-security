@@ -2,7 +2,7 @@
 name: Footer
 ---
 
-©️ MyAlarm Security 2025
+©️ **MyAlarm Security 2025**
 
 Call: [020 8302 4065](tel:02083024065)
 
