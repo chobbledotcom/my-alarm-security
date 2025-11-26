@@ -188,6 +188,12 @@ $gap: 1rem;
       position: absolute;
       top: 0;
       left: 0;
+
+      .swiper-pagination {
+        @media (max-width: $mobile) {
+          display: none;
+        }
+      }
     }
 
     .image-wrapper,
