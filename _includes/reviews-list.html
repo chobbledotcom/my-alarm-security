@@ -1,5 +1,7 @@
 <ul class="reviews-grid">
   {%- for review in reviews -%}
-    {%- include "review-list-item.html" -%}
+    {%- if review.content != "" -%}
+      {%- include "review-list-item.html" -%}
+    {%- endif -%}
   {%- endfor -%}
 </ul>
