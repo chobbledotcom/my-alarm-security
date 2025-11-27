@@ -1,4 +1,4 @@
-name: Fetch Google Reviews
+name: Fetch Reviews
 
 on:
   schedule:
@@ -29,6 +29,10 @@ jobs:
         run: |
           node scripts/fetch-google-reviews.js
 
+      - name: Fetch Checkatrade Reviews
+        run: |
+          node scripts/fetch-checkatrade-reviews.js
+
       - name: Check for changes
         id: verify-changed-files
         run: |
@@ -44,5 +48,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add reviews/
-          git commit -m "Auto-update: Fetch new Google reviews"
+          git commit -m "Auto-update: Fetch new reviews"
           git push
