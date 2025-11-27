@@ -10,6 +10,6 @@ permalink: /reviews/
 
 # Reviews
 
-Check out some of our customer reviews below. You can see more on [our Google Maps listing, here](https://share.google/lHdeUROjKe5zqlOpj) or on [our Facebook page, here](https://www.facebook.com/MyAlarm)
+Check out some of our customer reviews below. You can see more on [our Google Maps listing, here](https://share.google/lHdeUROjKe5zqlOpj), on [our Facebook page, here](https://www.facebook.com/MyAlarm), or on [our Checkatrade listing, here](https://www.checkatrade.com/trades/myalarmsecurity).
 
 ---
