@@ -18,7 +18,7 @@ if (fs.existsSync(newSite)) {
 }
 
 try {
-  execSync('npm run build', { cwd: root, stdio: 'inherit' });
+  execSync('pnpm run build', { cwd: root, stdio: 'inherit' });
   console.log('\n');
 } catch (error) {
   console.error('Build failed!');
