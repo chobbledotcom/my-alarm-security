@@ -71,12 +71,13 @@
 header {
   background: none !important;
   box-shadow: none !important;
-  padding: 0 !important;
+  padding: 5px !important;
 
   img {
     display: block;
     margin: 0 auto 2rem;
     max-width: 150px;
+    filter: drop-shadow(0 0 5px #fff);
   }
 }
 
