@@ -62,3 +62,31 @@
     });
   }
 </script>
+
+<script async src="/assets/js/lib/snow.js" onload="initSnowWhenReady()"></script>
+<script>
+  var snowInstance = null;
+  function initSnow() {
+    if (snowInstance) {
+      snowInstance.stop();
+      var oldContainer = document.getElementById("snow-container");
+      if (oldContainer) oldContainer.remove();
+    }
+    var container = document.createElement("div");
+    container.id = "snow-container";
+    document.body.appendChild(container);
+    snowInstance = new Snow({ id: "snow-container" });
+    snowInstance.start();
+  }
+  function initSnowWhenReady() {
+    if (document.readyState === "complete" || document.readyState === "interactive") {
+      initSnow();
+    }
+  }
+  document.addEventListener("DOMContentLoaded", function () {
+    if (typeof Snow !== "undefined") initSnow();
+  });
+  document.addEventListener("turbo:load", function () {
+    if (typeof Snow !== "undefined") initSnow();
+  });
+</script>
