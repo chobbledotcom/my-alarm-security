@@ -163,12 +163,20 @@ var Snow = function (options) {
 
 // Auto-initialization (persists through Turbo navigations)
 (function () {
+  var container = null;
+
   function initSnow() {
-    var container = document.createElement("div");
+    container = document.createElement("div");
     container.id = "snow-container";
     document.body.appendChild(container);
     var snow = new Snow({ id: "snow-container" });
     snow.start();
+  }
+
+  function reattachContainer() {
+    if (container && !document.body.contains(container)) {
+      document.body.appendChild(container);
+    }
   }
 
   if (document.readyState === "complete" || document.readyState === "interactive") {
@@ -176,4 +184,6 @@ var Snow = function (options) {
   } else {
     document.addEventListener("DOMContentLoaded", initSnow);
   }
+
+  document.addEventListener("turbo:load", reattachContainer);
 })();
