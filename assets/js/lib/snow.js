@@ -161,21 +161,14 @@ var Snow = function (options) {
   window.addEventListener("resize", resizeCanvas);
 };
 
-// Auto-initialization with Turbo support
+// Auto-initialization (persists through Turbo navigations)
 (function () {
-  var snowInstance = null;
-
   function initSnow() {
-    if (snowInstance) {
-      snowInstance.stop();
-      var oldContainer = document.getElementById("snow-container");
-      if (oldContainer) oldContainer.remove();
-    }
     var container = document.createElement("div");
     container.id = "snow-container";
     document.body.appendChild(container);
-    snowInstance = new Snow({ id: "snow-container" });
-    snowInstance.start();
+    var snow = new Snow({ id: "snow-container" });
+    snow.start();
   }
 
   if (document.readyState === "complete" || document.readyState === "interactive") {
@@ -183,5 +176,4 @@ var Snow = function (options) {
   } else {
     document.addEventListener("DOMContentLoaded", initSnow);
   }
-  document.addEventListener("turbo:load", initSnow);
 })();
