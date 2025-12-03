@@ -2,7 +2,7 @@
 title: Alarm System Upgrade and New Siren in Belvedere
 date: 2025-12-02
 gallery:
-  - /images/alarm-with-ladder.jpg
+  - /images/alarm-and-ladder.jpg
 meta_description: Home Burglar Alarm System in Belvedere. CCTV Belvedere. Call 020 8302 4065
 meta_title: "Home Burglar Alarm System in Belvedere. CCTV Belvedere. "
 ---
