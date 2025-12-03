@@ -7,7 +7,7 @@ var Snow = function (options) {
   container.style.left = 0;
   container.style.right = 0;
   container.style.bottom = 0;
-  container.style.zIndex = 1000;
+  container.style.zIndex = 1;
   container.style.pointerEvents = "none";
 
   //create canvas

@@ -68,6 +68,14 @@
 
 /* body_classes: header-centered */
 
+/* Ensure content appears above snow effect */
+header,
+main,
+body > footer {
+  position: relative;
+  z-index: 2;
+}
+
 header {
   background: none !important;
   box-shadow: none !important;
