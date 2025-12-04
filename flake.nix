@@ -42,6 +42,8 @@
              clean               - Clean build directory
 
             EOF
+
+            nix flake update
             git pull
           '';
         };
