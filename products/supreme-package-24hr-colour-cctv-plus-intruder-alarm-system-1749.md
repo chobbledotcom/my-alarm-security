@@ -4,7 +4,7 @@ categories:
   - categories/burglar-alarms.md
   - categories/cctv.md
   - categories/special-offers.md
-price: £1948.00
+price: £1,948.00
 order: 6
 gallery:
   - /images/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.webp
@@ -34,4 +34,4 @@ meta_title: Intruder Burglar Alarm And CCTV Company Orpington Bromley Eltham
 - Hardwired CCTV system
 - Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-**Our Price:** £1948.00
+**Our Price:** £1948.00 (includes package discount)
