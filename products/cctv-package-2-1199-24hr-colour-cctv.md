@@ -2,7 +2,7 @@
 title: "CCTV Package 1 £1399 "
 categories:
   - categories/cctv.md
-price: £1399.00
+price: £1,399.00
 order: 4
 gallery:
   - /images/products/cctv-package-2-1199-24hr-colour-cctv.webp
