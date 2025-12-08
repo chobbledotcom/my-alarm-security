@@ -1,5 +1,5 @@
 ---
-title: Ultimate Package CCTV Plus Burglar Alarm System £1948
+title: Ultimate Package CCTV Plus Burglar Alarm System £1,948
 categories:
   - categories/burglar-alarms.md
   - categories/cctv.md
