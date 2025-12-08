@@ -3,7 +3,7 @@ title: CCTV Package 2 £1999
 categories:
   - categories/cctv.md
 price: £1999.00
-order: 4
+order: 5
 gallery:
   - /images/cctv-package-2-dec-2025.png
 meta_description: For all of your home and business security. Burglar Alarm
