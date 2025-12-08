@@ -5,7 +5,7 @@ categories:
   - categories/cctv.md
   - categories/special-offers.md
 price: £1948.00
-order: 7
+order: 6
 gallery:
   - /images/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.webp
 meta_description: Home and business security. Burglar Alarm System Service,
