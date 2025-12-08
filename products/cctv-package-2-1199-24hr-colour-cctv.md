@@ -15,10 +15,9 @@ meta_title: Colour CCTV Bexley Dartford Orpington Bromley And Burglar Alarm -
 
 **Package includes:**
 
-- 4 x 5MP/3K Cameras
+- 4 x 5MP/3K Cameras with with built in microphone
 - 1 x 4 Channel digital video recorder
-- 1 x 2TB Hardrive with 30 day storage
-- Built in Microphone 
+- 1 x 2TB Hardrive with 30 day storage 
 
 **Info:**
 
