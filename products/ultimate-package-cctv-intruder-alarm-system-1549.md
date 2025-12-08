@@ -33,6 +33,6 @@ meta_title: CCTV And Intruder Burglar Alarm System Package Bexley Bromley -
 - Available to view remotely anywhere in the world with an internet connection. (Active subscription needed for Burglar Alarm system app) Full CCTV app control (free) with live view and playback option
 - All cables and sundries included
 - Hardwired CCTV system
-- Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
+- Supplied and fitted and with a 12 month parts warranty 
 
-**Our Price:** £2548.00 (includes package discount)
+**Our Price:** £2,548.00 (includes package discount) - (no VAT to be added)
