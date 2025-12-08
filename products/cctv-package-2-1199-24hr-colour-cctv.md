@@ -3,7 +3,7 @@ title: "CCTV Package 1 £1399 "
 categories:
   - categories/cctv.md
 price: £1399.00
-order: 5
+order: 4
 gallery:
   - /images/products/cctv-package-2-1199-24hr-colour-cctv.webp
 meta_description: Home and business security. Burglar Alarm Servicing, Burglar
@@ -15,10 +15,10 @@ meta_title: Colour CCTV Bexley Dartford Orpington Bromley And Burglar Alarm -
 
 **Package includes:**
 
-- 4 x 3K ColorVu eyeball type cameras with 24 hour colour images
+- 4 x 5MP/3K Cameras
 - 1 x 4 Channel digital video recorder
 - 1 x 2TB Hardrive with 30 day storage
-- Built in microphone 
+- Built in Microphone 
 
 **Info:**
 
