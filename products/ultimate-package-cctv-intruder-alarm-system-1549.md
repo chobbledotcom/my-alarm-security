@@ -1,5 +1,5 @@
 ---
-title: Supreme Package CCTV and Intruder Burglar Alarm System £2548
+title: Supreme Package CCTV and Intruder Burglar Alarm System £2,548
 categories:
   - categories/burglar-alarms.md
   - categories/cctv.md
