@@ -1,8 +1,8 @@
 ---
-title: CCTV Package 2 £1999
+title: CCTV Package 2 £1999 - 24 Hour Colour With 2-Way Audio
 categories:
   - categories/cctv.md
-price: £1999.00
+price: £1,999.00
 order: 5
 gallery:
   - /images/cctv-package-2-dec-2025.png
