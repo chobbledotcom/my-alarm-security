@@ -4,7 +4,7 @@ categories:
   - categories/burglar-alarms.md
   - categories/cctv.md
   - categories/special-offers.md
-price: £2548
+price: £2548.00
 order: 7
 gallery:
   - /images/products/ultimate-package-cctv-intruder-alarm-system-1549.webp
