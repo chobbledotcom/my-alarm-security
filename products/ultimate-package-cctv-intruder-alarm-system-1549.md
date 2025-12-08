@@ -7,7 +7,7 @@ categories:
 price: £2548.00
 order: 7
 gallery:
-  - /images/products/ultimate-package-cctv-intruder-alarm-system-1549.webp
+  - /images/cctv-package-supreme-dec-2025.png
 meta_description: For all of your home and business security. Burglar Alarm
   Servicing, Burglar Alarm Installation, Alarm Battery and CCTV packages. Call
   020 8302 4065
