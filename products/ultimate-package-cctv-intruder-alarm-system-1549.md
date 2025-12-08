@@ -4,7 +4,7 @@ categories:
   - categories/burglar-alarms.md
   - categories/cctv.md
   - categories/special-offers.md
-price: £2548.00
+price: £2,548.00
 order: 7
 gallery:
   - /images/cctv-package-supreme-dec-2025.png
@@ -35,4 +35,4 @@ meta_title: CCTV And Intruder Burglar Alarm System Package Bexley Bromley -
 - Hardwired CCTV system
 - Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-**Our Price:** £2548.00
+**Our Price:** £2548.00 (includes package discount)
