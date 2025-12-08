@@ -1,5 +1,5 @@
 ---
-title: CCTV Package 2 £1,999 - 24 Hour Colour With 2-Way Audio
+title: CCTV Package 2 - £1,999 - 24 Hour Colour With 2-Way Audio
 categories:
   - categories/cctv.md
 price: £1,999.00
@@ -27,4 +27,4 @@ meta_title: CCTV Package Burglar Alarm System Bromley Dartford New Eltham Sidcup
 - Hardwired system
 - Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-**Our Price:** £1999.00 *INTRODUCTORY OFFER*
+**Our Price:** £1,999.00 *INTRODUCTORY OFFER*
