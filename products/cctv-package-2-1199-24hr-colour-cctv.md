@@ -1,5 +1,5 @@
 ---
-title: "CCTV Package 1 £1,399 24 Hour Colour "
+title: CCTV Package 1 - £1,399 24 Hour Colour With Built in Microphone
 categories:
   - categories/cctv.md
 price: £1,399.00
@@ -11,7 +11,7 @@ meta_description: Home and business security. Burglar Alarm Servicing, Burglar
 meta_title: Colour CCTV Bexley Dartford Orpington Bromley And Burglar Alarm -
   MyAlarm Security
 ---
-# CCTV Package 2
+# CCTV Package 1
 
 **Package includes:**
 
