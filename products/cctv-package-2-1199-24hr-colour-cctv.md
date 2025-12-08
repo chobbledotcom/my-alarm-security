@@ -1,5 +1,5 @@
 ---
-title: "CCTV Package 1 £1399 "
+title: "CCTV Package 1 £1399 24 Hour Colour "
 categories:
   - categories/cctv.md
 price: £1,399.00
