@@ -6,8 +6,8 @@ price: £1,399.00
 order: 4
 gallery:
   - /images/products/cctv-package-2-1199-24hr-colour-cctv.webp
-meta_description: Home and business security. Burglar Alarm Servicing, Burglar
-  Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065
+meta_description: CCTV Bexley Bromley Orpington Sidcup Greenwich Burglar Alarm,
+  Alarm Battery. Call 020 8302 4065  Home and business security
 meta_title: Colour CCTV Bexley Dartford Orpington Bromley And Burglar Alarm -
   MyAlarm Security
 ---
