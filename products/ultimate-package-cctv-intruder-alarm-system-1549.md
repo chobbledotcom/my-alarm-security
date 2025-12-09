@@ -8,11 +8,9 @@ price: £2,548.00
 order: 7
 gallery:
   - /images/cctv-package-supreme-dec-2025.png
-meta_description: For all of your home and business security. Burglar Alarm
-  Servicing, Burglar Alarm Installation, Alarm Battery and CCTV packages. Call
-  020 8302 4065
-meta_title: CCTV And Intruder Burglar Alarm System Package Bexley Bromley -
-  MyAlarm Security
+meta_description: Home and business security. CCTV Bexley Bromley Orpington
+  Sidcup Greenwich Burglar Alarm, Alarm Battery. Call 020 8302 4065
+meta_title: CCTV Bexley Bromley Orpington Sevenoaks Dartford Sidcup Greenwich
 ---
 # Supreme Package
 
