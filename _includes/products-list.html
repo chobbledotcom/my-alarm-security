@@ -7,9 +7,6 @@
     </a>
     {% endif %}
     <h2><a href="{{ product.url }}">{{ product.data.title }}</a></h2>
-    {% if product.data.price %}
-    <p class="price">{{ product.data.price }}</p>
-    {% endif %}
     <a href="{{ product.url }}" class="button-primary">View Details</a>
   </article>
   {%- endfor -%}
