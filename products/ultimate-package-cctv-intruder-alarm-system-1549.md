@@ -10,7 +10,8 @@ gallery:
   - /images/cctv-package-supreme-dec-2025.png
 meta_description: Home and business security. CCTV Bexley Bromley Orpington
   Sidcup Greenwich Burglar Alarm, Alarm Battery. Call 020 8302 4065
-meta_title: CCTV Bexley Bromley Orpington Sevenoaks Dartford Sidcup Greenwich
+meta_title: Colour and Audio CCTV Bexley Bromley Orpington Sevenoaks Dartford
+  Sidcup Greenwich
 ---
 # Supreme Package
 
