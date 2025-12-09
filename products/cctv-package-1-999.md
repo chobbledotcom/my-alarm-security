@@ -17,9 +17,9 @@ meta_title: CCTV Package Burglar Alarm System Bromley Dartford New Eltham Sidcup
 **Package Includes:**
 
 - 4 x 8MP/4K Cameras
+- 2 Way Audio
 - 1 x 4 Channel digital video recorder
 - 1 x 4TB Hardrive with 30 day storage
-- 2 Way Audio
 
 **Info:**
 
@@ -27,4 +27,4 @@ meta_title: CCTV Package Burglar Alarm System Bromley Dartford New Eltham Sidcup
 - Hardwired system
 - Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-**Our Price:** £1,999.00 *INTRODUCTORY OFFER*
+**Our Price:** £1,999.00 *INTRODUCTORY OFFER* (no vat to be added)
