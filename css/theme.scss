@@ -299,6 +299,8 @@ $gap: 1rem;
     .image-link {
       display: block;
       text-decoration: none;
+      aspect-ratio: 1;
+      overflow: hidden;
 
       &:hover {
         text-decoration: none;
