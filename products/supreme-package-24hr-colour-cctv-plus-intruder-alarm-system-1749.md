@@ -8,11 +8,9 @@ price: £1,948.00
 order: 6
 gallery:
   - /images/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.webp
-meta_description: Home and business security. Burglar Alarm System Service,
-  Burglar Alarm Installation, Alarm Battery CCTV Orpington Bromley Bexley
-  Dartford Call 020 8302 4065
-meta_title: Intruder Burglar Alarm And CCTV Company Orpington Bromley Eltham
-  Bexley - MyAlarm Security
+meta_description: " Home and business security. CCTV Bexley Bromley Orpington
+  Sidcup Greenwich Burglar Alarm, Alarm Battery. Call 020 8302 4065"
+meta_title: CCTV Bexley Bromley Orpington Sevenoaks Dartford Sidcup Greenwich New Eltham
 ---
 # Ultimate Package
 
