@@ -35,4 +35,8 @@ meta_title: CCTV And Intruder Burglar Alarm System Package Bexley Bromley -
 - Hardwired CCTV system
 - Supplied and fitted and with a 12 month parts warranty 
 
-**Our Price:** £2,548.00 (includes package discount) - (no VAT to be added)
+**Our Price:** £2,548.00 (includes package discount) - (no vat to be added)
+
+Our supreme package combines our Standard Alarm System and CCTV Package 2 along with a package discount. All of our packages can be tailored to suit your property and requirements with additional sensors, keyfobs, door contacts, additional cameras, larger storage and more available to be added to suit your needs. Please feel free to contact us to book a survey, discuss your options or to get a quote.
+
+We are a family run company based in Sidcup. With over 30 years in the security industry. We cover the areas of Bromley, Dartford, Bexley, Bexleyheath, Greenwich, Orpington, Sidcup, Chislehurst, Sevenoaks and surrounding areas
