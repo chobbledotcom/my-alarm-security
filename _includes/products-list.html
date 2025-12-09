@@ -1,0 +1,13 @@
+<section class="products-list">
+  {%- for product in products -%}
+  <article class="product-box">
+    {% if product.data.gallery[0] %}
+    <a href="{{ product.url }}" class="image-link">
+      <img src="{{ product.data.gallery[0] }}" alt="{{ product.data.title }}" loading="lazy" />
+    </a>
+    {% endif %}
+    <h2><a href="{{ product.url }}">{{ product.data.title }}</a></h2>
+    <a href="{{ product.url }}" class="button-primary">View Details</a>
+  </article>
+  {%- endfor -%}
+</section>
