@@ -1,5 +1,5 @@
 ---
-title: CCTV Package 1 - £1,399 24 Hour Colour With Built in Microphone
+title: CCTV Package 1 - £1,399 - 24 Hour Colour With Built in Microphone
 categories:
   - categories/cctv.md
 price: £1,399.00
