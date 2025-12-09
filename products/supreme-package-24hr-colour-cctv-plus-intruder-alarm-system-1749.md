@@ -34,4 +34,4 @@ meta_title: Intruder Burglar Alarm And CCTV Company Orpington Bromley Eltham
 - Hardwired CCTV system
 - Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-**Our Price:** £1948.00 (includes package discount)
+**Our Price:** £1948.00 (includes package discount) - (no VAT to be added)
