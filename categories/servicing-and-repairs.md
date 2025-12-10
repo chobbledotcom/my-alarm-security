@@ -1,9 +1,10 @@
 ---
 title: Servicing And Repairs
-meta_description: Home and business security. Burglar Alarm Servicing, Burglar
-  Alarm Maintenance, Burglar Alarm Installation, Alarm Battery and CCTV.
-meta_title: Alarm System Servicing in New Eltham, Sidcup, Bexley, Greenwich,
-  Orpington, Bromley, Dartford. Burglar Alarm Maintenance.
+meta_description: Home security Company Orpington Bromley Bexley Dartford -
+  Burglar Alarm Service. Burglar Alarm Maintenance, Burglar Alarm Installation,
+  Alarm Battery and CCTV.
+meta_title: Alarm System Maintenance Service in New Eltham, Sidcup, Bexleyheath,
+  Greenwich, Orpington, Bromley, Dartford. CCTV Orpington, Bromley. Bexleyheath
 eleventyNavigation:
   key: Servicing & Repairs
   order: 5
