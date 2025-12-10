@@ -75,10 +75,10 @@ layout: base.html
 {% if homepage.show_news %}
 <section class="latest-news">
   <h2 class="centered">Latest News</h2>
-  {%- assign posts = collections.news | reverse -%}
+  {%- assign items = collections.news | reverse -%}
   <ul class="items">
-    {%- for post in posts limit: 4 -%}
-    {% include "news-list-item.html" %}
+    {%- for item in items limit: 4 -%}
+    {% include "list-item.html" %}
     {%- endfor -%}
   </ul>
   <a href="/blog/#content" class="read-more">Read More News</a>
