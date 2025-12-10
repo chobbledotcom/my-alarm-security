@@ -1,21 +1,21 @@
 ---
 title: Servicing And Repairs
-meta_description: For all of your home and business security. Burglar Alarm
-  Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302
-  4065
-meta_title: Alarm System Servicing & Repairs in New Eltham, Sidcup, Bexley, Greenwich, Orpington, Bromley, Dartford
+meta_description: Home and business security. Burglar Alarm Servicing, Burglar
+  Alarm Maintenance, Burglar Alarm Installation, Alarm Battery and CCTV.
+meta_title: Alarm System Servicing in New Eltham, Sidcup, Bexley, Greenwich,
+  Orpington, Bromley, Dartford. Burglar Alarm Maintenance.
 eleventyNavigation:
   key: Servicing & Repairs
   order: 5
 ---
-
 # Alarm System Service and Repairs
 
-Do you have an existing [burglar alarm system](/categories/burglar-alarms/) that you would like looked at, serviced or repaired? Maybe your alarm needs a new battery or other batteries/devices replacing or the keypad no longer works? Or maybe you\'re having decorating done or home improvements and the carpet fitter or builder has gone through a cable and you need an emergency call out or need a sensor or door contact removed or replaced. If there is anything needing doing to your burglar alarm system, you have come to the right place.
+Do you have an existing [burglar alarm system](/categories/burglar-alarms/) that you would like looked at, serviced or repaired? Maybe your alarm needs a new battery or other batteries/devices replacing or the keypad no longer works? Or maybe you\'re having decorating done or home improvements and the carpet fitter or builder has gone through a cable and you need an emergency call out or need a sensor or door contact removed or replaced. If there is anything needing doing to your burglar alarm system, you have come to the right place. If your system was installed by another company or you are unable to contact the original installer, that is not a problem - we are still fully able to service and maintain your burglar alarm system.
 
 Here is a list of some of the most common calls we get:
 
 - Alarm System Service
+- Alarm System Maintenance
 - Alarm Battery Replacements
 - Alarm faults
 - Alarm System Bleeping
@@ -35,6 +35,6 @@ We\'ve been in the trade for 30 years and know most alarm systems - both old and
 
 We are based in New Eltham/Sidcup and cover a wide range of areas including [Bexley](/pages/bexley/), Dartford, [Orpington](/pages/orpington/), [Bromley](/pages/bromley/), Petts Wood, [West Wickham](/pages/west-wickham/), [Chislehurst](/pages/chislehurst/), [Wilmington](/pages/wilmington/), [Hextable](/pages/hextable/), [Swanley](/pages/swanley/), Gravesend, [Greenhithe](/pages/greenhithe/), Swanscombe, [Bexleyheath](/pages/bexleyheath/), [Welling](/pages/welling/), [Eltham](/pages/eltham/), Greenwich, Blackheath, Abbey Wood, Erith, Badgers Mount, Chelsfield, Crayford and more.
 
-We offer one-off and emergency call outs / services. Give us a call on 020 8302 4065 and our friendly team will be happy to help
+We offer one-off and emergency call outs / services / alarm system maintenance. Give us a call on 020 8302 4065 or send us an email through our contact form and our friendly team will be happy to help.
 
 [**Contact Us**](/contact/) for more information.
