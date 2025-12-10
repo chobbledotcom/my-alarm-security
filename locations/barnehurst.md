@@ -1,8 +1,8 @@
 ---
 meta_title: Alarm System Barnehurst, CCTV Barnehurst. Alarm Service Barnehurst -
   MyAlarm Security
-meta_description: Alarm System Barnehurst, CCTV Barnehurst. Alarm Service
-  Barnehurst, Alarm Battery Replacement Barnehurst, Home Alarm System
+meta_description: Alarm System Barnehurst, CCTV Barnehurst. Alarm Maintenance
+  Service Barnehurst, Alarm Battery Replacement Barnehurst, Home Alarm System
   Barnehurst. 020 8302 4065.
 permalink: /pages/barnehurst/
 eleventyNavigation:
