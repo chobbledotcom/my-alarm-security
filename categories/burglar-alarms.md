@@ -1,8 +1,8 @@
 ---
 title: Burglar Alarms
-meta_description: BURGLAR ALARM all types of Home Security, Business security
-  based New Eltham, Sidcup, Bexley covering Greenwich, Orpington, Bromley,
-  Dartford and surrounding
+meta_description: BURGLAR ALARM Home Security, Business security New Eltham,
+  Sidcup, Bexleyheath Greenwich, Orpington, Bromley, Dartford and surrounding.
+  Burglar Alarm Maintenance. CCTV.
 meta_title: Burglar Alarm New Eltham, Sidcup, Bexley, Greenwich, Orpington,
   Bromley, Dartford
 eleventyNavigation:
@@ -29,13 +29,13 @@ What does the app do?
 
 The app allows you to set and unset your alarm from anywhere in the world providing you have internet. The app will also alert you if your alarm is activated and will notify you which sensor/s have been triggered. An active internet connection and app subscription is required for app use. The app subscription is free for the first year after installation. If you would like to continue with the app, there is a £20 annual subscription fee to be paid. If you do not wish to resubscribe to the app, this does not affect your alarm system in any way and it can still be set and unset from the panel however you will not be able to remotely access through the app or receive any notifications whilst you are away from the property.
 
-Servicing and maintaining your system.
+Servicing and maintenance of your burglar alarm system.
 
-As with everything, equipment and batteries have a life span. The manufacturer suggests that internal batteries for wireless systems can last approximately 12-18 months but should be replaced annually to avoid any low battery system faults. We recommend that panel batteries and the external bell siren battery should be replaced every 2 years unless showing as a low battery fault on your panel before this time.
+As with everything, equipment and batteries have a life span. The manufacturer suggests that internal batteries for wireless systems can last approximately 12-18 months but should be replaced annually to avoid any low battery system faults. We recommend that panel batteries and the external bell siren battery should be replaced every 2 years unless showing as a low battery fault on your panel before this time. We offer one-off or burglar alarm system maintenance without being tied into a contract.
 
 Already have an alarm?
 
-Have an existing alarm system that you would like looked at, [serviced, repaired or upgraded](/categories/servicing-and-repairs/)? Maybe it needs some battery changes or is showing a fault? We\'ve been in the trade for well over 30 years and know most alarm system brands - both old and new, so don\'t hesitate to get in contact. We service alarm systems both old and new regardless of who it was installed by. So if your system needs an alarm battery, [Contact Us](/contact/) and we can help. Don\'t worry if you don\'t know the make or model of your system, just send us a photo of the panel and we can ID it for you. From replacing a worn keypad to a full upgrade we can do it all. [Contact Us](/contact/) [](/contact/) for more information.
+Have an existing alarm system that you would like looked at, [serviced, repaired or upgraded](/categories/servicing-and-repairs/)? Maybe it needs some battery changes or is showing a fault? Or if you wanted to just have a burglar alarm system maintenance to make sure that everything is working as it should. We\'ve been in the trade for well over 30 years and know most alarm system brands - both old and new, so don\'t hesitate to get in contact. We service alarm systems both old and new regardless of who it was installed by. So if your system needs an alarm battery or a new sensor, [Contact Us](/contact/) and we can help. Don\'t worry if you don\'t know the make or model of your system, just send us a photo of the panel and we can ID it for you. From replacing a worn keypad to a full upgrade we can do it all. [Contact Us](/contact/) [](/contact/) for more information.
 
 Why not pair one of our Home Burglar Alarm Systems with a professionally installed [CCTV System](/categories/cctv/) [](/categories/cctv/) for the ultimate in home and business security.
 
