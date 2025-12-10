@@ -1,9 +1,9 @@
 ---
-meta_description: Burglar Alarm System brand new installation, upgrade, service,
-  battery change, panel replacement, decommision. Bexley, Dartford, Orpington,
-  Bromley, Sevenoaks.
-meta_title: Home Burglar Alarm System Bexley Sidcup Orpington Bromley Bexley
-  Near Me - MyAlarm Security
+meta_description: Burglar Alarm System, Upgrade, Service, Maintenance, battery
+  change, panel replacement, decommision. Bexley, Dartford, Orpington, Bromley,
+  Sevenoaks.
+meta_title: Home Burglar Alarm System Near Me Bexley Sidcup Orpington Bromley
+  Bexleyheath Maintenance and CCTV
 eleventyNavigation:
   key: About
   order: 2
