@@ -1,12 +1,14 @@
 ---
-meta_title: "Burglar Alarm Battery Service Bexley CCTV In Bexley Home Security - MyAlarm Security"
-meta_description: "Home Burglar Alarm System Bexley. CCTV Bexley. Home Security System, Burglar Alarm Service Battery. Alarm Company Near Me Bexley. Alarm Battery 020 8302 4065"
-permalink: "/pages/bexley/"
+meta_title: Burglar Alarm Battery Service Bexley CCTV In Bexley Home Security -
+  MyAlarm Security
+meta_description: Home Burglar Alarm System Bexley. CCTV Bexley. Home Security
+  System, Burglar Alarm Service Battery. Alarm Company Near Me Bexley. Alarm
+  Battery 020 8302 4065
+permalink: /pages/bexley/
 eleventyNavigation:
   key: Bexley
   parent: Service Areas
 ---
-
 # Burglar Alarm System in Bexley 
 
 Looking for a local, trusted security system company in Bexley? If you\'re based in Bexley or surrounding areas and need a friendly, dependable and local security system company, MyAlarm Security is here for you. Whether it\'s expert advice or a reliable service, we\'re ready to help. If you are interested in having a new burglar alarm system installed in your home or at your business - or if you are thinking about upgrading your current system, give us a call or send us an email. We can help with all aspects of your home and business security in Bexley from burglar alarm systems, to door entry systems and CCTV systems. We offer the latest in smart app controlled systems which via an app, can be monitored from anywhere in the world providing you have an internet connection.
@@ -19,7 +21,7 @@ Looking for a local, trusted security system company in Bexley? If you\'re based
 
 So, if you are looking to have a home security system in Bexley or a burglar alarm system at your business property, give us a call. You can check out some of our most popular packages here: [Burglar Alarm System Bexley.](/categories/burglar-alarms/) All of our packages can be tailored to suit your property and requirements. Additional sensors, key fobs and door contacts can be added (or removed) to any of our packages to create the security system package that suits your needs.
 
-# Burglar Alarm Servicing in Bexley 
+# Burglar Alarm Servicing in Bexley  # Burglar Alarm Maintenance in Bexley
 
 Are you looking for a burglar alarm company in Bexleyheath? Maybe you cant get hold of your original installer/company or maybe you have inherited the system and not sure who installed or services your burglar alarm system in Bexley. Do not worry, we can certainly help. If you need your burglar alarm system serviced, or need the batteries changed, it has a fault or a part needs replacing, this is something that we can help with. Give us a call or send us an email and our friendly and helpful team can answer any of your questions and get you booked in. [Contact us here.](/contact/) We are a local family run company based in Sidcup with 30 years experience in the electronic security industry. There isn\'t any alarm system panels out there that we do not know. [Burglar Alarm Service in Bexley.](/categories/servicing-and-repairs/)
 
