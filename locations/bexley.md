@@ -1,9 +1,7 @@
 ---
-meta_title: Burglar Alarm Battery Service Bexley CCTV In Bexley Home Security -
-  MyAlarm Security
-meta_description: Home Burglar Alarm System Bexley. CCTV Bexley. Home Security
-  System, Burglar Alarm Service Battery. Alarm Company Near Me Bexley. Alarm
-  Battery 020 8302 4065
+meta_title: Burglar Alarm System Bexley. CCTV In Bexley Home Security - MyAlarm Security
+meta_description: Home Burglar Alarm System Bexley. CCTV Bexley. Burglar Alarm
+  Maintenance Service and Battery. Alarm Company Near Me Bexley.
 permalink: /pages/bexley/
 eleventyNavigation:
   key: Bexley
