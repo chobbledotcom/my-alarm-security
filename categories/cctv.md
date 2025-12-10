@@ -1,9 +1,9 @@
 ---
 title: CCTV
-meta_description: Home and business security. CCTV, Burglar Alarm Servicing,
-  Burglar Alarm Installation, Alarm Battery. Call 020 8302 4065 or send us an
-  email
-meta_title: CCTV Systems in New Eltham, Sidcup, Bexley, Greenwich, Orpington,
+meta_description: "CCTV Bexleyheath, Orpington, Bromley, Dartford, Sidcup, New
+  Eltham. Burglar Alarm Maintenance Service, Burglar Alarm Installation, Alarm
+  Battery. Call 020 8302 4065. "
+meta_title: CCTV in New Eltham, Sidcup, Bexleyheath, Greenwich, Orpington,
   Bromley, Dartford
 eleventyNavigation:
   key: CCTV
