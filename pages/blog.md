@@ -1,7 +1,8 @@
 ---
-meta_description: All of the latest news from MyAlarm Security about home
-  security, burglar alarms, and CCTV systems.
-meta_title: Latest Blog Posts | MyAlarm Security
+meta_description: Burglar Alarm Company near me in Bexley, Bromley, Orpington,
+  Greenwich. CCTV Company near me in Bexleyheath, Orpington, Bromley. Sidcup,
+  Greenwich.
+meta_title: Burglar Alarm Company near me in Bexley, Bromley, Orpington, Greenwich
 layout: news-archive.html
 permalink: /blog/
 ---
