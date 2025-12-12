@@ -1,6 +1,6 @@
 ---
-meta_title: Alarm System Charlton, CCTV Charlton. Alarm Maintenance Service
-  Charlton - MyAlarm Security
+meta_title: "Burglar Alarm System Charlton. CCTV in Charlton. Alarm Maintenance
+  Service Charlton "
 meta_description: Burglar Alarm Maintenance Service Charlton, Burglar Alarm
   Installation, Alarm Battery and CCTV Charlton Call 020 8302 4065 or
   Sales@MyAlarmSecurity.co.uk
