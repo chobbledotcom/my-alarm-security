@@ -2,10 +2,9 @@
 name: Spencer Elliott
 url: https://www.google.com/maps/contrib/111240418985734624048?hl=en
 rating: 5
-products:
-  - products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.md
-categories:
-  - categories/special-offers.md
+products: 
+categories: 
+thumbnail: /images/reviewers/spencer-elliott.jpg
 ---
 True story, the wheel in my van fell off the other day, literally fell off while I was driving...
 I ended up waiting 34 hours to be recovered because I wasn’t covered properly.

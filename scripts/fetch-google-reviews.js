@@ -3,6 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const { downloadAvatar, ensureAvatarsDir } = require('./download-avatar');
 
 // Load environment variables
 const envPath = path.join(__dirname, '..', '.env');
@@ -98,12 +99,13 @@ async function fetchReviews(placeId, options = {}) {
       date: review.publishedAtDate ? new Date(review.publishedAtDate) : new Date(),
       rating: review.stars || review.rating || 0,
       author: review.name || review.authorName || 'Anonymous',
-      authorUrl: review.reviewerUrl || review.authorUrl || ''
+      authorUrl: review.reviewerUrl || review.authorUrl || '',
+      photoUrl: review.reviewerPhotoUrl || ''
     }))
     .filter(review => review.content.length > 5);
 }
 
-function saveReview(review, outputDir) {
+async function saveReview(review, outputDir) {
   const filename = formatFilename(review.author, review.date);
   const filepath = path.join(outputDir, filename);
 
@@ -111,18 +113,26 @@ function saveReview(review, outputDir) {
     return false; // Skip existing
   }
 
+  // Download avatar if available
+  let thumbnailPath = '';
+  if (review.photoUrl) {
+    thumbnailPath = await downloadAvatar(review.photoUrl, review.author);
+  }
+
   const rating = review.rating || 5;
+  const thumbnailLine = thumbnailPath ? `thumbnail: ${thumbnailPath}\n` : '';
   const content = `---
 name: ${review.author}
 url: ${review.authorUrl}
 rating: ${rating}
----
+${thumbnailLine}---
 
 ${review.content}
 `;
 
   fs.writeFileSync(filepath, content);
-  console.log(`✓ ${filename} (${rating}/5 stars)`);
+  const avatarStatus = thumbnailPath ? ' + avatar' : '';
+  console.log(`✓ ${filename} (${rating}/5 stars${avatarStatus})`);
   return true;
 }
 
@@ -145,17 +155,20 @@ async function main() {
     process.exit(1);
   }
 
-  // Ensure output directory exists
+  // Ensure output directories exist
   fs.mkdirSync(CONFIG.reviewsDir, { recursive: true });
+  ensureAvatarsDir();
 
   try {
     // Fetch and save reviews
     const reviews = await fetchReviews(siteConfig.google_place_id);
     console.log(`Found ${reviews.length} reviews`);
 
-    const saved = reviews.reduce((count, review) =>
-      count + (saveReview(review, CONFIG.reviewsDir) ? 1 : 0), 0
-    );
+    let saved = 0;
+    for (const review of reviews) {
+      const wasSaved = await saveReview(review, CONFIG.reviewsDir);
+      if (wasSaved) saved++;
+    }
 
     console.log(`\nSaved ${saved} new reviews (${reviews.length - saved} already existed)`);
 

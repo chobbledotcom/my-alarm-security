@@ -47,6 +47,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add reviews/
+          git add reviews/ images/reviewers/
           git commit -m "Auto-update: Fetch new reviews"
           git push
