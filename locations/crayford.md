@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 # Burglar Alarm Maintenance Service in Crayford 
 
-Does your existing house alarm need a service or a new battery? Maybe you have a zone fault or a tamper? Or maybe you just want a service and the system checked over. We offer servicing, alarm system battery changes, sensor replacements, panel replacements and more for all makes and models of alarm systems. If you do not know the brand of alarm system, dont worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [Burglar Alarm services in Crayford.](/categories/servicing-and-repairs/)
+Does your existing house alarm need a maintenance service or a new battery? Maybe you have a zone fault or a tamper? Or maybe you just want a service and the system checked over. We offer servicing, alarm system battery changes, sensor replacements, panel replacements and more for all makes and models of alarm systems. If you do not know the brand of alarm system, dont worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [Burglar Alarm services in Crayford.](/categories/servicing-and-repairs/)
 
 # Burglar Alarm System Crayford 
 
