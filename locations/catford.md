@@ -1,6 +1,5 @@
 ---
-meta_title: Alarm System Catford, CCTV Catford. Alarm Maintenance Service
-  Catford - MyAlarm Security
+meta_title: Alarm System Catford, CCTV Catford. Alarm Maintenance Service Catford
 meta_description: Alarm System Catford, CCTV Catford. Alarm Service Catford,
   Alarm Battery Replacement Catford, Home Alarm System Catford. Tel 020 8302
   4065
