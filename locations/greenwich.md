@@ -1,12 +1,13 @@
 ---
-meta_title: "Burglar Alarm System Battery Greenwich CCTV Systems In Greenwich - MyAlarm Security"
-meta_description: "Burglar Alarm System Greenwich. CCTV systems Greenwich. Home Security, Burglar Alarm Service Alarm Battery Greenwich. Intruder. Contact us  020 8302 4065."
-permalink: "/pages/greenwich/"
+meta_title: Burglar Alarm System Greenwich. CCTV Company In Greenwich. Burglar
+  Alarm Battery Maintenance.
+meta_description: Burglar Alarm System Greenwich. CCTV in Greenwich. Home
+  Security, Burglar Alarm Maintenance Service Alarm Battery Greenwich. Intruder
+permalink: /pages/greenwich/
 eleventyNavigation:
   key: Greenwich
   parent: Service Areas
 ---
-
 # Burglar Alarm Systems in Greenwich 
 
 Looking for a reliable burglar alarm system in Greenwich? Based in nearby Sidcup, we\'re a trusted local, family-run security company serving Greenwich and the entire Royal Borough of Greenwich. We specialise in the installation, maintenance and servicing of all makes and models of burglar alarm systems for both homes and businesses.
@@ -19,7 +20,7 @@ To explore pricing and popular options, visit our [Burglar Alarm System in Green
 
 Contact us today to book your survey or ask any questions - we\'re always happy to help.
 
-# Burglar Alarm Repairs & Servicing in Greenwich 
+# Burglar Alarm Maintenance, Repairs & Service in Greenwich 
 
 Need your existing burglar alarm serviced in Greenwich? Whether your alarm battery needs replacing, you\'re experiencing sensor faults, or your system is triggering false alarms or tampers on the zones, we\'ve got you covered.
 
@@ -27,10 +28,9 @@ With over 30 years of experience in the security industry, we support nearly all
 
 Call us on 020 8302 4065 or send an email to Sales@MyAlarmSecurity.co.uk to get booked in.
 
-# CCTV Installation in Greenwich 
+# CCTV in Greenwich 
 
-Enhance your property\'s security with CCTV installation in Greenwich. We supply and install the latest camera systems, including ColorVu CCTV, which provides 24/7 full-colour footage for clear, reliable surveillance. s a local, family-run business, we pride ourselves on offering friendly, honest service with no hard sell. Take a look at our [CCTV packages in Greenwich](/categories/cctv/) to see what best fits your needs.
-
-For a tailored quote or to schedule a site visit, [contact us today.](/contact/)
+Enhance your property\'s security with CCTV installation in Greenwich. We supply and install the latest camera systems, including colour CCTV, which provides 24/7 full-colour footage for clear, reliable surveillance. 
+We are a local, family-run business based in Sidcup. We pride ourselves on offering a friendly, honest service with no hard sell. Take a look at our [CCTV packages in Greenwich](/categories/cctv/) to see what best fits your needs. For a tailored quote or to schedule a site visit, [contact us today.](/contact/)
 
 {% include "area-list-shortcode.html", prefix: "We also serve customers in ", suffix: "." %}
