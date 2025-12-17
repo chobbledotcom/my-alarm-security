@@ -102,9 +102,10 @@ jobs:
           path: |
             combined/node_modules
             combined/.image-cache
-          key: ${{ runner.os }}
+          key: ${{ runner.os }}-pnpm-${{ hashFiles('combined/pnpm-lock.yaml') }}-images-${{ hashFiles('combined/src/images/**/*') }}
           restore-keys: |
-            ${{ runner.os }}
+            ${{ runner.os }}-pnpm-${{ hashFiles('combined/pnpm-lock.yaml') }}-images-
+            ${{ runner.os }}-pnpm-
 
       - name: Build with Node
         run: |
