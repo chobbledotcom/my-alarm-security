@@ -8,5 +8,6 @@ eleventyNavigation:
   key: Thamesmead
   parent: Service Areas
 ---
-
-<meta http-equiv="refresh" content="0; url="/">
+<p>
+  <meta http-equiv="refresh" content="0; url="/">
+</p>
