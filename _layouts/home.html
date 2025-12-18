@@ -9,7 +9,8 @@ layout: base.html
     <p>{{ home_content.banner.special_offer.message }}</p>
     <a href="{{ home_content.banner.special_offer.link }}">VIEW OFFERS</a>
   </div>
-  {% endif %} {% if home_content.banner.images.size > 0 %}
+  {% endif %}
+  {% if home_content.banner.images.size > 0 %}
   <div class="home-banner-inner">
     <div class="swiper">
       <div class="swiper-wrapper">
@@ -36,7 +37,7 @@ layout: base.html
   <article>
     {% if card.image %}
     <a href="{{ card.link }}">
-      <img src="{{ card.image }}" alt="{{ card.title }}" />
+      {%- image card.image, card.title, "200,400,600" -%}
     </a>
     {% endif %}
     <h2>{{ card.title }}</h2>
