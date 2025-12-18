@@ -2,8 +2,10 @@
 name: Rita Noble
 url: https://www.google.com/maps/contrib/110556541300939761344?hl=en
 rating: 5
-products: 
-categories: 
+products:
+  - products/pet-package-849.md
+categories:
+  - categories/burglar-alarms.md
 thumbnail: /images/reviewers/rita-noble.jpg
 ---
 Choosing the system I needed was straightforward as the website was set out so clearly and concisely, including the cost. As I was self-isolating, the survey was carried out via facetime, which was perfect.
