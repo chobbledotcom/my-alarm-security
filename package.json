@@ -13,7 +13,8 @@
 		"clean": "rm -rf .build _site",
 		"convert-old-site": "node scripts/convert-old-site.js",
 		"compare-paths": "node scripts/compare-paths.js",
-		"import": "node scripts/convert-old-site.js"
+		"import": "node scripts/convert-old-site.js",
+		"pin-template": "node scripts/pin-template.js"
 	},
 	"dependencies": {
 		"@botpoison/browser": "^0.1.30",
