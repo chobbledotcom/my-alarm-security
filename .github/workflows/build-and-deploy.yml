@@ -55,6 +55,8 @@ jobs:
             --exclude=".*" \
             --exclude="README.md" \
             --exclude="old_site" \
+            --exclude="package*.json" \
+            --exclude="scripts" \
             source/ \
             combined/src/
 
