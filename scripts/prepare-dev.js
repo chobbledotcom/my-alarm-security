@@ -47,10 +47,29 @@ function prep() {
   
   execSync(`rsync -r --delete ${templateExcludeArgs} "${template}/" "${dev}/"`);
   execSync(`rsync -r ${rootExcludeArgs} "${root}/" "${dev}/src/"`);
-  
+
+  // Merge template's package.json with local dependencies
+  const templatePkg = JSON.parse(fs.readFileSync(path.join(template, 'package.json'), 'utf8'));
+  const localPkgPath = path.join(root, 'package.json');
+  if (fs.existsSync(localPkgPath)) {
+    const localPkg = JSON.parse(fs.readFileSync(localPkgPath, 'utf8'));
+    // Merge local dependencies into template (template takes precedence for conflicts)
+    if (localPkg.dependencies) {
+      templatePkg.dependencies = { ...localPkg.dependencies, ...templatePkg.dependencies };
+    }
+    if (localPkg.devDependencies) {
+      templatePkg.devDependencies = { ...localPkg.devDependencies, ...templatePkg.devDependencies };
+    }
+  }
+  const mergedPkgJson = JSON.stringify(templatePkg, null, '\t');
+  const devPkgPath = path.join(dev, 'package.json');
+  const existingPkg = fs.existsSync(devPkgPath) ? fs.readFileSync(devPkgPath, 'utf8') : '';
+  const pkgChanged = mergedPkgJson !== existingPkg;
+  fs.writeFileSync(devPkgPath, mergedPkgJson);
+
   sync();
   
-  if (!fs.existsSync(path.join(dev, 'node_modules'))) {
+  if (pkgChanged || !fs.existsSync(path.join(dev, 'node_modules'))) {
     console.log('Installing dependencies...');
     execSync('pnpm install', { cwd: dev });
   }
