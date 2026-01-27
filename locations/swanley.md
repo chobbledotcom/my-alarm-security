@@ -1,4 +1,5 @@
 ---
+title: Swanley
 meta_title: "Burglar Alarm System Swanley CCTV Systems In Swanley, Kent - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/swanley/"

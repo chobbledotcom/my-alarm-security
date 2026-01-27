@@ -1,4 +1,5 @@
 ---
+title: Barnehurst
 meta_title: "Burglar Alarm System Barnehurst, CCTV Barnehurst. Alarm Maintenance
   Service in Barnehurst "
 meta_description: Alarm System Barnehurst, CCTV Barnehurst. Alarm Maintenance

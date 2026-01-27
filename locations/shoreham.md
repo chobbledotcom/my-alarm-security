@@ -1,4 +1,5 @@
 ---
+title: Shoreham
 meta_title: "Local Security Company. Alarm System Shoreham, CCTV Shoreham. - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/shoreham/"
