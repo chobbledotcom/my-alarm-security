@@ -1,4 +1,5 @@
 ---
+title: Greenhithe
 meta_title: "Burglar Alarm System Greenhithe CCTV Systems In Greenhithe - MyAlarm Security"
 meta_description: ""
 permalink: "/pages/greenhithe/"
