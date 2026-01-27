@@ -6,5 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 .DS_Store
 .direnv
-CLAUDE.md
 .env
+.claude
+screenshots/
+.jscpd-report/

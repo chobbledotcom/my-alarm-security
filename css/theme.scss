@@ -1,6 +1,7 @@
 @charset "utf-8";
 @use "sass:color";
 @use "sass:math";
+@use "breakpoints";
 
 @font-face {
   font-family: "Fjalla One";
@@ -33,10 +34,6 @@
   --link-decoration-hover: underline;
   --link-decoration-style: solid;
   --header-text-color: #cd1314;
-  --nav-bg-color: #cd1314;
-  --nav-link-color: #ffffff;
-  --nav-text-color: #ffffff;
-  --nav-link-active-color: #f5c211;
   --main-heading-color: #cd1314;
   --form-border: 1px solid #cd1314;
   --form-input-bg-color: #e0e0e0;
@@ -101,9 +98,14 @@ h5,
 h6 {
   font-family: var(--font-family-heading);
   font-weight: 400;
+  color: #cd1314;
 }
 
 nav {
+  --color-bg: #cd1314;
+  --color-link: #ffffff;
+  --color-text: #f5c211;
+
   font-family: var(--font-family-heading);
   font-weight: 400;
   a {
@@ -182,6 +184,7 @@ $gap: 1rem;
       margin: 0;
       font-size: 1.1rem;
       font-weight: bold;
+      color: white;
     }
 
     a {
@@ -229,7 +232,7 @@ $gap: 1rem;
     .image-wrapper,
     img {
       width: 100%;
-      max-width: var(--width-content);
+      max-width: var(--width-content) !important;
       height: 100%;
       object-fit: cover;
     }
@@ -416,7 +419,7 @@ $gap: 1rem;
   display: inline-block;
   padding: $gap * 0.5 $gap;
   background: var(--color-link);
-  color: var(--nav-link-color);
+  color: white;
   text-decoration: none;
   border-radius: var(--border-radius);
   transition:
@@ -650,4 +653,12 @@ body.home section {
 body.news-post article.content img,
 body.news-post article.content .image-wrapper {
   margin: 2rem auto;
+}
+
+@include breakpoints.up("lg") {
+  body.one-column {
+    #item {
+      grid-template-columns: 450px 1fr;
+    }
+  }
 }

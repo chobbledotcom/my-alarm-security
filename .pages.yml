@@ -1,79 +1,52 @@
 media:
-  - name: Images
-    input: images
-    output: /images
-    path: images
-    categories: [image]
-  - name: Icons
-    input: assets/icons
-    output: /assets/icons
-    path: icons
-    categories: [image]
+  input: images
+  output: /images
+  path: images
+  categories:
+    - image
+settings:
+  hide: true
+  content:
+    merge: true
 content:
-
   - name: pages
     label: Pages
     path: pages
     type: collection
-    filename: '{primary}.md'
     subfolders: false
     view:
-      fields: [permalink, meta_title ]
+      fields:
+        - meta_title
       primary: meta_title
-      sort: [meta_title]
+      sort:
+        - meta_title
     fields:
-      - { name: body, label: Body, type: code, options: { language: markdown } }
-      - { name: meta_description, type: string, label: Meta Description, maxlength: 155 }
+      - { name: subtitle, type: string, label: Subtitle }
+      - { name: body, type: rich-text, label: Body }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
+      - name: meta_description
+        type: string
+        label: Meta Description
+        maxlength: 155
       - name: eleventyNavigation
         label: Navigation
         type: object
         fields:
           - { name: key, type: string }
-          - { name: parent, type: string }
           - { name: order, type: number }
       - { name: layout, type: string }
-      - { name: permalink, type: string }
-
-  - name: locations
-    label: Locations
-    path: locations
-    type: collection
-    filename: '{primary}.md'
-    subfolders: false
-    view:
-      fields: [permalink, meta_title ]
-      primary: meta_title
-      sort: [meta_title]
-    fields:
-      - { name: body, label: Body, type: code, options: { language: markdown } }
-      - { name: meta_description, type: string, label: Meta Description, maxlength: 155 }
-      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
-      - name: eleventyNavigation
-        label: Navigation
+      - name: faqs
+        label: FAQs
         type: object
+        list: true
         fields:
-          - { name: key, type: string }
-          - { name: parent, type: string }
-          - { name: order, type: number }
-      - { name: permalink, type: string }
-      
-  - name: news
-    label: News
-    path: news
-    type: collection
-    subfolders: false
-    fields:
-      - { name: title, type: string, label: Title }
-      - { name: date, label: Date, type: date }
-      - { name: body, label: Body, type: code, options: { language: markdown } }
+          - { name: question, type: string, label: Question, required: true }
+          - { name: answer, type: string, label: Answer, required: true }
       - name: gallery
         type: image
         label: Gallery
-        options: { multiple: true }
-      - { name: meta_description, type: string, label: Meta Description, maxlength: 155 }
-      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
-      
+        options:
+          multiple: true
   - name: products
     label: Products
     path: products
@@ -81,26 +54,74 @@ content:
     subfolders: false
     fields:
       - { name: title, type: string, label: Title }
+      - { name: subtitle, type: string, label: Subtitle }
+      - { name: thumbnail, type: image, label: Thumbnail }
+      - { name: order, type: number, label: Order }
       - name: categories
         label: Categories
         type: reference
         options:
           collection: categories
           multiple: true
-          search: "title"
+          search: title
           value: "{path}"
           label: "{title}"
-      - { name: price, label: Price, type: string }
-      - { name: order, label: Display Order, type: number }
-      - { name: body, label: Body, type: code, options: { language: markdown } }
+      - name: options
+        label: Product Options
+        type: object
+        list: true
+        fields:
+          - { name: name, type: string, label: Option Name, required: true }
+          - name: max_quantity
+            type: number
+            label: Max Quantity
+            default: 10
+          - name: unit_price
+            type: number
+            label: Unit Price (£)
+            required: true
+          - { name: days, type: number, label: Days (for hire products) }
       - { name: features, type: string, label: Features, list: true }
+      - name: filter_attributes
+        label: Filter Attributes
+        type: object
+        list: true
+        fields:
+          - { name: name, type: string, label: Name, required: true }
+          - { name: value, type: string, label: Value, required: true }
+      - { name: body, type: rich-text, label: Body }
+      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
+      - name: meta_description
+        type: string
+        label: Meta Description
+        maxlength: 155
+      - name: faqs
+        label: FAQs
+        type: object
+        list: true
+        fields:
+          - { name: question, type: string, label: Question, required: true }
+          - { name: answer, type: string, label: Answer, required: true }
       - name: gallery
         type: image
         label: Gallery
-        options: { multiple: true }
-      - { name: meta_description, type: string, label: Meta Description, maxlength: 155 }
-      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
-      
+        options:
+          multiple: true
+      - name: specs
+        label: Specifications
+        type: object
+        list: true
+        fields:
+          - { name: name, type: string, label: Name, required: true }
+          - { name: value, type: string, label: Value, required: true }
+      - name: tabs
+        label: Tabs
+        type: object
+        list: true
+        fields:
+          - { name: title, type: string, label: Title, required: true }
+          - { name: image, type: image, label: Image }
+          - { name: body, type: rich-text, label: Body, required: true }
   - name: categories
     label: Categories
     path: categories
@@ -109,17 +130,63 @@ content:
     filename: "{primary}.md"
     fields:
       - { name: title, type: string, label: Title }
-      - { name: body, label: Body, type: code, options: { language: markdown } }
-      - { name: meta_description, type: string, label: Meta Description, maxlength: 155 }
+      - { name: thumbnail, type: image, label: Thumbnail }
+      - name: parent
+        label: Parent Category
+        type: reference
+        options:
+          collection: categories
+          multiple: false
+          search: title
+          value: "{path}"
+          label: "{title}"
+      - { name: body, type: rich-text, label: Body }
+      - { name: featured, type: boolean, label: Featured }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
-      - name: eleventyNavigation
-        label: Navigation
+      - name: meta_description
+        type: string
+        label: Meta Description
+        maxlength: 155
+      - { name: subtitle, type: string, label: Subtitle }
+      - name: faqs
+        label: FAQs
         type: object
+        list: true
         fields:
-          - { name: key, type: string }
-          - { name: parent, type: string }
-          - { name: order, type: number }
- 
+          - { name: question, type: string, label: Question, required: true }
+          - { name: answer, type: string, label: Answer, required: true }
+      - name: gallery
+        type: image
+        label: Gallery
+        options:
+          multiple: true
+  - name: news
+    label: News
+    path: news
+    type: collection
+    subfolders: false
+    fields:
+      - { name: title, type: string, label: Title }
+      - { name: date, label: Date, type: date }
+      - { name: subtitle, type: string, label: Subtitle }
+      - { name: body, type: rich-text, label: Body }
+      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
+      - name: meta_description
+        type: string
+        label: Meta Description
+        maxlength: 155
+      - name: faqs
+        label: FAQs
+        type: object
+        list: true
+        fields:
+          - { name: question, type: string, label: Question, required: true }
+          - { name: answer, type: string, label: Answer, required: true }
+      - name: gallery
+        type: image
+        label: Gallery
+        options:
+          multiple: true
   - name: reviews
     label: Reviews
     path: reviews
@@ -128,108 +195,71 @@ content:
     fields:
       - { name: name, type: string, label: Name }
       - { name: url, type: string, label: URL }
-      - { name: rating, type: number, label: Rating, required: true }
+      - { name: rating, type: number, label: Rating }
       - { name: thumbnail, type: image, label: Reviewer Photo }
-      - { name: body, label: Body, type: code, options: { language: markdown } }
+      - { name: body, type: rich-text, label: Body }
       - name: products
         label: Products
         type: reference
-        required: false
         options:
           collection: products
           multiple: true
-          search: "title"
+          search: title
           value: "{path}"
           label: "{title}"
+      - name: faqs
+        label: FAQs
+        type: object
+        list: true
+        fields:
+          - { name: question, type: string, label: Question, required: true }
+          - { name: answer, type: string, label: Answer, required: true }
+  - name: locations
+    label: Locations
+    path: locations
+    type: collection
+    subfolders: true
+    filename: "{primary}.md"
+    view:
+      fields:
+        - thumbnail
+        - title
+        - subtitle
+      primary: title
+      sort:
+        - title
+    fields:
+      - { name: title, type: string, label: Title }
+      - { name: subtitle, type: string, label: Subtitle }
+      - { name: thumbnail, type: image, label: Thumbnail }
+      - { name: order, type: number, label: Order }
       - name: categories
         label: Categories
         type: reference
-        required: false
         options:
           collection: categories
           multiple: true
-          search: "title"
+          search: title
           value: "{path}"
           label: "{title}"
-
-  - name: snippets
-    label: Snippets
-    path: snippets
-    type: collection
-    subfolders: false
-    filename: '{primary}.md'
-    fields:
-      - { name: name, type: string, label: Name }
-      - { name: body, label: Body, type: code, options: { language: markdown } }
-  
-  - name: home_content
-    label: Homepage Content
-    type: file
-    path: _data/home_content.json
-    format: json
-    fields:
-      - name: banner
-        label: Banner Section
+      - { name: body, type: rich-text, label: Body }
+      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
+      - name: meta_description
+        type: string
+        label: Meta Description
+        maxlength: 155
+      - name: faqs
+        label: FAQs
         type: object
+        list: true
         fields:
-          - name: special_offer
-            label: Special Offer
-            type: object
-            fields:
-              - { name: message, type: string, label: Offer Message, required: true }
-              - { name: link, type: string, label: Link URL, required: true }
-          - name: images
-            label: Banner Images
-            type: image
-            list: true
-      - name: hero
-        label: Hero Section
-        type: object
-        fields:
-          - name: service_cards
-            label: Service Cards
-            type: object
-            list: true
-            fields:
-              - { name: title, type: string, label: Title, required: true }
-              - { name: description, type: text, label: Description, required: true }
-              - { name: link, type: string, label: Link, required: true }
-              - { name: image, type: image, label: Image }
-      - name: main_content
-        label: Main Content Section
-        type: object
-        fields:
-          - name: paragraphs
-            label: Content Paragraphs
-            type: text
-            list: true
-          - { name: highlight, type: string, label: Highlight Text }
-      - name: why_choose_us
-        label: Why Choose Us Section
-        type: object
-        fields:
-          - { name: heading, type: string, label: Section Heading, default: "Why Choose Us?" }
-          - name: features
-            label: Features
-            type: object
-            list: true
-            fields:
-              - { name: title, type: string, label: Feature Title, required: true }
-              - { name: icon, type: image, label: Icon, media: Icons }
-      - name: reviews
-        label: Reviews Section
-        type: object
-        fields:
-          - { name: heading, type: string, label: Section Heading, default: "Our Reviews" }
-          - name: items
-            label: Customer Reviews
-            type: object
-            list: true
-            fields:
-              - { name: text, type: text, label: Review Text, required: true }
-              - { name: author, type: string, label: Author Name, required: true }
-              - { name: date, type: string, label: Review Date }
-
+          - { name: question, type: string, label: Question, required: true }
+          - { name: answer, type: string, label: Answer, required: true }
+      - name: gallery
+        type: image
+        label: Gallery
+        options:
+          multiple: true
   - name: site
     label: Site Configuration
     type: file
@@ -257,13 +287,12 @@ content:
           - { name: WhatsApp, type: string, label: WhatsApp }
           - { name: RSS, type: string, label: RSS }
       - { name: map_embed_src, type: string, label: Map Embed URL }
-      
   - name: meta
     label: Meta Configuration
     type: file
     path: _data/meta.json
     fields:
-      - { name: language, type: string, label: Language Code, default: "en-GB" }
+      - { name: language, type: string, label: Language Code, default: en-GB }
       - name: organization
         label: Organization
         type: object
@@ -294,8 +323,18 @@ content:
               - { name: telephone, type: string, label: Telephone }
               - { name: contactType, type: string, label: Contact Type }
               - { name: areaServed, type: string, label: Area Served }
-              - { name: availableLanguage, type: string, label: Available Languages, list: true }
-settings:
-  hide: true
-  content:
-    merge: true
+              - name: availableLanguage
+                type: string
+                label: Available Languages
+                list: true
+  - name: alt-tags
+    label: Image Alt Tags
+    type: file
+    path: _data/alt-tags.json
+    fields:
+      - name: images
+        type: object
+        list: true
+        fields:
+          - { name: path, type: image, label: Image }
+          - { name: alt, type: string, label: Alt Text }

@@ -7,5 +7,34 @@
 		"Facebook": "https://www.facebook.com/MyAlarm",
 		"Google": "https://share.google/lHdeUROjKe5zqlOpj",
 		"RSS": "/feed.xml"
+	},
+	"cms_config": {
+		"collections": [
+			"pages",
+			"products",
+			"categories",
+			"news",
+			"reviews",
+			"locations"
+		],
+		"features": {
+			"permalinks": false,
+			"redirects": false,
+			"faqs": true,
+			"galleries": true,
+			"header_images": false,
+			"external_navigation_urls": false,
+			"use_visual_editor": true,
+			"specs": true,
+			"features": true,
+			"external_purchases": false,
+			"add_ons": false,
+			"event_locations_and_dates": true,
+			"no_index": false,
+			"parent_categories": true,
+			"videos": false
+		},
+		"hasSrcFolder": false,
+		"customHomePage": true
 	}
 }
