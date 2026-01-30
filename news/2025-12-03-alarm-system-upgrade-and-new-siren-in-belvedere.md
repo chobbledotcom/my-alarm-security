@@ -1,5 +1,5 @@
 ---
-title: Alarm System Upgrade and New Siren in Belvedere
+title: Alarm System Upgrade and New Siren in Belvedere, DA17
 date: 2025-12-02
 gallery:
   - /images/alarm-and-ladder.jpg
