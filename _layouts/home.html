@@ -76,7 +76,7 @@ layout: base.html
 {% if homepage.show_news %}
 <section class="latest-news">
   <h2 class="centered">Latest News</h2>
-  {%- assign items = collections.news | reverse -%}
+  {%- assign items = collections.news -%}
   {%- assign widths = "305,480" -%}
   <ul class="items">
     {%- for item in items limit: 4 -%}
