@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: chobble-mirror/chobble-template
-          ref: main
+          ref: b0d79afd35f4b7ab36fcc686d0363c5c4918714d
           path: template
           sparse-checkout-cone-mode: false
           sparse-checkout: |
