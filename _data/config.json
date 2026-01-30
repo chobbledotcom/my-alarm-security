@@ -2,6 +2,7 @@
 	"formspark_id": "J3oPqa0ZR",
 	"botpoison_public_key": "pk_bbb182a9-1ff3-4d9a-839c-06e45f41a6e6",
 	"map_embed_src": null,
+	"show_product_review_counts": false,
 	"sticky_mobile_nav": true,
 	"rating_stars_uses_svg": false,
 	"horizontal_nav": true,
