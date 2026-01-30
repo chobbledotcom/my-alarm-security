@@ -24,7 +24,7 @@ layout: base
 {{ content }}
 
 {% assign category_path = "categories/" | append: page.fileSlug | append: ".md" %}
-{% assign category_reviews = collections.review | where_exp: "review", "review.data.categories contains category_path" %}
+{% assign category_reviews = collections.reviews | where_exp: "review", "review.data.categories contains category_path" %}
 {% if category_reviews.size > 0 %}
   <section>
     <h2 class="centered">Customer Reviews</h2>
