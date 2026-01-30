@@ -90,7 +90,7 @@ layout: base.html
 {% if home_content.reviews %}
 <section>
   <h2 class="centered">{{ home_content.reviews.heading }}</h2>
-  {% assign sorted_reviews = collections.review | reverse %}
+  {% assign sorted_reviews = collections.reviews | reverse %}
   {% assign reviews = sorted_reviews | slice: 0, 9 %}
   {% include "reviews-list.html", reviews: reviews %}
   <a href="/reviews/#content" class="read-more">Read More Reviews</a>
