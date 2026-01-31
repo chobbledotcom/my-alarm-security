@@ -136,7 +136,7 @@ jobs:
           enable-delete-action: true
           enable-purge-pull-zone: true
           pull-zone-id: ${{ secrets.BUNNY_REWRITE_PULL_ZONE_ID }}
-          replication-timeout: "15000"
+          replication-timeout: "5000"
 
       - name: Deploy to Bunny
         uses: R-J-dev/bunny-deploy@v2.0.6
@@ -150,7 +150,7 @@ jobs:
           enable-delete-action: true
           enable-purge-pull-zone: true
           pull-zone-id: ${{ steps.deployment_env.outputs.pull_zone_id_deploy }}
-          replication-timeout: "15000"
+          replication-timeout: "5000"
 
   notify-failure:
     name: Notify on Failure
