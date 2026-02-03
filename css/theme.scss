@@ -168,7 +168,7 @@ $gap: 1rem;
 
   .special-offer {
     background: var(--color-link);
-    color: var(--nav-link-color);
+    color: white;
     padding: $gap;
     border-radius: var(--border-radius) var(--border-radius) 0 0;
     display: flex;
@@ -200,7 +200,7 @@ $gap: 1rem;
       font-family: var(--font-family-heading);
 
       &:hover {
-        background: var(--nav-link-active-color);
+        background: #f5c211;
         color: #000000;
         border: 2px solid #000000;
       }
