@@ -51,3 +51,5 @@ All of our alarm systems include an external siren for the front of the property
 All of our packages and systems can be customised to suit your property and requirements. Additional movement sensors, door contacts, vibration sensors, keypads, keyfobs, keytags and more can be added to any of our packages to better suit your needs.
 
 \*App subscription subject to price increase by the developer.
+
+If you have any questions about any of our systems, please do not hesitate to get in touch. We offer a free no obligation survey where we can show you a demo kit of the system so you can see exactly what the panel and sensors look like before making your decision.
