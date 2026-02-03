@@ -34,15 +34,19 @@ meta_title: Standard System Alarm Package. Door Contact, Movement Sensors, Alarm
 
 Our standard package was designed to suit most residential premises and is by far our most popular package.
 
-We suggest covering each room on the ground floor which has an entry point such as external doors and windows and at least one upstairs on the landing for general coverage, however we are happy to do a site survey and go through vulnerable areas, access points and sensor placements with you.
+We suggest covering each room on the ground floor which has an entry point such as external doors and windows and at least one upstairs on the landing for general coverage, however we are happy to do a site survey and go through vulnerable areas, access points and sensor placements with you. Additional sensors can be added to any of our packages.
 
 All of our ready made packages come with a door contact for the entry/exit door which starts your audible countdown timer to remind you to turn the system off. Our entry and exit timer settings can be adjusted to suit your requirements - allowing you more time to get to the alarm system if needed.
 
-The 4 x pir movement sensors cover a 90 degree angle with a 10 meter coverage and can be pet friendly for dogs and cats up to 24 kg's.
+The 4 x pir movement sensors cover a 90 degree angle with a 10 meter coverage and can be pet friendly for dogs and cats up to approx 24 kg's.
 
-Our packages also include an external siren for the front of the property and a decoy for the rear. Our external siren triggers a piezo of around 100db which alerts neighbors and passers by of an activation.
+All of our alarm systems include an external siren for the front of the property and a decoy siren for the rear of the property. When the alarm is activated, the siren will ring with around 100db which will alert anyone near by including neighbours and passers by. If you have an active app subsciption, you will be notified on your mobile phone that the alarm has triggered.
 
-The app is also included within this package which enables you to arm/disarm and receive notifications from anywhere in the world as long as your panel remains connected to your router and you have internet on your mobile devices. The app subscription is free for the first year. If you wish to continue using the app after the first year, there is an app subscription fee of £20 per year\*. The app is optional and if you choose not to renew your subscription, your system will still work as it should - you just won't be able to remotely access the system or be notified of any activations.
+**What does the app do?** The app allows you to set and unset your system remotely. You also check if your system is set, and if not, you can set it at the touch of a button on your phone. It really is as simple as that. Maybe you have a cleaner going in or a family member and they don't know your alarm code, not to worry, you can log straight in via your phone app and unset the system so they can safely enter without activating the alarm. If your alarm is activated, the app will notify you if your alarm has been set off and will advise which sensor/s has been triggered.
+
+**How much is the app?** The app is free for the first year and then £20 per year thereafter (subject to manufacturer price increases). You can have numerous devices connected to the app at no additional charge.
+
+**Do I have to have the app?** The answer is no, you don't. If you decide that you do not want the app, your alarm system will still work as it should. The only difference is that you will not be able to remotely connect to your system or be notified on the app if the burglar alarm system has been activated. You will have to manually set/unset the system at the alarm system panel.
 
 All of our packages and systems can be customised to suit your property and requirements. Additional movement sensors, door contacts, vibration sensors, keypads, keyfobs, keytags and more can be added to any of our packages to better suit your needs.
 
