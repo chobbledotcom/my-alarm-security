@@ -4,7 +4,7 @@
 	"map_embed_src": null,
 	"show_product_review_counts": false,
 	"sticky_mobile_nav": true,
-	"rating_stars_uses_svg": false,
+	"rating_stars_uses_svg": true,
 	"horizontal_nav": true,
 	"placeholder_images": false,
 	"enable_theme_switcher": false,

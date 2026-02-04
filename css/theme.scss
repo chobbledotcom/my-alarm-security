@@ -15,6 +15,7 @@
 
 :root {
   --color-bg: #ffffff;
+  --color-accent: #fafafa;
   --color-text: #444444;
   --color-link: #cd1314;
   --color-link-hover: #333;
@@ -448,60 +449,12 @@ form {
 }
 
 .reviews-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: $gap * 2;
-  margin-bottom: $gap * 4;
-  list-style: none;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-
-  @media (max-width: $mobile) {
-    grid-template-columns: 1fr;
-  }
-
-  body.item & {
-    grid-template-columns: repeat(2, 1fr);
-
-    @media (max-width: 1000px) {
-      grid-template-columns: 1fr;
-    }
-  }
-
   li {
-    display: grid;
-    grid-template-columns: auto 110px;
-    grid-template-rows: auto auto auto auto;
-    grid-template-areas:
-      "review review"
-      "name rating"
-      "date date"
-      "products products";
-    gap: $gap;
-    list-style: none;
-    list-style-type: none;
-    height: min-content;
-
-    @media (max-width: $mobile) {
-      grid-template-columns: 1fr;
-      grid-template-areas:
-        "review"
-        "name"
-        "rating"
-        "date"
-        "products";
-    }
-
     .review {
-      grid-area: review;
       font-family: var(--font-family-body);
       font-style: normal;
 
       p {
-        display: inline;
-        margin: 0;
-
         &:first-child::before {
           content: "\201C";
           font-size: 2rem;
@@ -525,12 +478,9 @@ form {
     }
 
     .name {
-      grid-area: name;
       align-self: center;
       font-weight: bold;
       font-size: 0.9rem;
-      display: flex;
-      flex-direction: row;
       gap: 0.5rem;
 
       .reviewer-avatar {
@@ -547,30 +497,18 @@ form {
     }
 
     .rating {
-      grid-area: rating;
-      align-self: center;
-      justify-self: end;
       font-size: 1.5rem;
       color: #f5c211;
       line-height: 1;
-
-      @media (max-width: $mobile) {
-        justify-self: center;
-        text-align: center;
-      }
     }
 
     .date {
-      grid-area: date;
-      text-align: center;
       font-size: 0.85rem;
       color: #999;
       font-style: italic;
     }
 
     .products {
-      grid-area: products;
-      text-align: center;
       font-style: italic;
       font-size: 0.9rem;
       margin-bottom: 2rem;
