@@ -21,19 +21,21 @@ layout: base
   {% include "products-list.html" %}
 {% endif %}
 
-{{ content }}
+<div class="prose">{{ content }}</div>
 
 {% assign category_path = "categories/" | append: page.fileSlug | append: ".md" %}
 {% assign category_reviews = collections.reviews | where_exp: "review", "review.data.categories contains category_path" %}
 {% if category_reviews.size > 0 %}
-  <section>
-    <h2 class="centered">Customer Reviews</h2>
-    {% assign sorted_reviews = category_reviews | reverse %}
-    {% assign reviews = sorted_reviews | slice: 0, 9 %}
-    {% include "reviews-list.html", reviews: reviews %}
-    {% if category_reviews.size > 9 %}
-      <a href="/reviews/#content" class="read-more">Read More Reviews</a>
-    {% endif %}
+  <section class="design-system">
+    <div class="stack">
+      <h2 class="centered">Customer Reviews</h2>
+      {% assign sorted_reviews = category_reviews | reverse %}
+      {% assign reviews = sorted_reviews | slice: 0, 9 %}
+      {% include "reviews-list.html", reviews: reviews %}
+      {% if category_reviews.size > 9 %}
+        <a href="/reviews/#content" class="read-more">Read More Reviews</a>
+      {% endif %}
+    </div>
   </section>
 {% endif %}
 
