@@ -8,7 +8,7 @@ eleventyNavigation:
   parent: Service Areas
 ---
 
-# **Burglar Alarm and CCTV in Petts Wood** 
+# Burglar Alarm and CCTV in Petts Wood
 
 If you\'re interested in having a security system installed or upgraded in your home or business in Petts Wood, we\'re a local, reputable and reliable security company you can trust! We\'re based in Sidcup, just down the road, and we travel throughout Bromley and Petts Wood - and beyond, to make sure that people throughout the region can benefit from our incredible systems and our top-quality customer service team.
 
