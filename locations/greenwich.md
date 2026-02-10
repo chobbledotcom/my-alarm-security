@@ -9,7 +9,7 @@ eleventyNavigation:
   key: Greenwich
   parent: Service Areas
 ---
-# Burglar Alarm Systems in Greenwich 
+# Burglar Alarm Systems in Greenwich
 
 Looking for a reliable burglar alarm system in Greenwich? Based in nearby Sidcup, we\'re a trusted local, family-run security company serving Greenwich and the entire Royal Borough of Greenwich. We specialise in the installation, maintenance and servicing of all makes and models of burglar alarm systems for both homes and businesses.
 
@@ -21,7 +21,7 @@ To explore pricing and popular options, visit our [Burglar Alarm System in Green
 
 Contact us today to book your survey or ask any questions - we\'re always happy to help.
 
-# Burglar Alarm Maintenance, Repairs & Service in Greenwich 
+## Burglar Alarm Maintenance, Repairs & Service in Greenwich
 
 Need your existing burglar alarm serviced in Greenwich? Whether your alarm battery needs replacing, you\'re experiencing sensor faults, or your system is triggering false alarms or tampers on the zones, we\'ve got you covered.
 
@@ -29,7 +29,7 @@ With over 30 years of experience in the security industry, we support nearly all
 
 Call us on 020 8302 4065 or send an email to Sales@MyAlarmSecurity.co.uk to get booked in.
 
-# CCTV in Greenwich 
+## CCTV in Greenwich
 
 Enhance your property\'s security with CCTV installation in Greenwich. We supply and install the latest camera systems, including colour CCTV, which provides 24/7 full-colour footage for clear, reliable surveillance. 
 We are a local, family-run business based in Sidcup. We pride ourselves on offering a friendly, honest service with no hard sell. Take a look at our [CCTV packages in Greenwich](/categories/cctv/) to see what best fits your needs. For a tailored quote or to schedule a site visit, [contact us today.](/contact/)

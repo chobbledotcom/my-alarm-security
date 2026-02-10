@@ -10,7 +10,7 @@ eleventyNavigation:
   key: Orpington
   parent: Service Areas
 ---
-# **Alarm System and CCTV in Orpington** 
+# Alarm System and CCTV in Orpington
 
 We are a local, family run security company offering the latest in home and business security. We are based in Sidcup right on the borders of New Eltham, but also right beside the A20 so within a few minutes of Orpington (providing the A20 and Crittals Corner roundabout isn\'t backed up) Being so local, we have knowledge of the area and the streets within and surrounding (perfect if you ever need an emergency call out).
 

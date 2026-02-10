@@ -8,7 +8,7 @@ eleventyNavigation:
   parent: Service Areas
 ---
 
-# Home and Business Alarm Systems and CCTV in Sevenoaks, Kent 
+# Home and Business Alarm Systems and CCTV in Sevenoaks, Kent
 
 Nestled in the heart of Kent, the Borough of Sevenoaks offers a unique blend of rich history, stunning landscapes and modern amenities. Whether you\'re a resident or a visitor, Sevenoaks provides an inviting atmosphere that celebrates both its heritage and its vibrant present.
 

@@ -8,7 +8,7 @@ eleventyNavigation:
   parent: Service Areas
 ---
 
-# **Looking for a Trusted Security System Company in New Eltham?** 
+# Looking for a Trusted Security System Company in New Eltham?
 
 If you\'re based in **New Eltham, London SE9**, and need a dependable and friendly local security system company, MyAlarm Security is here for you. Whether it\'s expert advice or a reliable service, we\'re ready to assist.
 
