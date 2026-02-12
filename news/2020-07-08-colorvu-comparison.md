@@ -16,10 +16,10 @@ These cameras are not only cost effective but also blow the conventional cameras
 
 This recent CCTV install in Eltham/New Eltham borders looked at the new CCTV option and instantly agreed that it\'s a no brainer after comparing the two.
 
-We take the up-most care installing our equipment, we are definitely not the cheapest option but we believe you get what you pay for. We wow our customers with the way we hide our cabling, going to greater lengths than any others to make sure your install is aesthetically pleasing as possible.
+We take the utmost care installing our equipment, we are definitely not the cheapest option but we believe you get what you pay for. We wow our customers with the way we hide our cabling, going to greater lengths than any others to make sure your install is aesthetically pleasing as possible.
 
 Have a look at some of our [CCTV packages here](/categories/cctv/). We can create any package to suit your property and requirements, so if you need 2 cctv cameras or 12 cctv cameras, either internal or external, we can help.
 
 Feel free to get in touch for a free estimate, we cover from Sidcup, New Eltham and Eltham to Bexley, Bexleyheath and Dartford, Sevenoaks and Gravesend, Orpington and Bromley across to Greenwich to Beckenham and lots more areas.
 
-Dont hesitate to [get in touch](/contact/) if you have any questions.
+Don't hesitate to [get in touch](/contact/) if you have any questions.

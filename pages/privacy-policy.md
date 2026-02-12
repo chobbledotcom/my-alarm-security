@@ -1,6 +1,6 @@
 ---
 meta_title: "Burglar Alarm And CCTV Systems In Sidcup Bexley Orpington - MyAlarm Security"
-meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV.. Call 020 8302 4065 or send an email."
+meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or send an email."
 permalink: "/pages/privacy-policy/"
 layout: page
 ---
@@ -51,7 +51,7 @@ When processing is necessary for the performance of a contract or when processin
 
 Generally we do not rely on consent as a legal basis for processing your personal data.
 
-We will only use your personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so. Please note that we may process your personal information without your knowledge or consent, in compliance with the above rules, where it is this is required or permitted by law.
+We will only use your personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so. Please note that we may process your personal information without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
 
 Disclosures of your personal data
 

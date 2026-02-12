@@ -16,10 +16,10 @@ The customers alarm system was over 20 years old and they had never used it. We 
 
 We also added a 5 camera CCTV system to their property with two CCTV cameras at the front, one down the side and two at the rear with one covering the shed entrance.
 
-Both systems will have app control allowing the homeowner to view the surroundings of his home from anywhere in the world - or from any room in the house. If you hear a sound at night, its quick and easy to view your cameras from your mobile phone.  The house alarm can also be set and unset from the app, allowing the homeowner to have total control over his home security.
+Both systems will have app control allowing the homeowner to view the surroundings of his home from anywhere in the world - or from any room in the house. If you hear a sound at night, it's quick and easy to view your cameras from your mobile phone.  The house alarm can also be set and unset from the app, allowing the homeowner to have total control over his home security.
 
 The alarm system app allows certain zones/areas/rooms to be set at different times so that if you are in the property and would for example, just like the front door, garden door and certain room sensors to be set, this can be done from within the app as well, giving you total control over your system.
 
 This homeowner is now protected with the latest Burglar Alarm System and CCTV in Petts Wood. 
 
-[Contact us](/contact/) is you have any questions or would like further information on any of our systems. We are a family run company based in Sidcup and cover Orpington, Bromley, Petts Wood, Dartford, Knockholt, Crockenhill, Bexley, Greenwich, Gravesend, Erith, Sevenoaks and surrounding areas.
+[Contact us](/contact/) if you have any questions or would like further information on any of our systems. We are a family run company based in Sidcup and cover Orpington, Bromley, Petts Wood, Dartford, Knockholt, Crockenhill, Bexley, Greenwich, Gravesend, Erith, Sevenoaks and surrounding areas.

@@ -11,7 +11,7 @@ eleventyNavigation:
 ---
 # Burglar Alarm Maintenance Service in Bexleyheath
 
-Are you looking for a burglar alarm engineer in Bexleyheath? Maybe you cant get hold of your original installer/company or maybe you have inherited the system and not sure who installed or services your burglar alarm system in Bexleyheath. Do not worry, we can certainly help. If you need your burglar alarm system serviced, or need the batteries changed, it has a fault or a part needs replacing, this is something that we can help with. Give us a call or send us an email and our friendly and helpful team can answer any of your questions and get you booked in. [Contact us here.](/contact/) We are a local family run company based in Sidcup with 30 years experience in the electronic security industry. There isn\'t any alarm system panels out there that we do not know.
+Are you looking for a burglar alarm engineer in Bexleyheath? Maybe you can't get hold of your original installer/company or maybe you have inherited the system and not sure who installed or services your burglar alarm system in Bexleyheath. Do not worry, we can certainly help. If you need your burglar alarm system serviced, or need the batteries changed, it has a fault or a part needs replacing, this is something that we can help with. Give us a call or send us an email and our friendly and helpful team can answer any of your questions and get you booked in. [Contact us here.](/contact/) We are a local family run company based in Sidcup with 30 years experience in the electronic security industry. There isn\'t any alarm system panels out there that we do not know.
 
 ## Burglar Alarm System in Bexleyheath
 
@@ -29,6 +29,6 @@ So, if you are looking to have a home security system in Bexleyheath or a burgla
 
 If you are looking for a local, friendly and professional company to install CCTV at your property in Bexleyheath, then look no further. We can help! We offer hard wired CCTV systems in Bexleyheath that do not rely on an internet connection to record and store footage. All of our CCTV systems come with approx 30 days storage. Check out some of our packages here: [CCTV in Bexleyheath.](/categories/cctv/) Contact us if you have any questions.
 
-It couldnt be more easier to speak with us. You can use our contact us for found here: [Contact us](/contact/) - and fill in your details and we will get back to you as soon as we can. You can also email us direct at: Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.
+It couldn't be easier to speak with us. You can use our contact form found here: [Contact us](/contact/) - and fill in your details and we will get back to you as soon as we can. You can also email us direct at: Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.
 
 {% include "area-list-shortcode.html", prefix: "Looking for security services? We also cover ", suffix: "." %}

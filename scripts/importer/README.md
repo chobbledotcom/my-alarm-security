@@ -4,7 +4,7 @@ Modular site conversion tool for migrating content from the old MyAlarm Security
 
 ## Structure
 
-The importer is organized into separate modules for better maintainability and parallel development:
+The importer is organised into separate modules for better maintainability and parallel development:
 
 ```
 scripts/importer/

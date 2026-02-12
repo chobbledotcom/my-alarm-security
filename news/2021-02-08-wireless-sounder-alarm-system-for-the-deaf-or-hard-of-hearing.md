@@ -22,4 +22,4 @@ The strobe can be setup in different ways so that it lights up upon entry and ex
 
 We always have solutions to your questions and will go above and beyond to help our customers out.
 
-Dont hesitate to [contact us](/contact/) if you have any questions.
+Don't hesitate to [contact us](/contact/) if you have any questions.

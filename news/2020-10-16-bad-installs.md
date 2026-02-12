@@ -10,7 +10,7 @@ gallery:
 
 # Bad installs
 
-Here at MyAlarm Security we have seen some awful CCTV installations over the years with people thinking they will \'give it a go\' well it\'s not always that easy i\'m afraid. We are all for people doing it themsekves, but paying someone who hasnt got a clue is something we always try to advise against. Check that the person or company you have chosen is experienced, have a look at reviews, check they have the correct insurances and ask as many questions as you can.
+Here at MyAlarm Security we have seen some awful CCTV installations over the years with people thinking they will \'give it a go\' well it\'s not always that easy I\'m afraid. We are all for people doing it themselves, but paying someone who hasn't got a clue is something we always try to advise against. Check that the person or company you have chosen is experienced, have a look at reviews, check they have the correct insurances and ask as many questions as you can.
 
 This recent customer had just moved in to a property on the borders of Blackheath, Greenwich and Eltham and called us in to see if we could fix and take over the CCTV system.
 
@@ -20,9 +20,9 @@ The previous owner was apparently a builder but thought he was also a security i
 
 Things like the route the cables take to enter the junction box and common sense like if you poured water on the cable which way would it run are paramount.
 
-We completely ripped out the old sytem and all of it\'s cabling as it was not to the standard that we work hard to uphold.
+We completely ripped out the old system and all of its cabling as it was not to the standard that we work hard to uphold.
 
-Some companies would have fixed the faults and took it on causing the customer lots of call outs (most likely chargeable everytime) to remedy ongoing faults, we however refused and explained the long term positives.
+Some companies would have fixed the faults and took it on causing the customer lots of call outs (most likely chargeable every time) to remedy ongoing faults, we however refused and explained the long term positives.
 
 Needless to say the installation is now securely installed with no water ingress or trunking hanging off the wall.
 

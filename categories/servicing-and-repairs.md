@@ -32,7 +32,7 @@ Here is a list of some of the most common calls we get:
 - Alarm Siren Ringing
 - Out of Hours Alarm Engineer
 
-We\'ve been in the trade for 30 years and know most alarm systems - both old and new, inside out - so don\'t hesitate to get in contact. If you don\'t know the make or model of your system, just send us a photo of the alarm panel and we can identify it for you, Our email address is Sales@MyAlarmSecurity.co.uk. Our phone number is 020 8302 4065. You can also head to our [Contact Us](/contact/) page and fill in your details and one of our team will get back tou you ASAP.
+We\'ve been in the trade for 30 years and know most alarm systems - both old and new, inside out - so don\'t hesitate to get in contact. If you don\'t know the make or model of your system, just send us a photo of the alarm panel and we can identify it for you. Our email address is Sales@MyAlarmSecurity.co.uk. Our phone number is 020 8302 4065. You can also head to our [Contact Us](/contact/) page and fill in your details and one of our team will get back to you ASAP.
 
 We are based in New Eltham/Sidcup and cover a wide range of areas including [Bexley](/pages/bexley/), Dartford, [Orpington](/pages/orpington/), [Bromley](/pages/bromley/), Petts Wood, [West Wickham](/pages/west-wickham/), [Chislehurst](/pages/chislehurst/), [Wilmington](/pages/wilmington/), [Hextable](/pages/hextable/), [Swanley](/pages/swanley/), Gravesend, [Greenhithe](/pages/greenhithe/), Swanscombe, [Bexleyheath](/pages/bexleyheath/), [Welling](/pages/welling/), [Eltham](/pages/eltham/), Greenwich, Blackheath, Abbey Wood, Erith, Badgers Mount, Chelsfield, Crayford and more.
 

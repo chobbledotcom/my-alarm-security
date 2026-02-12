@@ -12,7 +12,7 @@ eleventyNavigation:
 ---
 # Burglar Alarm System Charlton
 
-If youre looking for a local home and business security company, then you have come to the right place! We are a local, family run company based in Sidcup and cover Charlton, Greenwich and surrounding areas for all things home and business security related. So if your existing burglar alarm system has developed a fault or it needs an alarm system service - or maybe you are looking to get a brand new system installed or your old one upgraded, then give us a call or send us an email. We can create any package to suit your needs. Why not check out some of our existing packages here: [Burglar Alarm Systems in Charlton.](/categories/burglar-alarms/)
+If you're looking for a local home and business security company, then you have come to the right place! We are a local, family run company based in Sidcup and cover Charlton, Greenwich and surrounding areas for all things home and business security related. So if your existing burglar alarm system has developed a fault or it needs an alarm system service - or maybe you are looking to get a brand new system installed or your old one upgraded, then give us a call or send us an email. We can create any package to suit your needs. Why not check out some of our existing packages here: [Burglar Alarm Systems in Charlton.](/categories/burglar-alarms/)
 
 ## CCTV System in Charlton
 
@@ -20,6 +20,6 @@ We offer the latest in CCTV packages. Our CCTV cameras have been extremely popul
 
 ## Burglar Alarm Maintenance Service in Charlton
 
-Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer maintenance, service and alarm system battery changes for all makes and models of alarm systems. If you dont know the brand of alarm system, dont worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [burglar alarm service in Charlton.](/categories/servicing-and-repairs/)
+Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer maintenance, service and alarm system battery changes for all makes and models of alarm systems. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [burglar alarm service in Charlton.](/categories/servicing-and-repairs/)
 
 {% include "area-list-shortcode.html", prefix: "We offer our services throughout ", suffix: " and nearby locations." %}
