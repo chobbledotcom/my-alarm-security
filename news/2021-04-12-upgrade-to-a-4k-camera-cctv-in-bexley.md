@@ -16,6 +16,6 @@ We now give our customers the option to upgrade one of your cameras to 4k for ju
 
 These cameras also look great with a silver shroud around the lens. Why not add one to your package and stand out from the crowd.
 
-Our CCTV package is often taken alongside our [home alarm systems](/categories/burglar-alarms/), all [packages can be found here](/categories/special-offers/).
+Our CCTV package is often taken alongside our [home alarm systems](/categories/burglar-alarms/), all [packages can be found here](/categories/special-offers/).
 
 Prices correct at time of publish April 2021 and may change in the future.

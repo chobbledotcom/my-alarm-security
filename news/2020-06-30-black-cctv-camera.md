@@ -22,4 +22,4 @@ Find out more about our CCTV camera system packages here: [CCTV](/categories/cct
 
 We cover Bexley, Bromley, Dartford, Eltham, New Eltham, Welling, Bexleyheath, Orpington, Sidcup, Sevenoaks, Chislehurst and Greenwich plus many more!
 
-We have a number of special offers and pre-built home security alarm and CCTV system packages here Special Offers
+We have a number of special offers and pre-built home security alarm and CCTV system packages here Special Offers

@@ -18,6 +18,6 @@ The intruders gained access through the glazed section at the rear of the house,
 
 We have upgraded their home [burglar alarm](/products/standard-system-599/) security system to the latest market leading equipment. The old external siren was around 15 years old and not much of a visual deterrent. As part of all our wired upgrades, we offer a backlit external siren for your home alarm system to give the best deterrent - especially at night when it glows. The old siren was a slightly different shape and left an unsightly mark on the wall. We never like to leave any mark if we can at all help it, so up the ladders we went to give a lick of paint around the new alarm siren and as you can see from the attached photo there's no sign of any old bell boxes - which you quite often see.
 
-We take a lot of pride in our home security [Burglar Alarms and CCTV Packages](/categories/special-offers/) and are very proud to be serving our local areas in Sidcup, New Eltham, Bexley, Greenwich, Bromley, Orpington and Dartford.
+We take a lot of pride in our home security [Burglar Alarms and CCTV Packages](/categories/special-offers/) and are very proud to be serving our local areas in Sidcup, New Eltham, Bexley, Greenwich, Bromley, Orpington and Dartford.
 
 **Burglar Alarm System New Eltham, Bexley**

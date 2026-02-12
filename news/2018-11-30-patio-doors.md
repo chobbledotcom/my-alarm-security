@@ -18,4 +18,4 @@ The local police have suggested on every street meeting that a [burglar alarm se
 
 Our \'[Pet Package](/products/pet-package-849/)\' is the perfect start of a complete smart home security burglar alarm system with perimeter protection with the back up of a couple of movement sensors on the inside.
 
-Our aim is to trigger the alarm before any movement is detected on the inside and this will hopefully be enough to scare the thieves away and not come back. Check out all of our \'[Special Offers](/categories/special-offers/)\' here.
+Our aim is to trigger the alarm before any movement is detected on the inside and this will hopefully be enough to scare the thieves away and not come back. Check out all of our \'[Special Offers](/categories/special-offers/)\' here.

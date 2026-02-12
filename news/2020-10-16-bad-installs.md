@@ -28,4 +28,4 @@ Needless to say the installation is now securely installed with no water ingress
 
 Another happy customer.
 
-For an idea on pricing, please see our [CCTV packages](/categories/cctv/).
+For an idea on pricing, please see our [CCTV packages](/categories/cctv/).

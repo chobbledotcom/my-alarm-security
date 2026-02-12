@@ -16,6 +16,6 @@ The customer decided they wanted their [Smart Controlled Burglar Alarm Panel](/c
 
 It meant drilling in at an angle in to the cupboard and meeting the hole with the drill from the inside. We love being top of our game in the industry.
 
-We believe that customer satisfaction is the key to success. Knowing that our customers are pleased with our work, is complete job satisfaction for us. Personal recomendations go a long way and building a good relationship with our customers is always paramount.
+We believe that customer satisfaction is the key to success. Knowing that our customers are pleased with our work, is complete job satisfaction for us. Personal recommendations go a long way and building a good relationship with our customers is always paramount.
 
 Please feel free to [contact us](/contact/) with any questions or queries that you may have. Our friendly team are always happy to help.

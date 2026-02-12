@@ -20,4 +20,4 @@ So whether you\'re looking to secure your home or business, MyAlarm Security can
 
 We are a family run company and are based on the borders of [Sidcup](/pages/sidcup/) and New Eltham so if you live in the boroughs of Bexley, Greenwich, [Bromley](/pages/bromley/), Dartford and surrounding areas, we would be more than happy to help.
 
-[Contact us](/contact/) today to so we can help you protect what matters most.
+[Contact us](/contact/) today to so we can help you protect what matters most.
