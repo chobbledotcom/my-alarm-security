@@ -13,7 +13,6 @@ const rootExcludes = [
   "node_modules",
   "package.json",
   "bun.lock",
-  "old_site",
 ];
 
 /**
