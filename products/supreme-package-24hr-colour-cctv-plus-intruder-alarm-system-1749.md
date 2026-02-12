@@ -16,9 +16,9 @@ meta_title: CCTV Bexley Bromley Orpington Sevenoaks Dartford Sidcup Greenwich Ne
 
 **Package Includes:**
 
-- 4 x 5MP/3K Cameras with built in microphone
-- 1 x 4 Channel digital video recorder
-- 1 x 2tb Harddrive with 30 day storage
+- 4 x 5MP/3K cameras with built-in microphone
+- 1 x 4-channel digital video recorder
+- 1 x 2TB hard drive with 30-day storage
 - 1 x Door contact
 - 4 x Movement sensors (can be pet friendly)
 - 1 x External siren for the front
@@ -32,8 +32,8 @@ meta_title: CCTV Bexley Bromley Orpington Sevenoaks Dartford Sidcup Greenwich Ne
 - Hardwired CCTV system
 - Supplied and fitted and with a 12 month parts warranty 
 
-**Our Price:** £1948.00 (includes package discount) - (no vat to be added)
+**Our Price:** £1,948.00 (includes package discount) - (no VAT to be added)
 
 Our ultimate package combines our Standard Alarm System and CCTV Package 1 along with a package discount. All of our packages can be tailored to suit your property and requirements with additional sensors, keyfobs, door contacts, additional cameras, larger storage and more available to be added. Please feel free to contact us to book a survey, discuss your options or to get a quote.
 
-We are a family run company based in Sidcup. With over 30 years in the security industry. We cover the areas of Bromley, Dartford, Bexley, Bexleyheath, Greenwich, Orpington, Sidcup, Chislehurst, Sevenoaks and surrounding areas
+We are a family-run company based in Sidcup with over 30 years in the security industry. We cover the areas of Bromley, Dartford, Bexley, Bexleyheath, Greenwich, Orpington, Sidcup, Chislehurst, Sevenoaks and surrounding areas.
