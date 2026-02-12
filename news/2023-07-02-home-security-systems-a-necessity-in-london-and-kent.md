@@ -12,11 +12,11 @@ gallery:
 
 Home Security Systems: A Necessity in London and Kent?
 
-One of the most effective methods of protecting ones property is by investing in a reliable [home security system](/categories/special-offers/). The importance of having a security system cannot be overstated, as it provides an added layer of protection for both your family and your valuables. In this article, we'll explore why home security systems are a necessity in London and Kent. We are based in Sidcup which is in the London Borough of Bexley but with a Kent postcode however we are right on the borders of New Eltham which is in the London Borough of Greenwich and has a London postcode.
+One of the most effective methods of protecting one's property is by investing in a reliable [home security system](/categories/special-offers/). The importance of having a security system cannot be overstated, as it provides an added layer of protection for both your family and your valuables. In this article, we'll explore why home security systems are a necessity in London and Kent. We are based in Sidcup which is in the London Borough of Bexley but with a Kent postcode however we are right on the borders of New Eltham which is in the London Borough of Greenwich and has a London postcode.
 
 Crime Rate in London and Kent
 
-Burglary rates in both London and Kent have seen a steady increase over the past few years. In 2020 alone, the Metropolitan Police recorded over 65,000 home burglaries in London. That's an average of 180 burglaries per day. Similarly, in Kent, the crime rate has seen an increase of 6.8% in 2021, with burglary being one of the top crimes. With such alarming figures, lots of homeowners and business owner are taking the necessary precautions to secure their homes and businesses.
+Burglary rates in both London and Kent have seen a steady increase over the past few years. In 2020 alone, the Metropolitan Police recorded over 65,000 home burglaries in London. That's an average of 180 burglaries per day. Similarly, in Kent, the crime rate has seen an increase of 6.8% in 2021, with burglary being one of the top crimes. With such alarming figures, lots of homeowners and business owners are taking the necessary precautions to secure their homes and businesses.
 
 Importance of Home Security Systems
 
@@ -38,4 +38,4 @@ Conclusion
 
 In conclusion, home security systems are a necessity in London and Kent, given the rising crime rates in these areas. Securing your home with a reliable security system is an effective way to protect your property from intruders and provide peace of mind. When selecting a security system, homeowners should consider their specific needs, budget, and the reputation of the security company. The value a security system provides in terms of protection and peace of mind is immeasurable.
 
-Feel free to [contact us](/contact/) for any advice, any questions you may have or to book a free home survey. In the meantime, why not have a look at some of our premade[ burglar alarm](/categories/burglar-alarms/) and [CCTV](/categories/cctv/) packages here. We can custom design any package to suit your needs.
+Feel free to [contact us](/contact/) for any advice, any questions you may have or to book a free home survey. In the meantime, why not have a look at some of our premade [burglar alarm](/categories/burglar-alarms/) and [CCTV](/categories/cctv/) packages here. We can custom design any package to suit your needs.

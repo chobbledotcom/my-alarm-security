@@ -1,6 +1,6 @@
 ---
 meta_description: Burglar Alarm System, Upgrade, Service, Maintenance, battery
-  change, panel replacement, decommision. Bexley, Dartford, Orpington, Bromley,
+  change, panel replacement, decommission. Bexley, Dartford, Orpington, Bromley,
   Sevenoaks.
 meta_title: Home Burglar Alarm System Near Me Bexley Sidcup Orpington Bromley
   Bexleyheath Maintenance and CCTV

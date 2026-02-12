@@ -16,6 +16,6 @@ In the attached photo (whilst repairing a cctv system not installed by us) we no
 
 We needed a very long screwdriver which is a half meter in length to release the fixing from within the joists. Once released, we could move the cctv camera to a position that suits and the customer was delighted.
 
-We have used these screwdrivers for burglar alarm home security systems also when fixings are hard to reach.
+We have used these screwdrivers for burglar alarm home security systems also when fixings are hard to reach.
 
-There isnt much we cant do!
+There isn't much we can't do!

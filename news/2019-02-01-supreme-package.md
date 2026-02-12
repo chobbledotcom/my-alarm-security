@@ -12,7 +12,7 @@ gallery:
 
 Here we have our very popular \'[Supreme Package](/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749/)\' consisting of the market leading [burglar alarm](/products/standard-system-599/) home security system with full app control and the top of the range full [24hr colour CCTV system](/products/cctv-package-2-1199-24hr-colour-cctv/) with the ability to view your property and playback recorded footage anywhere in the world providing you have internet.
 
-If you are in Sidcup**, **Bexley, New Eltham, Bexleyheath, Orpington, Petts Wood, Eltham, Greenwhich, Bromley or anywhere on the borders including Kent and London and you want to go from no home security to full app controlled coverage inside and out, then this is the package for you.
+If you are in Sidcup, Bexley, New Eltham, Bexleyheath, Orpington, Petts Wood, Eltham, Greenwich, Bromley or anywhere on the borders including Kent and London and you want to go from no home security to full app controlled coverage inside and out, then this is the package for you.
 
 Never miss a thing.
 
