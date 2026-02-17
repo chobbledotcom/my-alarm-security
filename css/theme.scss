@@ -585,6 +585,9 @@ body.home section {
 
 /* Hide Service Areas submenu on mobile */
 @media (max-width: $mobile) {
+  body.sticky-mobile-nav nav > ul > li:has(> ul) > a::after {
+    display: none !important; // carets
+  }
   nav li:has(> a[href="/service-areas/"]) > ul {
     display: none !important;
   }
