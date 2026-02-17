@@ -14,7 +14,7 @@ featured: false
 
 Why wait until a break in or an attempted break in to have home security or a burglar alarm fitted? With so many burglaries and attempted break-ins, don't leave it until it's too late. Protect what is yours and deter any intruders by installing a **MyAlarm Security Burglar Alarm System**.
 
-Our chosen brand of system to install is Pyronix. They are the market leading brand and are a extremely reliable. We have been installing Pyronix intruder systems for over 10 years and know the system inside-out. Pyronix offer 24/7 app-based monitoring. They are ideal for users seeking reliable, UK-designed systems that integrate with Hikvision cameras. Pyronix systems provide instant notifications via an app and offer flexible, pet-friendly, and scalable protection for homes and businesses.
+Our chosen brand of system to install is Pyronix. They are the market leading brand and are extremely reliable. We have been installing Pyronix intruder alarm systems for over 10 years and know the system inside-out. Pyronix offer 24/7 app-based monitoring. Pyronix systems provide instant notifications via an app and offer flexible, pet-friendly, and scalable protection for homes and businesses.
 
 **What does the app do?**
 
