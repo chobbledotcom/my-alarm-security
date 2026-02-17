@@ -10,3 +10,7 @@ meta_description: Intruder Alarm System Installation and CCTV in Orpington
   4065
 ---
 # Frequently Asked Questions
+
+**Why choose us?**
+
+With over 30 years experience in the home and business security industry, there isnt many systems we dont know or havent worked on.
