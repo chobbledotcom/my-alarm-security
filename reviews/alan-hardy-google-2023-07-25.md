@@ -8,5 +8,6 @@ products:
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/alan-hardy.jpg
+date: 2023-07-25
 ---
 Matt installed our buglar alarm system today, he did a superb job, nothing was to much trouble, he was professional, explained everything in layman's terms  cleaned up afterwards, I would recommend him highly, if you need an alarm system, this is were you want go

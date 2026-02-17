@@ -7,5 +7,6 @@ products:
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/margaret-rolleston.jpg
+date: 2023-03-18
 ---
 Our experience with MyAlarm Security was entirely positive. Matt was able to come round the day after we phoned, explained everything very clearly and even brought a demonstration pack so we could see the equipment. He gave an on the spot quote which was significantly lower than another local company and was able to fit the security system the following week. He was very knowledgeable, professional and friendly, and the fitting process was clean and efficient. We wouldn't hesitate to recommend MyAlarm and are very happy we decided to use their service. Thanks Matt and Rachel.

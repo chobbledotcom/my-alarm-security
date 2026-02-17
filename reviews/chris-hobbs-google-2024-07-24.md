@@ -7,5 +7,6 @@ products:
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/chris-hobbs.jpg
+date: 2024-07-24
 ---
 Highly recommend Matt and his team. First class advice and first class install. Could not be happier with the service we received. Thanks again.

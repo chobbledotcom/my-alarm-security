@@ -7,5 +7,6 @@ products:
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/peter-fallows.jpg
+date: 2022-06-15
 ---
 Excellent from every point of view -- highly recommended

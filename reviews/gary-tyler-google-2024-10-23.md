@@ -7,5 +7,6 @@ products:
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/gary-tyler.jpg
+date: 2024-10-23
 ---
 We had a old alarm removed and a new wireless alarm installed by Matt and he  explained everything to us and helped us set  it up via the app  so we could view it on our phone ,I can honestly say his service is superb and we would highly recommend Matt's company to anyone, and all at a very reasonable price, thank you we are so pleased with our new alarm .

@@ -5,6 +5,7 @@ rating: 5
 categories:
   - categories/servicing-and-repairs.md
 thumbnail: /images/reviewers/linda-kasparian.jpg
+date: 2023-03-31
 ---
 I can highly recommend MyAlarmSecurity.
 I emailed them late at night with an issue I had with my alarm and had a reply early the next morning. A phone call, and Matt was able to come out within a couple of hours. Very friendly, professional service and advice. Thank you Matt and MyAlarm security for your help.

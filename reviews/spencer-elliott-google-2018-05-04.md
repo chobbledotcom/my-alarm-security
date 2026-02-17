@@ -7,6 +7,7 @@ products:
 categories:
   - categories/special-offers.md
 thumbnail: /images/reviewers/spencer-elliott.jpg
+date: 2018-05-04
 ---
 True story, the wheel in my van fell off the other day, literally fell off while I was driving...
 I ended up waiting 34 hours to be recovered because I wasn’t covered properly.

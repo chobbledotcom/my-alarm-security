@@ -11,5 +11,6 @@ categories:
   - categories/cctv.md
   - categories/special-offers.md
 thumbnail: /images/reviewers/tiny-town-soft-play.jpg
+date: 2018-05-16
 ---
 Alarm and CCTV system fitted at home and business premises. Very happy with systems and high standards of workmanship. Explained well and engineer very knowledgable. Would highly reccommend.

@@ -7,5 +7,6 @@ products:
 categories:
   - categories/cctv.md
 thumbnail: /images/reviewers/dushyant-purohit.jpg
+date: 2024-10-23
 ---
 Excellent service and high quality material from myalarm. Matt installed CCTV system to our flat and commercial building. Installation was very precise and accurate. Nice, clean and tidy work. After installation support and help was fantastic. Clear communication from beginning and reasonable price in area. Highly recommended :)

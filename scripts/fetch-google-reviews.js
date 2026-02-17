@@ -68,6 +68,7 @@ const saveReview = async (review, dir) => {
 name: ${review.author}
 url: ${review.authorUrl}
 rating: ${review.rating}
+date: ${review.date.toISOString().split("T")[0]}
 ---
 
 ${review.content}

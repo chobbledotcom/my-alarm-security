@@ -115,10 +115,16 @@ function saveReview(review, outputDir) {
 		? `Checkatrade customer from ${postcode}`
 		: "Checkatrade customer";
 
+	const dateStr =
+		createdAt instanceof Date && !isNaN(createdAt)
+			? createdAt.toISOString().split("T")[0]
+			: new Date().toISOString().split("T")[0];
+
 	const content = `---
 name: ${displayName}
 source: checkatrade
 rating: ${rating5}
+date: ${dateStr}
 ---
 
 ${finalReviewText}
