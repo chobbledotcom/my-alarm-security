@@ -8,7 +8,7 @@ permalink: /contact/
 layout: contact.html
 eleventyNavigation:
   key: Contact
-  order: 99
+  order: 100
 ---
 # Contact us here at MyAlarm Security
 
