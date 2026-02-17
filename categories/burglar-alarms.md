@@ -42,7 +42,7 @@ We also offer pet friendly sensors so that your animal friends do not activate t
 
 All of our burglar alarm systems can be programmed with various settings so you can have a 'full set' for when you are out of the house which would arm all of the sensors and contacts or a night time set which arms certain sensors whilst you sleep (allowing you to go to the bathroom during the night for example without setting the whole alarm off). You can also pick and choose within the app to arm/disarm any of the sensors at any time.
 
-**Servicing and maintenance of your burglar alarm system.**
+**Servicing and maintenance of your Burglar Alarm system.**
 
 As with everything, equipment and batteries have a life span. The manufacturer suggests that internal batteries for wireless systems can last approximately 12-18 months but should be replaced annually to avoid any low battery system faults. We recommend that panel batteries and the external bell siren battery should be replaced every 2 years unless showing as a low battery fault on your panel before this time. We offer one-off or burglar alarm system maintenance without being tied into a contract.
 
