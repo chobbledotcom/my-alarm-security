@@ -199,6 +199,7 @@ content:
       - { name: rating, type: number, label: Rating }
       - { name: thumbnail, type: image, label: Reviewer Photo }
       - { name: body, type: rich-text, label: Body }
+      - { name: date, label: Date, type: date }
       - name: products
         label: Products
         type: reference
