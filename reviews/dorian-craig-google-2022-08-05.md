@@ -7,5 +7,6 @@ products:
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/dorian-craig.jpg
+date: 2022-08-05
 ---
 Great service by the team. Matt is honest and listens to what you need over trying to sell. He set it all our alarm quickly and  professionally and gave great advice.

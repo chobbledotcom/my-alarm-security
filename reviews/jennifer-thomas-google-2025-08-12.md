@@ -7,5 +7,6 @@ products:
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/jennifer-thomas.jpg
+date: 2025-08-12
 ---
 Matt and Rachel were great at getting us quotes, providing advice and installing the products quickly and tidily. Highly recommend.

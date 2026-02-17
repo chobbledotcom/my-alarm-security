@@ -10,5 +10,6 @@ categories:
   - categories/special-offers.md
   - categories/cctv.md
 thumbnail: /images/reviewers/borja-cernadas.jpg
+date: 2023-10-09
 ---
 If you are looking for an amazing system and a professional to install it and maintain it, then look no further. MyAlarm is an amazing company and Matt has so much knowledge and experience that you will not be disappointed.

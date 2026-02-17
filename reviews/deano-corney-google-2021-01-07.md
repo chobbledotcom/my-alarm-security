@@ -7,5 +7,6 @@ products:
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/deano-corney.jpg
+date: 2021-01-07
 ---
 Highly recommend MyAlarm security, right from the start Matt was extremely helpful, booked a date and turned up on time, very professional, friendly, fitted everything and took the  time to explain how it all worked, even repaired a loose phone wire whilst up the ladder saving me the hassle , great job

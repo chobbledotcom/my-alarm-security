@@ -8,5 +8,6 @@ categories:
   - categories/cctv.md
   - categories/special-offers.md
 thumbnail: /images/reviewers/sarah-elliott.jpg
+date: 2018-05-04
 ---
 Fantastic company.  Would definitely recommend to others needing security systems installed.

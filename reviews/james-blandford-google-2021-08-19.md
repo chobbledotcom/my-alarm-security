@@ -7,5 +7,6 @@ products:
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/james-blandford.jpg
+date: 2021-08-19
 ---
 Very happy with our new alarm installation today. Matt gave a helpful explanation of the options, installation was very neat and accommodating to our needs. Good system and good value, considering it is a professionally installed alarm rather than a DIY kit and not got silly ongoing monthly costs. Would definitely recommend.

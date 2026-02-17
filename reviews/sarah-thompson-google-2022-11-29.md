@@ -7,6 +7,7 @@ products:
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/sarah-thompson.jpg
+date: 2022-11-29
 ---
 Excellent service by Matt. So pleased with new alarm fitted. Arrived on time, excellent throughout and everything explained so well.
 Sarah Barwick
