@@ -16,6 +16,7 @@ content:
     subfolders: false
     view:
       fields:
+        - permalink
         - meta_title
       primary: meta_title
       sort:
@@ -142,7 +143,6 @@ content:
           value: "{path}"
           label: "{title}"
       - { name: body, type: rich-text, label: Body }
-      - { name: featured, type: boolean, label: Featured }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
       - name: meta_description
         type: string
