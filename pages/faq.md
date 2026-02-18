@@ -27,6 +27,10 @@ Burglar alarm systems vary in price due to each persons preferance and building 
 
 Yes of course. There isnt many alarm systems that we dont know including Pyronix, Scantronic, Menvier, Visonic, Texecom, Veritas, Eaton, Cooper, Galaxy, Honeywell. We do not service DIY systems such as Ring and Yale. We can source parts and batteries for any system providing they are not obsolete. If you are unsure what the brand of system you have is, just email us a photo and we can identify it for you.
 
+**Do I have to have the app for the burglar alarm system?**
+
+No you do not. The app is free to use for the first year. After that, there is an annual fee of £20 per year which allows several users access. If you do not wish to use the app at all, your alarm system will still work as it should. The only difference is that you will not be able to remotely access the system to set and unset it and you wont be notified of any alarm activations via the app - but they will still appear on the panel.
+
 **What brand of CCTV do you install?**
 
 Our chosen brand of CCTV to install is Hikvision. Check out our CCTV packages here: [CCTV Packages](https://www.myalarmsecurity.co.uk/categories/cctv/).
@@ -53,4 +57,4 @@ The owner of MyAlarm Security and the senior engineer - Matt, has worked within 
 
 **I have some more questions that are not listed here.**
 
-Give us a call or send us an email. We are happy to answer any questions that you have.
+Give us a call or send us an email. We are happy to answer any questions that you have. [Contact us](https://www.myalarmsecurity.co.uk/contact/) here.
