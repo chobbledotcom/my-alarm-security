@@ -74,7 +74,7 @@ Yes of course. There isnt many alarm systems that we dont know including Pyronix
 
 **How much is an alarm system service / call out?**
 
-As of February 2026, our current price for a service is £95.00 which covers up to the first hour of labour. Parts and batteries are an additional charge. We offer burglar alarm service and maintenance for any system, even if your system wasnt installed by us. Callouts outside of our office hours are charged at a premium.
+As of February 2026, our current price for an alarm system service / alarm maintenance, is £95.00 which covers up to the first hour of labour. Parts and batteries are an additional charge. We offer burglar alarm service and maintenance for any system, even if your system wasnt installed by us. Callouts outside of our office hours are charged at a premium.
 
 **What brand of CCTV do you install?**
 
