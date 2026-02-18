@@ -82,7 +82,7 @@ No we do not. All of our CCTV systems are hard wired with a cable to each camera
 
 **How much is a CCTV system?**
 
-We offer two packages of CCTV - both include 4 cameras, a recorder and a harddrive. Why do we offer 4 camera systems? Because for most properties, we make sure that all angles are covered and there arent any blindspots - so 4 cameras are normally sufficient. If you do not require as many as 4 cameras or you would like more, give us a call to discuss and get booked in for a site survery. All CCTV installations require a site survey to go through camera locations and cable runs. See our CCTV packages here: [CCTV.](https://www.myalarmsecurity.co.uk/categories/cctv/)
+We offer two packages of CCTV - both include 4 cameras, a recorder and a harddrive and start at £1,399.00. **Why do we offer 4 camera systems?** Because for most properties, we make sure that all angles are covered and there arent any blindspots - so 4 cameras are normally sufficient. If you do not require as many as 4 cameras or you would like more, give us a call to discuss and get booked in for a site survery. All CCTV installations require a site survey to go through camera locations and cable runs. See our CCTV packages here: [CCTV.](https://www.myalarmsecurity.co.uk/categories/cctv/)
 
 **How long does a survey take?**
 
