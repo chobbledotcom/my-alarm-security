@@ -23,6 +23,10 @@ Our chosen brand of system to install is Pyronix. You can read about our burglar
 
 Burglar alarm systems vary in price due to each persons preferance and building layout - the amount of sensors you need, the amount of entry points there are etc. We have created some very popular packages starting at £539.00, however we can also tailor create any package to suit your property or requirements. Our standard package burglar alarm system is £599.00 (inlcuding installation) is the most popular package we install. Additional sensors or devices such as keyfobs, keytags, additional door contacts, vibration sensors, wireless keypad, [strobe lights](https://www.myalarmsecurity.co.uk/blog/wireless-sounder-alarm-system-for-the-deaf-or-hard-of-hearing/) for those who are deaf or hard of hearing and panic buttons can also be added to (or removed from) any of our packages. We offer a free no obligation survey where we will go through with you the best placements for the devices and your requirements so that all entry points are covered - front door, rear doors, bi-folds, windows, hallway, landing, garage etc. We will also bring along a demo kit to all of our surveys so that you can see the equipment before making your decision.
 
+Do your displayed prices include installation?
+
+Yes, all of our package prices include parts and installation.
+
 **Do I have to have the app for the burglar alarm system?**
 
 No you do not. The app is free to use for the first year. After that, there is an annual fee of £20 per year which allows several users access. If you do not wish to use the app at all, your alarm system will still work as it should. The only difference is that you will not be able to remotely access the system to set and unset it and you wont be notified of any alarm activations via the app - but they will still appear on the panel.
@@ -75,6 +79,10 @@ Our chosen brand of CCTV to install is Hikvision. Check out our CCTV packages he
 **Do you offer wireless CCTV packages?**
 
 No we do not. All of our CCTV systems are hard wired with a cable to each camera going back to the recorder.
+
+**How much is a CCTV system?**
+
+We offer two packages of CCTV - both include 4 cameras, a recorder and a harddrive. Why do we offer 4 camera systems? Because for most properties, we make sure that all angles are covered and there arent any blindspots - so 4 cameras are normally sufficient. If you do not require as many as 4 cameras or you would like more, give us a call to discuss and get booked in for a site survery. All CCTV installations require a site survey to go through camera locations and cable runs. See our CCTV packages here: [CCTV.](https://www.myalarmsecurity.co.uk/categories/cctv/)
 
 **How long does a survey take?**
 
