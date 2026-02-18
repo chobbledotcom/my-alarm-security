@@ -90,7 +90,7 @@ Yes we do and are happy to provide any paperwork requested.
 
 **What training and industry experience do you have?**
 
-The owner of MyAlarm Security and the senior engineer - Matt, has worked within the electrionic security industry since 1998. There isnt an alarm system out there that he does not know or hasnt worked on. Having worked for several large security companies in London over the years as the head engineer, Matt set up MyAlarm Security in 2018 which now has a large customer base with many 5 star reviews. Matt has completed various training courses over the last 30 years and has vast experience with many systems.
+The owner of MyAlarm Security and the senior engineer - Matt, has worked within the electrionic security industry since 1998. There isnt an alarm system out there that he does not know or hasnt worked on. Having worked for several large security companies in London over the years as the head engineer, Matt set up MyAlarm Security in 2017 which now has a large customer base with many 5 star reviews. Matt has completed various training courses over the last 30 years and has vast experience with many systems.
 
 **I have some more questions that are not listed here.**
 
