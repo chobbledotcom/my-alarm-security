@@ -43,7 +43,7 @@ Yes of course. There isnt many alarm systems that we dont know including Pyronix
     
 *   Alarm System Maintenance
     
-*   Alarm faults
+*   Alarm Faults
     
 *   Alarm System Bleeping
     
