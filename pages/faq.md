@@ -35,7 +35,7 @@ No you do not. The app is free to use for the first year. After that, there is a
 
 No, we do not offer police monitoring. We do however, offer our app based system which allows you to monitor your system yourself and be notifed of any activations.
 
-**Do you service other alarm system brands?**
+**Do you service alarm systems installed by other companies?**
 
 Yes of course. There isnt many alarm systems that we dont know including Pyronix, Scantronic, Menvier, Visonic, Texecom, Veritas, Eaton, Cooper, Galaxy, Honeywell. We do not service DIY systems such as Ring and Yale. We can source parts and batteries for any system providing they are not obsolete. If you are unsure what the brand of system you have is, just email us a photo and we can identify it for you. We receive phone calls and emails for all sorts of issues including:
 
