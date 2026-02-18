@@ -23,7 +23,7 @@ Our chosen brand of system to install is Pyronix. You can read about our burglar
 
 Burglar alarm systems vary in price due to each persons preferance and building layout - the amount of sensors you need, the amount of entry points there are etc. We have created some very popular packages starting at £539.00, however we can also tailor create any package to suit your property or requirements. Our standard package burglar alarm system is £599.00 (inlcuding installation) is the most popular package we install. Additional sensors or devices such as keyfobs, keytags, additional door contacts, vibration sensors, wireless keypad, [strobe lights](https://www.myalarmsecurity.co.uk/blog/wireless-sounder-alarm-system-for-the-deaf-or-hard-of-hearing/) for those who are deaf or hard of hearing and panic buttons can also be added to (or removed from) any of our packages. We offer a free no obligation survey where we will go through with you the best placements for the devices and your requirements so that all entry points are covered - front door, rear doors, bi-folds, windows, hallway, landing, garage etc. We will also bring along a demo kit to all of our surveys so that you can see the equipment before making your decision.
 
-Do your displayed prices include installation?
+**Do your displayed prices include installation?**
 
 Yes, all of our package prices include parts and installation.
 
@@ -71,6 +71,10 @@ Yes of course. There isnt many alarm systems that we dont know including Pyronix
     
 *   Out of Hours Alarm Engineer
     
+
+**How much is an alarm system service / call out?**
+
+As of February 2026, our current price for a service is £95.00 which covers up to the first hour of labour. Parts and batteries are an additional charge. We offer burglar alarm service and maintenance for any system, even if your system wasnt installed by us. Callouts outside of our office hours are charged at a premium.
 
 **What brand of CCTV do you install?**
 
