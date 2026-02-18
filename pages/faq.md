@@ -13,7 +13,7 @@ meta_description: FAQ's Intruder Alarm System Installation and CCTV systems in
 
 **Why choose us?**
 
-With over 30 years experience in the home and business security industry, there isnt many systems we dont know or havent worked on. We are a family run business and pride ourselves on our customer service and workmanship.
+With over 30 years experience in the home and business security industry, there isnt many systems we dont know or havent worked on. We are a family run business and pride ourselves on our customer service and workmanship.o
 
 **What brand of alarm system do you install?**
 
@@ -22,6 +22,14 @@ Our chosen brand of system to install is Pyronix. You can read about our burglar
 **How much does a burglar alarm system cost?**
 
 Burglar alarm systems vary in price due to each persons preferance and building layout - the amount of sensors you need, the amount of entry points there are etc. We have created some very popular packages starting at £539.00, however we can also tailor create any package to suit your property or requirements. Our standard package burglar alarm system is £599.00 (inlcuding installation) is the most popular package we install. Additional sensors or devices such as keyfobs, keytags, additional door contacts, vibration sensors, wireless keypad, [strobe lights](https://www.myalarmsecurity.co.uk/blog/wireless-sounder-alarm-system-for-the-deaf-or-hard-of-hearing/) for those who are deaf or hard of hearing and panic buttons can also be added to (or removed from) any of our packages. We offer a free no obligation survey where we will go through with you the best placements for the devices and your requirements so that all entry points are covered - front door, rear doors, bi-folds, windows, hallway, landing, garage etc. We will also bring along a demo kit to all of our surveys so that you can see the equipment before making your decision.
+
+**Do I have to have the app for the burglar alarm system?**
+
+No you do not. The app is free to use for the first year. After that, there is an annual fee of £20 per year which allows several users access. If you do not wish to use the app at all, your alarm system will still work as it should. The only difference is that you will not be able to remotely access the system to set and unset it and you wont be notified of any alarm activations via the app - but they will still appear on the panel.
+
+**Are your burglar alarm systems linked to the police?**
+
+No, we do not offer police monitoring. We do however, offer our app based system which allows you to monitor your system yourself and be notifed of any activations.
 
 **Do you service other alarm system brands?**
 
@@ -59,10 +67,6 @@ Yes of course. There isnt many alarm systems that we dont know including Pyronix
     
 *   Out of Hours Alarm Engineer
     
-
-**Do I have to have the app for the burglar alarm system?**
-
-No you do not. The app is free to use for the first year. After that, there is an annual fee of £20 per year which allows several users access. If you do not wish to use the app at all, your alarm system will still work as it should. The only difference is that you will not be able to remotely access the system to set and unset it and you wont be notified of any alarm activations via the app - but they will still appear on the panel.
 
 **What brand of CCTV do you install?**
 
