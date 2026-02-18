@@ -25,7 +25,40 @@ Burglar alarm systems vary in price due to each persons preferance and building 
 
 **Do you service other alarm system brands?**
 
-Yes of course. There isnt many alarm systems that we dont know including Pyronix, Scantronic, Menvier, Visonic, Texecom, Veritas, Eaton, Cooper, Galaxy, Honeywell. We do not service DIY systems such as Ring and Yale. We can source parts and batteries for any system providing they are not obsolete. If you are unsure what the brand of system you have is, just email us a photo and we can identify it for you.
+Yes of course. There isnt many alarm systems that we dont know including Pyronix, Scantronic, Menvier, Visonic, Texecom, Veritas, Eaton, Cooper, Galaxy, Honeywell. We do not service DIY systems such as Ring and Yale. We can source parts and batteries for any system providing they are not obsolete. If you are unsure what the brand of system you have is, just email us a photo and we can identify it for you. We can phone calls and emails for all sorts of issues including:
+
+*   Alarm Battery Replacements / Low Battery
+    
+*   Alarm System Maintenance
+    
+*   Alarm faults
+    
+*   Alarm System Bleeping
+    
+*   Error Message on Alarm System
+    
+*   Tamper on Alarm System
+    
+*   Damaged Cable on Alarm System
+    
+*   Faulty Sensor on Alarm System
+    
+*   Keypad Buttons Not Working
+    
+*   Movement Sensor Need Replacing
+    
+*   Door Contact Need Replacing
+    
+*   Engineer Reset
+    
+*   Siren Removal (for rendering or decorating)
+    
+*   Additional Sensors to be Added/Removed
+    
+*   Alarm Siren Ringing
+    
+*   Out of Hours Alarm Engineer
+    
 
 **Do I have to have the app for the burglar alarm system?**
 
