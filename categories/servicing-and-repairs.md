@@ -12,15 +12,13 @@ featured: false
 ---
 # Alarm System Service and Repairs
 
-Do you have an existing [burglar alarm system](/categories/burglar-alarms/) that you would like looked at, serviced or repaired? Maybe your alarm needs a new battery or other batteries/devices replacing or the keypad no longer works? Or maybe you're having decorating done or home improvements and the carpet fitter or builder has gone through a cable and you need an emergency call out or need a sensor or door contact removed or replaced. If there is anything needing doing to your burglar alarm system, you have come to the right place. If your system was installed by another company or you are unable to contact the original installer, that is not a problem - we are still fully able to service and maintain your burglar alarm system.
+Do you have an existing [burglar alarm system](/categories/burglar-alarms/) that you would like looked at, serviced or repaired? Maybe your alarm needs a new battery or other batteries/devices replacing or the keypad no longer works? Or maybe you're having decorating done or home improvements and the carpet fitter or builder has gone through a cable and you need an emergency call out or need a sensor or door contact removed or replaced. If there is anything needing doing to your burglar alarm system, you have come to the right place. If your system was installed by another company or you are unable to contact the original installer, that is not a problem - we are still fully able to service and maintain your burglar alarm system. There isnt many alarm systems that we do not know including Pyronix, Scantronic, Menvier, Visonic, Texecom, Veritas, Eaton, Cooper, Galaxy, Honeywell. We do not service DIY systems such as Ring and Yale. We can source parts and batteries for any system providing they are not obsolete. If you are unsure what the brand of system you have is, just email us a photo and we can identify it for you.
 
 Here is a list of some of the most common calls we get:
 
-*   Alarm System Service
+*   Alarm Battery Replacements / Low Battery
     
 *   Alarm System Maintenance
-    
-*   Alarm Battery Replacements
     
 *   Alarm faults
     
@@ -39,6 +37,8 @@ Here is a list of some of the most common calls we get:
 *   Movement Sensor Need Replacing
     
 *   Door Contact Need Replacing
+    
+*   Engineer Reset
     
 *   Siren Removal (for rendering or decorating)
     
