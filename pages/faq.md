@@ -13,7 +13,7 @@ meta_description: FAQ's Intruder Alarm System Installation and CCTV systems in
 
 **Why choose us?**
 
-With over 30 years experience in the home and business security industry, there isnt many systems we dont know or havent worked on. We are a family run business and pride ourselves on our customer service and workmanship.o
+With over 30 years experience in the home and business security industry, there isnt many systems that we do not know or havent worked on. We are a family run business and pride ourselves on our customer service and workmanship which is why we have so many fantastic reviews.
 
 **What brand of alarm system do you install?**
 
