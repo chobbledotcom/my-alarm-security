@@ -5,7 +5,7 @@ eleventyNavigation:
 layout: page
 permalink: /faq/
 meta_title: Intruder Alarm System Orpington Bromley Bexley Dartford Sidcup
-meta_description: Intruder Alarm System Installation and CCTV systems in
+meta_description: FAQ's Intruder Alarm System Installation and CCTV systems in
   Orpington Bromley Bexley Dartford Sidcup Eltham Greenwich. Professional,
   Friendly, Local. Tel 020 8302 4065
 ---
