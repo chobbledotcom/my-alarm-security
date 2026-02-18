@@ -42,7 +42,7 @@ All of our burglar alarm systems can be programmed with various settings so you 
 
 **Servicing and maintenance of your Burglar Alarm system.**
 
-Battery changes can be done during an alarm system service. It is recommended to replace wireless device batteries every 12 months and panel and siren batteries every two years. We send reminders to our customers that their alarm system service is due however we do not tie any of our customers in to any type of contract. We suggest having a service yearly but leave it up to our customers to get booked in when they want. As of February 2026, our current price for a service is £95.00. Batteries are £4 each for internal batteries and panel and siren batteries are £45 each. We burglar alarm system maintenance for any system, even if your system wasnt installed by us.
+Battery changes can be done during an alarm system service. It is recommended to replace wireless device batteries every 12 months and panel and siren batteries every two years. We send reminders to our customers that their alarm system service is due however we do not tie any of our customers in to any type of contract. We suggest having a service yearly but leave it up to our customers to get booked in when they want. As of February 2026, our current price for a service is £95.00. Batteries are £4.00 each for internal batteries and panel and siren batteries are £45.00 each. We offer burglar alarm service and maintenance for any system, even if your system wasnt installed by us.
 
 **Already have an alarm?**
 
