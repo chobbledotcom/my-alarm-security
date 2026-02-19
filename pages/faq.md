@@ -90,6 +90,10 @@ No we do not. All of our CCTV systems are hard wired with a cable to each camera
 
 We offer two packages of CCTV - both include 4 cameras, a recorder and a harddrive and start at £1,399.00. **Why do we offer 4 camera systems?** Because for most properties, we make sure that all angles are covered and there arent any blindspots - so 4 cameras are normally sufficient. If you do not require as many as 4 cameras or you would like more, give us a call to discuss and get booked in for a site survery. All CCTV installations require a site survey to go through camera locations and cable runs. See our CCTV packages here: [CCTV.](https://www.myalarmsecurity.co.uk/categories/cctv/)
 
+**Are there any rules for having CCTV cameras at my home?**
+
+The law in the UK lets you film and record footage within your property boundary for personal use, which means you are allowed to point your camera lenses at your doors, windows, drive and garden.  Signage is optional however if footage is capturing public space or a neighbour’s property, a clear sign becomes a legal GDPR requirement.
+
 **How long does a survey take?**
 
 A survey can be done in just a few minutes. We allow as much time as you require to answer any of your questions. We are also available via phone or email should you have any other questions. [Contact us](https://www.myalarmsecurity.co.uk/contact/) here.
