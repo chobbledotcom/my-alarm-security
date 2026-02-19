@@ -94,7 +94,9 @@ layout: base.html
     {% assign sorted_reviews = collections.reviews %}
     {% assign reviews = sorted_reviews | slice: 0, 9 %}
     {% include "reviews-list.html", reviews: reviews %}
-    <a href="/reviews/#content" class="read-more">Read More Reviews</a>
+    <p>
+      <a class="btn" href="/reviews/#content">Read More Reviews</a>
+    </p>
   </div>
 </section>
 {% endif %}
