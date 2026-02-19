@@ -21,12 +21,11 @@ layout: base
   {% include "products-list.html" %}
 {% endif %}
 
-<div class="prose">{{ content }}</div>
-
-{% assign category_path = "categories/" | append: page.fileSlug | append: ".md" %}
-{% assign category_reviews = collections.reviews | where_exp: "review", "review.data.categories contains category_path" %}
-{% if category_reviews.size > 0 %}
-  <section class="design-system">
+<div class="design-system">
+  <div class="prose">{{ content }}</div>
+  {% assign category_path = "categories/" | append: page.fileSlug | append: ".md" %}
+  {% assign category_reviews = collections.reviews | where_exp: "review", "review.data.categories contains category_path" %}
+  {% if category_reviews.size > 0 %}
     <div class="stack">
       <h2 class="centered">Customer Reviews</h2>
       {% assign sorted_reviews = category_reviews | reverse %}
@@ -36,8 +35,8 @@ layout: base
         <a href="/reviews/#content" class="read-more">Read More Reviews</a>
       {% endif %}
     </div>
-  </section>
-{% endif %}
+  {% endif %}
+</div>
 
 {% assign categories = collections.categories %}
 {% assign categories = categories | where: "data.parent", page.fileSlug %}
