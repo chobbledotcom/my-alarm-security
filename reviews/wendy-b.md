@@ -3,5 +3,8 @@ name: Wendy B
 rating: 5
 categories:
   - categories/servicing-and-repairs.md
+date: 2026-02-13
+products:
+  - products/basic-system-539.md
 ---
 Friday late afternoon my alarm started going off non stop inside and out after a very short power cut. Could not turn it off. Called Matt after getting no off of net mums it was in the evening and he came out straight away knew exactly what he was doing, checked all sensors etc and my alarm was fixed. I would 100 % recommend Matt and would not hesitate to call him again for any alarm problems or upgrades etc.
