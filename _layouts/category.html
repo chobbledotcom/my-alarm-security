@@ -28,7 +28,7 @@ layout: base
   {% if category_reviews.size > 0 %}
     <div class="stack">
       <h2 class="centered">Customer Reviews</h2>
-      {% assign sorted_reviews = category_reviews | reverse %}
+      {% assign sorted_reviews = category_reviews %}
       {% assign reviews = sorted_reviews | slice: 0, 9 %}
       {% include "reviews-list.html", reviews: reviews %}
       {% if category_reviews.size > 9 %}
