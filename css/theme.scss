@@ -70,6 +70,21 @@
 
 /* body_classes: header-centered */
 
+.design-system a.read-more {
+  color: white;
+}
+
+@media screen and (min-width: 769px) {
+  .design-system h1 {
+    font-size: 2.5rem;
+  }
+}
+@media screen and (min-width: 1001px) {
+  .design-system h1 {
+    font-size: 2.5rem;
+  }
+}
+
 /* Ensure content appears above snow effect */
 header,
 main,
@@ -552,6 +567,11 @@ body.home section {
     width: 100%;
     height: 100%;
   }
+}
+
+body.page .content img,
+body.page .content .image-wrapper {
+  max-width: 695px !important;
 }
 
 .latest-news {
