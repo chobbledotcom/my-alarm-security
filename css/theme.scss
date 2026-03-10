@@ -556,6 +556,7 @@ body.home section {
 
 .brands {
   margin: $gap * 4 0;
+  overflow: hidden;
 
   .brands-scroll-container {
     flex: 1;
