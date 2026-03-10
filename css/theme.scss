@@ -554,6 +554,91 @@ body.home section {
   margin-bottom: 4rem;
 }
 
+.brands {
+  .brands-scroll-container {
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
+    position: relative;
+
+    &::before,
+    &::after {
+      content: "";
+      display: block;
+      width: 5px;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      z-index: 1;
+    }
+    &::before {
+      left: 0;
+      background: linear-gradient(
+        90deg,
+        rgba(255, 255, 255, 1) 0%,
+        rgba(255, 255, 255, 0) 100%
+      );
+    }
+    &::after {
+      right: 0;
+      background: linear-gradient(
+        90deg,
+        rgba(255, 255, 255, 0) 0%,
+        rgba(255, 255, 255, 1) 100%
+      );
+    }
+  }
+
+  .brands-scroll {
+    display: flex;
+    width: max-content;
+    animation: scroll-brands 40s linear infinite;
+
+    &:hover {
+      animation-play-state: paused;
+    }
+
+    & > div,
+    & > ul {
+      display: flex;
+      flex-shrink: 0;
+    }
+  }
+
+  ul {
+    display: flex;
+    gap: 96px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    flex-shrink: 0;
+
+    li {
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+
+      .image-wrapper {
+        height: 50px;
+        width: auto;
+        border-radius: 0;
+        object-fit: contain;
+        transition: all 0.3s ease;
+        align-content: center;
+      }
+    }
+  }
+}
+
+@keyframes scroll-brands {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
 .items a.image-link {
   aspect-ratio: 11/10;
   overflow: hidden;
