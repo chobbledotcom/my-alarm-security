@@ -48,3 +48,15 @@ jobs:
           git add reviews/ images/reviewers/
           git commit -m "Auto-update: Fetch new reviews"
           git push
+
+  notify-failure:
+    name: Notify on Failure
+    runs-on: ubuntu-latest
+    needs: [fetch-reviews]
+    if: failure()
+    steps:
+      - name: Send failure notification
+        uses: NiNiyas/ntfy-action@master
+        with:
+          url: 'https://ntfy.sh'
+          topic: ${{ secrets.NTFY_TOPIC }}
