@@ -1,13 +1,13 @@
-#!/usr/bin/env node
+#!/usr/bin/env bun
 
-const fs = require("fs");
-const path = require("path");
-const https = require("https");
+import fs from "node:fs";
+import path from "node:path";
+import https from "node:https";
 
 // Configuration
 const CONFIG = {
 	companyId: "427092",
-	reviewsDir: path.join(__dirname, "..", "reviews"),
+	reviewsDir: path.join(import.meta.dir, "..", "reviews"),
 	pageSize: 25,
 };
 
@@ -159,6 +159,4 @@ async function main() {
 	}
 }
 
-if (require.main === module) {
-	main();
-}
+main();
