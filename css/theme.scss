@@ -557,10 +557,10 @@ body.home section {
 .brands {
   margin: $gap * 4 0;
   overflow: hidden;
+  max-width: 100vw;
 
   .brands-scroll-container {
-    flex: 1;
-    min-width: 0;
+    max-width: 100%;
     overflow: hidden;
     position: relative;
 
@@ -594,7 +594,6 @@ body.home section {
 
   .brands-scroll {
     display: flex;
-    width: max-content;
     animation: scroll-brands 40s linear infinite;
 
     &:hover {
