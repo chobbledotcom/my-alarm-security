@@ -4,10 +4,10 @@
     { "filename": "Logo Eaton.png", "alt_text": "Eaton" },
     { "filename": "Logo Hikvision.png", "alt_text": "Hikvision" },
     { "filename": "Logo Honeywell.png", "alt_text": "Honeywell" },
-    { "filename": "Logo Menvier.jpg", "alt_text": "Menvier" },
+    { "filename": "Logo Menvier.png", "alt_text": "Menvier" },
     { "filename": "Logo Pyronix.png", "alt_text": "Pyronix" },
-    { "filename": "Logo Scantronic.jpg", "alt_text": "Scantronic" },
+    { "filename": "Logo Scantronic.png", "alt_text": "Scantronic" },
     { "filename": "Logo Texecom.png", "alt_text": "Texecom" },
-    { "filename": "Logo Visonic.jpg", "alt_text": "Visonic" }
+    { "filename": "Logo Visonic.png", "alt_text": "Visonic" }
   ]
 }
