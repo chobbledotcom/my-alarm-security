@@ -76,12 +76,7 @@ layout: base.html
 {% if brands.icons.size > 0 %}
 <section class="brands">
   <h2 class="centered">Brands We Work With</h2>
-  <div class="brands-scroll-container">
-    <div class="brands-scroll">
-      {%- include "brands-list.html" -%}
-      <div aria-hidden="true">{%- include "brands-list.html" -%}</div>
-    </div>
-  </div>
+  {%- include "brands-list.html" -%}
 </section>
 {% endif %}
 
