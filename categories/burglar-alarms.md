@@ -54,4 +54,6 @@ Why not pair one of our Home Burglar Alarm Systems with a professionally install
 
 **Take a look in our** [**Special Offers**](/categories/special-offers/) **area to view our excellent pre-built** [**CCTV**](/categories/cctv/) **and Burglar Alarm Packages.**
 
+**Book a Free Alarm Survey or Contact us with any questions you have. You can fill out your details over on our contact page or you can message us direct at** [**Sales@MyAlarmSecurity.co.uk**](mailto:Sales@MyAlarmSecurity.co.uk) **or give us a call on 020 8302 4065**
+
 {% include "area-list-shortcode.html", prefix: "We are a family run business based in Sidcup right on the borders of New Eltham. We provide our services in", suffix: "and surrounding areas." %}
