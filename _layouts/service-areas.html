@@ -7,3 +7,12 @@ layout: base.html
 <section class="service-areas-list">
   {%- include "service-areas-list.html" -%}
 </section>
+
+<section class="brands">
+  <div class="brands-scroll-container">
+    <div class="brands-scroll">
+      {%- include "brands-list.html" -%}
+      <div aria-hidden="true">{%- include "brands-list.html" -%}</div>
+    </div>
+  </div>
+</section>
