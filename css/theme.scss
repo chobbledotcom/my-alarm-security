@@ -594,6 +594,7 @@ body.home section {
 
   .brands-scroll {
     display: flex;
+    width: max-content;
     animation: scroll-brands 40s linear infinite;
 
     &:hover {
