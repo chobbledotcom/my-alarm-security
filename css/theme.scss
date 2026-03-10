@@ -555,6 +555,8 @@ body.home section {
 }
 
 .brands {
+  margin: $gap * 4 0;
+
   .brands-scroll-container {
     flex: 1;
     min-width: 0;
