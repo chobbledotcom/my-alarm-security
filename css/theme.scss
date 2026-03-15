@@ -93,6 +93,10 @@ body > footer {
   z-index: 2;
 }
 
+main .content {
+  min-width: 0;
+}
+
 header {
   background: none !important;
   box-shadow: none !important;
@@ -556,10 +560,14 @@ body.home section {
 
 .brands {
   margin: $gap * 4 0;
+  min-width: 0;
+  overflow: hidden;
 
-  marquee {
+  .brands-scroll-inner {
     display: flex;
     align-items: center;
+    width: max-content;
+    animation: brands-scroll 30s linear infinite;
   }
 
   img,
@@ -569,6 +577,16 @@ body.home section {
     border-radius: 0;
     object-fit: contain;
     margin: 0 48px;
+    flex-shrink: 0;
+  }
+}
+
+@keyframes brands-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
   }
 }
 

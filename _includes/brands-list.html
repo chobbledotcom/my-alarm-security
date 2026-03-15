@@ -1,5 +1,8 @@
-<marquee behavior="scroll" direction="left" scrollamount="3">
+<div class="brands-scroll-inner">
   {% for brand in brands.icons %}
   <img widths="50,100,150" src="/images/Brands/{{ brand.filename }}" eleventy:ignore alt="{{ brand.alt_text }}" chobble:no-lqip>
   {% endfor %}
-</marquee>
+  {% for brand in brands.icons %}
+  <img widths="50,100,150" src="/images/Brands/{{ brand.filename }}" eleventy:ignore alt="{{ brand.alt_text }}" chobble:no-lqip aria-hidden="true">
+  {% endfor %}
+</div>
