@@ -48,6 +48,13 @@ layout: base.html
 </section>
 {% endif %}
 
+{% if brands.icons.size > 0 %}
+<section class="brands">
+  <h2 class="centered">Brands We Work With</h2>
+  {%- include "brands-list.html" -%}
+</section>
+{% endif %}
+
 {% if home_content.main_content %}
 <section class="main-content">
   {% for paragraph in home_content.main_content.paragraphs %}
@@ -70,13 +77,6 @@ layout: base.html
     </li>
     {% endfor %}
   </ul>
-</section>
-{% endif %}
-
-{% if brands.icons.size > 0 %}
-<section class="brands">
-  <h2 class="centered">Brands We Work With</h2>
-  {%- include "brands-list.html" -%}
 </section>
 {% endif %}
 

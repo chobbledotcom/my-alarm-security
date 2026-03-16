@@ -23,6 +23,9 @@ layout: base
 
 <div class="design-system">
   <div class="prose">{{ content }}</div>
+  <section class="brands">
+    {%- include "brands-list.html" -%}
+  </section>
   {% assign category_path = "categories/" | append: page.fileSlug | append: ".md" %}
   {% assign category_reviews = collections.reviews | where_exp: "review", "review.data.categories contains category_path" %}
   {% if category_reviews.size > 0 %}
@@ -44,8 +47,4 @@ layout: base
   <h2>Subcategories</h2>
   {% include "categories-list.html" %}
 {% endif %}
-
-<section class="brands">
-  {%- include "brands-list.html" -%}
-</section>
 
