@@ -6,6 +6,7 @@ price: From £95
 meta_title: Burglar Alarm Service and Maintenance from £95.00
 meta_description: Burglar Alarm Maintenance Service And Battery Orpington. CCTV
   Company In Orpington Bromley Bexleyheath Sidcup Dartford
+thumbnail: /images/Web photo 1.jpg
 ---
 We are specialists in all types of home and business security with well over 25 years experience. There isn't many alarm panels on the market that we don't know. We offer alarm service, maintenance & battery changes without the hefty contracted monthly and yearly contracts. We understand that not everyone wants to be tied into a contract so we offer call outs as and when needed. You just pay for us when you need or want us. It doesn't matter that we didn't install your alarm system, having been in the trade for as long as we have, we know most panels inside out and carry stock including alarm batteries and replacement sensors on board our vans at all times.
 
