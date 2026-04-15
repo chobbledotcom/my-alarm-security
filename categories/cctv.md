@@ -11,11 +11,11 @@ eleventyNavigation:
 ---
 # CCTV Systems
 
-If you\'re looking to enhance the security of your home or business, then CCTV systems are an increasingly popular solution. With the ability to keep an eye on your premises and loved ones, and to deter unwanted intruders, CCTV systems provide a range of benefits. As well as the peace of mind that comes with monitoring everything that happens on your property, CCTV footage can also be used as visual evidence in the event of a break-in or theft from the property. 
+If youre looking to enhance the security of your home or business, then CCTV systems are an increasingly popular solution. With the ability to keep an eye on your premises and loved ones, and to deter unwanted intruders, CCTV systems provide a range of benefits. As well as the peace of mind that comes with monitoring everything that happens on your property, CCTV footage can also be used as visual evidence in the event of a break-in or theft from the property. 
 
 Our brand new CCTV packages now offer audio! Our CCTV package 1 cameras (also available as part of our ultimate package) come with built in microphones so you are able to listen in. Our CCTV package 2 cameras (also available as part of our supreme package) come with 2-way audio so not only are you able to listen in, but you can talk through them too!
 
-At MyAlarm Security, we offer CCTV systems with a minimum storage period of approx 30 days, so you never have to worry about missing an incident. With our remote access, you can view live feeds and recorded video footage from anywhere in the world providing you have an internet connection, via a laptop, phone, or tablet using a free app. Our smart search feature also allows you to filter footage by movement or specific time periods, making it easy to review footage quickly.
+At MyAlarm Security, we offer HikVision CCTV systems with a minimum storage period of approx 30 days using a 2tb seagate harddrive, so you never have to worry about missing an incident. With our remote access, you can view live feeds and recorded video footage from anywhere in the world providing you have an internet connection, via a laptop, phone, or tablet using a free app. Our smart search feature also allows you to filter footage by movement or specific time periods, making it easy to review footage quickly.
 
 Our CCTV systems are installed by experienced engineers with a focus on providing the best coverage possible. We understand that cabling can be a concern for some customers, which is why we strive to keep our installations as neat and discreet as possible with minimal cables on show.
 
@@ -25,5 +25,5 @@ We also offer wireless [Burglar Alarm Systems](/categories/burglar-alarms/) that
 
 {% include "area-list-shortcode.html", prefix: "MyAlarm Security is based in Sidcup on the borders of New Eltham, and we serve surrounding boroughs including", suffix: "and anywhere else nearby." %}.
 
-
 ![CCTV Systems](/images/categories/categories-cctv-fz8jnnwdtcm5voycphbt.png)
+
