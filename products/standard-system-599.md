@@ -25,7 +25,7 @@ meta_title: Standard System Alarm Package. Door Contact, Movement Sensors, Alarm
     
 *   1 x Decoy siren for the rear
     
-*   1 x App controlled panel with 12 months free app connectivity (£20 a year thereafter)
+*   1 x App controlled panel with 12 months free app connectivity (£25 a year thereafter)
     
 
 **Info:** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
@@ -44,7 +44,7 @@ All of our alarm systems include an external siren for the front of the property
 
 **What does the app do?** The app allows you to set and unset your system remotely. You can also check if your system is set, and if not, you can set it at the touch of a button on your phone. It really is as simple as that. Maybe you have a cleaner going in or a family member and they don't know your alarm code, not to worry, you can log straight in via your phone app and unset the system so they can safely enter without activating the alarm. If your alarm is activated, the app will notify you if your alarm has been set off and will advise which sensor/s has been triggered.
 
-**How much is the app?** The app is free for the first year and then £20 per year thereafter (subject to manufacturer price increases). You can have numerous devices connected to the app at no additional charge.
+**How much is the app?** The app is free for the first year and then £25 per year thereafter (subject to manufacturer price increases). You can have numerous devices connected to the app at no additional charge.
 
 **Do I have to have the app?** The answer is no, you don't. If you decide that you do not want the app, your alarm system will still work as it should. The only difference is that you will not be able to remotely connect to your system or be notified on the app if the burglar alarm system has been activated. You will have to manually set/unset the system at the alarm system panel.
 

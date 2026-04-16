@@ -25,7 +25,7 @@ meta_title: Colour and Audio CCTV Bexley Bromley Orpington Sevenoaks Dartford
 - 4 x Movement sensors (can be pet friendly)
 - 1 x External siren for the front
 - 1 x Decoy siren for the rear
-- 1 x App controlled panel with 12 months free app connectivity (£20 a year thereafter)
+- 1 x App controlled panel with 12 months free app connectivity (£25 a year thereafter)
 
 **Info:**
 
