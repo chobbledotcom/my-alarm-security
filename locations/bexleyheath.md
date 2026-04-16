@@ -19,7 +19,7 @@ Looking for a local, trusted security system company in Bexleyheath? If you\'re 
 
 **What does the app do I hear you ask?** The app allows you to set and unset your system remotely - maybe you\'ve gone out and not sure if you have set the system, the app allows you to check if your system is set, and if not, you can set it at the touch of a button on your phone. It really is as simple as that. Maybe you have a cleaner going in or a family member and they don\'t know your alarm code, not to worry, you can log straight in via your phone app and unset the system so they can safely enter without activating the alarm. The app also notifies you if your alarm has been activated.
 
-**How much is the app?** The app is free for the first year and then £20 per year thereafter (subject to manufacturer price increases).
+**How much is the app?** The app is free for the first year and then £25 per year thereafter (subject to manufacturer price increases).
 
 **Do I have to have the app?** The answer is no, you don\'t. If you decide that you do not want the app, your alarm system will still work as it should. The only difference is that you will not be able to remotely connect to your system or be notified if it has been activated. All settings will have to be done at the alarm panel within the property.
 

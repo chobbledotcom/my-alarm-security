@@ -29,7 +29,7 @@ Yes, all of our package prices include parts and installation.
 
 **Do I have to have the app for the burglar alarm system?**
 
-No you do not. The app is free to use for the first year. After that, there is an annual fee of £20 per year which allows several users access. If you do not wish to use the app at all, your alarm system will still work as it should. The only difference is that you will not be able to remotely access the system to set and unset it and you wont be notified of any alarm activations via the app - but they will still appear on the panel.
+No you do not. The app is free to use for the first year. After that, there is an annual fee of £25 per year which allows several users access. If you do not wish to use the app at all, your alarm system will still work as it should. The only difference is that you will not be able to remotely access the system to set and unset it and you wont be notified of any alarm activations via the app - but they will still appear on the panel.
 
 **Are your burglar alarm systems linked to the police?**
 
