@@ -33,7 +33,7 @@ layout: base
       <h2 class="centered">Customer Reviews</h2>
       {% assign sorted_reviews = category_reviews %}
       {% assign reviews = sorted_reviews | slice: 0, 9 %}
-      {% include "reviews-list.html", reviews: reviews %}
+      {% include "items.html", items: reviews %}
       {% if category_reviews.size > 9 %}
         <a href="/reviews/#content" class="read-more">Read More Reviews</a>
       {% endif %}
@@ -45,6 +45,6 @@ layout: base
 {% assign categories = categories | where: "data.parent", page.fileSlug %}
 {% if categories.size > 0 %}
   <h2>Subcategories</h2>
-  {% include "categories-list.html" %}
+  {% include "items.html", items: categories %}
 {% endif %}
 
