@@ -31,6 +31,7 @@
           default = pkgs.mkShell {
             packages = with pkgs; [
               bun
+              rsync
               vips
               stdenv.cc.cc.lib
               bunScripts
