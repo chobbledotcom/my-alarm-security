@@ -1,4 +1,5 @@
 ---
+name: Products
 meta_title: Burglar Alarms for Home & Business. Sidcup, Bexleyheath, Orpington,
   Bromley, Greenwich, Dartford.
 meta_description: Burglar Alarms, CCTV systems and Burglar Alarm System

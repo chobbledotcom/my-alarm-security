@@ -1,4 +1,5 @@
 ---
+name: About Us
 meta_description: Burglar Alarm System, Upgrade, Service, Maintenance, battery
   change, panel replacement, decommission. Bexley, Dartford, Orpington, Bromley,
   Sevenoaks.

@@ -1,4 +1,5 @@
 ---
+name: Blog
 meta_description: Burglar Alarm Company near me in Bexley, Bromley, Orpington,
   Greenwich. CCTV Company near me in Bexleyheath, Orpington, Bromley. Sidcup,
   Greenwich.

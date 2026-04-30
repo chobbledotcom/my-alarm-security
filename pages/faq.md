@@ -1,4 +1,5 @@
 ---
+name: FAQ
 eleventyNavigation:
   key: FAQ
   order: 99

@@ -16,12 +16,14 @@ content:
     subfolders: false
     view:
       fields:
+        - name
         - permalink
         - meta_title
       primary: meta_title
       sort:
         - meta_title
     fields:
+      - { name: name, type: string, label: Name }
       - { name: subtitle, type: string, label: Subtitle }
       - { name: body, type: rich-text, label: Body }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
