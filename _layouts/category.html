@@ -33,7 +33,7 @@ layout: base
       <h2 class="centered">Customer Reviews</h2>
       {% assign sorted_reviews = category_reviews %}
       {% assign reviews = sorted_reviews | slice: 0, 9 %}
-      {% include "items.html", items: reviews %}
+      {% include "reviews-list.html" %}
       {% if category_reviews.size > 9 %}
         <a href="/reviews/#content" class="read-more">Read More Reviews</a>
       {% endif %}
