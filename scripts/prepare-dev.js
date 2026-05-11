@@ -1,5 +1,5 @@
 import { join } from "node:path";
-import { buildDir, templateRepo } from "./consts.js";
+import { buildDir, templateRef, templateRepo } from "./consts.js";
 import { bun, find, fs, git, path, root, rsync } from "./utils.js";
 
 const build = path(buildDir);
@@ -40,6 +40,7 @@ export const prep = () => {
     git.reset(template, { hard: true });
     git.pull(template);
   }
+  git.checkout(template, templateRef);
 
   find.deleteByExt(dev, ".md");
   rsync(template, dev, { delete: true, exclude: templateExcludes });

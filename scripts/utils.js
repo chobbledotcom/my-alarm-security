@@ -33,10 +33,19 @@ export const spawn = (cmd, opts = {}) =>
 // Git commands
 export const git = {
   clone: (repo, dest, opts = {}) =>
-    run(["git", "clone", "--depth", String(opts.depth || 1), repo, dest]),
+    run([
+      "git",
+      "clone",
+      ...(opts.depth !== undefined ? ["--depth", String(opts.depth)] : []),
+      repo,
+      dest,
+    ]),
 
   pull: (dir) =>
     run(["git", "--git-dir", join(dir, ".git"), "--work-tree", dir, "pull"]),
+
+  checkout: (dir, ref) =>
+    run(["git", "--git-dir", join(dir, ".git"), "--work-tree", dir, "checkout", ref]),
 
   reset: (dir, opts = {}) =>
     run([
