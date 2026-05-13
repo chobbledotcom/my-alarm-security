@@ -10,17 +10,23 @@ eleventyNavigation:
   order: 2
 layout: page
 permalink: /pages/about-us/
+gallery:
+  - /images/Home security system, burglar alarm, cctv, intruder alarm, house
+    alarm, Bexley, Bromley, Orpington, Welling, Sidcup, Dartford, New Eltham,
+    Chislehurst, Bexleyheath MATT AT VAN-1.jpg
+  - /images/Van profile pic.jpg
 ---
-# About MyAlarm Security 
+# About MyAlarm Security
 
 **Why Choose MyAlarm Security?**
 
-With over 27 years experience in the security industry, having worked as the senior service engineer manager overseeing all engineers for some of the largest companies across the South East of England, our founder Matt decided it was time to start his own company. MyAlarm Security was founded in 2017 in Sidcup and is a family run business. The company has flourished and has grown to be a highly recommended and well established local company with many 5 star reviews.
+With over 30 years experience in the security industry (as of Jan 2026), having worked as the senior service engineer manager overseeing all engineers for some of the largest companies across the South East of England, our founder Matt decided it was time to start his own company. MyAlarm Security was founded in 2017 in Sidcup and is a family run business. The company has flourished and has grown to be a highly recommended and well established local company with over 100 5-star reviews.
 
-MyAlarm Security is your trusted, local home and business security company across Bexley, Bromley, Orpington, Dartford, Sevenoaks, Greenwich and surrounding areas. We are a friendly and professional team who are highly skilled, qualified and experienced to handle all of your residential and commercial security needs.
+MyAlarm Security is your trusted, local home and business security company across Bexley, Bromley, Orpington, Dartford, Sevenoaks, Greenwich and surrounding areas. We are a friendly and professional team who are highly skilled, qualified and experienced to handle all of your residential and commercial security needs. Customer satisfaction is our main priority. We go above and beyond for our customers which is reflected in our company reviews. 
 
 We provide up front pricing and are transparent with all of our costs with a clear and concise explanation of the work required.
 
-Call our friendly team on **020 8302 4065** or [**Contact Us**](/contact/) online now.
+Call our friendly team on **020 8302 4065** or **[Contact Us](/contact/)** online now.
 
 ![MyAlarm Security](/images/pages/matt-and-daughter.webp)
+
