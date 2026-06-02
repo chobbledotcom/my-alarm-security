@@ -1,10 +1,7 @@
 ---
 name: Reviews
-meta_description: MyAlarm Security. Burglar Alarm Maintenance Orpington,
-  Bromley, Bexley, Dartford. CCTV Company Bexley Orpington Bromley Greenwich
-  Dartford
-meta_title: MyAlarm Security Reviews. Burglar Alarm Maintenance Service and CCTV
-  Company in Sidcup, Orpington, Bromley, Bexleyheath
+meta_description: Customer reviews for MyAlarm Security, a family-run burglar alarm and CCTV company based in Sidcup.
+meta_title: MyAlarm Security Reviews
 eleventyNavigation:
   key: Reviews
   order: 98
@@ -14,6 +11,6 @@ permalink: /reviews/
 
 # Reviews
 
-Check out some of our customer reviews below. You can see more on [our Google Maps listing, here](https://share.google/lHdeUROjKe5zqlOpj), on [our Facebook page, here](https://www.facebook.com/MyAlarm). We also have over 80 five star reviews on Checkatrade - although we no longer pay for a listing on Checkatrade (so you can't leave any new reviews). Reviews from previous customers are still visible on [our Checkatrade listing, here](https://www.checkatrade.com/trades/myalarmsecurity).
+Check out some of our customer reviews below. You can see more on [our Google Maps listing](https://share.google/lHdeUROjKe5zqlOpj), on [our Facebook page](https://www.facebook.com/MyAlarm). We also have over 80 five star reviews on Checkatrade - although we no longer pay for a listing on Checkatrade, so you can't leave any new reviews. Reviews from previous customers are still visible on [our Checkatrade listing](https://www.checkatrade.com/trades/myalarmsecurity).
 
 ---

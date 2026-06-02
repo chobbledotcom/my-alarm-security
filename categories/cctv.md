@@ -1,21 +1,18 @@
 ---
 title: CCTV
-meta_description: "CCTV Bexleyheath, Orpington, Bromley, Dartford, Sidcup, New
-  Eltham. Burglar Alarm Maintenance Service, Burglar Alarm Installation, Alarm
-  Battery. Call 020 8302 4065. "
-meta_title: CCTV in New Eltham, Sidcup, Bexleyheath, Greenwich, Orpington,
-  Bromley, Dartford
+meta_description: Hard-wired Hikvision CCTV systems installed around Sidcup, Bexley, Eltham, Orpington and nearby areas, with app viewing and tidy cable runs.
+meta_title: CCTV Installation in Sidcup
 eleventyNavigation:
   key: CCTV
   order: 4
 ---
 # CCTV Systems
 
-If youre looking to enhance the security of your home or business, then CCTV systems are an increasingly popular solution. With the ability to keep an eye on your premises and loved ones, and to deter unwanted intruders, CCTV systems provide a range of benefits. As well as the peace of mind that comes with monitoring everything that happens on your property, CCTV footage can also be used as visual evidence in the event of a break-in or theft from the property. 
+If you're looking to enhance the security of your home or business, then CCTV systems are an increasingly popular solution. With the ability to keep an eye on your premises and loved ones, and to deter unwanted intruders, CCTV systems provide a range of benefits. As well as the peace of mind that comes with monitoring everything that happens on your property, CCTV footage can also be used as visual evidence in the event of a break-in or theft from the property. 
 
 Our brand new CCTV packages now offer audio! Our CCTV package 1 cameras (also available as part of our ultimate package) come with built in microphones so you are able to listen in. Our CCTV package 2 cameras (also available as part of our supreme package) come with 2-way audio so not only are you able to listen in, but you can talk through them too!
 
-At MyAlarm Security, we offer HikVision CCTV systems with a minimum storage period of approx 30 days using a 2tb Seagate harddrive, so you never have to worry about missing an incident. With our remote access, you can view live feeds and recorded video footage from anywhere in the world providing you have an internet connection, via a laptop, phone, or tablet using a free app. Our smart search feature also allows you to filter footage by movement or specific time periods, making it easy to review footage quickly.
+At MyAlarm Security, we offer HikVision CCTV systems with a minimum storage period of approx 30 days using a 2tb Seagate hard drive, so you never have to worry about missing an incident. With our remote access, you can view live feeds and recorded video footage from anywhere in the world providing you have an internet connection, via a laptop, phone, or tablet using a free app. Our smart search feature also allows you to filter footage by movement or specific time periods, making it easy to review footage quickly.
 
 Our CCTV systems are installed by experienced engineers with a focus on providing the best coverage possible. We understand that cabling can be a concern for some customers, which is why we strive to keep our installations as neat and discreet as possible with minimal cables on show.
 
@@ -23,7 +20,10 @@ As technology advances, conventional black and white imaging cameras are being r
 
 We also offer wireless [Burglar Alarm Systems](/categories/burglar-alarms/) that can also be linked to your smart phone or tablet, and fully app-controlled from anywhere with an internet connection. We have a range of packages available on our website, with special offers designed to suit different requirements and properties. Alternatively, you can contact us to discuss your needs and receive personalised advice and a package created to suit you and your property. Take a look at the images below to see the difference between conventional cameras (colour in the day and black and white in the evening) and our brand new 24 hour colour cameras.
 
-{% include "area-list-shortcode.html", prefix: "MyAlarm Security is based in Sidcup on the borders of New Eltham, and we serve surrounding boroughs including", suffix: "and anywhere else nearby." %}.
+## CCTV service areas
 
-![CCTV Systems](/images/categories/categories-cctv-fz8jnnwdtcm5voycphbt.png)
+You can also look at [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/) for current package details and prices.
 
+{% include "area-list-shortcode.html", prefix: "MyAlarm Security is based in Sidcup on the borders of New Eltham, and we serve surrounding boroughs including", suffix: "and anywhere else nearby." %}
+
+![Four-camera CCTV package with recorder and Hikvision cameras](/images/categories/categories-cctv-fz8jnnwdtcm5voycphbt.png)

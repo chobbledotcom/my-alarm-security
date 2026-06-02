@@ -1,10 +1,7 @@
 ---
 title: Orpington
-meta_title: Burglar Alarm Maintenance Service And Battery Orpington. CCTV
-  Company In Orpington - MyAlarm Security
-meta_description: Burglar Alarm Maintenance Service Orpington, Burglar Alarm
-  Installation, Alarm Battery and CCTV Orpington Call 020 8302 4065 or
-  Sales@MyAlarmSecurity.co.uk
+meta_title: Burglar Alarms and CCTV in Orpington
+meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Orpington from MyAlarm Security.
 permalink: /pages/orpington/
 eleventyNavigation:
   key: Orpington
@@ -28,8 +25,19 @@ If you are looking for a local, friendly and trusted home security systems compa
 
 We can create any package to suit your needs so if you need more or less sensors, or you would like an additional keypad or you want to add on some more keytags, we can help with it all. Check out some of our existing burglar alarm packages here: [Burglar Alarm System in Orpington.](/categories/burglar-alarms/)
 
-We also offer CCTV packages. Feel free to give us a call or send us an email if you have any questions. Take a look at our current CCTV packages here: [CCTV Systems in Orpington.](/categories/cctv/)
+We also offer hard-wired Hikvision CCTV packages. Feel free to give us a call or send us an email if you have any questions. We go through camera positions, recorder location and cable routes during the survey, because those details make a big difference once the system is in daily use. Take a look at our current [CCTV packages](/categories/cctv/), including [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/).
 
-![Burglar Alarm Company Van Orpington CCTV Orpington Alarm Service Battery Orpington](/images/pages/pages-orpington-ysizh3plzbep45fgjb0g.webp)
+You can also read about an [alarm system service in Orpington](/blog/alarm-system-service-maintenance-in-orpington/) where a low battery fault turned into a proper check of the panel and siren batteries.
+
+> "Have been a customer of MyAlarm Security for many years now and nothing is ever too much trouble for either Matt or Rachel." - Lisa Ryan, Google review, 2026
+
+## Related services in Orpington
+
+- [CCTV installation](/categories/cctv/)
+- [Burglar alarm installation](/categories/burglar-alarms/)
+- [Alarm servicing, faults and battery changes](/categories/servicing-and-repairs/)
+- [Special offer alarm and CCTV packages](/categories/special-offers/)
+
+![MyAlarm Security van parked in Orpington](/images/pages/pages-orpington-ysizh3plzbep45fgjb0g.webp)
 
 {% include "area-list-shortcode.html", prefix: "We offer our services throughout ", suffix: " and nearby locations." %}

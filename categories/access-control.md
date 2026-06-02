@@ -1,10 +1,7 @@
 ---
 title: Access Control
-meta_description: Burglar Alarm Maintenance Service And Battery Orpington. CCTV
-  Company In Orpington Bromley Bexleyheath Sidcup Dartford
-meta_title: Burglar Alarm and Maintenance Battery Orpington, Bexleyheath, New
-  Eltham, Bromley, Sidcup. CCTV Company In Orpington, Bromley, Bexley,
-  Bexleyheath. Sidcup, Dartford
+meta_description: Access control and door entry systems for homes and businesses, with card, fob, PIN and reader options.
+meta_title: Access Control and Door Entry Systems
 eleventyNavigation:
   key: Access Control
   order: 20
@@ -18,5 +15,7 @@ Access control and door entry systems allow access via an electronic reader syst
 Access control offers peace of mind by offering a high level of security as the premises\' entrances are controlled by powerful electromagnets that are released only if an authorised person presents their card/fob to the reader.
 
 We also offer CCTV and Burglar Alarm Packages as well as Burglar Alarm System Maintenance.
+
+We install access control and door entry systems across our service area, with recent work in [Bromley](/pages/bromley/) and [Orpington](/pages/orpington/) among other locations.
 
 [**Contact Us**](/contact/) to discuss your requirements and to book a free no obligation visit.

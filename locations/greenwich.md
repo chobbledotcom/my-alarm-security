@@ -1,15 +1,13 @@
 ---
 title: Greenwich
-meta_title: Burglar Alarm System Greenwich. CCTV Company In Greenwich. Burglar
-  Alarm Battery Maintenance.
-meta_description: Burglar Alarm System Greenwich. CCTV in Greenwich. Home
-  Security, Burglar Alarm Maintenance Service Alarm Battery Greenwich. Intruder
+meta_title: Burglar Alarms and CCTV in Greenwich
+meta_description: Burglar alarm installation, servicing and hard-wired CCTV in Greenwich from MyAlarm Security, based nearby in Sidcup.
 permalink: /pages/greenwich/
 eleventyNavigation:
   key: Greenwich
   parent: Service Areas
 ---
-# Burglar Alarm Systems in Greenwich
+# Burglar Alarms and CCTV in Greenwich
 
 Looking for a reliable burglar alarm system in Greenwich? Based in nearby Sidcup, we\'re a trusted local, family-run security company serving Greenwich and the entire Royal Borough of Greenwich. We specialise in the installation, maintenance and servicing of all makes and models of burglar alarm systems for both homes and businesses.
 
@@ -31,7 +29,21 @@ Call us on 020 8302 4065 or send an email to Sales@MyAlarmSecurity.co.uk to get 
 
 ## CCTV in Greenwich
 
-Enhance your property\'s security with CCTV installation in Greenwich. We supply and install the latest camera systems, including colour CCTV, which provides 24/7 full-colour footage for clear, reliable surveillance. 
-We are a local, family-run business based in Sidcup. We pride ourselves on offering a friendly, honest service with no hard sell. Take a look at our [CCTV packages in Greenwich](/categories/cctv/) to see what best fits your needs. For a tailored quote or to schedule a site visit, [contact us today.](/contact/)
+Enhance your property\'s security with CCTV installation in Greenwich. We supply and install hard-wired Hikvision CCTV systems, including colour cameras that give 24 hour colour footage where the lighting and camera position suit it. Each camera is cabled back to the recorder, so the system keeps recording even if the internet drops out, and app access can be set up for live view and playback on your phone.
+
+Take a look at our [CCTV packages](/categories/cctv/) to see the current camera and recorder options. If you need the cameras placed around a particular driveway, side passage, garden or business entrance, we can go through that properly on a survey.
+
+> "Matt installed CCTV system to our flat and commercial building. Installation was very precise and accurate. Nice, clean and tidy work." - Dushyant Purohit, Google review, 2024
+
+You can read about some of our installations near Greenwich, including a [CCTV ColorVu comparison](/blog/colorvu-comparison/) and a post about [problems we have seen with poorly installed systems](/blog/bad-installs/).
+
+## Related services in Greenwich
+
+- [CCTV installation](/categories/cctv/)
+- [Burglar alarm installation](/categories/burglar-alarms/)
+- [Alarm servicing, faults and battery changes](/categories/servicing-and-repairs/)
+- [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/)
+
+For a tailored quote or to schedule a site visit, [contact us](/contact/).
 
 {% include "area-list-shortcode.html", prefix: "We also serve customers in ", suffix: "." %}

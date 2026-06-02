@@ -12,6 +12,173 @@
 {%- endif -%}
 <meta name="twitter:image" content="{{ site.url }}/assets/og-image.webp" />
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "{{ site.url }}/#localbusiness",
+  "name": "MyAlarm Security",
+  "legalName": "MyAlarm Security",
+  "description": "Specialists in home security, business security and building security based between New Eltham and Sidcup.",
+  "url": "{{ site.url }}",
+  "telephone": "020 8302 4065",
+  "image": "{{ site.url }}/assets/og-image.webp",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "40 Northcote Road",
+    "addressLocality": "Sidcup",
+    "addressRegion": "Kent",
+    "postalCode": "DA14 6PW",
+    "addressCountry": "GB"
+  },
+  "areaServed": [
+    "Sidcup",
+    "New Eltham",
+    "Bexley",
+    "Greenwich",
+    "Orpington",
+    "Swanley",
+    "Wilmington",
+    "Hextable",
+    "Bromley",
+    "Gravesend",
+    "Chislehurst",
+    "Bexleyheath",
+    "Ebbsfleet",
+    "Welling",
+    "Petts Wood",
+    "Swanscombe"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/MyAlarm",
+    "https://share.google/lHdeUROjKe5zqlOpj"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "020 8302 4065",
+      "contactType": "customer service",
+      "areaServed": "London and Kent",
+      "availableLanguage": "English"
+    }
+  ]
+}
+</script>
+{%- if page.url == "/faq/" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What brand of alarm system do you install?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MyAlarm Security installs Pyronix burglar alarm systems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does a burglar alarm system cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Burglar alarm packages start at 539 pounds, with the standard package at 599 pounds including installation. Extra sensors and devices can be added or removed depending on the property."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do your displayed prices include installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, all package prices include parts and installation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I have to have the app for the burglar alarm system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The alarm system will still work from the panel if you do not use the app. The app is free for the first year and then has an annual fee."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you service alarm systems installed by other companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. MyAlarm Security services many alarm brands including Pyronix, Scantronic, Menvier, Visonic, Texecom, Veritas, Eaton, Cooper, Galaxy and Honeywell. DIY systems such as Ring and Yale are not serviced."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much is an alarm system service or call out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As of February 2026, an alarm system service or maintenance visit is 95 pounds for up to the first hour of labour. Parts and batteries are charged separately."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What brand of CCTV do you install?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MyAlarm Security installs Hikvision CCTV systems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer wireless CCTV packages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. CCTV systems are hard wired, with a cable from each camera back to the recorder."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any rules for having CCTV cameras at my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The FAQ explains that recording within your property boundary is allowed for personal use, and that signage becomes a GDPR requirement if footage captures public space or a neighbour's property."
+      }
+    }
+  ]
+}
+</script>
+{%- endif -%}
+{%- if page.url contains "/products/" and price -%}
+{%- assign schema_price = price | replace: "£", "" | replace: ",", "" | replace: "From ", "" | replace: "from ", "" | strip -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "{{ site.url }}{{ page.url }}#product",
+  "name": "{{ title | strip | escape }}",
+  "description": "{{ meta_description | default: page.meta_description | strip | escape }}",
+  "url": "{{ site.url }}{{ page.url }}",
+  {%- if gallery and gallery.size > 0 %}
+  "image": "{{ site.url }}{{ gallery[0] }}",
+  {%- else %}
+  "image": "{{ site.url }}/assets/og-image.webp",
+  {%- endif %}
+  "brand": {
+    "@type": "Brand",
+    "name": "MyAlarm Security"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "GBP",
+    "price": "{{ schema_price }}",
+    "availability": "https://schema.org/InStock",
+    "url": "{{ site.url }}{{ page.url }}",
+    "seller": {
+      "@id": "{{ site.url }}/#localbusiness"
+    }
+  }
+}
+</script>
+{%- endif -%}
+
 <script
   data-goatcounter="https://analytics.myalarmsecurity.co.uk/count"
   async

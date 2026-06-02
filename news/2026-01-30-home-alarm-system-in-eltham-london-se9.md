@@ -2,24 +2,23 @@
 title: Home Alarm System in Eltham, London, SE9
 date: 2026-01-30
 subtitle: An Old External Siren Rendered Into the Property
-meta_title: Home Alarm System Eltham London SE9
-meta_description: Home Burglar Alarm System Eltham, SE9. CCTV Eltham. Burglar
-  Alarm Maintenance Service and Battery. Alarm Company Near Me Eltham SE9.
+meta_title: Home Alarm System Upgrade in Eltham
+meta_description: A 20-year-old burglar alarm in Eltham upgraded to a modern smart Pyronix system with a tidier external siren.
 gallery:
   - /images/PHOTO-2026-01-20-15-09-25_1.jpg
   - /images/PHOTO-2026-01-20-15-09-25.jpg
   - /images/PHOTO-2026-01-20-15-09-25_2.jpg
   - /images/PHOTO-2026-01-20-15-09-25_3.jpg
 ---
-Upgrading a 20-Year-Old Burglar Alarm to a Modern Smart Pyronix System – Done the Right Way
+Upgrading a 20-Year-Old Burglar Alarm to a Modern Smart Pyronix System
 
-At MyAlarm Security, we believe upgrading your home security should never mean compromising on appearance. Recently, we were contacted by a homeowner in Eltham, SE9 looking to modernise their 20-year-old burglar alarm system and bring their home protection into the 21st century with one of our smart Pyronix home burglar alarm systems.
+At MyAlarm Security, we believe upgrading your home security should never mean compromising on appearance. Recently, we were contacted by a homeowner in [Eltham, SE9](/pages/eltham/) looking to modernise their 20-year-old burglar alarm system with one of our smart Pyronix [home burglar alarm systems](/categories/burglar-alarms/).
 
 Older alarm systems often do their job very well for many years, but technology moves fast. Over time, parts become outdated, less reliable, and incompatible with modern smart features such as mobile app control and instant notifications.
 
 The Challenge: An Old External Siren Rendered Into the Property
 
-During our initial assessment, we identified a common issue we see with older alarm installations. The existing external siren on the front of the house, which had been installed over two decades ago, had had the the render and pebble-dash removed around it during previous external works on the property. While this was perfectly acceptable at the time, it does present challenges when upgrading to newer equipment.
+During our initial assessment, we identified a common issue we see with older alarm installations. The existing external siren on the front of the house, which had been installed over two decades ago, had had the render and pebble-dash removed around it during previous external works on the property. While this was perfectly acceptable at the time, it does present challenges when upgrading to newer equipment.
 
 The new Pyronix external siren we were installing was a different shape and size — slightly smaller, far more discreet, and much more aesthetically pleasing. However, once the old siren was carefully removed, it revealed old pebble dash behind and around the original unit, leaving the potential for the new siren to sit against an uneven and unsightly background.
 
@@ -27,7 +26,7 @@ This is the point where some installers might simply fit the new siren, step bac
 
 Going the Extra Mile (As Standard)
 
-We positioned the new siren perfectly and removed all of the old pebble dash as possible, ensuring the unit sat flush and securely against the property.
+We positioned the new siren carefully and removed as much of the old pebble dash as possible, ensuring the unit sat flush and securely against the property.
 
 The result? A modern, smart external alarm that looked like it had always belonged there - not an obvious replacement or an eyesore on the front of the house.
 
@@ -43,4 +42,4 @@ This job perfectly sums up why we have numerous 5-star reviews. We don’t rush.
 
 Whether it’s removing old materials, colour-matching paint, or taking the time to talk things through with homeowners, we always go above and beyond - because that’s what we’d expect in our own homes.
 
-If you’re considering upgrading an old alarm system, you can trust MyAlarm Security to deliver not just protection, but pride in every detail.
+If you’re considering upgrading an old alarm system, you can trust MyAlarm Security to deliver not just protection, but pride in every detail. Take a look at our [Standard Alarm System](/products/standard-system-599/) package or browse our [burglar alarm packages](/categories/burglar-alarms/) for more options.

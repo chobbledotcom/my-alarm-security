@@ -1,14 +1,14 @@
 ---
 title: Beckenham
-meta_title: "Burglar Alarm System Company Beckenham CCTV Beckenham - MyAlarm Security"
-meta_description: "Burglar Alarm System West Wickham Security Beckenham Security. CCTV systems. Home Security, Burglar Alarm Service Battery Beckenham. Alarm Company Near Me"
+meta_title: Burglar Alarms and CCTV in Beckenham
+meta_description: Burglar alarm servicing, installation and hard-wired CCTV in Beckenham from MyAlarm Security.
 permalink: "/pages/beckenham/"
 eleventyNavigation:
   key: Beckenham
   parent: Service Areas
 ---
 
-# Burglar Alarm Servicing in Beckenham
+# Burglar Alarms and CCTV in Beckenham
 
 We offer battery changes, part changes and servicing to all different makes and models of burglar alarm systems. Maybe you have inherited the system or you\'ve lost the details of the original installer, don\'t worry we can help. We offer one off servicing, battery changes, part replacement and upgrades to all types of home and business burglar alarm systems. We cover the boroughs of Bromley, Lewisham, Bexley, Dartford, Sevenoaks and Greenwich.
 
@@ -20,7 +20,20 @@ Does your burglar alarm need a service or a battery change? Maybe you are lookin
 
 ## CCTV in Beckenham
 
-If you are looking to get a hard wired, professionally installed CCTV system at your property, then look no further than MyAlarm Security. We offer the latest in CCTV technology with our 24 hour colour images cameras. Check out some of our packages here: [CCTV in Beckenham.](/categories/cctv/)
+If you are looking to get a hard wired, professionally installed CCTV system at your property, we can help. We install Hikvision CCTV systems with a recorder, app viewing and playback, and camera positions agreed during a survey. Our CCTV systems are not wireless kits; each camera is cabled back to the recorder so the system can keep recording even if the internet drops out.
+
+Check out the current [CCTV packages](/categories/cctv/) and the installed [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) or [CCTV Package 2](/products/cctv-package-1-999/) options.
+
+> "Matt was hardworking, conscientious and a very tidy worker. Explained exactly what CCTV cameras needed to go where and why." - Checkatrade review, 2019
+
+You can read about a [CCTV ColorVu comparison](/blog/colorvu-comparison/) we put together showing the difference between camera types, relevant to installations across Beckenham and the wider Bromley borough.
+
+## Related services in Beckenham
+
+- [CCTV installation](/categories/cctv/)
+- [Burglar alarm installation](/categories/burglar-alarms/)
+- [Alarm servicing and battery changes](/categories/servicing-and-repairs/)
+- [Special offer alarm and CCTV packages](/categories/special-offers/)
 
 If you have any questions or would like to book a free survey, you can fill in your details on our contact form, give us a call or send us an email. Our team look forward to hearing from you.
 

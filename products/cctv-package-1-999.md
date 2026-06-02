@@ -6,11 +6,8 @@ price: £1,999.00
 order: 5
 gallery:
   - /images/cctv-package-2-dec-2025.png
-meta_description: Home and business security. Colour CCTV Bexley, Orpington,
-  Bromley, Dartford, Greenwich. Burglar Alarm Servicing, Burglar Alarm
-  Installation, Alarm Battery. 020 8302 4065
-meta_title: 24 Hour Colour CCTV Bexley Bromley Dartford New Eltham Sidcup
-  Orpington - MyAlarm Security - Burglar Alarm System
+meta_description: Four-camera 4K CCTV package with 2-way audio, 4TB recorder storage, app viewing and professional installation.
+meta_title: CCTV Package 2 - 4K Cameras and 2-Way Audio
 ---
 # CCTV Package 2
 
@@ -39,6 +36,5 @@ This is a hardwired, fully cabled system that does not rely on your internet to 
 
 This CCTV package is a cost-effective, scalable system suitable for all of your security and surveillance needs.  We are able to offer systems with more (or less) cameras. Please feel free to contact us to book a survey, discuss your options or to get a quote. 
 
-We are a family-run company based in Sidcup. With over 30 years in the security industry, there isn't much that we do not know when it comes to security systems whether that's a burglar alarm system or a CCTV system. We have watched technology advance and security systems becoming more and more popular with homes and businesses of all sizes. We cover the areas of Bexley, Bexleyheath, Dartford, Greenwich, Orpington, Bromley, Sidcup, Chislehurst, Sevenoaks and surrounding areas. 
-
+{% include "area-list-shortcode.html", prefix: "We are a family-run company based in Sidcup with over 30 years in the security industry. We cover", suffix: "and surrounding areas." %}
 

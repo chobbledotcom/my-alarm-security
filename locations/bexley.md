@@ -1,18 +1,17 @@
 ---
 title: Bexley
-meta_title: Burglar Alarm System Bexley. CCTV In Bexley Home Security - MyAlarm Security
-meta_description: Home Burglar Alarm System Bexley. CCTV Bexley. Burglar Alarm
-  Maintenance Service and Battery. Alarm Company Near Me Bexley.
+meta_title: Burglar Alarms and CCTV in Bexley
+meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Bexley from MyAlarm Security.
 permalink: /pages/bexley/
 eleventyNavigation:
   key: Bexley
   parent: Service Areas
 ---
-# Burglar Alarm System in Bexley
+# Burglar Alarms and CCTV in Bexley
 
 Looking for a local, trusted security system company in Bexley? If you\'re based in Bexley or surrounding areas and need a friendly, dependable and local security system company, MyAlarm Security is here for you. Whether it\'s expert advice or a reliable service, we\'re ready to help. If you are interested in having a new burglar alarm system installed in your home or at your business - or if you are thinking about upgrading your current system, give us a call or send us an email. We can help with all aspects of your home and business security in Bexley from burglar alarm systems, to door entry systems and CCTV systems. We offer the latest in smart app controlled systems which via an app, can be monitored from anywhere in the world providing you have an internet connection.
 
-**What does the app do?** The app allows you to set and unset your system remotely - maybe you\'ve gone out for the day and not sure if you have set the system or maybe you have gon eon holiday and with all the rushing around, can't remember if you set the alarm! The app allows you to check if your system is set, and if not, you can set it (and unset it) at the touch of a button on your phone. It really is as simple as that. Maybe you have a cleaner going in or a family member and they don\'t know your alarm code, not to worry, you can log straight in via your phone app and unset the system so they can safely enter without activating the alarm. The app also notifies you if your alarm has been activated and in which room the activation has occurred. The app connects to your alarm system via your internet and will need to be connected in order for the app to work. (an active internet subscription is not required for the alarm system to function - it is just for the app)
+**What does the app do?** The app allows you to set and unset your system remotely - maybe you\'ve gone out for the day and not sure if you have set the system or maybe you have gone on holiday and with all the rushing around, can't remember if you set the alarm! The app allows you to check if your system is set, and if not, you can set it (and unset it) at the touch of a button on your phone. It really is as simple as that. Maybe you have a cleaner going in or a family member and they don\'t know your alarm code, not to worry, you can log straight in via your phone app and unset the system so they can safely enter without activating the alarm. The app also notifies you if your alarm has been activated and in which room the activation has occurred. The app connects to your alarm system via your internet and will need to be connected in order for the app to work. (an active internet subscription is not required for the alarm system to function - it is just for the app)
 
 **How much is the app?** The app is free for the first year and then £25 per year thereafter (subject to manufacturer price increases).
 
@@ -26,7 +25,18 @@ Are you looking for a burglar alarm company in Bexleyheath? Maybe you can't get 
 
 ## CCTV in Bexley
 
-If you are looking for a local, friendly and professional company to install CCTV at your property in Bexley and surrounding areas then look no further. We can help! We offer hard wired CCTV packages that do not rely on an internet connection to record and store footage. All of our CCTV systems come with approx 30 days storage. Check out some of our packages here: [CCTV in Bexley.](/categories/cctv/) Contact us if you have any questions.
+If you are looking for a local, friendly and professional company to install CCTV at your property in Bexley and surrounding areas then look no further. We can help. We offer hard wired CCTV packages that do not rely on an internet connection to record and store footage. All of our CCTV systems come with approx 30 days storage, with app access for live viewing and playback. Check out the current [CCTV packages](/categories/cctv/), including [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/). Contact us if you have any questions.
+
+> "Polite, attention to detail, and knowing his stuff - could not ask for a better service." - Bromley Borough, Google review, 2026
+
+You can see some of our CCTV work in Bexley, including a [4K camera CCTV upgrade](/blog/upgrade-to-a-4k-camera-cctv-in-bexley/) and a [CCTV installation with neat conduit](/blog/neat-conduit-on-a-cctv-system-installation-in-bexley/).
+
+## Related services in Bexley
+
+- [CCTV installation](/categories/cctv/)
+- [Burglar alarm installation](/categories/burglar-alarms/)
+- [Alarm servicing, faults and battery changes](/categories/servicing-and-repairs/)
+- [Special offer alarm and CCTV packages](/categories/special-offers/)
 
 It couldn't be easier to speak with us. You can use our contact form found here: [Contact us](/contact/) - and fill in your details and we will get back to you as soon as we can. You can also email us direct at: Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.
 

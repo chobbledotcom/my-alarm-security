@@ -1,17 +1,14 @@
 ---
 name: Contact
-meta_title: CCTV and Burglar Alarm System Battery Maintenance Bromley Orpington
-  Sidcup Dartford Bexley
-meta_description: "CCTV. Burglar Alarm Maintenance Service, Burglar Alarm
-  Installation, Alarm Battery. Bexleyheath, Bromley, Orpington, Dartford, Sidcup
-  "
+meta_title: Contact MyAlarm Security
+meta_description: Contact MyAlarm Security in Sidcup for burglar alarms, CCTV, servicing, repairs and alarm battery changes.
 permalink: /contact/
 layout: contact.html
 eleventyNavigation:
   key: Contact
   order: 100
 ---
-# Contact us here at MyAlarm Security
+# Contact MyAlarm Security
 
 It couldn't be easier to get in touch with the team here! You can use the contact form at the bottom of this page, or:
 

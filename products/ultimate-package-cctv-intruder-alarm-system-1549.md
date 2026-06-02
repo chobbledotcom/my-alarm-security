@@ -8,10 +8,8 @@ price: £2,548.00
 order: 7
 gallery:
   - /images/cctv-package-supreme-dec-2025.png
-meta_description: Home and business security. CCTV Bexley Bromley Orpington
-  Sidcup Greenwich Burglar Alarm, Alarm Battery. Call 020 8302 4065
-meta_title: Colour and Audio CCTV Bexley Bromley Orpington Sevenoaks Dartford
-  Sidcup Greenwich
+meta_description: Supreme Package with a Standard Alarm System and CCTV Package 2, including 4K cameras, 2-way audio and app control.
+meta_title: Supreme Package - Alarm and CCTV Package 2
 ---
 # Supreme Package
 
@@ -38,4 +36,4 @@ meta_title: Colour and Audio CCTV Bexley Bromley Orpington Sevenoaks Dartford
 
 Our supreme package combines our Standard Alarm System and CCTV Package 2 along with a package discount. All of our packages can be tailored to suit your property and requirements with additional sensors, keyfobs, door contacts, additional cameras, larger storage and more available to be added to suit your needs. Please feel free to contact us to book a survey, discuss your options or to get a quote.
 
-We are a family-run company based in Sidcup with over 30 years in the security industry. We cover the areas of Bromley, Dartford, Bexley, Bexleyheath, Greenwich, Orpington, Sidcup, Chislehurst, Sevenoaks and surrounding areas.
+{% include "area-list-shortcode.html", prefix: "We are a family-run company based in Sidcup with over 30 years in the security industry. We cover", suffix: "and surrounding areas." %}

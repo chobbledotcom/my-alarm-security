@@ -1,10 +1,7 @@
 ---
 title: Special Offers
-meta_description: For all of your home and business security. Burglar Alarm
-  Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302
-  4065 or send us an email.
-meta_title: Home Burglar Alarm System and CCTV Bexley Sidcup Orpington Bromley
-  Bexley Near Me - MyAlarm Security
+meta_description: Burglar alarm and CCTV package offers from MyAlarm Security, including installed home alarm and camera systems.
+meta_title: Burglar Alarm and CCTV Package Offers
 eleventyNavigation:
   key: Special Offers
   order: 24

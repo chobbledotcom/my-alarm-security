@@ -16,9 +16,10 @@ layout: base.html
       <div class="swiper-wrapper">
         {% for image in home_content.banner.images %}
         <div class="swiper-slide">
+          {%- assign banner_alt = home_content.banner.alts[forloop.index0] | default: "MyAlarm Security burglar alarm and CCTV installation" -%}
           <img
             src="{{ image }}"
-            alt="Banner {{ forloop.index }}"
+            alt="{{ banner_alt }}"
             loading="lazy"
           />
         </div>

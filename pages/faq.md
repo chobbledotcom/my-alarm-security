@@ -5,24 +5,22 @@ eleventyNavigation:
   order: 99
 layout: page
 permalink: /faq/
-meta_title: Intruder Alarm System Orpington Bromley Bexley Dartford Sidcup
-meta_description: FAQ's Intruder Alarm System Installation and CCTV systems in
-  Orpington Bromley Bexley Dartford Sidcup Eltham Greenwich. Professional,
-  Friendly, Local. Tel 020 8302 4065
+meta_title: Burglar Alarm and CCTV FAQs
+meta_description: Answers about burglar alarm installation, servicing, CCTV packages, app access and call-outs from MyAlarm Security in Sidcup.
 ---
 # Frequently Asked Questions
 
 **Why choose us?**
 
-With over 30 years experience in the home and business security industry, there isnt many systems that we do not know or havent worked on. We are a family run business and pride ourselves on our customer service and workmanship which is why we have so many fantastic reviews.
+With over 30 years experience in the home and business security industry, there aren't many systems that we do not know or haven't worked on. We are a family run business and pride ourselves on our customer service and workmanship which is why we have so many fantastic reviews.
 
 **What brand of alarm system do you install?**
 
-Our chosen brand of system to install is Pyronix. You can read about our burglar alarms and packages we offer here: [Burglar Alarms.](https://www.myalarmsecurity.co.uk/categories/burglar-alarms/)
+Our chosen brand of system to install is Pyronix. You can read about our [burglar alarms and packages](/categories/burglar-alarms/) on the burglar alarms page.
 
 **How much does a burglar alarm system cost?**
 
-Burglar alarm systems vary in price due to each persons preferance and building layout - the amount of sensors you need, the amount of entry points there are etc. We have created some very popular packages starting at £539.00, however we can also tailor create any package to suit your property or requirements. Our standard package burglar alarm system is £599.00 (inlcuding installation) is the most popular package we install. Additional sensors or devices such as keyfobs, keytags, additional door contacts, vibration sensors, wireless keypad, [strobe lights](https://www.myalarmsecurity.co.uk/blog/wireless-sounder-alarm-system-for-the-deaf-or-hard-of-hearing/) for those who are deaf or hard of hearing and panic buttons can also be added to (or removed from) any of our packages. We offer a free no obligation survey where we will go through with you the best placements for the devices and your requirements so that all entry points are covered - front door, rear doors, bi-folds, windows, hallway, landing, garage etc. We will also bring along a demo kit to all of our surveys so that you can see the equipment before making your decision.
+Burglar alarm systems vary in price due to each person's preference and building layout - the amount of sensors you need, the amount of entry points there are etc. We have created some very popular packages starting at £539.00, however we can also tailor create any package to suit your property or requirements. Our standard package burglar alarm system is £599.00 including installation and is the most popular package we install. Additional sensors or devices such as keyfobs, keytags, additional door contacts, vibration sensors, wireless keypad, [strobe lights](/blog/wireless-sounder-alarm-system-for-the-deaf-or-hard-of-hearing/) for those who are deaf or hard of hearing and panic buttons can also be added to (or removed from) any of our packages. We offer a free no obligation survey where we will go through with you the best placements for the devices and your requirements so that all entry points are covered - front door, rear doors, bi-folds, windows, hallway, landing, garage etc. We will also bring along a demo kit to all of our surveys so that you can see the equipment before making your decision.
 
 **Do your displayed prices include installation?**
 
@@ -30,15 +28,15 @@ Yes, all of our package prices include parts and installation.
 
 **Do I have to have the app for the burglar alarm system?**
 
-No you do not. The app is free to use for the first year. After that, there is an annual fee of £25 per year which allows several users access. If you do not wish to use the app at all, your alarm system will still work as it should. The only difference is that you will not be able to remotely access the system to set and unset it and you wont be notified of any alarm activations via the app - but they will still appear on the panel.
+No you do not. The app is free to use for the first year. After that, there is an annual fee of £25 per year which allows several users access. If you do not wish to use the app at all, your alarm system will still work as it should. The only difference is that you will not be able to remotely access the system to set and unset it and you won't be notified of any alarm activations via the app - but they will still appear on the panel.
 
 **Are your burglar alarm systems linked to the police?**
 
-No, we do not offer police monitoring. We do however, offer our app based system which allows you to monitor your system yourself and be notifed of any activations.
+No, we do not offer police monitoring. We do however, offer our app based system which allows you to monitor your system yourself and be notified of any activations.
 
 **Do you service alarm systems installed by other companies?**
 
-Yes of course. There isnt many alarm systems that we dont know including Pyronix, Scantronic, Menvier, Visonic, Texecom, Veritas, Eaton, Cooper, Galaxy, Honeywell. We do not service DIY systems such as Ring and Yale. We can source parts and batteries for any system providing they are not obsolete. If you are unsure what the brand of system you have is, just email us a photo and we can identify it for you. We receive phone calls and emails for all sorts of issues including:
+Yes of course. There aren't many alarm systems that we don't know including Pyronix, Scantronic, Menvier, Visonic, Texecom, Veritas, Eaton, Cooper, Galaxy, Honeywell. We do not service DIY systems such as Ring and Yale. We can source parts and batteries for any system providing they are not obsolete. If you are unsure what the brand of system you have is, just email us a photo and we can identify it for you. We receive phone calls and emails for all sorts of issues including:
 
 *   Alarm Battery Replacements / Low Battery
     
@@ -77,11 +75,11 @@ Yes of course. There isnt many alarm systems that we dont know including Pyronix
 
 **How much is an alarm system service / call out?**
 
-As of February 2026, our current price for an alarm system service / alarm maintenance, is £95.00 which covers up to the first hour of labour. Parts and batteries are an additional charge. We offer burglar alarm service and maintenance for any system, even if your system wasnt installed by us. Callouts outside of our office hours are charged at a premium.
+As of February 2026, our current price for an alarm system service / alarm maintenance, is £95.00 which covers up to the first hour of labour. Parts and batteries are an additional charge. We offer burglar alarm service and maintenance for any system, even if your system wasn't installed by us. Callouts outside of our office hours are charged at a premium.
 
 **What brand of CCTV do you install?**
 
-Our chosen brand of CCTV to install is Hikvision. Check out our CCTV packages here: [CCTV Packages](https://www.myalarmsecurity.co.uk/categories/cctv/).
+Our chosen brand of CCTV to install is Hikvision. You can see our [CCTV packages](/categories/cctv/) on the CCTV page.
 
 **Do you offer wireless CCTV packages?**
 
@@ -89,7 +87,7 @@ No we do not. All of our CCTV systems are hard wired with a cable to each camera
 
 **How much is a CCTV system?**
 
-We offer two packages of CCTV - both include 4 cameras, a recorder and a harddrive and start at £1,399.00. **Why do we offer 4 camera systems?** Because for most properties, we make sure that all angles are covered and there arent any blindspots - so 4 cameras are normally sufficient. If you do not require as many as 4 cameras or you would like more, give us a call to discuss and get booked in for a site survery. All CCTV installations require a site survey to go through camera locations and cable runs. See our CCTV packages here: [CCTV.](https://www.myalarmsecurity.co.uk/categories/cctv/)
+We offer two packages of CCTV - both include 4 cameras, a recorder and a hard drive and start at £1,399.00. **Why do we offer 4 camera systems?** Because for most properties, we make sure that all angles are covered and there aren't any blind spots - so 4 cameras are normally sufficient. If you do not require as many as 4 cameras or you would like more, give us a call to discuss and get booked in for a site survey. All CCTV installations require a site survey to go through camera locations and cable runs. See our [CCTV packages](/categories/cctv/) on the CCTV page.
 
 **Are there any rules for having CCTV cameras at my home?**
 
@@ -97,11 +95,11 @@ The law in the UK lets you film and record footage within your property boundary
 
 **How long does a survey take?**
 
-A survey can be done in just a few minutes. We allow as much time as you require to answer any of your questions. We are also available via phone or email should you have any other questions. [Contact us](https://www.myalarmsecurity.co.uk/contact/) here.
+A survey can be done in just a few minutes. We allow as much time as you require to answer any of your questions. We are also available via phone or email should you have any other questions. [Contact us](/contact/) here.
 
 **Are you DBS checked?**
 
-Yes we are - and can provide our certifcate if required.
+Yes we are - and can provide our certificate if required.
 
 **Do you have public liability insurance?**
 
@@ -109,8 +107,8 @@ Yes we do and are happy to provide any paperwork requested.
 
 **What training and industry experience do you have?**
 
-The owner of MyAlarm Security and the senior engineer - Matt, has worked within the electrionic security industry since 1998. There isnt an alarm system out there that he does not know or hasnt worked on. Having worked for several large security companies in London over the years as the head engineer, Matt set up MyAlarm Security in 2017 which now has a large customer base with many 5 star reviews. Matt has completed various training courses over the last 30 years and has vast experience with many systems.
+The owner of MyAlarm Security and the senior engineer - Matt, has worked within the electronic security industry since 1998. There isn't an alarm system out there that he does not know or hasn't worked on. Having worked for several large security companies in London over the years as the head engineer, Matt set up MyAlarm Security in 2017 which now has a large customer base with many 5 star reviews. Matt has completed various training courses over the last 30 years and has vast experience with many systems.
 
 **I have some more questions that are not listed here.**
 
-Give us a call or send us an email. We are happy to answer any questions that you have. [Contact us](https://www.myalarmsecurity.co.uk/contact/) here.
+Give us a call or send us an email. We are happy to answer any questions that you have. [Contact us](/contact/) here.

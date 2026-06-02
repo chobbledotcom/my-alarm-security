@@ -1,7 +1,7 @@
 ---
 name: Home
-meta_title: "Burglar Alarm And CCTV Bexley Orpington Bromley Dartford Eltham"
-meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or send an email"
+meta_title: "Burglar Alarms and CCTV in Sidcup"
+meta_description: "Family-run burglar alarm and CCTV installers based in Sidcup, covering Bexley, Eltham, Orpington and nearby areas."
 permalink: "/"
 layout: "home.html"
 eleventyNavigation:
@@ -9,4 +9,4 @@ eleventyNavigation:
   order: 1
 ---
 
-# Burglar Alarm And CCTV Bexley Orpington Bromley Dartford Eltham
+# Burglar Alarms and CCTV in Sidcup
