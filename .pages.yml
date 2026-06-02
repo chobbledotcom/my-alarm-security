@@ -44,7 +44,7 @@ content:
         list: true
         fields:
           - { name: question, type: string, label: Question, required: true }
-          - { name: answer, type: string, label: Answer, required: true }
+          - { name: answer, type: rich-text, label: Answer, required: true }
       - name: gallery
         type: image
         label: Gallery
@@ -105,7 +105,7 @@ content:
         list: true
         fields:
           - { name: question, type: string, label: Question, required: true }
-          - { name: answer, type: string, label: Answer, required: true }
+          - { name: answer, type: rich-text, label: Answer, required: true }
       - name: gallery
         type: image
         label: Gallery
@@ -157,7 +157,7 @@ content:
         list: true
         fields:
           - { name: question, type: string, label: Question, required: true }
-          - { name: answer, type: string, label: Answer, required: true }
+          - { name: answer, type: rich-text, label: Answer, required: true }
       - name: gallery
         type: image
         label: Gallery
@@ -184,7 +184,7 @@ content:
         list: true
         fields:
           - { name: question, type: string, label: Question, required: true }
-          - { name: answer, type: string, label: Answer, required: true }
+          - { name: answer, type: rich-text, label: Answer, required: true }
       - name: gallery
         type: image
         label: Gallery
@@ -226,7 +226,7 @@ content:
         list: true
         fields:
           - { name: question, type: string, label: Question, required: true }
-          - { name: answer, type: string, label: Answer, required: true }
+          - { name: answer, type: rich-text, label: Answer, required: true }
   - name: locations
     label: Locations
     path: locations
@@ -258,7 +258,7 @@ content:
         list: true
         fields:
           - { name: question, type: string, label: Question, required: true }
-          - { name: answer, type: string, label: Answer, required: true }
+          - { name: answer, type: rich-text, label: Answer, required: true }
       - name: gallery
         type: image
         label: Gallery

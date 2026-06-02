@@ -64,84 +64,22 @@
   ]
 }
 </script>
-{%- if page.url == "/faq/" -%}
+{%- if faqs and faqs.size > 0 -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
+    {%- for faq in faqs %}
     {
       "@type": "Question",
-      "name": "What brand of alarm system do you install?",
+      "name": "{{ faq.question | escape }}",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "MyAlarm Security installs Pyronix burglar alarm systems."
+        "text": "{{ faq.answer | renderContent: "md" | strip_html | strip_newlines | escape }}"
       }
-    },
-    {
-      "@type": "Question",
-      "name": "How much does a burglar alarm system cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Burglar alarm packages start at 539 pounds, with the standard package at 599 pounds including installation. Extra sensors and devices can be added or removed depending on the property."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do your displayed prices include installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, all package prices include parts and installation."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do I have to have the app for the burglar alarm system?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. The alarm system will still work from the panel if you do not use the app. The app is free for the first year and then has an annual fee."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you service alarm systems installed by other companies?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. MyAlarm Security services many alarm brands including Pyronix, Scantronic, Menvier, Visonic, Texecom, Veritas, Eaton, Cooper, Galaxy and Honeywell. DIY systems such as Ring and Yale are not serviced."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much is an alarm system service or call out?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "As of February 2026, an alarm system service or maintenance visit is 95 pounds for up to the first hour of labour. Parts and batteries are charged separately."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What brand of CCTV do you install?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "MyAlarm Security installs Hikvision CCTV systems."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you offer wireless CCTV packages?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. CCTV systems are hard wired, with a cable from each camera back to the recorder."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are there any rules for having CCTV cameras at my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The FAQ explains that recording within your property boundary is allowed for personal use, and that signage becomes a GDPR requirement if footage captures public space or a neighbour's property."
-      }
-    }
+    }{%- unless forloop.last %},{% endunless -%}
+    {%- endfor %}
   ]
 }
 </script>
