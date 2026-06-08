@@ -256,9 +256,6 @@ $gap: 1rem;
       max-width: var(--width-content) !important;
       height: 100%;
       object-fit: cover;
-      img {
-        width: 100%;
-      }
     }
   }
 
@@ -611,6 +608,10 @@ body.home section {
 body.page .content img,
 body.page .content .image-wrapper {
   max-width: 695px !important;
+}
+
+.image-wrapper img {
+  width: 100%;
 }
 
 .latest-news {
