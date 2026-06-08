@@ -256,6 +256,9 @@ $gap: 1rem;
       max-width: var(--width-content) !important;
       height: 100%;
       object-fit: cover;
+      img {
+        width: 100%;
+      }
     }
   }
 
