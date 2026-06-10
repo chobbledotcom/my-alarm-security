@@ -11,10 +11,8 @@ eleventyNavigation:
 layout: page
 permalink: /pages/about-us/
 gallery:
-  - /images/Home security system, burglar alarm, cctv, intruder alarm, house
-    alarm, Bexley, Bromley, Orpington, Welling, Sidcup, Dartford, New Eltham,
-    Chislehurst, Bexleyheath MATT AT VAN-1.jpg
-  - /images/Van profile pic.jpg
+  - /images/home-security-system-burglar-alarm-cctv-intruder-alarm-house-alarm-bexley-bromley-orpington-welling-sidcup-dartford-new-eltham-chislehurst-bexleyheath-matt-at-van-1.jpg
+  - /images/van-profile-pic.jpg
 ---
 # About MyAlarm Security
 

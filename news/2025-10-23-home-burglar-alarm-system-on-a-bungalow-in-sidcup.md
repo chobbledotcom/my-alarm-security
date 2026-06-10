@@ -2,7 +2,7 @@
 title: Bungalow Burglar Alarm System in Sidcup, DA15
 date: 2025-10-22
 gallery:
-  - /images/Bungalow Burglar Alarm System in Sidcup Albany Park Bexley.jpg
+  - /images/bungalow-burglar-alarm-system-in-sidcup-albany-park-bexley.jpg
 meta_description: Bungalow Burglar Alarm System in Sidcup
 meta_title: Bungalow Burglar Alarm System in Sidcup
 ---

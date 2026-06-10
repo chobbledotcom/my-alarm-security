@@ -15,5 +15,3 @@ Did you know that you can add your shed/outhouse/garage into your home alarm sys
 With all of our [burglar alarm systems](/categories/burglar-alarms/), we can create any setting you like so you can have your shed added to your home 'full alarm set' and to your 'bed set' also or it can have its own setting.
 
 The distance of the shed/outhouse/garage would have to be measured and the signal strength would have to be checked to make sure it can be linked.
-
-![](../images/uploaded/images/Door-contact-Welling-Eltham-Crayford-Erith-New-Eltham.jpg)

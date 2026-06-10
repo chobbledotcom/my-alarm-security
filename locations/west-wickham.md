@@ -16,7 +16,7 @@ We know West Wickham well having visited [Coney Hall rec](https://www.bromley.go
 
 ## Burglar Alarm System in West Wickham
 
-We offer the latest smart systems in home and business security with app controlled integration allowing you the freedom of being able to control your alarm system remotely via an app. We install the market leading brand of alarms which is Pyronix however having been in the security industry for about 30 years, there isn\'t many brands or models of alarm system (if any at all) that we haven\'t worked on and know well. From [battery changes to adding or removing sensors](/products/servicing-and-repairs/), we can do it all. [Contact us](/contact/) now and our team would be more than happy to help.
+We offer the latest smart systems in home and business security with app controlled integration allowing you the freedom of being able to control your alarm system remotely via an app. We install the market leading brand of alarms which is Pyronix however having been in the security industry for about 30 years, there isn\'t many brands or models of alarm system (if any at all) that we haven\'t worked on and know well. From [battery changes to adding or removing sensors](/categories/servicing-and-repairs/), we can do it all. [Contact us](/contact/) now and our team would be more than happy to help.
 
 We are contactable by phone or email! Our email address is Sales@MyAlarmSecurity.co.uk and our phone number is 020 8302 4065. Check out some of our packages here: [Burglar Alarm System in West Wickham.](/categories/burglar-alarms/)
 

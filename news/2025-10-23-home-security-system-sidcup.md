@@ -2,7 +2,7 @@
 title: Home Security System Sidcup
 date: 2025-10-21
 gallery:
-  - /images/MyAlarm Security Burglar Alarm Sidcup Home Burglar Alarm Installation Sidcup Bexley.jpg
+  - /images/myalarm-security-burglar-alarm-sidcup-home-burglar-alarm-installation-sidcup-bexley.jpg
 meta_description: Home Burglar Alarm System in Sidcup
 meta_title: Home Burglar Alarm System in Sidcup
 ---

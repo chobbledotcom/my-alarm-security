@@ -2,7 +2,7 @@
 title: Does Your Alarm System Need A Service Or A New Battery?
 date: 2025-06-10
 gallery:
-  - /images/MyAlarm Security Systems Burglar Alarm CCTV Bexley Bromley Dartford Orpington VAN FRONT SIDE.jpg
+  - /images/myalarm-security-systems-burglar-alarm-cctv-bexley-bromley-dartford-orpington-van-front-side.jpg
 meta_description: Does Your Alarm System Need A Service Or A New Battery?
   Orpington, Bromley, Sevenoaks, Greenwich, Bexley, Dartford, Gravesend. Contact
   us 020 8302 4065
