@@ -1,8 +1,7 @@
 ---
 title: Belvedere
-meta_description: Burglar Alarm System Service Battery CCTV in Belvedere
-meta_title: Burglar Alarm System, Burglar Alarm Service, Alarm Battery, CCTV,
-  House Alarm in Belvedere Tel 020 8302 4065
+meta_title: Burglar Alarm and CCTV in Belvedere
+meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Belvedere from MyAlarm Security, a Sidcup-based family business.
 eleventyNavigation:
   key: Belvedere
   parent: Service Areas
@@ -12,7 +11,7 @@ permalink: /pages/belvedere/
 
 We are a local, family run security company based in Sidcup, and we cover Belvedere and the surrounding areas for burglar alarms, CCTV, alarm servicing and battery changes. With over 30 years in the security industry, there isn't any alarm system panel out there that we don't know.
 
-We install brand new [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/), and we also service, fault find, repair, upgrade and change alarm batteries on all makes and models. If you don't know the brand of your alarm system, just send us a photo of the panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can identify it.
+We install [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/) from scratch, and we service, fault find, repair, upgrade and change batteries on whatever's already fitted, whatever the make. If your panel doesn't have any branding left, send us a photo to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we'll usually be able to tell you what it is.
 
 We offer the latest in smart app controlled systems which, via an app, can be monitored from anywhere in the world providing you have an internet connection.
 
@@ -32,13 +31,13 @@ You can read more about that [alarm system upgrade and new siren in Belvedere](/
 
 ## CCTV in Belvedere
 
-We install hard-wired Hikvision CCTV systems with a recorder, app integration for remote viewing and playback, and camera positions agreed during the survey. Our ColorVu cameras offer 24 hour colour footage. The cable runs matter on CCTV jobs, so we talk through where the cameras, recorder and routes will go before the work is booked in.
+Our CCTV installs are hard-wired Hikvision systems with a recorder and app integration for remote viewing and playback, and our ColorVu cameras give 24 hour colour footage. Camera positions and cable routes are agreed with you during the survey, before anything is booked in.
 
 Take a look at the current [CCTV packages](/categories/cctv/), including [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/).
 
 ## Burglar Alarm Servicing in Belvedere
 
-Are you looking for a burglar alarm company in Belvedere? Maybe you can't get hold of your original installer/company or maybe you have inherited the system and not sure who installed or services your burglar alarm system in Belvedere. Do not worry, we can certainly help. If you need your burglar alarm system serviced, or need the batteries changed, it has a fault or a part needs replacing, this is something that we can help with. Give us a call or send us an email and our friendly and helpful team can answer any of your questions and get you booked in. [Contact us here.](/contact/) We are a local family run company based in Sidcup with 30 years experience in the electronic security industry. There isn't any alarm system panels out there that we do not know. [We can help with servicing and repairs.](/categories/servicing-and-repairs/)
+Are you looking for a burglar alarm company in Belvedere? Maybe you can't get hold of your original installer or company, or maybe you've inherited the system and aren't sure who installed or services it. Do not worry, we can certainly help. If you need your burglar alarm system serviced, or need the batteries changed, it has a fault or a part needs replacing, this is something that we can help with. Give us a call or send us an email and our friendly and helpful team can answer any of your questions and get you booked in. [Contact us here.](/contact/) [We can help with servicing and repairs.](/categories/servicing-and-repairs/)
 
 ## Related services in Belvedere
 

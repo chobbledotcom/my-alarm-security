@@ -12,7 +12,7 @@ eleventyNavigation:
 
 We are a local, family run security company based in Sidcup, and we cover Bickley, Bromley and the surrounding areas. We've been installing burglar alarms and CCTV in Bickley for years, and we know the properties well - from the larger detached homes to the flats and commercial buildings in the area.
 
-We install brand new [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/), and we also service, fault find, repair, upgrade and change alarm batteries on all makes and models. If you don't know the brand of your alarm system, just send us a photo of the panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can identify it.
+Whether you need a brand new [burglar alarm system](/categories/burglar-alarms/) or [CCTV system](/categories/cctv/), or your existing setup needs servicing, fault finding, repairing or a battery change, we can help with all makes and models. Don't know what's fitted? Send a photo of the panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can usually tell you from that.
 
 If you are thinking of having a brand new alarm system installed at your property in Bickley or are looking to upgrade your current system, we can help. We offer a free no obligation site survey where we can show you a demo kit of the systems we install so that you can see beforehand what the panel and sensors look like. We will identify vulnerable areas and go through sensor placement with you. A burglar alarm system survey takes less than 10 minutes so we won't take up your whole day or spend hours trying to hard sell you a system. Obviously, we allow more than enough time to answer any questions that you have to help you make the right decision for you and to know that the system you are going with is the right one for you and that you have full confidence in it. We will give you the price there and then and then leave it up to you to decide if you want to proceed. We will never, ever chase you.
 
@@ -24,9 +24,7 @@ We fitted an alarm system to a property in Bromley on the edge of Chislehurst an
 
 ## CCTV in Bickley
 
-Our family run, local, friendly and reliable company can help with all aspects of your home and business security. We offer the latest CCTV with our ColorVu cameras which offer 24 hour colour footage. Check out our [CCTV packages](/categories/cctv/), including [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/). We offer free site surveys to go through camera placement as well as hard drive and recorder placement within your home or business. All of our CCTV systems are hard wired and we aim to keep the cabling as neat and tidy as we can with as little cable exposed as possible.
-
-We install hard-wired Hikvision CCTV systems with a recorder, app integration for remote viewing and playback, and camera positions agreed during the survey. The cable runs matter on CCTV jobs, so we talk through where the cameras, recorder and routes will go before the work is booked in.
+Our family run, local, friendly and reliable company can help with all aspects of your home and business security. We offer the latest CCTV with our Hikvision ColorVu cameras, which give 24 hour colour footage and app integration for remote viewing and playback. Check out our [CCTV packages](/categories/cctv/), including [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/). We offer free site surveys to go through camera, hard drive and recorder placement, and all of our systems are hard wired with the cabling kept as neat and tidy as possible.
 
 > "Matt installed CCTV system to our flat and commercial building. Installation was very precise and accurate. Nice, clean and tidy work." - Dushyant Purohit, Google review, 2024
 

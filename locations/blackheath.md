@@ -12,7 +12,7 @@ eleventyNavigation:
 
 We are a local, family run security company based in Sidcup, and we cover Blackheath, Greenwich, Eltham and the surrounding areas. We've been installing burglar alarms and CCTV in Blackheath for years, and we know the mix of properties in the area - from flats to larger homes. If your existing burglar alarm system has developed a fault, has a low battery or it needs an alarm system service then give us a call. Have a look at some of our [most popular packages](/categories/burglar-alarms/). We can create any package to suit your property and requirements.
 
-We install brand new [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/), and we also service, fault find, repair, upgrade and change alarm batteries on all makes and models. If you don't know the brand of your alarm system, just send us a photo of the panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can identify it.
+As well as fitting new [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/), we service, fault find, repair, upgrade and change batteries on existing systems, whatever the make or model. If the branding has worn off your panel, send a photo to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can usually identify it from that.
 
 ## Fixing a bad CCTV install near Blackheath
 
@@ -39,6 +39,6 @@ Does your existing house alarm need a new battery? Maybe the keypad no longer wo
 
 It couldn't be easier to get in touch with us. Simply fill out your details on our [contact form](/contact/) and one of our helpful team will give you a call or email as soon as possible. You can also email us direct at Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.
 
-> "Matt was very professional, he listened to what we wanted from our CCTV and Alarm installation and was very helpful with his recommendations." - Maxine Crouchman, Google review, 2021
+> "Only had my installation yesterday but I'm over the moon with how neat it all is - no ugly cables showing. Also love the fact that the engineer brought his own Hoover and took his shoes off every time he came into the house." - Louise R, Google review, 2026
 
 {% include "area-list-shortcode.html", prefix: "Our security services extend to ", suffix: "." %}

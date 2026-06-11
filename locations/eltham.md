@@ -1,7 +1,7 @@
 ---
 title: Eltham
-meta_title: "Burglar Alarm System Eltham CCTV Eltham Home Alarm Service Eltham - MyAlarm Security"
-meta_description: "Burglar Alarm System Eltham. CCTV Systems Eltham. Home Security Systems, Burglar Alarm Service Alarm Battery Eltham. Contact us  020 8302 4065."
+meta_title: "Burglar Alarm and CCTV in Eltham"
+meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Eltham from MyAlarm Security, a Sidcup-based family business."
 permalink: "/pages/eltham/"
 eleventyNavigation:
   key: Eltham
@@ -30,13 +30,13 @@ We carefully removed as much of the old pebble-dash as possible and positioned t
 
 ## Fixing a bad CCTV install near Eltham
 
-We've also been called to properties on the borders of Blackheath, Greenwich and Eltham where a previous CCTV installation had gone badly wrong. One customer had just moved in and the system had huge water ingress because the previous installer - who was apparently a builder but thought he was also a security specialist - hadn't considered which way water would run on the cables. We completely ripped out the old system and all its cabling and started again properly.
+We've also been called to properties on the Blackheath, Greenwich and Eltham borders to fix CCTV installs that had gone badly wrong - water ingress from cables routed the wrong way, trunking hanging off the wall, that sort of thing. You can read about [one of those jobs](/blog/bad-installs/).
 
 ## CCTV in Eltham
 
 We also offer the latest in CCTV packages. Our 24 hour colour CCTV cameras have been extremely popular. With colour imaging night and day compared to older systems where the night time images were in black and white, these cameras will capture unique details compared to grey images from the older style cameras. Our hard wired CCTV systems do not rely on an internet connection, so if your internet is down, your cameras will still be recording with the footage stored on to its hard drive. Our CCTV systems also offer remote viewing so that you can login to your system from anywhere in the world and view live footage and playback recordings. Check out our [CCTV packages](/categories/cctv/) here.
 
-We install hard-wired Hikvision CCTV systems with a recorder, app integration for remote viewing and playback, and camera positions agreed during the survey. We've fitted ColorVu systems on the Eltham and New Eltham borders where the customer had an incident with their car and wanted everything on camera. The cable runs matter on CCTV jobs, so we talk through where the cameras, recorder and routes will go before the work is booked in.
+These are hard-wired Hikvision systems with a recorder and app integration for remote viewing and playback. We've fitted ColorVu systems on the Eltham and New Eltham borders where the customer had an incident with their car and wanted everything on camera. Camera positions and cable routes get agreed with you during the survey, before any work is booked in.
 
 Take a look at the current [CCTV packages](/categories/cctv/), including [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/).
 

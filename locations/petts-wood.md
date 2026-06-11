@@ -1,7 +1,7 @@
 ---
 title: Petts Wood
-meta_title: "Petts Wood Intruder Alarm System Company. Petts Wood CCTV Company - MyAlarm Security"
-meta_description: "Burglar Alarm and CCTV Company Petts Wood. Alarm System Servicing, Batteries, Upgrades. Tel 020 8302 4065. Orpington, Bromley, West Wickham, Bexley"
+meta_title: "Burglar Alarm and CCTV in Petts Wood"
+meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Petts Wood from MyAlarm Security, a Sidcup-based family business."
 permalink: "/pages/petts-wood/"
 eleventyNavigation:
   key: Petts Wood
@@ -34,7 +34,7 @@ We've also fitted alarm panels in some unusual spots around Petts Wood - one cus
 
 ## CCTV in Petts Wood
 
-We install hard-wired Hikvision CCTV systems with a recorder, app integration for remote viewing and playback, and camera positions agreed during the survey. The cable runs matter on CCTV jobs, so we talk through where the cameras, recorder and routes will go before the work is booked in. We've also fitted CCTV on properties in Petts Wood that were still building sites, getting the system up and running before the customer moved in.
+These are hard-wired Hikvision systems with a recorder and app integration for remote viewing and playback, and we agree camera positions and cable routes with you during the survey before any work is booked in. We've also fitted CCTV on properties in Petts Wood that were still building sites, getting the system up and running before the customer moved in.
 
 Take a look at the current [CCTV packages](/categories/cctv/), including [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/).
 
@@ -45,7 +45,7 @@ Take a look at the current [CCTV packages](/categories/cctv/), including [CCTV P
 - [Alarm servicing, faults and battery changes](/categories/servicing-and-repairs/)
 - [Special offer alarm and CCTV packages](/categories/special-offers/)
 
-> "Have been a customer of MyAlarm Security for many years now and nothing is ever too much trouble for either Matt or Rachel." - Lisa Ryan, Google review, 2026
+> "Matt was able to come round the day after we phoned, explained everything very clearly and even brought a demonstration pack so we could see the equipment. He gave an on the spot quote which was significantly lower than another local company and was able to fit the security system the following week." - Margaret Rolleston, Google review, 2023
 
 If you'd like to find out more about what you can receive from us, please don't hesitate to get in touch! Give us a call on 020 8302 4065 or [contact us](/contact/) with any questions you may have.
 

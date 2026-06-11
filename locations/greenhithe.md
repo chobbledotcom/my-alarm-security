@@ -1,6 +1,6 @@
 ---
 title: Greenhithe
-meta_title: "Burglar Alarm System Greenhithe CCTV Systems In Greenhithe - MyAlarm Security"
+meta_title: "Burglar Alarm and CCTV in Greenhithe"
 meta_description: "Burglar alarm installation, servicing, pet-friendly systems and hard-wired CCTV in Greenhithe from MyAlarm Security, a Sidcup-based family business."
 permalink: "/pages/greenhithe/"
 eleventyNavigation:
@@ -12,7 +12,7 @@ eleventyNavigation:
 
 We are a local, family run security company based in Sidcup, and we cover Greenhithe, Ebbsfleet, Dartford and the surrounding areas. We've been installing burglar alarms and CCTV in Greenhithe for years, including some specialist adaptations for customers with specific needs. Maybe you have pets and are worried they may set the alarm off? We offer pet friendly systems and packages to suit any building layout. Take a look at some of our [premade packages](/categories/burglar-alarms/). All of our packages can be tailored to suit you so we can add additional sensors, keyfobs and door contacts to create a home or business security system to suit your needs.
 
-We install brand new [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/), and we also service, fault find, repair, upgrade and change alarm batteries on all makes and models. If you don't know the brand of your alarm system, just send us a photo of the panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can identify it.
+On top of new [burglar alarm](/categories/burglar-alarms/) and [CCTV installations](/categories/cctv/), we service, fault find, repair, upgrade and change batteries on existing systems regardless of who fitted them or which brand. If you don't know what's on your wall, send a photo of the panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can usually tell you from that.
 
 ## An alarm system for a deaf customer near Greenhithe
 
@@ -26,9 +26,9 @@ We've also worked on a property in Ebbsfleet near Greenhithe where the land was 
 
 ## CCTV in Greenhithe
 
-We also offer the latest in CCTV packages. Our ColorVu CCTV cameras have been extremely popular. They offer 24 hour colour imaging compared to older systems where the night time images were in black and white. Our hard wired CCTV systems do not rely on an internet connection, so if your internet is down, your cameras will still be recording with the footage stored on to its hard drive. Our CCTV systems also offer remote viewing so that you can login to your system from anywhere in the world and view live footage and playback recordings. Check out our [CCTV packages](/categories/cctv/) here.
+We also offer the latest in CCTV packages. Our Hikvision ColorVu cameras have been extremely popular. They offer 24 hour colour imaging compared to older systems where the night time images were in black and white. Our hard wired CCTV systems do not rely on an internet connection, so if your internet is down, your cameras will still be recording with the footage stored on to its hard drive. Our CCTV systems also offer remote viewing so that you can login to your system from anywhere in the world and view live footage and playback recordings. Check out our [CCTV packages](/categories/cctv/) here.
 
-We install hard-wired Hikvision CCTV systems with a recorder, app integration for remote viewing and playback, and camera positions agreed during the survey. The cable runs matter on CCTV jobs, so we talk through where the cameras, recorder and routes will go before the work is booked in.
+We'll agree camera positions, recorder placement and cable routes with you during the survey, before any work is booked in.
 
 Take a look at the current [CCTV packages](/categories/cctv/), including [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/).
 

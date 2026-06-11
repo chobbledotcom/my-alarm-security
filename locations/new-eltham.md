@@ -1,7 +1,7 @@
 ---
 title: New Eltham
-meta_title: "Security Systems Company New Eltham Alarm System CCTVcctv - MyAlarm Security"
-meta_description: "Burglar Alarm company in New Eltham. Burglar alarm systems, CCTV, Security Company near me New Eltham. Service, alarm battery, upgrade. Contact 020 8302 4065"
+meta_title: "Burglar Alarm and CCTV in New Eltham"
+meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in New Eltham, SE9, from MyAlarm Security, a Sidcup-based family business."
 permalink: "/pages/new-eltham/"
 eleventyNavigation:
   key: New Eltham
@@ -12,13 +12,11 @@ eleventyNavigation:
 
 We are based in Sidcup right on the borders of New Eltham, so SE9 is effectively our home patch. We've been installing burglar alarms and CCTV in New Eltham for years, and we know the area well - the streets, the properties, and the sort of security issues that come up round here.
 
-At MyAlarm Security, we focus on delivering top-quality work, exceptional customer service, and value in every visit. We prioritise your needs, ensuring you get the best possible service each time.
-
 If you are looking to have a new burglar alarm system installed or would like your existing alarm system looked at, serviced or upgraded, give us a call. We can help with all aspects of your home and business electronic security including CCTV, door entry system and access control. Maybe you have a fault on your current system or need a service or battery change, we can do it all. We are very local to New Eltham and have many customers within SE9 and surrounding areas.
 
 Take a look at some of our [most popular burglar alarm packages](/categories/burglar-alarms/). We can tailor create any package to suit your property and requirements with as many or as little sensors as you need. If its an alarm system service or battery replacement that you need, we can help with that too. It doesn't matter if your alarm system was fitted by another company, we can still help. For more info on our [servicing, fault finding and battery replacements](/categories/servicing-and-repairs/), see our info here.
 
-We install brand new [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/), and we also service, fault find, repair, upgrade and change alarm batteries on all makes and models. If you don't know the brand of your alarm system, just send us a photo of the panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can identify it.
+We fit new [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/) and look after existing ones too - servicing, fault finding, repairs, upgrades and battery changes on any make or model. If you've moved in and don't know what's fitted, send a photo of the panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can usually identify it from that.
 
 ## A break-in and alarm upgrade in New Eltham
 
@@ -42,7 +40,7 @@ You can read more about [CCTV camera positioning in New Eltham](/blog/camera-pos
 
 ## CCTV in New Eltham
 
-We install hard-wired Hikvision CCTV systems with a recorder, app integration for remote viewing and playback, and camera positions agreed during the survey. We've also fitted ColorVu systems on the Eltham and New Eltham borders where customers have had incidents with their cars and wanted everything on camera. The cable runs matter on CCTV jobs, so we talk through where the cameras, recorder and routes will go before the work is booked in.
+Our CCTV installs are hard-wired Hikvision systems with a recorder and app integration for remote viewing and playback. We've also fitted ColorVu systems on the Eltham and New Eltham borders where customers have had incidents with their cars and wanted everything on camera. As with all our CCTV jobs, we agree camera positions, recorder placement and cable routes with you during the survey before anything is booked in.
 
 Take a look at the current [CCTV packages](/categories/cctv/), including [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/).
 

@@ -1,7 +1,7 @@
 ---
 title: Ebbsfleet
-meta_title: "Alarm System Ebbsfleet, CCTV Ebbsfleet. Alarm Service Ebbsfleet - MyAlarm Security"
-meta_description: "Alarm System Ebbsfleet, CCTV Ebbsfleet. Alarm Service Ebbsfleet, Alarm Battery Replacement Ebbsfleet, Home Alarm System Ebbsfleet. Tel 020 8302 4065"
+meta_title: "Burglar Alarm and CCTV in Ebbsfleet"
+meta_description: "Burglar alarm and CCTV installation, perimeter security for larger properties, servicing and battery changes in Ebbsfleet from MyAlarm Security."
 permalink: "/pages/ebbsfleet/"
 eleventyNavigation:
   key: Ebbsfleet
@@ -12,7 +12,7 @@ eleventyNavigation:
 
 We are a local, family run security company based in Sidcup, and we cover Ebbsfleet, Greenhithe, Dartford and the surrounding areas. We've been installing burglar alarms and CCTV in Ebbsfleet for years, including some larger properties with outbuildings and land that need a more comprehensive security setup. If you are looking for a friendly and reliable home and business security company, then look no further! We can create any package to suit your needs. Why not check out some of our [existing packages](/categories/burglar-alarms/)? All of our packages can be adjusted to suit your property and requirements. We can tailor create any package that is right for you.
 
-We install brand new [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/), and we also service, fault find, repair, upgrade and change alarm batteries on all makes and models. If you don't know the brand of your alarm system, just send us a photo of the panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can identify it.
+We install new [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/) as well as servicing, fault finding, repairing, upgrading and changing batteries on existing ones, on any make or model. Send a photo of your panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) if you're not sure what you've got and we'll identify it for you.
 
 ## Perimeter protection for a property in Ebbsfleet
 
@@ -24,11 +24,15 @@ You can read more about that [external wireless dualtech installation in Ebbsfle
 
 ## CCTV in Ebbsfleet
 
-We also offer the latest in CCTV packages. Our ColorVu CCTV cameras have been extremely popular. They offer 24 hour colour imaging compared to older systems where the night time images were in black and white. Our hard wired CCTV systems do not rely on an internet connection, so if your internet is down, your cameras will still be recording with the footage stored on to its hard drive. Our CCTV systems also offer remote viewing so that you can login to your system from anywhere in the world and view live footage and playback recordings. Check out our [CCTV packages](/categories/cctv/) here. If you need a larger system with more cameras or a larger hard drive, we can create a package that suits you and your needs.
+We also offer the latest in CCTV packages. Our Hikvision ColorVu cameras have been extremely popular. They offer 24 hour colour imaging compared to older systems where the night time images were in black and white. Our hard wired CCTV systems do not rely on an internet connection, so if your internet is down, your cameras will still be recording with the footage stored on to its hard drive. Our CCTV systems also offer remote viewing so that you can login to your system from anywhere in the world and view live footage and playback recordings. Check out our [CCTV packages](/categories/cctv/) here. If you need a larger system with more cameras or a larger hard drive, we can create a package that suits you and your needs.
 
-We install hard-wired Hikvision CCTV systems with a recorder, app integration for remote viewing and playback, and camera positions agreed during the survey. The cable runs matter on CCTV jobs, so we talk through where the cameras, recorder and routes will go before the work is booked in.
+We'll agree camera positions, recorder placement and cable routes with you during the survey, before anything is booked in.
 
 Take a look at the current [CCTV packages](/categories/cctv/), including [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/).
+
+## Burglar Alarm Servicing in Ebbsfleet
+
+Does your existing house alarm need a service or a new battery? Maybe you have a zone fault or a tamper, or a sensor or panel needs replacing? We offer alarm system servicing, battery changes, sensor and panel replacements and fault finding for all makes and models. If you don't know the brand of your alarm system, send us a photo of the panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can identify it, or get in touch for more on [burglar alarm servicing in Ebbsfleet](/categories/servicing-and-repairs/).
 
 ## Related services in Ebbsfleet
 
