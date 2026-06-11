@@ -10,7 +10,15 @@ eleventyNavigation:
 
 # Burglar Alarms and CCTV in Blackheath
 
-If you are looking for a local home and business security company, then you have come to the right place! We are a family run company based in Sidcup and cover Blackheath and surrounding areas for all things home and business security related. If your existing burglar alarm system has developed a fault, has a low battery or it needs an alarm system service then give us a call. Have a look at some of our most popular packages here: [Burglar Alarm System Blackheath.](/categories/burglar-alarms/) We can create any package to suit your property and requirements.
+We are a local, family run security company based in Sidcup, and we cover Blackheath, Greenwich, Eltham and the surrounding areas. We've been installing burglar alarms and CCTV in Blackheath for years, and we know the mix of properties in the area - from flats to larger homes. If your existing burglar alarm system has developed a fault, has a low battery or it needs an alarm system service then give us a call. Have a look at some of our [most popular packages](/categories/burglar-alarms/). We can create any package to suit your property and requirements.
+
+As well as fitting new [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/), we service, fault find, repair, upgrade and change batteries on existing systems, whatever the make or model. If the branding has worn off your panel, send a photo to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can usually identify it from that.
+
+## Fixing a bad CCTV install near Blackheath
+
+We were called to a property on the borders of Blackheath, Greenwich and Eltham where the customer had just moved in. The previous owner had apparently been a builder but thought he was also a security installation specialist, and the CCTV system he'd fitted had huge water ingress. The cables had been routed so that water could run directly into the junction boxes. We completely ripped out the old system and all its cabling - it wasn't to the standard we work to - and started again properly. The new installation was securely fitted with no water ingress and no trunking hanging off the wall.
+
+You can read more about that [bad CCTV install fix near Blackheath](/blog/bad-installs/).
 
 ## CCTV in Blackheath
 
@@ -22,15 +30,15 @@ Check out the current [CCTV packages](/categories/cctv/), including [CCTV Packag
 
 Does your existing house alarm need a new battery? Maybe the keypad no longer works or you have a zone or sensor fault? Or maybe you just want a service and the system checked over for your insurance or for your own peace of mind. We offer servicing and alarm system battery changes for all makes and models of alarms. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Send your photo and enquiry to us at <Sales@MyAlarmSecurity.co.uk> or give us a call for more info on having your burglar alarm serviced in Blackheath.
 
-It couldn't be easier to get in touch with us. Simply fill out your details on our [contact form](/contact/) and one of our helpful team will give you a call or email as soon as possible. You can also email us direct at Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.
-
-> "Matt was very professional, he listened to what we wanted from our CCTV and Alarm installation and was very helpful with his recommendations." - Maxine Crouchman, Google review, 2021
-
 ## Related services in Blackheath
 
 - [CCTV installation](/categories/cctv/)
 - [Burglar alarm installation](/categories/burglar-alarms/)
 - [Alarm servicing, faults and battery changes](/categories/servicing-and-repairs/)
 - [Special offer alarm and CCTV packages](/categories/special-offers/)
+
+It couldn't be easier to get in touch with us. Simply fill out your details on our [contact form](/contact/) and one of our helpful team will give you a call or email as soon as possible. You can also email us direct at Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.
+
+> "Only had my installation yesterday but I'm over the moon with how neat it all is - no ugly cables showing. Also love the fact that the engineer brought his own Hoover and took his shoes off every time he came into the house." - Louise R, Google review, 2026
 
 {% include "area-list-shortcode.html", prefix: "Our security services extend to ", suffix: "." %}
