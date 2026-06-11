@@ -1,7 +1,7 @@
 ---
 title: Blackheath
 meta_title: Burglar Alarms and CCTV in Blackheath
-meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Blackheath from MyAlarm Security.
+meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Blackheath from MyAlarm Security. Call 020 8302 4065.
 permalink: "/pages/blackheath/"
 eleventyNavigation:
   key: Blackheath

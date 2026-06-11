@@ -1,7 +1,7 @@
 ---
 title: Bickley
 meta_title: Burglar Alarms and CCTV in Bickley
-meta_description: Burglar alarm servicing, installation, battery changes and hard-wired CCTV in Bickley from MyAlarm Security.
+meta_description: Burglar alarm servicing, installation, battery changes and hard-wired CCTV in Bickley from MyAlarm Security. Call 020 8302 4065.
 permalink: "/pages/bickley/"
 eleventyNavigation:
   key: Bickley

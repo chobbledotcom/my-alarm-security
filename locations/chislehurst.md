@@ -1,7 +1,7 @@
 ---
 title: Chislehurst
 meta_title: "Burglar Alarm and CCTV in Chislehurst"
-meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Chislehurst from MyAlarm Security, a Sidcup-based family business."
+meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Chislehurst from MyAlarm Security, a Sidcup family business. Call 020 8302 4065."
 permalink: "/pages/chislehurst/"
 eleventyNavigation:
   key: Chislehurst

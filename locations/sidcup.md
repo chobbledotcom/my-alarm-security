@@ -1,7 +1,7 @@
 ---
 title: Sidcup
 meta_title: "Burglar Alarm and CCTV in Sidcup"
-meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Sidcup from MyAlarm Security, your local family-run security company."
+meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Sidcup from MyAlarm Security, your local family-run company. Call 020 8302 4065."
 permalink: "/pages/sidcup/"
 eleventyNavigation:
   key: Sidcup

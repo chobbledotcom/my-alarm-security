@@ -1,7 +1,7 @@
 ---
 title: Eltham
 meta_title: "Burglar Alarm and CCTV in Eltham"
-meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Eltham from MyAlarm Security, a Sidcup-based family business."
+meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Eltham from MyAlarm Security, a Sidcup family business. Call 020 8302 4065."
 permalink: "/pages/eltham/"
 eleventyNavigation:
   key: Eltham

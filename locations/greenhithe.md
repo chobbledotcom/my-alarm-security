@@ -1,7 +1,7 @@
 ---
 title: Greenhithe
 meta_title: "Burglar Alarm and CCTV in Greenhithe"
-meta_description: "Burglar alarm installation, servicing, pet-friendly systems and hard-wired CCTV in Greenhithe from MyAlarm Security, a Sidcup-based family business."
+meta_description: "Burglar alarm installation, servicing, pet-friendly systems and hard-wired CCTV in Greenhithe from MyAlarm Security. Call 020 8302 4065."
 permalink: "/pages/greenhithe/"
 eleventyNavigation:
   key: Greenhithe

@@ -1,7 +1,7 @@
 ---
 title: Ebbsfleet
 meta_title: "Burglar Alarm and CCTV in Ebbsfleet"
-meta_description: "Burglar alarm and CCTV installation, perimeter security for larger properties, servicing and battery changes in Ebbsfleet from MyAlarm Security."
+meta_description: "Burglar alarm and CCTV installation, perimeter security, servicing and battery changes in Ebbsfleet from MyAlarm Security. Call 020 8302 4065."
 permalink: "/pages/ebbsfleet/"
 eleventyNavigation:
   key: Ebbsfleet

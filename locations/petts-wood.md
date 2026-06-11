@@ -1,7 +1,7 @@
 ---
 title: Petts Wood
 meta_title: "Burglar Alarm and CCTV in Petts Wood"
-meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Petts Wood from MyAlarm Security, a Sidcup-based family business."
+meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Petts Wood from MyAlarm Security, a Sidcup family business. Call 020 8302 4065."
 permalink: "/pages/petts-wood/"
 eleventyNavigation:
   key: Petts Wood
