@@ -1,7 +1,7 @@
 ---
 title: Belvedere
 meta_title: Burglar Alarm and CCTV in Belvedere
-meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Belvedere from MyAlarm Security, a Sidcup-based family business.
+meta_description: Burglar Alarms & CCTV in Belvedere, Bexley. Call 020 8302 4065. Smart app-controlled alarms, upgrades, servicing and battery changes.
 eleventyNavigation:
   key: Belvedere
   parent: Service Areas
