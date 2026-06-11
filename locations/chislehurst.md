@@ -8,16 +8,55 @@ eleventyNavigation:
   parent: Service Areas
 ---
 
-# Burglar Alarm System Chislehurst
+# Burglar Alarm and CCTV in Chislehurst
 
-We are a local family run home and business security company based in Sidcup, We cover the area of Chislehurst as well as the whole of the Bromley borough installing, maintaining and servicing burglar alarm systems. We specialise in all aspects of home and business electronic security such as door entry systems, access control systems and CCTV systems. If you are thinking of having a brand new alarm system installed at your property in Chislehurst or are looking to upgrade your current system, we can help. We offer a free no obligation site survey where we can show you a demo kit of the system. We will identify vulnerable areas and go though sensor placement with you. A burglar alarm system survey takes less than 10 minutes. We won't spend hours trying to hard sell you a system. We will give you the price there and then and then leave it up to you to decide if you want to proceed. We will never, ever chase you. For an idea on prices, please check out our current most popular packages here: [Burglar Alarm Packages Chislehurst.](/categories/burglar-alarms/) We have tailor created some packages which can have additional sensors, key fobs and door contacts added to, to suit your requirements. Feel free to contact us if you have any questions or would like to book a site survey.
+We are a local, family run security company based in Sidcup, and Chislehurst is just up the A20 for us. We've been installing burglar alarms and CCTV in Chislehurst and the surrounding areas for years, often working alongside building companies on refurbishment projects where we run cables before the render goes on and come back for the second fix when the property is ready.
 
-## Burglar Alarm Service in Chislehurst
+We install brand new [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/), and we also service, fault find, repair, upgrade and change alarm batteries on all makes and models. If you don't know the brand of your alarm system, just send us a photo of the panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can identify it.
 
-Are you looking for an engineer visit for a burglar alarm call out in Chislehurst? Does your alarm siren battery need replacing? Maybe your alarm system has a fault or one of the sensors isn't working? This is something we can help with. We often get calls from home and business owners where they need help with their current alarm system. It doesn't matter that we did not install your system, we can still help. With over 30 years in the security industry, there isn't any alarm systems that we do not know. If your alarm system doesn't have any branding, just send us a photo via email to <Sales@MyAlarmSecurity.co.uk> and we can identify your system for you. We carry parts and batteries for various brands so can certainly help with any issues you are having. Give us a call on 020 8302 4065 or send us an email to get booked in at Sales@MyAlarmSecurity.co.uk
+If you are thinking of having a brand new alarm system installed at your property in Chislehurst or are looking to upgrade your current system, we can help. We offer a free no obligation site survey where we can show you a demo kit of the system. We will identify vulnerable areas and go through sensor placement with you. A burglar alarm system survey takes less than 10 minutes. We won't spend hours trying to hard sell you a system. We will give you the price there and then and then leave it up to you to decide if you want to proceed. We will never, ever chase you.
 
-## CCTV Installation in Chislehurst
+For an idea on prices, please check out our [current most popular packages](/categories/burglar-alarms/). We have tailor created some packages which can have additional sensors, key fobs and door contacts added to, to suit your requirements. Feel free to contact us if you have any questions or would like to book a site survey.
 
-Our family run, local, friendly and reliable company can help with all aspects of your home and business security. We offer the latest CCTV with our ColorVu cameras which offer 24 hour colour footage. Check out our CCTV packages here: [CCTV in Chislehurst.](/categories/cctv/)
+## Upgrading a dated alarm system in Chislehurst
+
+We were called to a property in Chislehurst where the customer had a basic alarm system around 20 years old which kept going off at all hours of the day and night, giving the customer and their neighbours many sleepless nights. When we got there, we found the backup battery was swollen and leaking - a potential fire hazard. We disconnected it and left a safe system that wasn't going to disrupt anyone's sleep.
+
+On the quotation, the customer explained that she often looks after a family member's dog and had to completely omit certain sensors to give the dog free roam. We explained about the benefits of upgrading to [pet friendly sensors](/products/pet-package-849/) which would mean full protection for the property while the dog had its run around.
+
+You can read more about that [alarm system upgrade in Chislehurst](/blog/upgrading-dated-systems-in-chislehurst/).
+
+## A refurbished bungalow in Chislehurst
+
+We worked on a lovely refurbished bungalow in Chislehurst on the border with New Eltham. The customer was having the property completely renovated and we got our cables in for the CCTV and alarm system prior to the external render going on, so everything was concealed. We also thought about dropping a BT cable down the wall from the gutter to the floor so that when the telegraph pole connection was made, it didn't have to be clipped down the wall. The new burglar alarm system was paired with 24 hour colour CCTV cameras for complete coverage.
+
+You can read about that [refurbishment alarm and CCTV job in Chislehurst](/blog/new-refurbishment-house-alarm-and-cctv-in-chislehurst/).
+
+## Keypad finishes in Chislehurst
+
+We've also done some installations on the borders of Petts Wood and Chislehurst where the customers wanted something a bit more bespoke with the alarm panel. One customer had fully refurbished a bungalow and wanted a flush keypad finished in matt black. Another wanted a brushed steel finish to match the light switches and plug sockets. We carry an array of finishes - matt black, brushed chrome, chrome, white, and primed ready to paint to match your decor.
+
+## Christmas Eve callout near Chislehurst
+
+We got a call on Christmas Eve from a property on the borders of New Eltham and Chislehurst where the alarm siren was blaring away. The homeowner couldn't get hold of the company that installed the system. It was a low battery on the outside siren. Matt attended with his head torch and extra long ladders, navigated through the bushes in the dark, and restored a silent night just in time for Christmas morning.
+
+You can read about that [out of hours callout near Chislehurst](/blog/out-of-hours-call-out-in-new-eltham-chislehurst/).
+
+## CCTV in Chislehurst
+
+Our family run, local, friendly and reliable company can help with all aspects of your home and business security. We offer the latest CCTV with our ColorVu cameras which offer 24 hour colour footage. Check out our [CCTV packages](/categories/cctv/) here.
+
+We install hard-wired Hikvision CCTV systems with a recorder, app integration for remote viewing and playback, and camera positions agreed during the survey. On one job on the Sidcup and Bromley border near Chislehurst, the customer asked for black cameras but also wanted a camera on the porch area covering the front door which only came in white. We took the camera apart, masked all the components and sprayed it black to match. The cable runs matter on CCTV jobs, so we talk through where the cameras, recorder and routes will go before the work is booked in.
+
+Take a look at the current [CCTV packages](/categories/cctv/), including [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/).
+
+## Related services in Chislehurst
+
+- [CCTV installation](/categories/cctv/)
+- [Burglar alarm installation](/categories/burglar-alarms/)
+- [Alarm servicing, faults and battery changes](/categories/servicing-and-repairs/)
+- [Special offer alarm and CCTV packages](/categories/special-offers/)
+
+> "Excellent service and a very friendly engineer. Would recommend this company." - Graeme Garwood, Google review, 2026
 
 {% include "area-list-shortcode.html", prefix: "Our services are also available in ", suffix: "." %}
