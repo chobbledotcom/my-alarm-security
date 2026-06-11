@@ -1,7 +1,7 @@
 ---
 title: New Eltham
 meta_title: "Burglar Alarm and CCTV in New Eltham"
-meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in New Eltham, SE9, from MyAlarm Security. Call 020 8302 4065."
+meta_description: "Burglar Alarms & CCTV in New Eltham, Greenwich. Call 020 8302 4065. We're based on the SE9 border, so New Eltham is our home patch."
 permalink: "/pages/new-eltham/"
 eleventyNavigation:
   key: New Eltham

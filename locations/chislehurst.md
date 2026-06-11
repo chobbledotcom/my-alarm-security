@@ -1,7 +1,7 @@
 ---
 title: Chislehurst
 meta_title: "Burglar Alarm and CCTV in Chislehurst"
-meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Chislehurst from MyAlarm Security, a Sidcup family business. Call 020 8302 4065."
+meta_description: "Burglar Alarms & CCTV in Chislehurst, Bromley. Call 020 8302 4065. Servicing, battery changes and out of hours callouts covered."
 permalink: "/pages/chislehurst/"
 eleventyNavigation:
   key: Chislehurst

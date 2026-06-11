@@ -1,7 +1,7 @@
 ---
 title: Welling
 meta_title: "Burglar Alarm and CCTV in Welling"
-meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Welling from MyAlarm Security, a Sidcup family business. Call 020 8302 4065."
+meta_description: "Burglar Alarms & CCTV in Welling, Bexley. Call 020 8302 4065. Plenty of experience securing the bungalows that are common round Welling."
 permalink: "/pages/welling/"
 eleventyNavigation:
   key: Welling
