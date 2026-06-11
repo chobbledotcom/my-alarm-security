@@ -10,7 +10,7 @@ eleventyNavigation:
 
 # Burglar Alarms and CCTV in Sevenoaks
 
-Nestled in the heart of Kent, the Borough of Sevenoaks offers a unique blend of rich history, stunning landscapes and modern amenities. Whether you\'re a resident or a visitor, Sevenoaks provides an inviting atmosphere that celebrates both its heritage and its vibrant present.
+Nestled in the heart of Kent, the Borough of Sevenoaks offers a unique blend of rich history, stunning landscapes and modern amenities. Whether you're a resident or a visitor, Sevenoaks provides an inviting atmosphere that celebrates both its heritage and its vibrant present.
 
 We have installed many Burglar Alarm Systems and CCTV packages throughout Sevenoaks. We are based in Sidcup and are close to the A20 and M25, which makes the vast areas of North Sevenoaks that we cover a lot more accessible. From Swanley to Knockholt, Hartley, New Ash Green, West Kingsdown, Halstead, Badgers Mount, Shoreham, Lullingstone, Crockenhill, Farningham, Horton Kirby and surrounding areas.
 

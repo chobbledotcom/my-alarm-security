@@ -1,7 +1,7 @@
 ---
 title: Shorne
 meta_title: "Alarm System Shorne, CCTV Shorne. Alarm Service Shorne - MyAlarm Security"
-meta_description: ""
+meta_description: "Smart burglar alarm installation, servicing, battery changes and hard-wired CCTV in Shorne from MyAlarm Security, a Sidcup-based family business."
 permalink: "/pages/shorne/"
 eleventyNavigation:
   key: Shorne

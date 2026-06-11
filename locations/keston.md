@@ -1,7 +1,7 @@
 ---
 title: Keston
 meta_title: "Alarm System Keston, CCTV Keston. Alarm Service Battery Keston - MyAlarm Security"
-meta_description: ""
+meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Keston from MyAlarm Security, a Sidcup-based family business."
 permalink: "/pages/keston/"
 eleventyNavigation:
   key: Keston

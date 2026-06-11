@@ -14,7 +14,7 @@ It's really nice to know that this customer in Bromley on the outskirts of Bexle
 
 After numerous break ins down their road, these customers decided to deter the thieves before they had a chance to potentially target them.
 
-The external siren is obvious for all to see, but it's a shame that so many people wait for the burglary to take place before deciding to protect what\'s theirs.
+The external siren is obvious for all to see, but it's a shame that so many people wait for the burglary to take place before deciding to protect what's theirs.
 
 It's not as expensive as you think and may save your precious items that money can not replace.
 

@@ -12,7 +12,7 @@ gallery:
 
 We pride ourselves here at MyAlarm Security at installing the very best equipment with the very best installations.
 
-Cabling the [CCTV](/categories/cctv/) security systems is as important as fitting the very best equipment, whats the point in installing the market leading equipment if you don\'t install the cables in the same way?
+Cabling the [CCTV](/categories/cctv/) security systems is as important as fitting the very best equipment, whats the point in installing the market leading equipment if you don't install the cables in the same way?
 
 We have seen trades install Hikvision (which are the market leaders) but with the cabling which is of a DIY standard, like having a Jaguar car and having it serviced by an alarm engineer, it just will not last.
 

@@ -15,7 +15,7 @@ Does your burglar alarm need a service or a battery change? Maybe you are lookin
 
 ## Burglar Alarm Servicing in Swanscombe
 
-We offer battery changes, part changes and servicing to all different brands of burglar alarm systems. Maybe you have inherited the system or you\'ve lost the details of the original installer, don\'t worry we can help. Give us a call or send us an email to get your burglar alarm serviced or burglar alarm battery changes in Swanscombe. [Burglar Alarm Service in Swanscombe.](/categories/servicing-and-repairs/)
+We offer battery changes, part changes and servicing to all different brands of burglar alarm systems. Maybe you have inherited the system or you've lost the details of the original installer, don't worry we can help. Give us a call or send us an email to get your burglar alarm serviced or burglar alarm battery changes in Swanscombe. [Burglar Alarm Service in Swanscombe.](/categories/servicing-and-repairs/)
 
 ## CCTV in Swanscombe
 
