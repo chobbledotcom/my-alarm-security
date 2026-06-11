@@ -12,7 +12,7 @@ gallery:
 
 Silent Night, Alarming Christmas: A Tale of an Emergency Callout For A House Alarm in New Eltham / Chislehurst.
 
-\'Twas the night before Christmas, and all through the house, not a creature was stirring, except for the blaring sound of a house alarm echoing through the silent streets of Chislehurst. The festive atmosphere was shattered as the alarm wailed relentlessly, disturbing the peace of the tranquil holiday night. For the weary homeowners, it was a nightmare scenario -- an out-of-hours emergency callout was necessary to silence the intrusive alarm in Chislehurst.
+'Twas the night before Christmas, and all through the house, not a creature was stirring, except for the blaring sound of a house alarm echoing through the silent streets of Chislehurst. The festive atmosphere was shattered as the alarm wailed relentlessly, disturbing the peace of the tranquil holiday night. For the weary homeowners, it was a nightmare scenario -- an out-of-hours emergency callout was necessary to silence the intrusive alarm in Chislehurst.
 
 Chapter 1: The Festive Disruption
 

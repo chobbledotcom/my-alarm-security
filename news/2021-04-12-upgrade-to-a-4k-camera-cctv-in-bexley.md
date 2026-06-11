@@ -10,7 +10,7 @@ gallery:
 
 # Upgrade to a 4k camera CCTV in Bexley
 
-We\'ve been fitting our 24hour colour CCTV security systems in [Bexley](/pages/sidcup/), Sidcup and all surrounding areas for some time now at 5mp per camera. The images are pure HD, recently the manufacturer released a 4k version which is incredible. The recorder is only capable of streaming 1 out of the 4 channels at the moment as the images are so high quality.
+We've been fitting our 24hour colour CCTV security systems in [Bexley](/pages/sidcup/), Sidcup and all surrounding areas for some time now at 5mp per camera. The images are pure HD, recently the manufacturer released a 4k version which is incredible. The recorder is only capable of streaming 1 out of the 4 channels at the moment as the images are so high quality.
 
 We now give our customers the option to upgrade one of your cameras to 4k for just an additional £50 on the package price, this option is perfect for the front of the property enabling you to digitally zoom in at a higher definition.
 

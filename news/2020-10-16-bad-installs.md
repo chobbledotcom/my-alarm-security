@@ -10,13 +10,13 @@ gallery:
 
 # Bad installs
 
-Here at MyAlarm Security we have seen some awful CCTV installations over the years with people thinking they will \'give it a go\' well it\'s not always that easy I\'m afraid. We are all for people doing it themselves, but paying someone who hasn't got a clue is something we always try to advise against. Check that the person or company you have chosen is experienced, have a look at reviews, check they have the correct insurances and ask as many questions as you can.
+Here at MyAlarm Security we have seen some awful CCTV installations over the years with people thinking they will 'give it a go' well it's not always that easy I'm afraid. We are all for people doing it themselves, but paying someone who hasn't got a clue is something we always try to advise against. Check that the person or company you have chosen is experienced, have a look at reviews, check they have the correct insurances and ask as many questions as you can.
 
 This recent customer had just moved in to a property on the borders of Blackheath, Greenwich and Eltham and called us in to see if we could fix and take over the CCTV system.
 
-On the image attached you can see huge water ingress and we all know water and any type of power (even low voltage) doesn\'t mix well. This was all taken out and done properly, leaving our customer happy and their home protected.
+On the image attached you can see huge water ingress and we all know water and any type of power (even low voltage) doesn't mix well. This was all taken out and done properly, leaving our customer happy and their home protected.
 
-The previous owner was apparently a builder but thought he was also a security installation specialist, but unfortunately if it\'s not done right in the first place you will end up with trouble in no time.
+The previous owner was apparently a builder but thought he was also a security installation specialist, but unfortunately if it's not done right in the first place you will end up with trouble in no time.
 
 Things like the route the cables take to enter the junction box and common sense like if you poured water on the cable which way would it run are paramount.
 

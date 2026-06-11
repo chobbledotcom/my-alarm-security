@@ -14,7 +14,7 @@ We have recently started installing the new market leading brand Hikvisions late
 
 These cameras are not only cost effective but also blow the conventional cameras away with the 24 hour colour imaging. On site surveys for home CCTV installations and [home security alarm](/categories/burglar-alarms/) installations these are leading the way in acceptances. We have attached a comparison picture for you to see for yourselves. The cover picture is from 01.11am and the below picture is from 16.15pm. Look at the difference!
 
-This recent CCTV install in Eltham/New Eltham borders looked at the new CCTV option and instantly agreed that it\'s a no brainer after comparing the two.
+This recent CCTV install in Eltham/New Eltham borders looked at the new CCTV option and instantly agreed that it's a no brainer after comparing the two.
 
 We take the utmost care installing our equipment, we are definitely not the cheapest option but we believe you get what you pay for. We wow our customers with the way we hide our cabling, going to greater lengths than any others to make sure your install is aesthetically pleasing as possible.
 

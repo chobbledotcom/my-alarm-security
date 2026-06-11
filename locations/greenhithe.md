@@ -1,7 +1,7 @@
 ---
 title: Greenhithe
 meta_title: "Burglar Alarm System Greenhithe CCTV Systems In Greenhithe - MyAlarm Security"
-meta_description: ""
+meta_description: "Burglar alarm installation, servicing, pet-friendly systems and hard-wired CCTV in Greenhithe from MyAlarm Security, a Sidcup-based family business."
 permalink: "/pages/greenhithe/"
 eleventyNavigation:
   key: Greenhithe

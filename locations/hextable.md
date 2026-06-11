@@ -14,7 +14,7 @@ Does your intruder alarm need a service or a battery change? Maybe you are looki
 
 ## Burglar Alarm Service in Hextable
 
-We offer various services for alarm systems such as battery changes, part replacements and servicing to all different brands of intruder alarm systems. Maybe you have inherited the system or you\'ve lost the details of the original installer, don\'t worry we can still help. Give us a call or send us an email to get your burglar alarm serviced or burglar alarm battery changes in Hextable. [Burglar Alarm Service in Hextable.](/categories/servicing-and-repairs/)
+We offer various services for alarm systems such as battery changes, part replacements and servicing to all different brands of intruder alarm systems. Maybe you have inherited the system or you've lost the details of the original installer, don't worry we can still help. Give us a call or send us an email to get your burglar alarm serviced or burglar alarm battery changes in Hextable. [Burglar Alarm Service in Hextable.](/categories/servicing-and-repairs/)
 
 ## CCTV in Hextable
 

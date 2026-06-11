@@ -10,7 +10,7 @@ gallery:
 
 # New Eltham Burglar Alarm Upgrade
 
-Another story of a break-in in **New Eltham and Sidcup** border I\'m afraid to say. The customer did have a **burglar alarm** security system (not fitted by us) but unfortunately wasn\'t working as the system hadn\'t been serviced in years. We specialise in the [maintenance, upgrading and fault finding](/categories/servicing-and-repairs/) on all non DIY alarm security systems.
+Another story of a break-in in **New Eltham and Sidcup** border I'm afraid to say. The customer did have a **burglar alarm** security system (not fitted by us) but unfortunately wasn't working as the system hadn't been serviced in years. We specialise in the [maintenance, upgrading and fault finding](/categories/servicing-and-repairs/) on all non DIY alarm security systems.
 
 We pride ourselves on professional security systems and CCTV installation to leave you with the best in security but without knowing we had even been.
 

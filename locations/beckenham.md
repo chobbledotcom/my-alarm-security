@@ -10,7 +10,7 @@ eleventyNavigation:
 
 # Burglar Alarms and CCTV in Beckenham
 
-We offer battery changes, part changes and servicing to all different makes and models of burglar alarm systems. Maybe you have inherited the system or you\'ve lost the details of the original installer, don\'t worry we can help. We offer one off servicing, battery changes, part replacement and upgrades to all types of home and business burglar alarm systems. We cover the boroughs of Bromley, Lewisham, Bexley, Dartford, Sevenoaks and Greenwich.
+We offer battery changes, part changes and servicing to all different makes and models of burglar alarm systems. Maybe you have inherited the system or you've lost the details of the original installer, don't worry we can help. We offer one off servicing, battery changes, part replacement and upgrades to all types of home and business burglar alarm systems. We cover the boroughs of Bromley, Lewisham, Bexley, Dartford, Sevenoaks and Greenwich.
 
 Give us a call or send us an email to get your burglar alarm serviced or burglar alarm battery changes in Beckenham or surrounding areas. [Burglar Alarm Service in Beckenham.](/categories/burglar-alarms/)
 

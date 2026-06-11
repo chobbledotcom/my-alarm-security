@@ -14,7 +14,7 @@ With the latest advancements in home security technology, there are many options
 
 Many homeowners are also opting for wireless systems that are easy to install and cost-effective. These systems can be monitored remotely, 24/7, ensuring that any suspicious activity is immediately detected and reported to the authorities.
 
-In addition to providing peace of mind, investing in a burglar alarm system can also lower homeowners\' insurance premiums, saving them money in the long run.
+In addition to providing peace of mind, investing in a burglar alarm system can also lower homeowners' insurance premiums, saving them money in the long run.
 
 We are based in New Eltham / Sidcup and cover a large area including Bromley, Orpington, Dartford, Greenhithe, Gravesend, Greenwich, Sevenoaks and surrounding areas.
 
