@@ -37,7 +37,7 @@ faqs:
   - question: Are you DBS checked?
     answer: Yes, and we can provide our certificate if required.
   - question: Do you have public liability insurance?
-    answer: Yes, and we are happy to provide any paperwork requested.
+    answer: Yes. We carry £1,000,000 public liability insurance and £10,000,000 employers' liability insurance, arranged through specialist security insurer Alarminsure. You can see the [details on our insurance page](/pages/insurance/), and we are happy to send the full certificate over if you need it.
   - question: What training and industry experience do you have?
     answer: The owner and senior engineer Matt has worked in the electronic security industry since 1998 and has vast experience with many systems. Matt set up MyAlarm Security in 2017.
   - question: I have some more questions that are not listed here.

@@ -133,7 +133,7 @@ This document compiles all Experience, Expertise, Authoritativeness, and Trustwo
 ### Credentials & Certifications
 
 - **DBS checked** - can provide certificate if required
-- **Public liability insurance** - happy to provide paperwork
+- **£1,000,000 public liability insurance** and **£10,000,000 employers' liability insurance** - arranged through specialist security insurer Alarminsure (insured as Matthew Smith t/a MyAlarm Security), certificate available on request and published at /pages/insurance/
 - Named founder with specific background and experience
 - Family-run business with named individuals (Matt and Rachel)
 
@@ -309,7 +309,7 @@ MyAlarm Security demonstrates strong E-E-A-T signals across all four dimensions:
 
 **Expertise**: Deep product knowledge (Pyronix, Hikvision), technical specifications, installation best practices, industry knowledge (GDPR, ULEZ), system capabilities and limitations.
 
-**Authoritativeness**: Named founder with specific background, 100+ 5-star reviews, DBS checked, public liability insurance, transparent pricing, professional standards, detailed content with local knowledge.
+**Authoritativeness**: Named founder with specific background, 100+ 5-star reviews, DBS checked, £1m public liability and £10m employers' liability insurance, transparent pricing, professional standards, detailed content with local knowledge.
 
 **Trustworthiness**: Customer-first practices, honesty about limitations, local commitment, technical competence, clear communication, financial transparency, data privacy compliance.
 
