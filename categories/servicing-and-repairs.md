@@ -50,6 +50,8 @@ With over 30 years experience, we know most alarm systems - both old and new, in
 
 We offer one-off and emergency call outs, services, alarm system maintenance and alarm system decommissions. Give us a call on 020 8302 4065 or send us an email through our contact form and our friendly team will be happy to help.
 
+Some customers have their alarm serviced to keep their own home or business insurance valid, so it helps to use someone who is covered themselves. We are DBS checked and insured, with £1,000,000 public liability cover, and our [certificate](/pages/insurance/) is there if you or your insurer want to see it.
+
 {% include "area-list-shortcode.html", prefix: "We cover alarm servicing, faults and battery changes in", suffix: "and surrounding areas." %}
 
 [**Contact Us**](/contact/) for more information.
