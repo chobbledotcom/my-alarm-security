@@ -1,35 +1,35 @@
 ---
 title: Bexleyheath
-meta_title: Burglar Alarms and CCTV in Bexleyheath
-meta_description: Burglar alarm installation, maintenance, battery changes and hard-wired CCTV in Bexleyheath from MyAlarm Security.
+meta_title: Burglar Alarm and CCTV in Bexleyheath
+meta_description: "Burglar Alarms & CCTV in Bexleyheath, Bexley. Call 020 8302 4065. Servicing, battery changes and hard-wired CCTV, whatever you've got."
 permalink: /pages/bexleyheath/
 eleventyNavigation:
   key: Bexleyheath
   parent: Service Areas
 ---
-# Burglar Alarms and CCTV in Bexleyheath
+# Burglar Alarm and CCTV in Bexleyheath
 
-Are you looking for a burglar alarm engineer in Bexleyheath? Maybe you can't get hold of your original installer/company or maybe you have inherited the system and not sure who installed or services your burglar alarm system in Bexleyheath. Do not worry, we can certainly help. If you need your burglar alarm system serviced, or need the batteries changed, it has a fault or a part needs replacing, this is something that we can help with. Give us a call or send us an email and our friendly and helpful team can answer any of your questions and get you booked in. [Contact us here.](/contact/) We are a local family run company based in Sidcup with 30 years experience in the electronic security industry. There isn't any alarm system panels out there that we do not know.
+We're a local, family run security company based in Sidcup, and Bexleyheath is only a few minutes up the road, so we end up working there a lot. We've been fitting and servicing burglar alarms and CCTV around Bexleyheath, Barnehurst and the wider Bexley area for years, from the flats and shops around the Broadway to the older semis on the residential streets either side of it. Whether you want a brand new system, an upgrade to the one you've already got, or just someone to come and look at a system that's giving you trouble, give us a call or drop us an email.
 
-## Burglar Alarm System in Bexleyheath
+We fit new [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/), and we look after systems other people installed just as happily - servicing, fault finding, battery changes and upgrades on any make or model. A lot of our Bexleyheath calls come from people who've taken on a system with the house and can't get hold of whoever originally fitted it. If you're not sure what you've got, send a photo of the panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can usually tell you what it is and whether it's worth keeping. We've over 30 years in the security industry behind us, so there aren't many alarm panels we don't recognise.
 
-Looking for a local, trusted security system company in Bexleyheath? If you're based in Bexleyheath or surrounding areas and need a friendly, dependable and local security system company, MyAlarm Security is here for you. Whether it's expert advice or a reliable service, we're ready to help. If you are interested in having a new burglar alarm system installed in your home or at your business - or if you are thinking about upgrading your current system, give us a call or send us an email. We can help with all aspects of your home and business security in Bexleyheath from burglar alarm systems, to door entry systems and CCTV systems. We offer the latest in smart app controlled systems which via an app, can be monitored from anywhere in the world providing you have an internet connection.
+All of our alarm systems can be app controlled if you want that. The app lets you set and unset the system from your phone wherever you are, so you can check it's armed once you've left the house, or let a cleaner or a family member in without handing out your code, and it lets you know straight away if the alarm has been triggered. It's free for the first year and then £25 a year after that, subject to any manufacturer price increases. You don't have to have it though - the alarm works exactly the same without it, you just won't get the remote access or the notifications.
 
-**What does the app do I hear you ask?** The app allows you to set and unset your system remotely - maybe you've gone out and not sure if you have set the system, the app allows you to check if your system is set, and if not, you can set it at the touch of a button on your phone. It really is as simple as that. Maybe you have a cleaner going in or a family member and they don't know your alarm code, not to worry, you can log straight in via your phone app and unset the system so they can safely enter without activating the alarm. The app also notifies you if your alarm has been activated.
-
-**How much is the app?** The app is free for the first year and then £25 per year thereafter (subject to manufacturer price increases).
-
-**Do I have to have the app?** The answer is no, you don't. If you decide that you do not want the app, your alarm system will still work as it should. The only difference is that you will not be able to remotely connect to your system or be notified if it has been activated. All settings will have to be done at the alarm panel within the property.
-
-So, if you are looking to have a home security system in Bexleyheath or a burglar alarm system at your business property, give us a call. You can check out some of our most popular packages here: [Burglar Alarm System Bexleyheath.](/categories/burglar-alarms/) All of our packages can be tailored to suit your property and requirements. Additional sensors, key fobs and door contacts can be added (or removed) to any of our packages to create the security system package that suits your needs.
+So if you are after a home security system in Bexleyheath, or a burglar alarm for a business, give us a call. You can look through our most popular [burglar alarm packages](/categories/burglar-alarms/), and any of them can be tailored to suit your property - extra sensors, keyfobs and door contacts can be added or taken off to build the system you actually need.
 
 ## CCTV in Bexleyheath
 
-If you are looking for a local, friendly and professional company to install CCTV at your property in Bexleyheath, then look no further. We can help. We offer hard wired CCTV systems in Bexleyheath that do not rely on an internet connection to record and store footage. All of our CCTV systems come with approx 30 days storage, with app access available for live view and playback. Check out the current [CCTV packages](/categories/cctv/), including [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/). Contact us if you have any questions.
+For CCTV in Bexleyheath we fit hard-wired Hikvision systems with ColorVu cameras, which record in full colour through the night instead of the old black and white. Because the cameras are wired back to a recorder, they keep recording even if your broadband drops, and you still get app access for live view and playback from wherever you are. We normally set them up to hold around 30 days of footage. Camera positions, where the recorder lives and how the cables are run all get agreed with you at the survey first - getting a camera to the right height so it actually identifies a face matters more than most people expect.
 
-> "Matt was very professional, he listened to what we wanted from our CCTV and Alarm installation and was very helpful with his recommendations." - Maxine Crouchman, Google review, 2021
+Most of our recent CCTV work near Bexleyheath has been just over the way in Bexley. You can see a couple of those jobs - a [4K camera CCTV upgrade in Bexley](/blog/upgrade-to-a-4k-camera-cctv-in-bexley/), and a [CCTV install with neat conduit in Bexley](/blog/neat-conduit-on-a-cctv-system-installation-in-bexley/) where keeping the cable protected from the weather and the sun's UV was a big part of the job. There's also a [ColorVu day and night comparison](/blog/colorvu-comparison/) if you want to see what the colour night footage actually looks like.
 
-Some of our installations near Bexleyheath include a [CCTV ColorVu comparison](/blog/colorvu-comparison/) and a [neat conduit CCTV installation in nearby Bexley](/blog/neat-conduit-on-a-cctv-system-installation-in-bexley/).
+Take a look at the current [CCTV packages](/categories/cctv/), including [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-cctv/) and [CCTV Package 2](/products/cctv-package-1-999/).
+
+## Alarm servicing and battery changes in Bexleyheath
+
+If your alarm is beeping for a new battery, throwing up faults, or just hasn't been touched in years, we service and repair all the main makes - Pyronix, Texecom, Scantronic, Visonic, Galaxy and Honeywell, as well as the older Menvier and Veritas panels. It doesn't matter that we didn't fit it. Send a photo of the panel and we can usually work out what it needs before we even come out, and we carry the common batteries and parts on the van so most jobs get finished in one visit. There's more on our [servicing, faults and battery changes](/categories/servicing-and-repairs/) page.
+
+> "I found MyAlarm Security's details on the website as one of the local company around Bexley. I had also come across a recommendation on Nextdoor app for the same company ... Matt came around the same day and did the job to my satisfaction. He is knowledgeable in his area of expertise and knows what he is doing." - A Shr, Google review, 2021
 
 ## Related services in Bexleyheath
 
@@ -38,6 +38,6 @@ Some of our installations near Bexleyheath include a [CCTV ColorVu comparison](/
 - [Alarm servicing, faults and battery changes](/categories/servicing-and-repairs/)
 - [Special offer alarm and CCTV packages](/categories/special-offers/)
 
-It couldn't be easier to speak with us. You can use our contact form found here: [Contact us](/contact/) - and fill in your details and we will get back to you as soon as we can. You can also email us direct at: Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.
+For burglar alarms, CCTV or alarm servicing anywhere in Bexleyheath, give us a call on **020 8302 4065** or email **Sales@MyAlarmSecurity.co.uk**. You can also head to our [contact page](/contact/), fill in your details, and one of us will get back to you as soon as we can.
 
 {% include "area-list-shortcode.html", prefix: "Looking for security services? We also cover ", suffix: "." %}
