@@ -24,6 +24,8 @@ MyAlarm Security is your trusted, local home and business security company acros
 
 We provide up front pricing and are transparent with all of our costs with a clear and concise explanation of the work required.
 
+We carry full insurance for the work we do, including £1,000,000 public liability and £10,000,000 employers' liability cover, and you can see the [details and certificate](/pages/insurance/) or just ask us for a copy.
+
 Call our friendly team on **020 8302 4065** or **[Contact Us](/contact/)** online now.
 
 ![MyAlarm Security](/images/pages/matt-and-daughter.webp)

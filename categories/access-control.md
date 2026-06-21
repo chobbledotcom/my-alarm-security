@@ -18,4 +18,6 @@ We also offer CCTV and Burglar Alarm Packages as well as Burglar Alarm System Ma
 
 We install access control and door entry systems across our service area, with recent work in [Bromley](/pages/bromley/) and [Orpington](/pages/orpington/) among other locations.
 
+Access control is often a commercial job, and a managing agent or insurer will sometimes want to see a contractor's cover before any work starts. We carry £1,000,000 public liability and £10,000,000 employers' liability insurance, and we can send our [certificate](/pages/insurance/) over whenever it is needed.
+
 [**Contact Us**](/contact/) to discuss your requirements and to book a free no obligation visit.

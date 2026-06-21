@@ -10,7 +10,7 @@ gallery:
 
 # Bad installs
 
-Here at MyAlarm Security we have seen some awful CCTV installations over the years with people thinking they will 'give it a go' well it's not always that easy I'm afraid. We are all for people doing it themselves, but paying someone who hasn't got a clue is something we always try to advise against. Check that the person or company you have chosen is experienced, have a look at reviews, check they have the correct insurances and ask as many questions as you can.
+Here at MyAlarm Security we have seen some awful CCTV installations over the years with people thinking they will 'give it a go' well it's not always that easy I'm afraid. We are all for people doing it themselves, but paying someone who hasn't got a clue is something we always try to advise against. Check that the person or company you have chosen is experienced, have a look at reviews, check they have the correct insurances and ask as many questions as you can. For what it's worth, we are DBS checked and carry full public liability and employers' liability insurance ourselves, and our [certificate](/pages/insurance/) is on the site if you want to look.
 
 This recent customer had just moved in to a property on the borders of Blackheath, Greenwich and Eltham and called us in to see if we could fix and take over the CCTV system.
 
