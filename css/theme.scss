@@ -3,6 +3,10 @@
 @use "sass:math";
 @use "breakpoints";
 
+@view-transition {
+  navigation: auto;
+}
+
 @font-face {
   font-family: "Fjalla One";
   font-style: normal;
