@@ -22,7 +22,7 @@ For an idea on prices, please check out our [current most popular packages](/cat
 
 We were called to a property in Chislehurst where the customer had a basic alarm system around 20 years old which kept going off at all hours of the day and night, giving the customer and their neighbours many sleepless nights. When we got there, we found the backup battery was swollen and leaking - a potential fire hazard. We disconnected it and left a safe system that wasn't going to disrupt anyone's sleep.
 
-On the quotation, the customer explained that she often looks after a family member's dog and had to completely omit certain sensors to give the dog free roam. We explained about the benefits of upgrading to [pet friendly sensors](/products/pet-package-849/) which would mean full protection for the property while the dog had its run around.
+On the quotation, the customer explained that she often looks after a family member's dog and had to completely omit certain sensors to give the dog free roam. We explained about the benefits of upgrading to [pet friendly sensors](/products/pet-package/) which would mean full protection for the property while the dog had its run around.
 
 You can read more about that [alarm system upgrade in Chislehurst](/blog/upgrading-dated-systems-in-chislehurst/).
 

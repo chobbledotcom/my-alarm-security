@@ -1,22 +1,26 @@
 ---
-title: Basic System £639
+title: Pet Package £949
 categories:
   - categories/burglar-alarms.md
-price: £639.00
-order: 1
+price: £949.00
+order: 3
+redirect_from:
+  - /products/pet-package-849/
 gallery:
-  - /images/products/basic-system-539.webp
-meta_description: For all of your home and business security. Burglar Alarm
+  - /images/products/pet-package-849.webp
+meta_description: Pet friendly home and business security. Burglar Alarm
   Servicing, Burglar Alarm Installation, Alarm Battery and CCTV packages. Call
   020 8302 4065
-meta_title: Intruder Burglar Alarm System Company Bexley - MyAlarm Security
+meta_title: Pet Friendly Burglar Alarm System Orpington Bromley Bexley Sidcup
+  Sevenoaks - MyAlarm Security
 ---
-# Basic System
+# Pet Package
 
 **Pyronix Wireless Alarm System Package Includes:**
 
 - 1 x Door contact
-- 2 x Movement sensors (can be pet friendly)
+- 2 x Pet friendly movement sensors
+- 4 x Shock sensors for external doors and windows
 - 2 x Remote set/unset fobs which pair as remote panic buttons
 - 1 x External siren for the front
 - 1 x Decoy siren for the rear
@@ -24,15 +28,17 @@ meta_title: Intruder Burglar Alarm System Company Bexley - MyAlarm Security
 
 **Info:** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-**Our Price:** £639.00
+**Our Price:** £949.00
 
-Our basic package was primarily designed for use in properties such as flats, upper maisonettes and some open plan commercial premises that have less entry points.
+Our pet package was designed for premises with cats and/or dogs up to 24 kg.
 
-All of our packages come with a door contact for the entry/exit door which starts your audible countdown timer to remind you to turn the system off. Our entry and exit timers can be adjusted to suit all scenarios and personal preferences.
+The package is designed to give your pets free reign without the worry of triggering any movement sensors.
 
-The basic package includes 2 x set/unset keyfobs which also pair as remote panic buttons which work up to 60 meters of your main control panel. The 2 x pir movement sensors cover a 90 degree angle with a 10 meter coverage and can be pet friendly for dogs up to 24 kg.
+The pet package includes 2 x set/unset keyfobs which also pair as remote panic buttons which work up to 60 meters from your main control panel. Also included are two pet friendly movement sensors and four shock sensors for doors and/or windows. 
 
-Our packages also include an external siren for the front of the property and a decoy for the rear. Our external siren triggers a piezo of around 100dB which alerts neighbours and passers-by of an activation.
+All of our packages come with a door contact for the entry/exit door which starts your audible countdown timer to remind you to turn the system off. Our entry and exit timers can be adjusted to suit your requirements.
+
+Our packages also include an external siren for the front and a decoy for the rear. Our external siren triggers a piezo of around 100dB which alerts neighbours and passers-by of an activation.
 
 The app is also included within this package which enables you to arm/disarm and receive notifications from anywhere in the world as long as your panel remains connected to your router and you have internet on your mobile devices. The app subscription is free for the first year. If you wish to continue using the app after the first year, there is an app subscription fee of £25 per year*. The app is optional and if you choose not to renew your subscription, your system will still work as it should - you just won't be able to remotely access the system or be notified of any activations.
 

@@ -42,4 +42,4 @@ This job perfectly sums up why we have numerous 5-star reviews. We don’t rush.
 
 Whether it’s removing old materials, colour-matching paint, or taking the time to talk things through with homeowners, we always go above and beyond - because that’s what we’d expect in our own homes.
 
-If you’re considering upgrading an old alarm system, you can trust MyAlarm Security to deliver not just protection, but pride in every detail. Take a look at our [Standard Alarm System](/products/standard-system-599/) package or browse our [burglar alarm packages](/categories/burglar-alarms/) for more options.
+If you’re considering upgrading an old alarm system, you can trust MyAlarm Security to deliver not just protection, but pride in every detail. Take a look at our [Standard Alarm System](/products/standard-system/) package or browse our [burglar alarm packages](/categories/burglar-alarms/) for more options.

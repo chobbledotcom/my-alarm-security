@@ -20,7 +20,7 @@ If it is a new system you would like, an upgrade or maybe you need a service on 
 
 Check out some of our premade packages here. All of our packages can be tailored to suit your requirements with additional items added to create a system that suits you.
 
-You can see the current [burglar alarm packages](/categories/burglar-alarms/) and the [Standard Alarm System](/products/standard-system-599/) package.
+You can see the current [burglar alarm packages](/categories/burglar-alarms/) and the [Standard Alarm System](/products/standard-system/) package.
 
 ## Alarm servicing and battery changes in Sevenoaks
 
