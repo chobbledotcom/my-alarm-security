@@ -3,7 +3,7 @@ name: Rita Noble
 url: https://www.google.com/maps/contrib/110556541300939761344?hl=en
 rating: 5
 products:
-  - products/pet-package-849.md
+  - products/pet-package.md
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/rita-noble.jpg

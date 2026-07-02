@@ -3,7 +3,7 @@ name: Margaret Rolleston
 url: https://www.google.com/maps/contrib/103940070825213112626?hl=en
 rating: 5
 products:
-  - products/standard-system-599.md
+  - products/standard-system.md
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/margaret-rolleston.jpg

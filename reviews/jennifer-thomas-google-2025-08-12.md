@@ -3,7 +3,7 @@ name: Jennifer Thomas
 url: https://www.google.com/maps/contrib/107919162784493370500/reviews
 rating: 5
 products:
-  - products/standard-system-599.md
+  - products/standard-system.md
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/jennifer-thomas.jpg

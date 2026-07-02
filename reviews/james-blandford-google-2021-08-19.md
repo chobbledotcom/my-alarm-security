@@ -3,7 +3,7 @@ name: James Blandford
 url: https://www.google.com/maps/contrib/117265098010085769283?hl=en
 rating: 5
 products:
-  - products/standard-system-599.md
+  - products/standard-system.md
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/james-blandford.jpg

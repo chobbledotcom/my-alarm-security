@@ -3,7 +3,7 @@ name: Borja Cernadas
 url: https://www.google.com/maps/contrib/109320082994822430031?hl=en
 rating: 5
 products:
-  - products/basic-system-539.md
+  - products/basic-system.md
   - products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.md
 categories:
   - categories/burglar-alarms.md

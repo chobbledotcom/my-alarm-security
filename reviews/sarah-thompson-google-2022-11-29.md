@@ -3,7 +3,7 @@ name: sarah thompson
 url: https://www.google.com/maps/contrib/110802583559721218392?hl=en
 rating: 5
 products:
-  - products/standard-system-599.md
+  - products/standard-system.md
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/sarah-thompson.jpg
