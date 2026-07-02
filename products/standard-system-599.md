@@ -21,7 +21,7 @@ meta_title: Standard System Alarm Package. Door Contact, Movement Sensors, Alarm
 - 4 x Movement sensors (can be pet friendly)
 - 1 x External siren for the front
 - 1 x Decoy siren for the rear
-- 1 x App Pyronix controlled panel with 12 months free app connectivity (£25 a year thereafter)
+- 1 x Pyronix app controlled panel with 12 months free app connectivity (£25 a year thereafter)
 
 **Info:** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
