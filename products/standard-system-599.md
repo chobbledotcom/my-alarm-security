@@ -6,12 +6,12 @@ price: £599.00
 order: 2
 gallery:
   - /images/products/standard-system-599.webp
-meta_description: Standard Alarm System - Fully Certified, Customer Service,
-  High Quality Systems, Professionally Fitted. Bexley Bromley Orpington
+meta_description: Standard Pyronix Alarm System - Fully Certified, Customer
+  Service, High Quality Systems, Professionally Fitted. Bexley Bromley Orpington
   Sevenoaks Dartford Greenwich
-meta_title: Standard System Alarm Package. Door Contact, Movement Sensors, Alarm
-  Siren. Professionally Fitted. Bexley Orpington Bromley Greenwich Sevenoaks -
-  MyAlarm Security
+meta_title: Standard System Pyronix Alarm Package. Door Contact, Movement
+  Sensors, Alarm Siren. Professionally Fitted. Bexley Orpington Bromley
+  Greenwich Sevenoaks - MyAlarm Security
 ---
 # Standard System
 
