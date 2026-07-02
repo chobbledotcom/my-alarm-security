@@ -1,6 +1,8 @@
 ---
 title: Burglar Alarms
-meta_description: Burglar alarm installation in Sidcup, Bexley, Eltham, Orpington and nearby areas, with Pyronix systems, app control and free surveys.
+meta_description: Burglar alarm installation in Sidcup, Bexley, Eltham,
+  Orpington and nearby areas, with Pyronix systems, app control and free
+  surveys.
 meta_title: Burglar Alarm Installation in Sidcup
 eleventyNavigation:
   key: Burglar Alarms
@@ -9,15 +11,17 @@ featured: false
 ---
 # Burglar Alarms
 
+## Professional Pyronix Systems
+
 Why wait until a break in or an attempted break in to have a burglar alarm fitted? With so many burglaries and attempted break-ins, don't leave it until it's too late. Protect what is yours and deter any intruders by installing a **MyAlarm Security Burglar Alarm System**.
 
 Based in Sidcup, Bexley on the borders of New Eltham, London and Kent, we offer a free survey/design where our highly skilled engineers will go through all the options with you. We don't send out a sales person who has never picked up a tool and who just gives you a sales pitch, we send an experienced engineer who knows exactly what they are talking about and can explain all the features of the system that they will be installing along with advising the best positions for the equipment. With over 30 years of experience in domestic and commercial security, our engineers know the equipment and security systems they fit inside out.
 
-We offer the latest in smart technology with Pyronix home and business intruder alarms that can be linked to your smart phone or tablet. We have been installing Pyronix intruder alarm systems for well over 10 years and know the system inside-out. Pyronix burglar alarm systems offer 24/7 app-based monitoring.
+MyAlarm Security is a professional, authorised and very experienced installer of Pyronix security systems. We offer the latest in smart technology with Pyronix home and business intruder alarms that can be linked to your smart phone or tablet. We have been installing Pyronix intruder alarm systems for well over 10 years and know the system inside-out. Pyronix burglar alarm systems offer 24/7 app-based monitoring.
 
 **What does the app do?**
 
-The app allows you to access your burglar alarm system from anywhere in the world providing you have internet on your device. You can set and unset the system using the app as well as check the status of your system - is it already set etc. The app will also alert you if your alarm is activated and will notify you which sensor/s have been triggered. An active internet connection and app subscription is required for app use. The app subscription is free for the first year after installation. If you would like to continue with the app, there is a £25\* annual subscription fee to be paid. If you do not wish to resubscribe to the app, this does not affect your alarm system in any way and it can still be set and unset from the panel however you will not be able to remotely access through the app or receive any notifications whilst you are away from the property. (\*The app price is subject to increase by the manufacturer) You can renew your app subscription at any time and can have multiple users under the one subscription.
+The app allows you to access your burglar alarm system from anywhere in the world providing you have internet on your device. You can set and unset the system using the app as well as check the status of your system - is it already set etc. The app will also alert you if your alarm is activated and will notify you which sensor/s have been triggered. An active internet connection and app subscription is required for app use. The app subscription is free for the first year after installation. If you would like to continue with the app, there is a £25 annual subscription fee to be paid. If you do not wish to resubscribe to the app, this does not affect your alarm system in any way and it can still be set and unset from the panel however you will not be able to remotely access through the app or receive any notifications whilst you are away from the property. (The app price is subject to increase by the manufacturer) You can renew your app subscription at any time and can have multiple users under the one subscription.
 
 **Wireless Burglar Alarm System vs Wired Burglar Alarm System**
 
@@ -49,8 +53,8 @@ Have an existing alarm system that you would like looked at, [serviced, repaired
 
 Why not pair one of our Home Burglar Alarm Systems with a professionally installed [CCTV System](/categories/cctv/) for the ultimate in home and business security.
 
-**Take a look in our** [**Special Offers**](/categories/special-offers/) **area to view our excellent pre-built** [**CCTV**](/categories/cctv/) **and Burglar Alarm Packages.**
+**Take a look in our** **[Special Offers](/categories/special-offers/)** **area to view our excellent pre-built** **[CCTV](/categories/cctv/)** **and Burglar Alarm Packages.**
 
-**Book a Free Alarm Survey or Contact us with any questions you have. You can fill out your details over on our contact page or you can message us direct at** [**Sales@MyAlarmSecurity.co.uk**](mailto:Sales@MyAlarmSecurity.co.uk) **or give us a call on 020 8302 4065**
+**Book a Free Alarm Survey or Contact us with any questions you have. You can fill out your details over on our contact page or you can message us direct at** **[Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk)** **or give us a call on 020 8302 4065**
 
 {% include "area-list-shortcode.html", prefix: "We are a family run business based in Sidcup right on the borders of New Eltham. We provide our services in", suffix: "and surrounding areas." %}
