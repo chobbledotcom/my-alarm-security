@@ -1,8 +1,8 @@
 ---
-title: Pet Package £849
+title: Pet Package £949
 categories:
   - categories/burglar-alarms.md
-price: £849.00
+price: £949.00
 order: 3
 gallery:
   - /images/products/pet-package-849.webp
@@ -26,7 +26,7 @@ meta_title: Pet Friendly Burglar Alarm System Orpington Bromley Bexley Sidcup
 
 **Info:** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-**Our Price:** £849.00
+**Our Price:** £949.00
 
 Our pet package was designed for premises with cats and/or dogs up to 24 kg.
 
