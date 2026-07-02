@@ -1,5 +1,5 @@
 ---
-title: Standard System £599
+title: Standard System £699
 categories:
   - categories/burglar-alarms.md
 price: £599.00
