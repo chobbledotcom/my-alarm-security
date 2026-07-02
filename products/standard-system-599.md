@@ -12,10 +12,11 @@ meta_description: Standard Alarm System - Fully Certified, Customer Service,
 meta_title: Standard System Alarm Package. Door Contact, Movement Sensors, Alarm
   Siren. Professionally Fitted. Bexley Orpington Bromley Greenwich Sevenoaks -
   MyAlarm Security
+subtitle: "**Pyronix Wireless Alarm System** "
 ---
 # Standard System
 
-**Pyronix Wireless Alarm System Package Includes:**
+**Package Includes:**
 
 - 1 x Door contact
 - 4 x Movement sensors (can be pet friendly)
