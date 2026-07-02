@@ -1,8 +1,8 @@
 ---
-title: Basic System £539
+title: Basic System £639
 categories:
   - categories/burglar-alarms.md
-price: £539.00
+price: £639.00
 order: 1
 gallery:
   - /images/products/basic-system-539.webp
@@ -24,7 +24,7 @@ meta_title: Intruder Burglar Alarm System Company Bexley - MyAlarm Security
 
 **Info:** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-**Our Price:** £539.00
+**Our Price:** £639.00
 
 Our basic package was primarily designed for use in properties such as flats, upper maisonettes and some open plan commercial premises that have less entry points.
 
