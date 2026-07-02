@@ -13,7 +13,7 @@ faqs:
   - question: What brand of alarm system do you install?
     answer: Our chosen brand of system to install is Pyronix. You can read about our [burglar alarms and packages](/categories/burglar-alarms/) on the burglar alarms page.
   - question: How much does a burglar alarm system cost?
-    answer: Burglar alarm packages start at £539.00, with the standard package at £599.00 including installation. Additional sensors and devices can be added or removed depending on the property. We offer a free no obligation survey.
+    answer: Burglar alarm packages start at £639.00, with the standard package at £699.00 including installation. Additional sensors and devices can be added or removed depending on the property. We offer a free no obligation survey.
   - question: Do your displayed prices include installation?
     answer: Yes, all of our package prices include parts and installation.
   - question: Do I have to have the app for the burglar alarm system?

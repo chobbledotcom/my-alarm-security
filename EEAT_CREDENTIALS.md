@@ -166,9 +166,9 @@ This document compiles all Experience, Expertise, Authoritativeness, and Trustwo
 - No VAT to be added
 - No hidden charges
 - Clear pricing structure:
-  - Basic system: £539
-  - Standard system: £599
-  - Pet package: £849
+  - Basic system: £639
+  - Standard system: £699
+  - Pet package: £949
   - CCTV Package 1: £1,399
   - CCTV Package 2: £1,999
   - Ultimate package: £1,549
