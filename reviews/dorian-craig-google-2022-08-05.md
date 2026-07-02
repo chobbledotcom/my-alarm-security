@@ -3,7 +3,7 @@ name: Dorian Craig
 url: https://www.google.com/maps/contrib/101142176849400812722?hl=en
 rating: 5
 products:
-  - products/standard-system-599.md
+  - products/standard-system.md
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/dorian-craig.jpg

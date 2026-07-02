@@ -16,6 +16,6 @@ In our experience, they seem to find anything heavy like a nearby flower pot or 
 
 The local police have suggested on every street meeting that a [burglar alarm security system](/categories/burglar-alarms/) is a sure fire way of potentially deterring these thieves away from your property and your belongings.
 
-Our '[Pet Package](/products/pet-package-849/)' is the perfect start of a complete smart home security burglar alarm system with perimeter protection with the back up of a couple of movement sensors on the inside.
+Our '[Pet Package](/products/pet-package/)' is the perfect start of a complete smart home security burglar alarm system with perimeter protection with the back up of a couple of movement sensors on the inside.
 
 Our aim is to trigger the alarm before any movement is detected on the inside and this will hopefully be enough to scare the thieves away and not come back. Check out all of our '[Special Offers](/categories/special-offers/)' here.

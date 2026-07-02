@@ -3,7 +3,7 @@ name: Megan Sharpe
 url: https://www.google.com/maps/contrib/108771779641709542519/reviews
 rating: 5
 products:
-  - products/standard-system-599.md
+  - products/standard-system.md
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/megan-sharpe.jpg

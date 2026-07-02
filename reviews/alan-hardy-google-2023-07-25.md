@@ -3,8 +3,8 @@ name: Alan Hardy
 url: https://www.google.com/maps/contrib/104963844915177402068?hl=en
 rating: 5
 products:
-  - products/basic-system-539.md
-  - products/standard-system-599.md
+  - products/basic-system.md
+  - products/standard-system.md
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/alan-hardy.jpg

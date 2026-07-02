@@ -3,7 +3,7 @@ name: Graham Rogers
 url: https://www.google.com/maps/contrib/109836463131185429976?hl=en
 rating: 5
 products:
-  - products/standard-system-599.md
+  - products/standard-system.md
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/graham-rogers.jpg

@@ -2,7 +2,7 @@
 name: Yvonne C
 rating: 5
 products:
-  - products/pet-package-849.md
+  - products/pet-package.md
 categories:
   - categories/burglar-alarms.md
 date: 2021-04-18

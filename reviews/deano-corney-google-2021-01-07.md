@@ -3,7 +3,7 @@ name: Deano corney
 url: https://www.google.com/maps/contrib/113555330670513981484?hl=en
 rating: 5
 products:
-  - products/standard-system-599.md
+  - products/standard-system.md
 categories:
   - categories/burglar-alarms.md
 thumbnail: /images/reviewers/deano-corney.jpg

@@ -4,6 +4,8 @@ categories:
   - categories/burglar-alarms.md
 price: £699.00
 order: 2
+redirect_from:
+  - /products/standard-system-599/
 gallery:
   - /images/products/standard-system-599.webp
 meta_description: Standard Pyronix Alarm System - Fully Certified, Customer

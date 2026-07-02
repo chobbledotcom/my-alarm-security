@@ -45,7 +45,7 @@ The wording is now consistent at "over 30 years", but there's an underlying fact
 Recorded so it isn't lost in future edits:
 
 - **The blog** is original, first-hand reporting — the strongest content on the site and exactly what the helpful-content system rewards.
-- **Category and product pages** ([Burglar Alarms](/categories/burglar-alarms/), [Standard System](/products/standard-system-599/)) are comprehensive and clearly written by a practitioner.
+- **Category and product pages** ([Burglar Alarms](/categories/burglar-alarms/), [Standard System](/products/standard-system/)) are comprehensive and clearly written by a practitioner.
 - **The [FAQ](/faq/)** is specific and honestly scoped (no police monitoring; DIY systems not serviced) — a page worth bookmarking.
 - **Trust signals**: named founder, DBS checked, public liability, 100+ reviews, specific brand knowledge (Pyronix, Hikvision ColorVu, Texecom, Galaxy).
 - No ad clutter; mobile-friendly build.
