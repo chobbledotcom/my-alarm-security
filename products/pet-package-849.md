@@ -14,7 +14,7 @@ meta_title: Pet Friendly Burglar Alarm System Orpington Bromley Bexley Sidcup
 ---
 # Pet Package
 
-**Package Includes:**
+**Pyronix Wireless Alarm System Package Includes:**
 
 - 1 x Door contact
 - 2 x Pet friendly movement sensors
@@ -22,12 +22,11 @@ meta_title: Pet Friendly Burglar Alarm System Orpington Bromley Bexley Sidcup
 - 2 x Remote set/unset fobs which pair as remote panic buttons
 - 1 x External siren for the front
 - 1 x Decoy siren for the rear
-- 1 x App controlled panel with 12 months free app connectivity (£25 a year thereafter)
+- 1 x App Pyronix controlled panel with 12 months free app connectivity (£25 a year thereafter)
 
 **Info:** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
 **Our Price:** £849.00
-
 
 Our pet package was designed for premises with cats and/or dogs up to 24 kg.
 
