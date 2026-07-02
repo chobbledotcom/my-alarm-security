@@ -2,7 +2,7 @@
 title: Standard System £699
 categories:
   - categories/burglar-alarms.md
-price: £599.00
+price: £699.00
 order: 2
 gallery:
   - /images/products/standard-system-599.webp
@@ -25,7 +25,7 @@ meta_title: Standard System Pyronix Alarm Package. Door Contact, Movement
 
 **Info:** Supplied and fitted and with a 12 month parts warranty (no VAT to be added)
 
-**Our Price:** £599.00
+**Our Price:** £699.00
 
 Our standard package was designed to suit most residential premises and is by far our most popular package.
 
