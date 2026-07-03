@@ -4,6 +4,8 @@ categories:
   - categories/cctv.md
 price: £1,999.00
 order: 5
+redirect_from:
+  - /products/cctv-package-1-999/
 gallery:
   - /images/cctv-package-2-dec-2025.png
 meta_description: Four-camera 4K CCTV package with 2-way audio, 4TB recorder storage, app viewing and professional installation.

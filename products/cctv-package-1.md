@@ -4,6 +4,8 @@ categories:
   - categories/cctv.md
 price: £1,399.00
 order: 4
+redirect_from:
+  - /products/cctv-package-2-1199-24hr-colour-cctv/
 gallery:
   - /images/products/cctv-package-2-1199-24hr-colour-cctv.webp
 meta_description: Four-camera 5MP CCTV package with built-in microphones, 2TB recorder storage, app viewing and professional installation.
