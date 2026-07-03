@@ -3,8 +3,8 @@ name: Tiny Town Soft Play
 url: https://www.google.com/maps/contrib/113557999059164834756?hl=en
 rating: 5
 products:
-  - products/cctv-package-1.md
-  - products/ultimate-package.md
+  - products/cctv-package-1-24hr-colour-cctv-built-in-microphone.md
+  - products/ultimate-package-cctv-plus-burglar-alarm-system.md
   - products/standard-system.md
 categories:
   - categories/burglar-alarms.md

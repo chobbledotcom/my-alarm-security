@@ -3,7 +3,7 @@ name: Maxine Crouchman
 url: https://www.google.com/maps/contrib/103969652734006035755?hl=en
 rating: 5
 products:
-  - products/ultimate-package.md
+  - products/ultimate-package-cctv-plus-burglar-alarm-system.md
 categories:
   - categories/special-offers.md
 thumbnail: /images/reviewers/maxine-crouchman.jpg

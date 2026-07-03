@@ -3,8 +3,8 @@ name: Clive Chapman
 url: https://www.google.com/maps/contrib/106374328106501891877?hl=en
 rating: 5
 products:
-  - products/cctv-package-1.md
-  - products/ultimate-package.md
+  - products/cctv-package-1-24hr-colour-cctv-built-in-microphone.md
+  - products/ultimate-package-cctv-plus-burglar-alarm-system.md
 categories:
   - categories/cctv.md
   - categories/burglar-alarms.md

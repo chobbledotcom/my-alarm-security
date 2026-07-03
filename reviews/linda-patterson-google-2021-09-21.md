@@ -3,9 +3,9 @@ name: linda patterson
 url: https://www.google.com/maps/contrib/106455923966271242545?hl=en
 rating: 5
 products:
-  - products/cctv-package-1.md
+  - products/cctv-package-1-24hr-colour-cctv-built-in-microphone.md
   - products/standard-system.md
-  - products/ultimate-package.md
+  - products/ultimate-package-cctv-plus-burglar-alarm-system.md
 categories:
   - categories/burglar-alarms.md
   - categories/cctv.md

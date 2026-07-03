@@ -3,7 +3,7 @@ name: Sarah Elliott
 url: https://www.google.com/maps/contrib/111629481799555119459?hl=en
 rating: 5
 products:
-  - products/cctv-package-1.md
+  - products/cctv-package-1-24hr-colour-cctv-built-in-microphone.md
 categories:
   - categories/cctv.md
   - categories/special-offers.md

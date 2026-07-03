@@ -3,7 +3,7 @@ name: Spencer Elliott
 url: https://www.google.com/maps/contrib/111240418985734624048?hl=en
 rating: 5
 products:
-  - products/ultimate-package.md
+  - products/ultimate-package-cctv-plus-burglar-alarm-system.md
 categories:
   - categories/special-offers.md
 thumbnail: /images/reviewers/spencer-elliott.jpg
