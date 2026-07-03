@@ -3,7 +3,7 @@ name: Dushyant Purohit
 url: https://www.google.com/maps/contrib/102958900070358121078?hl=en
 rating: 5
 products:
-  - products/cctv-package-2-1199-24hr-colour-cctv.md
+  - products/cctv-package-1-24hr-colour-cctv-built-in-microphone.md
 categories:
   - categories/cctv.md
 thumbnail: /images/reviewers/dushyant-purohit.jpg

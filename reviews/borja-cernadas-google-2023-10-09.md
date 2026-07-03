@@ -4,7 +4,7 @@ url: https://www.google.com/maps/contrib/109320082994822430031?hl=en
 rating: 5
 products:
   - products/basic-system.md
-  - products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.md
+  - products/ultimate-package-cctv-plus-burglar-alarm-system.md
 categories:
   - categories/burglar-alarms.md
   - categories/special-offers.md

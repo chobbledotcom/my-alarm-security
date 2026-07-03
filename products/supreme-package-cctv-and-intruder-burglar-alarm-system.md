@@ -6,6 +6,8 @@ categories:
   - categories/special-offers.md
 price: £2,548.00
 order: 7
+redirect_from:
+  - /products/ultimate-package-cctv-intruder-alarm-system-1549/
 gallery:
   - /images/cctv-package-supreme-dec-2025.png
 meta_description: Supreme Package with a Standard Alarm System and CCTV Package 2, including 4K cameras, 2-way audio and app control.

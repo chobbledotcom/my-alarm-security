@@ -6,6 +6,8 @@ categories:
   - categories/special-offers.md
 price: £1,948.00
 order: 6
+redirect_from:
+  - /products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749/
 gallery:
   - /images/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.webp
 meta_description: Ultimate Package with a Standard Alarm System and CCTV Package 1, including 5MP cameras, built-in microphones and app control.
