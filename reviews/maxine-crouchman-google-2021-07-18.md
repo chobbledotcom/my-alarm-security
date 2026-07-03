@@ -3,7 +3,7 @@ name: Maxine Crouchman
 url: https://www.google.com/maps/contrib/103969652734006035755?hl=en
 rating: 5
 products:
-  - products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.md
+  - products/ultimate-package.md
 categories:
   - categories/special-offers.md
 thumbnail: /images/reviewers/maxine-crouchman.jpg
