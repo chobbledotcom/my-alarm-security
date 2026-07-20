@@ -1,16 +1,17 @@
 ---
-title: Ultimate Package CCTV Plus Burglar Alarm System £1,948
+title: Ultimate Package CCTV Plus Burglar Alarm System £2,048
 categories:
   - categories/burglar-alarms.md
   - categories/cctv.md
   - categories/special-offers.md
-price: £1,948.00
+price: £2,048
 order: 6
 redirect_from:
   - /products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749/
 gallery:
   - /images/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.webp
-meta_description: Ultimate Package with a Standard Alarm System and CCTV Package 1, including 5MP cameras, built-in microphones and app control.
+meta_description: Ultimate Package with a Standard Alarm System and CCTV Package
+  1, including 5MP cameras, built-in microphones and app control.
 meta_title: Ultimate Package - Alarm and CCTV Package 1
 ---
 # Ultimate Package
@@ -24,16 +25,16 @@ meta_title: Ultimate Package - Alarm and CCTV Package 1
 - 4 x Movement sensors (can be pet friendly)
 - 1 x External siren for the front
 - 1 x Decoy siren for the rear
-- 1 x App controlled panel with 12 months free app connectivity (£25 a year thereafter) 
+- 1 x App controlled panel with 12 months free app connectivity (£25 a year thereafter)
 
 **Info:**
 
 - Available to view remotely anywhere in the world with an internet connection. (Active subscription needed for Burglar Alarm system app) Full CCTV app control (free) with live view and playback option
 - All cables and sundries included
 - Hardwired CCTV system
-- Supplied and fitted and with a 12 month parts warranty 
+- Supplied and fitted and with a 12 month parts warranty
 
-**Our Price:** £1,948.00 (includes package discount) - (no VAT to be added)
+**Our Price:** £2,048.00 (includes package discount) - (no VAT to be added)
 
 Our ultimate package combines our Standard Alarm System and CCTV Package 1 along with a package discount. All of our packages can be tailored to suit your property and requirements with additional sensors, keyfobs, door contacts, additional cameras, larger storage and more available to be added. Please feel free to contact us to book a survey, discuss your options or to get a quote.
 
