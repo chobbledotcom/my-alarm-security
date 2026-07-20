@@ -1,16 +1,17 @@
 ---
-title: Supreme Package CCTV and Intruder Burglar Alarm System £2,548
+title: Supreme Package CCTV and Intruder Burglar Alarm System £2,648
 categories:
   - categories/burglar-alarms.md
   - categories/cctv.md
   - categories/special-offers.md
-price: £2,548.00
+price: £2,648.00
 order: 7
 redirect_from:
   - /products/ultimate-package-cctv-intruder-alarm-system-1549/
 gallery:
   - /images/cctv-package-supreme-dec-2025.png
-meta_description: Supreme Package with a Standard Alarm System and CCTV Package 2, including 4K cameras, 2-way audio and app control.
+meta_description: Supreme Package with a Standard Alarm System and CCTV Package
+  2, including 4K cameras, 2-way audio and app control.
 meta_title: Supreme Package - Alarm and CCTV Package 2
 ---
 # Supreme Package
@@ -32,9 +33,9 @@ meta_title: Supreme Package - Alarm and CCTV Package 2
 - Available to view remotely anywhere in the world with an internet connection. (Active subscription needed for Burglar Alarm system app) Full CCTV app control (free) with live view and playback option
 - All cables and sundries included
 - Hardwired CCTV system
-- Supplied and fitted and with a 12 month parts warranty 
+- Supplied and fitted and with a 12 month parts warranty
 
-**Our Price:** £2,548.00 (includes package discount) - (no VAT to be added)
+**Our Price:** £2,648.00 (includes package discount) - (no VAT to be added)
 
 Our supreme package combines our Standard Alarm System and CCTV Package 2 along with a package discount. All of our packages can be tailored to suit your property and requirements with additional sensors, keyfobs, door contacts, additional cameras, larger storage and more available to be added to suit your needs. Please feel free to contact us to book a survey, discuss your options or to get a quote.
 
