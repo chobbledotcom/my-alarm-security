@@ -1,7 +1,5 @@
 ---
-title: CCTV Due to the global shortage of hard drives, prices may vary. Please
-  contact us for an up to date quote. CCTV quotes are valid for 7 days due to
-  fluctuations in component prices.
+title: CCTV
 meta_description: Hard-wired Hikvision CCTV systems installed around Sidcup,
   Bexley, Eltham, Orpington and nearby areas, with app viewing and tidy cable
   runs.
@@ -12,7 +10,7 @@ eleventyNavigation:
 ---
 # CCTV Systems
 
-Due to the global shortage of hard drives, prices may vary. Please contact us for an up to date quote. CCTV quotes are valid for 7 days due to fluctuations in component prices. (August 2026)
+**Due to the global shortage of hard drives, prices may vary. Please contact us for an up to date quote. CCTV quotes are valid for 7 days due to fluctuations in component prices. (August 2026)**
 
 If you're looking to enhance the security of your home or business, then CCTV systems are an increasingly popular solution. With the ability to keep an eye on your premises and loved ones, and to deter unwanted intruders, CCTV systems provide a range of benefits. As well as the peace of mind that comes with monitoring everything that happens on your property, CCTV footage can also be used as visual evidence in the event of a break-in or theft from the property. 
 
