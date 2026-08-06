@@ -26,7 +26,9 @@ meta_title: CCTV Package 1 - 5MP Colour Cameras
 - Hardwired system
 - Supplied and fitted and with a 12 month warranty
 
-**Our Price:** From £1,399.00 (no VAT to be added) Due to the global shortage of hard drives, prices may vary. Please contact us for an up to date quote. CCTV quotes are valid for 7 days due to fluctuations in component prices.
+**Our Price:** From £1,399.00 (no VAT to be added) 
+
+**Due to the global shortage of hard drives, prices may vary. Please contact us for an up to date quote. CCTV quotes are valid for 7 days due to fluctuations in component prices.**
 
 Our original 4 camera 24 hour colour CCTV package is still as popular as ever, even with advances in technology.  These cameras deliver bright, full-colour images 24/7, even in extremely low-light conditions. The built-in LED ensures clear colour footage at night by lighting the area, allowing you to see faces, vehicles, and important details that traditional (black and white at night) systems often miss.
 
