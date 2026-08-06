@@ -1,12 +1,18 @@
 ---
-title: CCTV
-meta_description: Hard-wired Hikvision CCTV systems installed around Sidcup, Bexley, Eltham, Orpington and nearby areas, with app viewing and tidy cable runs.
+title: CCTV Due to the global shortage of hard drives, prices may vary. Please
+  contact us for an up to date quote. CCTV quotes are valid for 7 days due to
+  fluctuations in component prices.
+meta_description: Hard-wired Hikvision CCTV systems installed around Sidcup,
+  Bexley, Eltham, Orpington and nearby areas, with app viewing and tidy cable
+  runs.
 meta_title: CCTV Installation in Sidcup
 eleventyNavigation:
   key: CCTV
   order: 4
 ---
 # CCTV Systems
+
+Due to the global shortage of hard drives, prices may vary. Please contact us for an up to date quote. CCTV quotes are valid for 7 days due to fluctuations in component prices. (August 2026)
 
 If you're looking to enhance the security of your home or business, then CCTV systems are an increasingly popular solution. With the ability to keep an eye on your premises and loved ones, and to deter unwanted intruders, CCTV systems provide a range of benefits. As well as the peace of mind that comes with monitoring everything that happens on your property, CCTV footage can also be used as visual evidence in the event of a break-in or theft from the property. 
 
@@ -27,3 +33,4 @@ You can also look at [CCTV Package 1](/products/cctv-package-2-1199-24hr-colour-
 {% include "area-list-shortcode.html", prefix: "MyAlarm Security is based in Sidcup on the borders of New Eltham, and we serve surrounding boroughs including", suffix: "and anywhere else nearby." %}
 
 ![Four-camera CCTV package with recorder and Hikvision cameras](/images/categories/categories-cctv-fz8jnnwdtcm5voycphbt.png)
+
