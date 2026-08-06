@@ -1,7 +1,9 @@
 ---
 name: Insurance
-meta_title: "Public Liability Insurance - MyAlarm Security"
-meta_description: "MyAlarm Security carries £1m public liability and £10m employers' liability insurance through specialist insurer Alarminsure. Certificate on request."
+meta_title: Public Liability Insurance - MyAlarm Security
+meta_description: MyAlarm Security carries £1m public liability and £10m
+  employers' liability insurance through specialist insurer Alarminsure.
+  Certificate on request.
 permalink: /pages/insurance/
 layout: page
 ---
@@ -11,13 +13,15 @@ We carry full business insurance for all of our alarm, CCTV and access control w
 
 ## Cover at a glance
 
+
 | Cover | Details |
-| --- | --- |
+| -------------------- | ---------------------------------------------------- |
 | Public liability | £1,000,000 |
 | Employers' liability | £10,000,000 |
-| Period of cover | 28 April 2025 to 27 April 2026 (both days inclusive) |
+| Period of cover | 28 April 2026 to 27 April 2027 (both days inclusive) |
 | Insured | Matthew Smith trading as MyAlarm Security |
 | Insurance broker | Alarminsure |
+
 
 ## What the policy covers
 
