@@ -1,14 +1,15 @@
 ---
-title: CCTV Package 1 - £1,399 - 24 Hour Colour With Built in Microphone
+title: CCTV Package 1 -From £1,399 - 24 Hour Colour With Built in Microphone
 categories:
   - categories/cctv.md
-price: £1,399.00
+price: From £1,399.00
 order: 4
 redirect_from:
   - /products/cctv-package-2-1199-24hr-colour-cctv/
 gallery:
   - /images/products/cctv-package-2-1199-24hr-colour-cctv.webp
-meta_description: Four-camera 5MP CCTV package with built-in microphones, 2TB recorder storage, app viewing and professional installation.
+meta_description: Four-camera 5MP CCTV package with built-in microphones, 2TB
+  recorder storage, app viewing and professional installation.
 meta_title: CCTV Package 1 - 5MP Colour Cameras
 ---
 # CCTV Package 1
@@ -25,7 +26,7 @@ meta_title: CCTV Package 1 - 5MP Colour Cameras
 - Hardwired system
 - Supplied and fitted and with a 12 month warranty
 
-**Our Price:** £1,399.00 (no VAT to be added)
+**Our Price:** From £1,399.00 (no VAT to be added) Due to the global shortage of hard drives, prices may vary. Please contact us for an up to date quote. CCTV quotes are valid for 7 days due to fluctuations in component prices.
 
 Our original 4 camera 24 hour colour CCTV package is still as popular as ever, even with advances in technology.  These cameras deliver bright, full-colour images 24/7, even in extremely low-light conditions. The built-in LED ensures clear colour footage at night by lighting the area, allowing you to see faces, vehicles, and important details that traditional (black and white at night) systems often miss.
 
