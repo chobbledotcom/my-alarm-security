@@ -4,7 +4,7 @@ categories:
   - categories/burglar-alarms.md
   - categories/cctv.md
   - categories/special-offers.md
-price: From £2,048
+price: From £2,048.00
 order: 6
 redirect_from:
   - /products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749/
