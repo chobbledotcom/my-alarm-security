@@ -1,14 +1,15 @@
 ---
-title: CCTV Package 2 - £1,999 - 24 Hour Colour With 2-Way Audio
+title: CCTV Package 2 - From £1,999 - 24 Hour Colour With 2-Way Audio
 categories:
   - categories/cctv.md
-price: £1,999.00
+price: From £1,999.00
 order: 5
 redirect_from:
   - /products/cctv-package-1-999/
 gallery:
   - /images/cctv-package-2-dec-2025.png
-meta_description: Four-camera 4K CCTV package with 2-way audio, 4TB recorder storage, app viewing and professional installation.
+meta_description: Four-camera 4K CCTV package with 2-way audio, 4TB recorder
+  storage, app viewing and professional installation.
 meta_title: CCTV Package 2 - 4K Cameras and 2-Way Audio
 ---
 # CCTV Package 2
@@ -26,7 +27,7 @@ meta_title: CCTV Package 2 - 4K Cameras and 2-Way Audio
 - Hardwired system
 - Supplied and fitted and with a 12 month parts warranty
 
-**Our Price:** £1,999.00 *INTRODUCTORY OFFER* (no VAT to be added)
+**Our Price:** From £1,999.00 (no VAT to be added) Due to the global shortage of hard drives, prices may vary. Please contact us for an up to date quote. CCTV quotes are valid for 7 days due to fluctuations in component prices.
 
 Our brand new 4-camera CCTV package provides a powerful, modern security solution for homes and businesses. This system is designed to give you round-the-clock, ultra-clear monitoring of your property, whether it's a home, office, retail space, or industrial site - internal and/or external. With true 4K - 8 megapixel resolution, each camera captures incredibly crisp detail, ensuring faces, vehicles, and important activity are always clear and easy to see and review.
 
