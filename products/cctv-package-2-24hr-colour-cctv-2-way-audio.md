@@ -27,7 +27,9 @@ meta_title: CCTV Package 2 - 4K Cameras and 2-Way Audio
 - Hardwired system
 - Supplied and fitted and with a 12 month parts warranty
 
-**Our Price:** From £1,999.00 (no VAT to be added) Due to the global shortage of hard drives, prices may vary. Please contact us for an up to date quote. CCTV quotes are valid for 7 days due to fluctuations in component prices.
+**Our Price:** From £1,999.00 (no VAT to be added) 
+
+**Due to the global shortage of hard drives, prices may vary. Please contact us for an up to date quote. CCTV quotes are valid for 7 days due to fluctuations in component prices.**
 
 Our brand new 4-camera CCTV package provides a powerful, modern security solution for homes and businesses. This system is designed to give you round-the-clock, ultra-clear monitoring of your property, whether it's a home, office, retail space, or industrial site - internal and/or external. With true 4K - 8 megapixel resolution, each camera captures incredibly crisp detail, ensuring faces, vehicles, and important activity are always clear and easy to see and review.
 
