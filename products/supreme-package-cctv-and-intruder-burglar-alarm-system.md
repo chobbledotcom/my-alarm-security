@@ -1,10 +1,10 @@
 ---
-title: Supreme Package CCTV and Intruder Burglar Alarm System £2,648
+title: Supreme Package CCTV and Intruder Burglar Alarm System from £2,648
 categories:
   - categories/burglar-alarms.md
   - categories/cctv.md
   - categories/special-offers.md
-price: £2,648.00
+price: From £2,648.00
 order: 7
 redirect_from:
   - /products/ultimate-package-cctv-intruder-alarm-system-1549/
@@ -35,7 +35,7 @@ meta_title: Supreme Package - Alarm and CCTV Package 2
 - Hardwired CCTV system
 - Supplied and fitted and with a 12 month parts warranty
 
-**Our Price:** £2,648.00 (includes package discount) - (no VAT to be added)
+**Our Price:** From £2,648.00 (includes package discount) - (no VAT to be added) Due to the global shortage of hard drives, prices may vary. Please contact us for an up to date quote. CCTV quotes are valid for 7 days due to fluctuations in component prices.
 
 Our supreme package combines our Standard Alarm System and CCTV Package 2 along with a package discount. All of our packages can be tailored to suit your property and requirements with additional sensors, keyfobs, door contacts, additional cameras, larger storage and more available to be added to suit your needs. Please feel free to contact us to book a survey, discuss your options or to get a quote.
 
