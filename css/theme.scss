@@ -324,6 +324,15 @@ $gap: 1rem;
   }
 }
 
+.category-subtitle {
+  color: #000;
+  font-size: 1rem;
+  font-weight: bold;
+  line-height: 1.4;
+  margin: -0.75rem 0 $gap * 1.5;
+  max-width: 70ch;
+}
+
 .products-list {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

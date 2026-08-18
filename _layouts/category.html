@@ -6,6 +6,9 @@ layout: base
 
 {% if products.size > 0 %}
   <h1>{{ title }}</h1>
+  {% if subtitle %}
+    <p class="category-subtitle" role="doc-subtitle">{{ subtitle }}</p>
+  {% endif %}
 {% endif %}
 
 {% if parent %}
