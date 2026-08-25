@@ -2,8 +2,7 @@
 title: Video Doorbell
 date: 2026-08-19
 subtitle: Keep an eye on who’s at your door with a Pyronix doorbell and chime,
-  professionally supplied and installed for just £199. Sidcup, Bexley,
-  Orpington, Bromley.
+  professionally supplied and installed for just £199.
 meta_title: Smart Video Doorbell Pyronix Installer 020 8302 4065
 meta_description: Keep an eye on who’s at your door with a Pyronix video
   doorbell and chime, professionally supplied & installed for just £199.
