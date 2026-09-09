@@ -21,15 +21,16 @@ A PIR (Passive Infrared) sensor, more commonly known as a movement sensor, is de
 Have pets and worried they might set off the system? We also offer pet friendly PIRs. The Pyronix pet friendly sensors are designed to ignore pets up to approx 24kgs, provided they stay within the recommended detection limits (typically up to around 1 meter in height). Pet friendly movement sensors also detect movement and heat so if your dog or cat regularly jumps onto sofas, worktops, windowsills or high furniture, they are more likely to trigger the movement sensor. If that's the case, we would usually recommend a different combination of sensors such as door contacts or shock/vibration sensors. Take a look our pet package here: [Pet Package](https://www.myalarmsecurity.co.uk/products/pet-package/#content).  
 All of our packages can be changed to suit your requirements.
 
+**Vibration (Shock) Sensor**  
+
+A vibration sensor, often called a shock sensor, is designed to detect attempts to force entry before a window or door is actually opened.  These sensors are usually fitted to windows, patio doors, bi-fold doors or other large glazed areas. They detect the vibrations caused by impacts such as banging, prising or attempts to smash the glass.
+
 **Door Contact**  
 A door contact protects the opening itself rather than the room behind it.  
 It consists of two small parts:  
 • One part is fitted to the door.  
 • The other part is fitted to the door frame.  
 When the door is closed, the two parts line up and the alarm knows the door is closed and secure. As soon as the door is opened (while the alarm is armed), the contact separates and the alarm is triggered, or it starts your entry time (depending on the system settings). Your entry time can be adjusted to suit your requirements giving you enough time to get in and turn the alarm off before it starts ringing. You can also add a remote keyfob to your system which allows you to set and unset the system from a distance (from your car or from your bedroom for example) without the need of going to the panel.
-
-**Vibration (Shock) Sensor**  
-A vibration sensor, often called a shock sensor, is designed to detect attempts to force entry before a window or door is actually opened.  These sensors are usually fitted to windows, patio doors, bi-fold doors or other large glazed areas. They detect the vibrations caused by impacts such as banging, prising or attempts to smash the glass.
 
 **Which One Is Best?**  
 The simple answer is that they all do different jobs.  
