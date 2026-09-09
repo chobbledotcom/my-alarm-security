@@ -11,6 +11,8 @@ meta_description: "What is the difference is between the various alarm system
 gallery:
   - /images/Alarm Sensors - PIRs, Door Contacts, Vibration Shock Sensors.jpeg
 ---
+What's the Difference Between Alarm Sensors?
+
 If you're thinking about having a burglar alarm installed, you might be wondering what the difference is between the various alarm system sensors and which ones you should get.  Here's a simple explanation of the three most common types of alarm sensors and what they do.
 
 **PIR (Movement Sensor)**  
@@ -37,7 +39,7 @@ A vibration sensor detects a physical impact or vibration.
 
 For the best level of protection, we would survey your property and go through your requirements to design you an alarm system package using some, or a combination of these sensors. The right sensors depend on your property and requirements.
 
-**Can I Have Different Settings On The Alarm? **  
+**Can I Have Different Settings On The Alarm?**  
 Yes, as part of our demo and handover of the system once it has been installed, we can set up different settings on the alarm where for example the 'A' setting will be a full set with every sensor activated. The 'B' setting can be a night time setting where just the downstairs or certain sensors are set so you can move freely at night without setting off the system. We can do a 'C' setting where you just have the perimeter set. You can also set and unset different sensors on the system from the mobile app. The whole system will be designed and set up to suit you and your needs. 
 
 Feel free to contact us if you have any questions.
