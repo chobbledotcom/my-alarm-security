@@ -11,7 +11,7 @@ meta_description: "What is the difference is between the various alarm system
 gallery:
   - /images/Alarm Sensors - PIRs, Door Contacts, Vibration Shock Sensors.jpeg
 ---
-What's the Difference Between Alarm Sensors?
+**What's the Difference Between Alarm Sensors?**
 
 If you're thinking about having a burglar alarm installed, you might be wondering what the difference is between the various alarm system sensors and which ones you should get.  Here's a simple explanation of the three most common types of alarm sensors and what they do.
 
