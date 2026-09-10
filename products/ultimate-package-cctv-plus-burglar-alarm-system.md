@@ -1,10 +1,10 @@
 ---
-title: Ultimate Package CCTV Plus Burglar Alarm System from £2,048
+title: Ultimate Package CCTV Plus Burglar Alarm System
 categories:
   - categories/burglar-alarms.md
   - categories/cctv.md
   - categories/special-offers.md
-price: From £2,048.00
+price: Contact us for a quote
 order: 6
 redirect_from:
   - /products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749/
@@ -34,7 +34,7 @@ meta_title: Ultimate Package - Alarm and CCTV Package 1
 - Hardwired CCTV system
 - Supplied and fitted and with a 12 month parts warranty
 
-**Our Price:** From £2,048.00 (includes package discount) - (no VAT to be added) 
+**Our Price:** Contact us for a quote
 
 **Due to the global shortage of hard drives, prices may vary. Please contact us for an up to date quote. CCTV quotes are valid for 7 days due to fluctuations in component prices.**
 
