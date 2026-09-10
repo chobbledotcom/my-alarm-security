@@ -35,9 +35,7 @@ meta_title: Supreme Package - Alarm and CCTV Package 2
 - Hardwired CCTV system
 - Supplied and fitted and with a 12 month parts warranty
 
-**Our Price:** Contact us for a quote
-
-**Due to the global shortage of hard drives, prices may vary. Please contact us for an up to date quote. CCTV quotes are valid for 7 days due to fluctuations in component prices.**
+**Our Price:** **Contact us for a quote. We love nothing more than being transparent with our prices, but due to the global shortage of hard drives, prices with our wholesalers are fluctuating daily so we are unable to offer a fixed price. Please contact us for an up to date quote. CCTV quotes are valid for 7 days due to fluctuations in component prices.**
 
 Our supreme package combines our Standard Alarm System and CCTV Package 2 along with a package discount. All of our packages can be tailored to suit your property and requirements with additional sensors, keyfobs, door contacts, additional cameras, larger storage and more available to be added to suit your needs. Please feel free to contact us to book a survey, discuss your options or to get a quote.
 
