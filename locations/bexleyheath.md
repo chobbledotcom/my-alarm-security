@@ -1,8 +1,7 @@
 ---
 title: Bexleyheath
 meta_title: Burglar Alarm and CCTV in Bexleyheath
-meta_description: Burglar Alarms & CCTV in Bexleyheath, Bexley. Call 020 8302
-  4065. Servicing, battery changes and hard-wired CCTV, whatever you've got.
+meta_description: "Burglar Alarms & CCTV in Bexleyheath, Bexley. Call 020 8302 4065. Servicing, battery changes and hard-wired CCTV, whatever you've got."
 permalink: /pages/bexleyheath/
 eleventyNavigation:
   key: Bexleyheath
@@ -12,7 +11,7 @@ eleventyNavigation:
 
 We're a local, family run security company based in Sidcup, and Bexleyheath is only a few minutes up the road, so we end up working there a lot. We've been fitting and servicing burglar alarms and CCTV around Bexleyheath and the wider Bexley area for many years, from the flats and shops around the Broadway to the older semis on the residential streets either side of it. Whether you want a brand new system, an upgrade to the one you've already got, or just someone to come and look at a system that's giving you trouble, give us a call or drop us an email.
 
-We fit new [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/), and we look after burglar alarm systems other companies have installed just as happily - servicing, fault finding, battery changes and upgrades on any make or model. A lot of our Bexleyheath calls come from people who've taken on a system with the house and can't get hold of whoever originally fitted it. If you're not sure what you've got, send a photo of the panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can identify if for you. We've over 30 years in the security industry behind us, so there aren't many alarm panels we don't recognise.
+We fit new [burglar alarm systems](/categories/burglar-alarms/) and [CCTV systems](/categories/cctv/), and we look after burglar alarm systems other companies have installed just as happily - servicing, fault finding, battery changes and upgrades on any make or model. A lot of our Bexleyheath calls come from people who've taken on a system with the house and can't get hold of whoever originally fitted it. If you're not sure what you've got, send a photo of the panel to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and we can identify it for you. We've over 30 years in the security industry behind us, so there aren't many alarm panels we don't recognise.
 
 All of our alarm systems can be app controlled if you want that. The app lets you set and unset the system from your phone wherever you are, so you can check it's armed once you've left the house, or let a cleaner or a family member in without handing out your code, and it lets you know straight away if the alarm has been triggered. It's free for the first year and then £25 a year after that, subject to any manufacturer price increases. You don't have to have it though - the alarm works exactly the same without it, you just won't get the remote access or the notifications on your phone.
 
