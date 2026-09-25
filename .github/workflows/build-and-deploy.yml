@@ -125,7 +125,7 @@ jobs:
           fi
 
       - name: Purge Rewrite Zone
-        uses: R-J-dev/bunny-deploy@v2.0.6
+        uses: R-J-dev/bunny-deploy@v3.0.0
         with:
           access-key: ${{ secrets.BUNNY_ACCESS_KEY }}
           directory-to-upload: _site
@@ -139,7 +139,7 @@ jobs:
           replication-timeout: "5000"
 
       - name: Deploy to Bunny
-        uses: R-J-dev/bunny-deploy@v2.0.6
+        uses: R-J-dev/bunny-deploy@v3.0.0
         with:
           access-key: ${{ secrets.BUNNY_ACCESS_KEY }}
           directory-to-upload: _site
