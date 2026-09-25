@@ -8,13 +8,13 @@ on:
 
 jobs:
   fetch-reviews:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -51,7 +51,7 @@ jobs:
 
   notify-failure:
     name: Notify on Failure
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     needs: [fetch-reviews]
     if: failure()
     steps:

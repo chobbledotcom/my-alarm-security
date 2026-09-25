@@ -11,15 +11,15 @@ concurrency:
 jobs:
   setup:
     name: Merge Repos
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout this repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           path: source
 
       - name: Checkout Chobble Template
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           repository: chobble-mirror/chobble-template
           ref: 4ffc3ca9d4ff2bbea9594ccf87909956bb49c831
@@ -72,7 +72,7 @@ jobs:
             "combined/src/_data/config.json"
 
       - name: Upload combined directory
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: combined-files
           path: combined/
@@ -82,10 +82,10 @@ jobs:
   build:
     name: Build Site
     needs: setup
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Download combined directory
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: combined-files
           path: combined
@@ -94,7 +94,7 @@ jobs:
         uses: oven-sh/setup-bun@v2
 
       - name: Restore cache
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: |
             combined/node_modules
@@ -154,7 +154,7 @@ jobs:
 
   notify-failure:
     name: Notify on Failure
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     needs: [setup, build]
     if: failure()
     steps:
