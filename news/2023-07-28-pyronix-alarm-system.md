@@ -3,6 +3,7 @@ title: "Pyronix Alarm System"
 date: 2023-07-28
 meta_title: "House Alarm System Battery Orpington - MyAlarm Security"
 meta_description: "Pyronix Alarm System Orpington, Bromley, Greenwich, Bexley, Dartford, Gravesend. Contact us 020 8302 4065"
+og_description: "Pyronix is the system we fit most, and we build each package around the property rather than selling a fixed set. We also service and repair other makes."
 permalink: "/blog/pyronix-alarm-system/"
 gallery:
   - "/images/products/pyronix-alarm-system.webp"

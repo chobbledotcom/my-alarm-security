@@ -3,6 +3,7 @@ title: "Tile Drilling"
 date: 2018-06-07
 meta_title: "CCTV Company Bexley Sidcup - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV Sidcup. Call 020 8302 4065 or email us."
+og_description: "This house in Sidcup had a tiled front, so fitting the alarm meant the right drill bit in a high speed drill, then rawlplugs and screws for a solid hold."
 permalink: "/blog/tile-drilling/"
 gallery:
   - "/images/products/tile-drilling.webp"

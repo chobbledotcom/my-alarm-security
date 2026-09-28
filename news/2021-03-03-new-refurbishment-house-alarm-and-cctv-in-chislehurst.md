@@ -3,6 +3,7 @@ title: "New Refurbishment - House Alarm And CCTV In Chislehurst"
 date: 2021-03-03
 meta_title: "House Alarm And CCTV Company In Chislehurst - MyAlarm Security"
 meta_description: "Home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV company in Chislehurst. Call 020 8302 4065"
+og_description: "On a Chislehurst bungalow refurb we got the alarm and CCTV cables in before the render went on, so nothing gets clipped round the outside afterwards."
 permalink: "/blog/new-refurbishment-house-alarm-and-cctv-in-chislehurst/"
 gallery:
   - "/images/products/new-refurbishment-house-alarm-and-cctv-in-chislehurst.webp"

@@ -3,6 +3,7 @@ title: "Matt Black Keypad"
 date: 2018-09-06
 meta_title: "Burglar Alarm Company Orpington - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "We fitted a wired smart alarm with a flush matt black keypad in a refurbished bungalow near Orpington, to match the finish throughout the house."
 permalink: "/blog/matt-black-keypad/"
 gallery:
   - "/images/products/matt-black-keypad.webp"

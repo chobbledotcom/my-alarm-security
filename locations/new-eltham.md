@@ -2,6 +2,7 @@
 title: New Eltham
 meta_title: "Burglar Alarm and CCTV in New Eltham"
 meta_description: "Burglar Alarms & CCTV in New Eltham, Greenwich. Call 020 8302 4065. We're based on the SE9 border, so New Eltham is our home patch."
+og_description: "Sidcup is our base and New Eltham is on the doorstep. We once came out here on Christmas Eve to silence a siren with a flat battery, head torch and all."
 permalink: "/pages/new-eltham/"
 eleventyNavigation:
   key: New Eltham

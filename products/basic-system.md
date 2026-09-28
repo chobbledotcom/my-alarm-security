@@ -11,6 +11,7 @@ gallery:
 meta_description: For all of your home and business security. Burglar Alarm
   Servicing, Burglar Alarm Installation, Alarm Battery and CCTV packages. Call
   020 8302 4065
+og_description: "A £639 Pyronix wireless alarm for flats and smaller homes, with a door contact, two movement sensors, panic keyfobs, two sirens and a year of the app."
 meta_title: Intruder Burglar Alarm System Company Bexley - MyAlarm Security
 ---
 # Basic System

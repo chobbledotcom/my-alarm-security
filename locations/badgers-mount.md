@@ -4,6 +4,7 @@ meta_title: Alarm System in Badgers Mount, CCTV in Badgers Mount. Alarm Maintena
 meta_description: Alarm System Badgers Mount, CCTV Badgers Mount. Alarm
   Maintenance Service Badgers Mount, Alarm Battery Replacement Badgers Mount,
   Home Alarm Badgers Mount. 020 8302 4065
+og_description: "We cover Badgers Mount from Sidcup for alarm maintenance, battery changes and hard-wired CCTV that records to its own drive. Ring 020 8302 4065."
 permalink: /pages/badgers-mount/
 eleventyNavigation:
   key: Badgers Mount

@@ -3,6 +3,7 @@ title: "Our New Van Now Has Sign Writing"
 date: 2018-05-06
 meta_title: "Intruder Burglar Alarm And CCTV Company Orpington Bromley Bexley - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "We have had our new van sign written in red and white with a QR code linking to the website, so people around Bexley and Orpington can see what we do."
 permalink: "/blog/our-new-van-now-has-sign-writing/"
 gallery:
   - "/images/products/our-new-van-now-has-sign-writing.webp"

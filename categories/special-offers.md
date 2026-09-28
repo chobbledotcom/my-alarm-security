@@ -1,6 +1,7 @@
 ---
 title: Special Offers
 meta_description: Burglar alarm and CCTV package offers from MyAlarm Security, including installed home alarm and camera systems.
+og_description: "Our alarm and CCTV packages with the price spelled out, materials and labour included, so you can see roughly what the job costs before you ring us."
 meta_title: Burglar Alarm and CCTV Package Offers
 eleventyNavigation:
   key: Special Offers

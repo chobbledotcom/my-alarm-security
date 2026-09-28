@@ -4,6 +4,7 @@ date: 2025-10-21
 gallery:
   - /images/myalarm-security-burglar-alarm-sidcup-home-burglar-alarm-installation-sidcup-bexley.jpg
 meta_description: Home Burglar Alarm System in Sidcup
+og_description: "A Sidcup customer got fed up with their DIY alarm, so we fitted a professional system with movement and shock sensors around the property."
 meta_title: Home Burglar Alarm System in Sidcup
 ---
 

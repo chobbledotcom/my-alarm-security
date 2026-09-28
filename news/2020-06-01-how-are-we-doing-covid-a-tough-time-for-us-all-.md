@@ -3,6 +3,7 @@ title: "How Are We Doing? Covid, A Tough Time For Us All."
 date: 2020-06-01
 meta_title: "Burglar Alarm Systems Battery And Servicing In Bexley Bromley - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "Through lockdown we kept installing in full PPE around Sidcup and Bexley, and took call-outs from people who weren't even our customers."
 permalink: "/blog/how-are-we-doing-covid-a-tough-time-for-us-all-/"
 gallery:
   - "/images/products/how-are-we-doing-covid-a-tough-time-for-us-all-.webp"

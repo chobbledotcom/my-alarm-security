@@ -2,6 +2,7 @@
 title: Shorne
 meta_title: "Alarm System Shorne, CCTV Shorne. Alarm Service Shorne - MyAlarm Security"
 meta_description: "Smart burglar alarm installation, servicing, battery changes and hard-wired CCTV in Shorne from MyAlarm Security, a Sidcup-based family business."
+og_description: "We fit smart alarm systems in Shorne that the whole family can have on their phones, and we service any make of system. Call 020 8302 4065."
 permalink: "/pages/shorne/"
 eleventyNavigation:
   key: Shorne

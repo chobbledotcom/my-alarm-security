@@ -3,6 +3,7 @@ title: "Neat Conduit On A CCTV System Installation In Bexley"
 date: 2020-11-20
 meta_title: "CCTV Company Near Me Bexley Orpington Bromley Eltham - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "The best cameras are let down by DIY standard cabling. We use external grade cable or conduit so it doesn't perish in the sun within a year or so."
 permalink: "/blog/neat-conduit-on-a-cctv-system-installation-in-bexley/"
 gallery:
   - "/images/products/neat-conduit-on-a-cctv-system-installation-in-bexley.webp"

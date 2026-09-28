@@ -3,6 +3,7 @@ title: "Bad Installs"
 date: 2020-10-16
 meta_title: "CCTV Company Eltham Blackheath - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "A customer near Blackheath inherited a CCTV system riddled with water ingress, fitted by the previous owner. We refused to patch it and rewired the lot."
 permalink: "/blog/bad-installs/"
 gallery:
   - "/images/products/bad-installs.webp"

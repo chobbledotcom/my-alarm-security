@@ -2,6 +2,7 @@
 title: Chislehurst
 meta_title: "Burglar Alarm and CCTV in Chislehurst"
 meta_description: "Burglar Alarms & CCTV in Chislehurst, Bromley. Call 020 8302 4065. Servicing, battery changes and out of hours callouts covered."
+og_description: "Chislehurst is just up the A20 from our Sidcup base. We've done Christmas Eve callouts here for outside sirens blaring on a low battery."
 permalink: "/pages/chislehurst/"
 eleventyNavigation:
   key: Chislehurst

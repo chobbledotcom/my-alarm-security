@@ -8,17 +8,31 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ec2023" />
 
-<meta property="og:title" content="{{ meta_title | default: page.meta_title | escape }}" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-<meta property="og:image" content="{{ site.url }}/assets/og-image.webp" />
-{%- if meta_description -%}
-  <meta property="og:description" content="{{ meta_description }}" />
+{%- comment -%} Facebook OpenGraph / Twitter card tags. og_description is the
+  per-page share text; it falls back to the meta description. {%- endcomment -%}
+{%- assign share_description = og_description | default: meta_description -%}
+<meta property="og:site_name" content="{{ site.name | escape }}" />
+<meta property="og:locale" content="{{ meta.language | default: "en-GB" | replace: "-", "_" }}" />
+<meta property="og:title" content="{{ meta_title | default: title | escape }}" />
+{%- if share_description -%}
+<meta property="og:description" content="{{ share_description | escape }}" />
 {%- endif -%}
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+{%- if layout == "news-post.html" -%}
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="{{ page.date | date: "%Y-%m-%dT%H:%M:%SZ" }}" />
+{%- else -%}
+<meta property="og:type" content="website" />
+{%- endif -%}
+<meta property="og:image" content="{{ site.url }}/assets/og-image.webp" />
+<meta property="og:image:type" content="image/webp" />
+<meta property="og:image:width" content="1350" />
+<meta property="og:image:height" content="450" />
+<meta property="og:image:alt" content="MyAlarm Security branding with CCTV cameras and houses in a connected network" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="{{ meta_title | default: page.meta_title | escape }}" />
-{%- if meta_description -%}
-  <meta name="twitter:description" content="{{ meta_description }}" />
+<meta name="twitter:title" content="{{ meta_title | default: title | escape }}" />
+{%- if share_description -%}
+<meta name="twitter:description" content="{{ share_description | escape }}" />
 {%- endif -%}
 <meta name="twitter:image" content="{{ site.url }}/assets/og-image.webp" />
 

@@ -2,6 +2,7 @@
 title: Eltham
 meta_title: "Burglar Alarm and CCTV in Eltham"
 meta_description: "Burglar Alarms & CCTV in Eltham, Greenwich. Call 020 8302 4065. Alarm upgrades, servicing and neat, concealed CCTV cabling in SE9."
+og_description: "Eltham is next door to our Sidcup base. One SE9 job meant taking down unsightly clipped CCTV cables and painting over the holes afterwards."
 permalink: "/pages/eltham/"
 eleventyNavigation:
   key: Eltham

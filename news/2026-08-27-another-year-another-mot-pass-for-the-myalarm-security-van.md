@@ -7,6 +7,7 @@ meta_description: Follow the latest news from MyAlarm Security, your local,
   family run burglar alarm and CCTV company based in Sidcup. Providing burglar
   alarm installations, servicing and repairs for homes and businesses across
   South East London and Kent
+og_description: "The van passed its MOT again at Neves in Sidcup - it is out every day with the tools and spares we need to get to customers round Kent and London."
 gallery:
   - /images/Van MOT Neves Sidcup.jpeg
 ---

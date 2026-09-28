@@ -2,6 +2,7 @@
 title: Bromley
 meta_title: Burglar Alarms and CCTV in Bromley
 meta_description: Burglar alarm installation, servicing, repairs and hard-wired CCTV in Bromley from a Sidcup-based family business.
+og_description: "We cover the whole Bromley borough, from Chislehurst to Biggin Hill, and recent jobs include alarm and CCTV upgrades in West Wickham and Petts Wood."
 permalink: /pages/bromley/
 eleventyNavigation:
   key: Bromley

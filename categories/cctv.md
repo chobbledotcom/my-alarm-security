@@ -7,6 +7,7 @@ subtitle: >-
 meta_description: Hard-wired Hikvision CCTV systems installed around Sidcup,
   Bexley, Eltham, Orpington and nearby areas, with app viewing and tidy cable
   runs.
+og_description: "We install hard-wired Hikvision CCTV around Sidcup, with cameras that keep colour at night and 30 days of recordings. You can watch it from a free app."
 meta_title: CCTV Installation in Sidcup
 eleventyNavigation:
   key: CCTV

@@ -3,6 +3,7 @@ title: "Pir Movement Sensor"
 date: 2018-05-11
 meta_title: "Burglar Alarm Engineer Sidcup Bexley - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "We added a wired movement sensor to an existing alarm in Sidcup this week, drilling it in so it looks just like the wireless ones on a hybrid system."
 permalink: "/blog/pir-movement-sensor/"
 gallery:
   - "/images/products/pir-movement-sensor.webp"

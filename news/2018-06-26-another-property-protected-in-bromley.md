@@ -3,6 +3,7 @@ title: "Another Property Protected In Bromley"
 date: 2018-06-26
 meta_title: "Burglar Alarm Installation Bromley - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "After a break-in nearby, this Bromley customer had a wireless app controlled alarm fitted, set up so their cat would not set it off when they were out."
 permalink: "/blog/another-property-protected-in-bromley/"
 gallery:
   - "/images/products/another-property-protected-in-bromley.webp"

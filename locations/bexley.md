@@ -2,6 +2,7 @@
 title: Bexley
 meta_title: Burglar Alarm and CCTV in Bexley
 meta_description: Burglar Alarms & CCTV in Bexley, South East London. Call 020 8302 4065. Based in Sidcup, with real CCTV jobs in Bexley village.
+og_description: "We're based in Sidcup and Bexley is the next town over. Send us a photo of your alarm panel and we'll tell you what you've inherited with the house."
 permalink: /pages/bexley/
 eleventyNavigation:
   key: Bexley

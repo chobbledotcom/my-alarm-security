@@ -3,6 +3,7 @@ title: "CCTV In London / Kent"
 date: 2023-07-19
 meta_title: "CCTV In Bexley - MyAlarm Security"
 meta_description: "If you are looking to have CCTV installed at your home or business, contact us for more information, 020 8302 4065. CCTV in New Eltham, Orpington, Bromley."
+og_description: "We fit CCTV around New Eltham, Sidcup, Bexley and Orpington, with recorders holding roughly 30 days of footage and optional movement alerts to your phone."
 permalink: "/blog/cctv-in-london-kent/"
 gallery:
   - "/images/products/cctv-in-london-kent.webp"

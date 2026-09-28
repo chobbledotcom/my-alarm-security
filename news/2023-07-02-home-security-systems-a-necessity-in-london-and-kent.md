@@ -3,6 +3,7 @@ title: "Home Security Systems A Necessity In London And Kent"
 date: 2023-07-02
 meta_title: "Home Security Alarm Orpington - MyAlarm Security"
 meta_description: "Are you looking to have a burglar alarm installed at your property? Have a look at some of our packages or contact us for more information."
+og_description: "We look at whether a home alarm is worth having in London and Kent, what actually goes into a system, and how we build a package around your property."
 permalink: "/blog/home-security-systems-a-necessity-in-london-and-kent/"
 gallery:
   - "/images/products/home-security-systems-a-necessity-in-london-and-kent.webp"

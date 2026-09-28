@@ -5,6 +5,7 @@ meta_title: "Burglar Alarm System Barnehurst, CCTV Barnehurst. Alarm Maintenance
 meta_description: Alarm System Barnehurst, CCTV Barnehurst. Alarm Maintenance
   Service Barnehurst, Alarm Battery Replacement Barnehurst, Home Alarm System
   Barnehurst. 020 8302 4065.
+og_description: "We cover Barnehurst from Sidcup for alarms, CCTV and battery changes. If your keypad has stopped working, send a photo of the panel and we'll identify it."
 permalink: /pages/barnehurst/
 eleventyNavigation:
   key: Barnehurst

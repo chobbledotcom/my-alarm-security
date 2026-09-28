@@ -3,6 +3,7 @@ title: "Petts Wood Alarm System Upgrade And CCTV Package"
 date: 2024-05-30
 meta_title: "Petts Wood Alarm and CCTV Upgrade"
 meta_description: "A Petts Wood home upgraded with a Pyronix burglar alarm, car defender and 5 camera CCTV system after a car theft."
+og_description: "After a car was stolen off the drive in Petts Wood, we replaced their 20-year-old alarm, added a Pyronix car defender and fitted a 5 camera CCTV system."
 permalink: "/blog/petts-wood-alarm-system-upgrade-and-cctv-package/"
 ---
 

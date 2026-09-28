@@ -3,6 +3,7 @@ title: "Ladder Stand-off"
 date: 2018-12-04
 meta_title: "Home Security Burglar Alarm System In Bexley - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "We bought a ladder stand-off after trying one at a customer's house in Bexley - it makes fitting sirens and cameras on pitched roofs far safer."
 permalink: "/blog/ladder-stand-off/"
 gallery:
   - "/images/products/ladder-stand-off.webp"

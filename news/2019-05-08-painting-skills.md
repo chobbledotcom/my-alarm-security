@@ -3,6 +3,7 @@ title: "Painting Skills"
 date: 2019-05-08
 meta_title: "Burglar Alarm System In Sidcup - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "We swapped a Sidcup customer's old siren for a backlit one that glows after dark, then touched up the paint where the shapes didn't match."
 permalink: "/blog/painting-skills/"
 gallery:
   - "/images/products/painting-skills.webp"

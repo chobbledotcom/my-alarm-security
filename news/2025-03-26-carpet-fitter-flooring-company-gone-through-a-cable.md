@@ -3,6 +3,7 @@ title: "Carpet Fitter / Flooring Company Gone Through A Cable"
 date: 2025-03-26
 meta_title: "Alarm System Repair Sidcup Bexley Dartford Orpington Bromley - MyAlarm Security"
 meta_description: "Need your alarm system repaired or have a damaged cable, give us a call. Orpington, Bromley, Bexley, Greenwich, Sevenoaks, Gravesend, Sevenoaks, Kent London"
+og_description: "A common one this: new flooring goes down and the fitter puts a nail through the alarm cable. Here is what we find and how we get it running again."
 permalink: "/blog/carpet-fitter-flooring-company-gone-through-a-cable/"
 gallery:
   - "/images/products/carpet-fitter-flooring-company-gone-through-a-cable.webp"

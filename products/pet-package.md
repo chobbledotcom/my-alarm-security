@@ -11,6 +11,7 @@ gallery:
 meta_description: Pet friendly home and business security. Burglar Alarm
   Servicing, Burglar Alarm Installation, Alarm Battery and CCTV packages. Call
   020 8302 4065
+og_description: "The £949 pet package gives cats and dogs up to 24 kg free run of the house, with pet friendly sensors, shock sensors on doors and windows, and the app."
 meta_title: Pet Friendly Burglar Alarm System Orpington Bromley Bexley Sidcup
   Sevenoaks - MyAlarm Security
 ---

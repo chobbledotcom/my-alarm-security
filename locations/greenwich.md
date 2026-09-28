@@ -2,6 +2,7 @@
 title: Greenwich
 meta_title: Burglar Alarms and CCTV in Greenwich
 meta_description: Burglar alarm installation, servicing and hard-wired CCTV in Greenwich from MyAlarm Security, based nearby in Sidcup.
+og_description: "We cover the Borough of Greenwich from Sidcup, servicing nearly all alarm brands even if we didn't fit them, with a free survey and a quote on the spot."
 permalink: /pages/greenwich/
 eleventyNavigation:
   key: Greenwich

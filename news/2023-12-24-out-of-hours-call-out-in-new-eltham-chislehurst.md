@@ -3,6 +3,7 @@ title: "Out Of Hours Call Out In New Eltham / Chislehurst"
 date: 2023-12-24
 meta_title: "24-7house Alarm System Call Out New Eltham Chislehurst - MyAlarm Security"
 meta_description: "Out Of Hours Call Out New Eltham Chislehurst. Contact us for your burglar alarm and cctv needs. We cover Bromley Orpington Bexley Dartford Greenwich and more"
+og_description: "A house alarm blaring on Christmas Eve in Chislehurst, caused by a low battery in the outside siren. Matt got the ladders out and silenced it."
 permalink: "/blog/out-of-hours-call-out-in-new-eltham-chislehurst/"
 gallery:
   - "/images/products/out-of-hours-call-out-in-new-eltham-chislehurst.webp"

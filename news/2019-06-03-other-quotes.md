@@ -3,6 +3,7 @@ title: "Other Quotes?"
 date: 2019-06-03
 meta_title: "Burglar Alarm Systems Battery And Servicing In Welling Eltham - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "We always tell customers to get other quotes. This Sidcup and Bexley border job finished so neatly it looked like we hadn't been, good old Henry Hoover."
 permalink: "/blog/other-quotes/"
 gallery:
   - "/images/products/other-quotes.webp"

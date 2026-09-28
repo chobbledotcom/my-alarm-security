@@ -3,6 +3,7 @@ title: "Nano Shock Sensors"
 date: 2023-03-13
 meta_title: "House Alarm Alarm Battery Orpington - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Orpington. Call 020 8302 4065"
+og_description: "We fitted tiny anthracite shock sensors to sliding doors in Bromley, so the customer's big Labrador can stay home with the alarm perimeter set."
 permalink: "/blog/nano-shock-sensors/"
 gallery:
   - "/images/products/nano-shock-sensors.webp"

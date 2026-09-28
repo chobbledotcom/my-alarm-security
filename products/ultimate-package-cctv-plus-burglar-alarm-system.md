@@ -12,6 +12,7 @@ gallery:
   - /images/products/supreme-package-24hr-colour-cctv-plus-intruder-alarm-system-1749.webp
 meta_description: Ultimate Package with a Standard Alarm System and CCTV Package
   1, including 5MP cameras, built-in microphones and app control.
+og_description: "Our Standard alarm with four movement sensors and two sirens, plus four 5MP cameras with microphones and a 2TB recorder, combined at a discount."
 meta_title: Ultimate Package - Alarm and CCTV Package 1
 ---
 # Ultimate Package

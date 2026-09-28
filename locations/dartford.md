@@ -2,6 +2,7 @@
 title: Dartford
 meta_title: Burglar Alarms and CCTV in Dartford
 meta_description: Burglar alarm servicing, installation, battery changes and hard-wired CCTV in Dartford from MyAlarm Security.
+og_description: "We cover Dartford from Sidcup. Recent jobs include a ColorVu CCTV installation and a cable repair after a carpet fitter went through an alarm cable."
 permalink: "/pages/dartford/"
 eleventyNavigation:
   key: Dartford

@@ -2,6 +2,7 @@
 title: Sevenoaks
 meta_title: Burglar Alarms and CCTV in Sevenoaks
 meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Sevenoaks and nearby Kent areas.
+og_description: "We cover North Sevenoaks from Sidcup - the A20 and M25 make Swanley and West Kingsdown an easy run. We service alarms whoever fitted them."
 permalink: "/pages/sevenoaks/"
 eleventyNavigation:
   key: Sevenoaks

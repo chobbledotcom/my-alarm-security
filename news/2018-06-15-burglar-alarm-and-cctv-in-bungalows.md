@@ -3,6 +3,7 @@ title: "Burglar Alarm And CCTV In Bungalows"
 date: 2018-06-15
 meta_title: "Bungalow Burglar Alarm Bungalow CCTV Bexley - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "Bungalows are common around Sidcup and Welling, and with every room on the ground floor there are more entry points, so we are often asked to secure them."
 permalink: "/blog/burglar-alarm-and-cctv-in-bungalows/"
 gallery:
   - "/images/products/burglar-alarm-and-cctv-in-bungalows.webp"

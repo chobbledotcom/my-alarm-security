@@ -3,6 +3,7 @@ title: "CCTV Colorvu Installation"
 date: 2020-07-22
 meta_title: "CCTV Colorvu Installation Orpington - MyAlarm Security"
 meta_description: "CCTV ColorVu installation. For all your home and business security. Burglar Alarm Servicing, installation, Alarm Battery, CCTV. Call 020 8302 4065 or email us."
+og_description: "We haven't fitted a conventional camera in months. On this Dartford ColorVu job we kept cabling to a minimum and the customer views it all from the app."
 permalink: "/blog/cctv-colorvu-installation/"
 gallery:
   - "/images/products/cctv-colorvu-installation.webp"

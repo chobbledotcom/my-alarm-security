@@ -3,6 +3,7 @@ title: "Camera Positioning CCTV In New Eltham"
 date: 2023-03-02
 meta_title: "CCTV New Eltham Burglar Alarm New Eltham - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in New Eltham. Call 020 8302 4065"
+og_description: "Why camera height matters on a CCTV install: we came out of the loft on this New Eltham refurb so the cameras pick out faces, not the tops of heads."
 permalink: "/blog/camera-positioning-cctv-in-new-eltham/"
 gallery:
   - "/images/products/camera-positioning-cctv-in-new-eltham.webp"

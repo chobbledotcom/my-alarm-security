@@ -31,6 +31,11 @@ content:
         type: string
         label: Meta Description
         maxlength: 155
+      - name: og_description
+        type: string
+        label: Share Text
+        maxlength: 155
+        description: Text shown when this page is shared on Facebook, WhatsApp and other apps. Leave blank to use the Meta Description.
       - name: eleventyNavigation
         label: Navigation
         type: object
@@ -99,6 +104,11 @@ content:
         type: string
         label: Meta Description
         maxlength: 155
+      - name: og_description
+        type: string
+        label: Share Text
+        maxlength: 155
+        description: Text shown when this page is shared on Facebook, WhatsApp and other apps. Leave blank to use the Meta Description.
       - name: faqs
         label: FAQs
         type: object
@@ -150,6 +160,11 @@ content:
         type: string
         label: Meta Description
         maxlength: 155
+      - name: og_description
+        type: string
+        label: Share Text
+        maxlength: 155
+        description: Text shown when this page is shared on Facebook, WhatsApp and other apps. Leave blank to use the Meta Description.
       - { name: subtitle, type: string, label: Subtitle }
       - name: faqs
         label: FAQs
@@ -178,6 +193,11 @@ content:
         type: string
         label: Meta Description
         maxlength: 155
+      - name: og_description
+        type: string
+        label: Share Text
+        maxlength: 155
+        description: Text shown when this page is shared on Facebook, WhatsApp and other apps. Leave blank to use the Meta Description.
       - name: faqs
         label: FAQs
         type: object
@@ -252,6 +272,11 @@ content:
         type: string
         label: Meta Description
         maxlength: 155
+      - name: og_description
+        type: string
+        label: Share Text
+        maxlength: 155
+        description: Text shown when this page is shared on Facebook, WhatsApp and other apps. Leave blank to use the Meta Description.
       - name: faqs
         label: FAQs
         type: object

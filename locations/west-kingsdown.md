@@ -2,6 +2,7 @@
 title: West Kingsdown
 meta_title: "Burglar Alarm System West Kingsdown CCTV System West Kingsdown - MyAlarm Security"
 meta_description: "Home Burglar Alarm System West Kingsdown. CCTV systems West Kingsdown. Home Security Systems, Burglar Alarm Service Battery. Alarm Company Near Me 020 8302 4065"
+og_description: "We cover West Kingsdown from Sidcup for alarms, CCTV and battery changes. If your alarm has a zone fault or hasn't been looked at in years, call us."
 permalink: "/pages/west-kingsdown/"
 eleventyNavigation:
   key: West Kingsdown

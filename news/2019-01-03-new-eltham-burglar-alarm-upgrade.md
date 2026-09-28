@@ -3,6 +3,7 @@ title: "New Eltham Burglar Alarm Upgrade"
 date: 2019-01-03
 meta_title: "New Eltham Burglar Alarm Upgrade - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "A New Eltham house was broken into because its alarm hadn't been serviced in years, so we upgraded it and swapped the 15-year-old siren for a backlit one."
 permalink: "/blog/new-eltham-burglar-alarm-upgrade/"
 gallery:
   - "/images/products/new-eltham-burglar-alarm-upgrade.webp"

@@ -3,6 +3,7 @@ title: "Long Drill Bit"
 date: 2020-08-05
 meta_title: "CCTV Company Bexleyheath Crayford Welling - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "This 10mm drill bit is a metre long, which got the cables through on an Eltham CCTV job after the customer had an incident with their car."
 permalink: "/blog/long-drill-bit/"
 gallery:
   - "/images/products/long-drill-bit.webp"

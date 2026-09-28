@@ -2,6 +2,7 @@
 title: Greenhithe
 meta_title: "Burglar Alarm and CCTV in Greenhithe"
 meta_description: "Burglar Alarms & CCTV in Greenhithe, Kent. Call 020 8302 4065. Pet-friendly systems and adapted alarms for the deaf or hard of hearing."
+og_description: "We cover Greenhithe from Sidcup. For a deaf customer near here we fitted a sounder with a strobe that lights the way in and flashes if the alarm goes off."
 permalink: "/pages/greenhithe/"
 eleventyNavigation:
   key: Greenhithe

@@ -2,6 +2,7 @@
 title: Meopham
 meta_title: "Alarm System Meopham, CCTV Meopham, House Alarm Service Meopham - MyAlarm Security"
 meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Meopham from MyAlarm Security, a Sidcup-based family business."
+og_description: "We cover Meopham from Sidcup for alarms and ColorVu CCTV that records to a hard drive even if the internet drops, and we service any make of alarm."
 permalink: "/pages/meopham/"
 eleventyNavigation:
   key: Meopham

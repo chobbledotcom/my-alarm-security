@@ -3,6 +3,7 @@ title: "Flush Chrome Keypad"
 date: 2020-12-02
 meta_title: "Burglar Alarm Company Bromley - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Bromley. Call 020 8302 4065"
+og_description: "If you can sink a keypad into the wall, this is the chrome finish result. They also come matt black, brushed chrome, white or primed to paint."
 permalink: "/blog/flush-chrome-keypad/"
 gallery:
   - "/images/products/flush-chrome-keypad.webp"

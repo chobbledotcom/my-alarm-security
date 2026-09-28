@@ -12,6 +12,7 @@ gallery:
   - /images/cctv-package-supreme-dec-2025.png
 meta_description: Supreme Package with a Standard Alarm System and CCTV Package
   2, including 4K cameras, 2-way audio and app control.
+og_description: "The Standard alarm and CCTV Package 2 in one job: four movement sensors, four 4K cameras with two-way audio and 30 days of recording at a discount."
 meta_title: Supreme Package - Alarm and CCTV Package 2
 ---
 # Supreme Package

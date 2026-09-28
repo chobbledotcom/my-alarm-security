@@ -3,6 +3,7 @@ title: "Our Ultimate Package"
 date: 2018-07-03
 meta_title: "Home Alarm System Battery And CCTV Sidcup - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "We fitted our Ultimate Package on the Sidcup and Bexley border - a full home alarm plus a four camera HD CCTV system covering the property inside and out."
 permalink: "/blog/our-ultimate-package/"
 gallery:
   - "/images/products/our-ultimate-package.webp"

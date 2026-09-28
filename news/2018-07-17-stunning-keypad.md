@@ -3,6 +3,7 @@ title: "Stunning Keypad"
 date: 2018-07-17
 meta_title: "Burglar Alarm Security System Chislehurst - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "A customer near Chislehurst asked for a keypad to match their brushed steel switches, so we fitted one in the same finish along with flush panic buttons."
 permalink: "/blog/stunning-keypad/"
 gallery:
   - "/images/products/stunning-keypad.webp"

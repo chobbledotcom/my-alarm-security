@@ -3,6 +3,7 @@ title: "Burglar Alarm And CCTV Systems Chislehurst"
 date: 2021-05-07
 meta_title: "Burglar Alarm Company CCTV Company In Chislehurst, Bromley - MyAlarm Security"
 meta_description: "For all of your home business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Chislehurst, Bromley call 020 8302 4065"
+og_description: "We cabled this Chislehurst house while it was still a building site, then came back to second fix the alarm and CCTV once the site had progressed."
 permalink: "/blog/burglar-alarm-and-cctv-systems-chislehurst/"
 gallery:
   - "/images/products/burglar-alarm-and-cctv-systems-chislehurst.webp"

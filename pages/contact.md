@@ -4,6 +4,7 @@ meta_title: Contact MyAlarm Security 020 8302 4065
 meta_description: Contact MyAlarm Security in Sidcup for burglar alarms, CCTV,
   servicing, repairs and alarm battery changes. Serving Bexley, Orpington,
   Bromley, Greenwich, Dartford.
+og_description: "Ring 020 8302 4065 or email sales@myalarmsecurity.co.uk, or use the form on the page and we'll come back to you."
 permalink: /contact/
 layout: contact.html
 eleventyNavigation:

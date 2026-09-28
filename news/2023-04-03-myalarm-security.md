@@ -3,6 +3,7 @@ title: "Myalarm Security"
 date: 2023-04-03
 meta_title: "Burglar Alarm And CCTV Company Alarm Battery Orpington - MyAlarm Security"
 meta_description: "For all of your home and business security, we offer a free survey of your property for a burglar alarm system and cctv system. Contact us now 020 8302 4065"
+og_description: "A bit about who we are: a family-run alarm and CCTV company based between New Eltham and Sidcup, covering Bromley, Orpington, Dartford and Greenwich."
 permalink: "/blog/myalarm-security/"
 ---
 

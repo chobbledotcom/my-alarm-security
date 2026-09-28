@@ -4,6 +4,7 @@ meta_title: Public Liability Insurance - MyAlarm Security
 meta_description: MyAlarm Security carries £1m public liability and £10m
   employers' liability insurance through specialist insurer Alarminsure.
   Certificate on request.
+og_description: "We carry £1m public liability and £10m employers' liability through Alarminsure, and we'll send the certificate over if you need it."
 permalink: /pages/insurance/
 layout: page
 ---

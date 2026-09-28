@@ -2,6 +2,7 @@
 name: Privacy Policy
 meta_title: "Burglar Alarm And CCTV Systems In Sidcup Bexley Orpington - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or send an email."
+og_description: "This page explains what personal data we collect from this website, how we use it, and how long we keep it under GDPR."
 permalink: "/pages/privacy-policy/"
 layout: page
 ---

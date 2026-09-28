@@ -3,6 +3,7 @@ title: "CCTV Image"
 date: 2018-08-22
 meta_title: "CCTV Company Orpington - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "This is the picture quality from one of our CCTV installs on a Petts Wood building site, fitted with a smart alarm so it could be locked up safely."
 permalink: "/blog/cctv-image/"
 gallery:
   - "/images/products/cctv-image.webp"

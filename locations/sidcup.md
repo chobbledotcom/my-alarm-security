@@ -2,6 +2,7 @@
 title: Sidcup
 meta_title: "Burglar Alarm and CCTV in Sidcup"
 meta_description: "Burglar Alarms & CCTV in Sidcup, Bexley. Call 020 8302 4065. We're based in Sidcup and most of our work comes from local recommendations."
+og_description: "Sidcup is our home town - we run the business from here on the Bexley and New Eltham borders, and most of our work comes from local recommendations."
 permalink: "/pages/sidcup/"
 eleventyNavigation:
   key: Sidcup

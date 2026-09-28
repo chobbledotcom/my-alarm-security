@@ -4,6 +4,7 @@ meta_title: Alarm System Crayford, CCTV Crayford. Alarm Service Crayford - MyAla
 meta_description: Alarm System Crayford, CCTV Crayford. Alarm Service Crayford,
   Alarm Battery Replacement Crayford, Home Alarm System Crayford. Tel 020 8302
   4065
+og_description: "We cover Crayford and Dartford from Sidcup, servicing zone faults, tampers and battery changes on any make of alarm. Send us a photo of the panel."
 permalink: /pages/crayford/
 eleventyNavigation:
   key: Crayford

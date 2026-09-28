@@ -3,6 +3,7 @@ name: About Us
 meta_description: Burglar Alarm System, Upgrade, Service, Maintenance, battery
   change, panel replacement, decommission. Bexley, Dartford, Orpington, Bromley,
   Sevenoaks.
+og_description: "Matt has over 30 years in the alarm trade and set up MyAlarm Security in 2017; Rachel handles the admin and bookings."
 meta_title: Home Burglar Alarm System Near Me Bexley Sidcup Orpington Bromley
   Bexleyheath Maintenance and CCTV
 eleventyNavigation:

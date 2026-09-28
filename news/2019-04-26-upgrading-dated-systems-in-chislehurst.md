@@ -3,6 +3,7 @@ title: "Upgrading Dated Systems In Chislehurst"
 date: 2019-04-26
 meta_title: "Pet Friendly Burglar Alarm System Upgrade In Chislehurst - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "A 20-year-old alarm in Chislehurst kept going off at all hours. We found a swollen, leaking battery and quoted a pet-friendly sensor upgrade."
 permalink: "/blog/upgrading-dated-systems-in-chislehurst/"
 gallery:
   - "/images/products/upgrading-dated-systems-in-chislehurst.webp"

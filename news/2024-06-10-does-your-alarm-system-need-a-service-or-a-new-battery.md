@@ -6,6 +6,7 @@ gallery:
 meta_description: Does Your Alarm System Need A Service Or A New Battery?
   Orpington, Bromley, Sevenoaks, Greenwich, Bexley, Dartford, Gravesend. Contact
   us 020 8302 4065
+og_description: "We service and repair alarms we did not install, with no contract or monthly fee - useful when the original installer has retired or vanished."
 meta_title: Alarm System New Battery Service - MyAlarm Security
 ---
 

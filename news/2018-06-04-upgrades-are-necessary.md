@@ -3,6 +3,7 @@ title: "Upgrades Are Necessary"
 date: 2018-06-04
 meta_title: "Burglar Alarm Company CCTV Bean Shoreham - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "We see some poor work on upgrade jobs - the last engineer on this one had left the sensor cable on show because it was fitted too low on the wall."
 permalink: "/blog/upgrades-are-necessary/"
 gallery:
   - "/images/products/upgrades-are-necessary.webp"

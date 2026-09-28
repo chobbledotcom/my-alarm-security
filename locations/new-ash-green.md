@@ -2,6 +2,7 @@
 title: New Ash Green
 meta_title: "Alarm System New Ash Green, CCTV New Ash Green. Alarm Battery - MyAlarm Security"
 meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in New Ash Green from MyAlarm Security, a Sidcup-based family business."
+og_description: "We cover New Ash Green from Sidcup with alarms you can set from an app, CCTV cabled back to a recorder, and servicing on any make of system."
 permalink: "/pages/new-ash-green/"
 eleventyNavigation:
   key: New Ash Green

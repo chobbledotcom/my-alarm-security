@@ -2,6 +2,7 @@
 title: Catford
 meta_title: Burglar Alarms and CCTV in Catford
 meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Catford from MyAlarm Security.
+og_description: "If your Catford alarm has a fault or needs a service, send us a photo of the panel and we can identify it from there. We fit ColorVu CCTV too."
 permalink: /pages/catford/
 eleventyNavigation:
   key: Catford

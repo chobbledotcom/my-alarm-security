@@ -4,6 +4,7 @@ date: 2026-02-18
 subtitle: Previous rogue company?
 meta_title: "Burglar Alarm Service Maintenance in Orpington. "
 meta_description: A burglar alarm service in Orpington after a WIRLS Supervn F1 low battery fault and missing panel screw.
+og_description: "A service call in Orpington found the alarm panel taped shut with no screw, and siren batteries four years old, despite the customer paying for new ones."
 gallery:
   - /images/alarm-system-with-tape-orpington-1.jpeg
   - /images/alarm-system-with-tape-orpington-2.jpeg

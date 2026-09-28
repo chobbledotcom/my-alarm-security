@@ -7,6 +7,7 @@ meta_title: My alarm keeps beeping and I can’t get in touch with the guy who
   used to service it
 meta_description: Menvier burglar alarm panel. Photo taken by MyAlarm Security
   Sidcup. 020 8302 4065.
+og_description: "If your alarm keeps beeping, it is usually telling you a battery needs changing. We photographed this Menvier panel on a job in West Wickham."
 gallery:
   - /images/Menvier panel.png
 ---

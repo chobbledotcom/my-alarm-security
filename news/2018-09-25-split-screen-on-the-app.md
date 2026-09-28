@@ -3,6 +3,7 @@ title: "Split Screen On The App"
 date: 2018-09-25
 meta_title: "CCTV Company Bromley Orpington Bexley - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "This CCTV install in Bromley used our 2MP cameras with 30m night vision, and we hid every cable so the customer could not see a single one."
 permalink: "/blog/split-screen-on-the-app/"
 gallery:
   - "/images/products/split-screen-on-the-app.webp"

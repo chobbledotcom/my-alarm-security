@@ -1,6 +1,7 @@
 ---
 name: Reviews
 meta_description: Customer reviews for MyAlarm Security, a family-run burglar alarm and CCTV company based in Sidcup.
+og_description: "Over 100 five-star reviews across Google and Checkatrade from customers around Sidcup and Bexley who've had alarms fitted, serviced or repaired."
 meta_title: MyAlarm Security Reviews
 eleventyNavigation:
   key: Reviews

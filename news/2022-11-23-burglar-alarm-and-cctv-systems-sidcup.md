@@ -3,6 +3,7 @@ title: "Burglar Alarm And CCTV Systems Sidcup"
 date: 2022-11-23
 meta_title: "Burglar Alarm And CCTV Systems In Sidcup - MyAlarm Security"
 meta_description: "Burglar Alarm and CCTV Systems Sidcup. For all of your home and business security. Alarm Battery and CCTV in Sidcup. Call 020 8302 4065"
+og_description: "Five years in, we service alarms and change batteries in systems we never fitted. Send a photo of the panel and we can usually tell what it is from that."
 permalink: "/blog/burglar-alarm-and-cctv-systems-sidcup/"
 gallery:
   - "/images/products/burglar-alarm-and-cctv-systems-sidcup.webp"

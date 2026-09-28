@@ -3,6 +3,7 @@ title: "Deterrent"
 date: 2018-06-12
 meta_title: "Welling Security System Welling Burglar Alarm Company - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV Welling. Call 020 8302 4065 or email us."
+og_description: "We advised a customer in Welling to swap their old external siren for a new backlit one, as it is the part an intruder actually sees from the street."
 permalink: "/blog/deterrent/"
 gallery:
   - "/images/products/deterrent.webp"

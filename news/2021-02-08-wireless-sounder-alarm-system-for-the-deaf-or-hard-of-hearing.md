@@ -3,6 +3,7 @@ title: "Wireless Sounder Alarm System For The Deaf Or Hard Of Hearing"
 date: 2021-02-08
 meta_title: "Deaf Home Alarm System Company - MyAlarm Security"
 meta_description: "Wireless sounder for the deaf or hard of hearing. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Orpington. Call 020 8302 4065"
+og_description: "A deaf customer near Dartford couldn't rely on the siren, so we fitted Pyronix sounders with bright strobes that light the way and wake her at night."
 permalink: "/blog/wireless-sounder-alarm-system-for-the-deaf-or-hard-of-hearing/"
 gallery:
   - "/images/products/wireless-sounder-alarm-system-for-the-deaf-or-hard-of-hearing.webp"

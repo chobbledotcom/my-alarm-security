@@ -4,6 +4,7 @@ date: 2026-05-13
 subtitle: From DIY to a professionally installed Hikvision CCTV system
 meta_title: "Burglar Alarm and CCTV Upgrade in Eltham"
 meta_description: A home in Eltham upgraded from a DIY CCTV setup to a Hikvision CCTV system and Pyronix burglar alarm.
+og_description: "We replaced a sagging DIY CCTV set-up in Eltham with a 4 camera Hikvision ColourVu system and a Pyronix alarm, hiding the cables and patching the walls."
 gallery:
   - /images/swann-to-hik-upgrade-1-may-26.jpg
   - /images/swann-to-hik-upgrade-2-may-26.jpg

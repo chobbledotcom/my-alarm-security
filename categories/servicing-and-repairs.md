@@ -1,6 +1,7 @@
 ---
 title: Servicing And Repairs
 meta_description: Burglar alarm servicing, repairs, call-outs and battery changes in Sidcup, Bexley, Eltham, Orpington and nearby areas.
+og_description: "We service and repair burglar alarms of any make around Sidcup and Bexley, even if we didn't fit yours, from £95 a service. Send us a photo of the panel."
 meta_title: Burglar Alarm Servicing and Repairs
 eleventyNavigation:
   key: Servicing & Repairs

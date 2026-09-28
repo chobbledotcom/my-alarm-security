@@ -2,6 +2,7 @@
 title: Ebbsfleet
 meta_title: "Burglar Alarm and CCTV in Ebbsfleet"
 meta_description: "Burglar Alarms & CCTV in Ebbsfleet, Kent. Call 020 8302 4065. Perimeter protection for larger plots and outbuildings."
+og_description: "We cover Ebbsfleet from Sidcup, including larger plots with outbuildings. One customer had cameras and external detectors fitted after repeat thefts."
 permalink: "/pages/ebbsfleet/"
 eleventyNavigation:
   key: Ebbsfleet

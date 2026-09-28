@@ -3,6 +3,7 @@ title: "Bromley Protection"
 date: 2018-10-01
 meta_title: "Bromley Home Burlgar Alarm Company - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "We protected a detached Bromley house with vibration sensors and door contacts plus six cameras, after a lot of calls about burglaries in the area."
 permalink: "/blog/bromley-protection/"
 gallery:
   - "/images/products/bromley-protection.webp"

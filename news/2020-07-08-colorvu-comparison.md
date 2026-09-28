@@ -3,6 +3,7 @@ title: "Colorvu Comparison"
 date: 2020-07-08
 meta_title: "CCTV Company Bromley Orpington - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "Shots from 01.11am and 16.15pm show how Hikvision ColorVu keeps full colour at night next to a conventional camera, which sold it to this Eltham customer."
 permalink: "/blog/colorvu-comparison/"
 gallery:
   - "/images/products/colorvu-comparison.webp"

@@ -3,6 +3,7 @@ title: "Market Leading Equipment"
 date: 2020-09-15
 meta_title: "Pyronix Home Burglar Alarm System Company Bexley Bexleyheath - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "We only fit Pyronix and Hikvision, both made in the UK and individually checked before they reach us. Cheaper kit exists but reliability is worth it."
 permalink: "/blog/market-leading-equipment-/"
 gallery:
   - "/images/products/market-leading-equipment-.webp"

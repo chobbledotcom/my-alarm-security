@@ -3,6 +3,7 @@ title: "Protecting Sidcup"
 date: 2018-09-03
 meta_title: "Burglar Alarm And CCTV Systems In Sidcup - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "A customer very close to our Sidcup base got quotes from a few local companies and came back to us within days to book the installation date."
 permalink: "/blog/protecting-sidcup/"
 gallery:
   - "/images/products/protecting-sidcup.webp"

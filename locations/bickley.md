@@ -2,6 +2,7 @@
 title: Bickley
 meta_title: Burglar Alarms and CCTV in Bickley
 meta_description: Burglar Alarms & CCTV in Bickley, Bromley. Call 020 8302 4065. Pet-friendly alarm systems and discreet sensors for larger homes.
+og_description: "We cover Bickley from Sidcup, mostly the larger detached homes. A job nearby used tiny anthracite shock sensors so the dog kept its run of the house."
 permalink: "/pages/bickley/"
 eleventyNavigation:
   key: Bickley

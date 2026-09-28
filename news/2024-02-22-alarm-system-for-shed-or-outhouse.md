@@ -3,6 +3,7 @@ title: "Alarm System For Shed Or Outhouse"
 date: 2024-02-22
 meta_title: "Shed Outhouse Office Alarm System Bromley Orpington Bexley Eltham - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV in Orpington. Call 020 8302 4065"
+og_description: "You can add a shed, garage or outhouse to your house alarm. We fitted a door contact on a plastic shed and gave it its own setting on the panel."
 permalink: "/blog/alarm-system-for-shed-or-outhouse/"
 gallery:
   - "/images/products/alarm-system-for-shed-or-outhouse.webp"

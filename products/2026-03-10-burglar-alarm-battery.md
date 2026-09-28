@@ -6,6 +6,7 @@ categories:
 meta_title: Burglar Alarm System Battery
 meta_description: Pyronix, Scantronic, Menvier, Visonic, Texecom, Veritas,
   Eaton, Cooper, Galaxy, Honeywell Alarm System Battery
+og_description: "We stock alarm batteries for Pyronix, Texecom, Honeywell and most makes, and a £95 call out covers fitting. Send us a photo of the panel and we can ID it."
 subtitle: Burglar Alarm System Battery Replacement
 thumbnail: /images/pyronix-eaton-texecom-menvier-honeywell-visonic-scantronic.jpg
 gallery:

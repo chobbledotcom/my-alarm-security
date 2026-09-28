@@ -5,6 +5,7 @@ gallery:
   - /images/alarm-and-ladder.jpg
   - /images/alarm-and-ladder-not-painted.jpg
 meta_description: A Belvedere home upgraded from an older burglar alarm to a smart alarm system with a new external siren.
+og_description: "A Belvedere home swapped a nearly 25-year-old alarm for a smart system they can set from an app, with a new external siren to finish the job off."
 meta_title: "Home Burglar Alarm Upgrade in Belvedere"
 subtitle: "Home Burglar Alarm System Installation "
 ---

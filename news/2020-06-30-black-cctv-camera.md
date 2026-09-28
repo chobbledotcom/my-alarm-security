@@ -3,6 +3,7 @@ title: "Black CCTV Camera"
 date: 2020-06-30
 meta_title: "CCTV Package Bexley Welling Chislehurst - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "Black camera housings were out of stock nationwide during Covid, so we sprayed them ourselves for this Dartford customer to get the colour he wanted."
 permalink: "/blog/black-cctv-camera/"
 gallery:
   - "/images/products/black-cctv-camera.webp"

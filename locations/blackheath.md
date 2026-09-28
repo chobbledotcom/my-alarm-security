@@ -2,6 +2,7 @@
 title: Blackheath
 meta_title: Burglar Alarms and CCTV in Blackheath
 meta_description: Burglar Alarms & CCTV in Blackheath, Greenwich. Call 020 8302 4065. We also put right CCTV installs that other companies got wrong.
+og_description: "We cover Blackheath from Sidcup. One job near here meant ripping out a DIY CCTV install where the cables let water run straight into the junction boxes."
 permalink: "/pages/blackheath/"
 eleventyNavigation:
   key: Blackheath

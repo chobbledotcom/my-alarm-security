@@ -1,6 +1,7 @@
 ---
 title: Access Control
 meta_description: Access control and door entry systems for homes and businesses, with card, fob, PIN and reader options.
+og_description: "We fit door entry and access control with cards, fobs or PIN codes around Sidcup and Orpington. Tell us what the building needs and we can talk options."
 meta_title: Access Control and Door Entry Systems
 eleventyNavigation:
   key: Access Control

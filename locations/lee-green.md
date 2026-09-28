@@ -2,6 +2,7 @@
 title: Lee Green
 meta_title: "Alarm System Lee Green, CCTV Lee Green. Alarm Service Lee Green - MyAlarm Security"
 meta_description: "Burglar alarm servicing, fault finding, battery changes, installation and hard-wired CCTV in Lee Green from MyAlarm Security, a Sidcup-based family business."
+og_description: "If you can't get hold of whoever installed your alarm in Lee Green, we service all makes from Sidcup, and our CCTV holds around 30 days of footage."
 permalink: "/pages/lee-green/"
 eleventyNavigation:
   key: Lee Green

@@ -3,6 +3,7 @@ title: "West Wickham Security"
 date: 2023-08-01
 meta_title: "Wickham Security - MyAlarm Security"
 meta_description: "West Wickham Security. For all of your home and business security needs in West Wickham, give us a call 020 8302 4065. Burglar alarm and cctv. Servicing."
+og_description: "Yes, we cover West Wickham for alarm servicing, repairs and new systems, even if we did not fit yours. Send a photo of the panel and we can usually ID it."
 permalink: "/blog/west-wickham-security/"
 gallery:
   - "/images/products/west-wickham-security.webp"

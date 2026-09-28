@@ -7,6 +7,7 @@ meta_description: Moved into a new home with a Texecom alarm system with error
   messages and faults on the panel. We can service all makes and models of alarm
   system including Pyronix, Scantronic, Texecom, Visonic, Veritas and more. Tel
   020 8302 4065
+og_description: "New owners of a Sidcup house were left with a bleeping Texecom panel, so we stripped out the old monitoring and reprogrammed it as an audible-only system."
 gallery:
   - /images/Texecom 1.jpeg
   - /images/Texecom 2.jpeg

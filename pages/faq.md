@@ -7,6 +7,7 @@ layout: page
 permalink: /faq/
 meta_title: Burglar Alarm and CCTV FAQs
 meta_description: Answers about burglar alarm installation, servicing, CCTV packages, app access and call-outs from MyAlarm Security in Sidcup.
+og_description: "Straight answers on alarm costs, app fees, servicing and CCTV, including what £95 gets you and which brands we service. If yours isn't listed, just ask."
 faqs:
   - question: Why choose us?
     answer: With over 30 years experience in the home and business security industry, there aren't many systems that we do not know or haven't worked on. We are a family run business and pride ourselves on our customer service and workmanship.

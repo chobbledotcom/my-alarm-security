@@ -3,6 +3,7 @@ title: "Patio Doors"
 date: 2018-11-30
 meta_title: "Burglar Alarm Security System Company Orpington Bromley - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "Burglars round Sidcup are smashing rear patio doors with whatever is heavy in the garden, so we fit alarms that trigger before they get inside."
 permalink: "/blog/patio-doors/"
 gallery:
   - "/images/products/patio-doors.webp"

@@ -3,6 +3,7 @@ title: "Supreme Package"
 date: 2019-02-01
 meta_title: "CCTV And Burglar Alarm System Package Company Dartford - MyAlarm Security"
 meta_description: "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV. Call 020 8302 4065 or email us."
+og_description: "Our Supreme Package pairs an app-controlled burglar alarm with 24-hour colour CCTV, viewable and playable back from your phone wherever you have internet."
 permalink: "/blog/supreme-package/"
 gallery:
   - "/images/products/supreme-package.webp"
