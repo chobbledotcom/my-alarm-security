@@ -11,7 +11,9 @@ gallery:
 meta_description: Standard Pyronix Alarm System - Fully Certified, Customer
   Service, High Quality Systems, Professionally Fitted. Bexley Bromley Orpington
   Sevenoaks Dartford Greenwich
-og_description: "Our most popular package at £699: a Pyronix wireless alarm with a door contact, four movement sensors, two sirens and the app, supplied and fitted."
+og_description: "Our most popular package at £699: a Pyronix wireless alarm with
+  a door contact, four movement sensors, siren, decoy app subscription, supplied
+  and fitted."
 meta_title: Standard System Pyronix Alarm Package. Door Contact, Movement
   Sensors, Alarm Siren. Professionally Fitted. Bexley Orpington Bromley
   Greenwich Sevenoaks - MyAlarm Security
