@@ -1,7 +1,7 @@
 ---
 title: Upgrading an Accenta Burglar Alarm System in Chislehurst
 date: 2026-10-07
-subtitle: From an Accenta to Pyronoix
+subtitle: From an Old Accenta to a New Pyronix Burglar Alarm System
 meta_title: Upgrading an Old Burglar Alarm in Chislehurst. Accenta to Pyronix.
 meta_description: See how we replaced an ageing burglar alarm in Chislehurst
   with a modern Pyronix smart alarm system, giving the homeowner app control,
