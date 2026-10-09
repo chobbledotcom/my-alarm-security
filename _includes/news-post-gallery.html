@@ -1,0 +1,15 @@
+{% if gallery %}
+  <div class="stack">
+    {% for image in gallery %}
+      {%- capture alt_text -%}{%- include "get-alt-text.html" -%}{%- endcapture -%}
+      {% comment %}
+        Overrides the template include: passes an explicit sizes attribute
+        instead of the default sizes="auto". Chrome (observed in v154) can
+        permanently wedge lazy images that use sizes="auto" with width/height
+        attributes inside <picture>, leaving the gallery invisible. Explicit
+        sizes are universally supported and keep the same responsive selection.
+      {% endcomment %}
+      {% image image, alt_text, "", "", "(min-width: 1348px) 1250px, 100vw" %}
+    {% endfor %}
+  </div>
+{% endif %}
