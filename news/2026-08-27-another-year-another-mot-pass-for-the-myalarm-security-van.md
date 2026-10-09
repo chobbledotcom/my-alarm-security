@@ -9,7 +9,7 @@ meta_description: Follow the latest news from MyAlarm Security, your local,
   South East London and Kent
 og_description: "The van passed its MOT again at Neves in Sidcup - it is out every day with the tools and spares we need to get to customers round Kent and London."
 gallery:
-  - /images/Van MOT Neves Sidcup.jpeg
+  - /images/van-mot-neves-sidcup.jpeg
 ---
 Our MyAlarm Security van has recently been in for its annual MOT and vehicle check at Neves MOT Centre in Sidcup and we are very pleased to say it passed with flying colours!
 

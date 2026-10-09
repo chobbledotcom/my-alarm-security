@@ -6,10 +6,10 @@ meta_title: Home Alarm System Upgrade in Eltham
 meta_description: A 20-year-old burglar alarm in Eltham upgraded to a modern smart Pyronix system with a tidier external siren.
 og_description: "A 20-year-old alarm in Eltham upgraded to a smart Pyronix system, with the pebble dash behind the old siren tidied up so the front looks right."
 gallery:
-  - /images/PHOTO-2026-01-20-15-09-25_1.jpg
-  - /images/PHOTO-2026-01-20-15-09-25.jpg
-  - /images/PHOTO-2026-01-20-15-09-25_2.jpg
-  - /images/PHOTO-2026-01-20-15-09-25_3.jpg
+  - /images/photo-2026-01-20-15-09-251.jpg
+  - /images/photo-2026-01-20-15-09-25.jpg
+  - /images/photo-2026-01-20-15-09-252.jpg
+  - /images/photo-2026-01-20-15-09-253.jpg
 ---
 Upgrading a 20-Year-Old Burglar Alarm to a Modern Smart Pyronix System
 

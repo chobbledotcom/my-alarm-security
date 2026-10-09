@@ -1,13 +1,13 @@
 {
   "icons": [
-    { "filename": "Logo Pyronix.png", "alt_text": "Pyronix" },
-    { "filename": "Logo Cooper Menvier.png", "alt_text": "Cooper & Menvier" },
-    { "filename": "Logo Eaton.png", "alt_text": "Eaton" },
-    { "filename": "Logo Hikvision.png", "alt_text": "Hikvision" },
-    { "filename": "Logo Honeywell.png", "alt_text": "Honeywell" },
-    { "filename": "Logo Menvier.png", "alt_text": "Menvier" },
-    { "filename": "Logo Scantronic.png", "alt_text": "Scantronic" },
-    { "filename": "Logo Texecom.png", "alt_text": "Texecom" },
-    { "filename": "Logo Visonic.png", "alt_text": "Visonic" }
+    { "filename": "logo-pyronix.png", "alt_text": "Pyronix" },
+    { "filename": "logo-cooper-menvier.png", "alt_text": "Cooper & Menvier" },
+    { "filename": "logo-eaton.png", "alt_text": "Eaton" },
+    { "filename": "logo-hikvision.png", "alt_text": "Hikvision" },
+    { "filename": "logo-honeywell.png", "alt_text": "Honeywell" },
+    { "filename": "logo-menvier.png", "alt_text": "Menvier" },
+    { "filename": "logo-scantronic.png", "alt_text": "Scantronic" },
+    { "filename": "logo-texecom.png", "alt_text": "Texecom" },
+    { "filename": "logo-visonic.png", "alt_text": "Visonic" }
   ]
 }

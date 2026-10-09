@@ -8,7 +8,7 @@ meta_description: " If you're experiencing a genuine fault with your burglar
   alarm system or would like it professionally checked, feel free to get in
   touch with our friendly team. Sales@MyAlarmSecurity.co.uk"
 gallery:
-  - /images/Alarm sensor beeping.png
+  - /images/alarm-sensor-beeping.png
 ---
 # 'My Burglar Alarm Sensor Is Beeping' - Why It Probably Isn't Your Burglar Alarm...
 

@@ -7,10 +7,10 @@ meta_description: See how we replaced an ageing burglar alarm in Chislehurst
   with a modern Pyronix smart alarm system, giving the homeowner app control,
   instant alerts and greater peace of mind.
 gallery:
-  - /images/Pugh upgrade 1.jpeg
-  - /images/Pugh upgrade 2.jpeg
-  - /images/Pugh upgrade 3.jpeg
-  - /images/Pugh upgrade 4.jpeg
+  - /images/pugh-upgrade-1.jpeg
+  - /images/pugh-upgrade-2.jpeg
+  - /images/pugh-upgrade-3.jpeg
+  - /images/pugh-upgrade-4.jpeg
 ---
 We recently upgraded an old Accenta burglar alarm system for a customer in Chislehurst. The existing system had been protecting the property for well over 20 years and had provided many years of reliable service. However, as with any ageing electronic equipment, components had started to fail.
 

@@ -6,7 +6,7 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 og_description: "We only fit Pyronix and Hikvision, both made in the UK and individually checked before they reach us. Cheaper kit exists but reliability is worth it."
 permalink: "/blog/market-leading-equipment-/"
 gallery:
-  - "/images/products/market-leading-equipment-.webp"
+  - "/images/products/market-leading-equipment.webp"
 ---
 
 # Market Leading Equipment

@@ -10,7 +10,7 @@ meta_description: "What is the difference is between the various alarm system
   common types of alarm sensors and what they do. "
 og_description: "A plain explanation of the three common alarm sensors - PIRs, door contacts and shock sensors - and which combination suits your house and your pets."
 gallery:
-  - /images/Alarm Sensors - PIRs, Door Contacts, Vibration Shock Sensors.jpeg
+  - /images/alarm-sensors-pirs-door-contacts-shock.jpeg
 ---
 **What's the Difference Between Alarm Sensors?**
 

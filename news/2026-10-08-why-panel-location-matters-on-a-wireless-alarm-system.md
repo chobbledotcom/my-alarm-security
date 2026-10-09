@@ -10,7 +10,7 @@ meta_description: Experiencing wireless alarm faults or poor signal? Discover
 og_description: MyAlarm Security. Professional Burglar Alarm & CCTV
   Installation. Bexley, Bromley, Orpington, Greenwich, Dartford.
 gallery:
-  - /images/Crockenhill install.jpeg
+  - /images/crockenhill-install.jpeg
 ---
 We were recently called to a property where the customer was having constant problems with their alarm system. The alarm would regularly lose connection to devices, causing faults and frustration.
 

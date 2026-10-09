@@ -8,7 +8,7 @@ meta_description: Keep an eye on who’s at your door with a Pyronix video
   doorbell and chime, professionally supplied & installed for just £199.
 og_description: "A Pyronix video doorbell and chime, supplied, installed and set up with the app on your phone for £199 - we do the whole lot so it works from day one."
 gallery:
-  - /images/Doorbell £199 Aug 2026.png
+  - /images/video-doorbell-aug-2026.png
 ---
 Upgrade your home security with a video doorbell and chime, professionally installed and set up with app control for just £199.
 

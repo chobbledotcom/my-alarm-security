@@ -6,7 +6,7 @@ meta_description: "For all of your home and business security. Burglar Alarm Ser
 og_description: "Through lockdown we kept installing in full PPE around Sidcup and Bexley, and took call-outs from people who weren't even our customers."
 permalink: "/blog/how-are-we-doing-covid-a-tough-time-for-us-all-/"
 gallery:
-  - "/images/products/how-are-we-doing-covid-a-tough-time-for-us-all-.webp"
+  - "/images/products/how-are-we-doing-covid-a-tough-time-for-us-all.webp"
 ---
 
 # How are we doing?
