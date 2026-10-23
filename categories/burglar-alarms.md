@@ -3,9 +3,9 @@ title: Burglar Alarms
 meta_description: Burglar alarm installation in Sidcup, Bexley, Eltham,
   Orpington, Bromley and nearby areas, with Pyronix systems, app control and
   free surveys.
-og_description: We fit Pyronix wireless burglar alarms around Sidcup and Bexley,
-  with app control and packages from £639 fitted. MyAlarm Security brings a demo
-  kit to every survey.
+og_description: We fit Pyronix wireless burglar alarms in Bexley, Greenwich,
+  Bromley, Orpington, Dartford and surrounding areas with app control. Packages
+  from £639 fitted. MyAlarm Security brings a demo kit to every survey.
 meta_title: Burglar Alarm Installation in Sidcup
 eleventyNavigation:
   key: Burglar Alarms
