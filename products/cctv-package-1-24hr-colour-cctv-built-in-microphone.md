@@ -11,6 +11,7 @@ gallery:
 meta_description: Four-camera 5MP CCTV package with built-in microphones, 2TB
   recorder storage, app viewing and professional installation.
 og_description: "Four 5MP cameras recording in colour through the night, with microphones, a 2TB recorder and app viewing. Hard drive prices shift, so we quote each job."
+og_title: "4-Camera 5MP Colour CCTV with Microphones - Get a Quote"
 meta_title: CCTV Package 1 - 5MP Colour Cameras
 ---
 # CCTV Package 1

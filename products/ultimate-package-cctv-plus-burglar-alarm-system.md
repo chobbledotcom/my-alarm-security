@@ -13,6 +13,7 @@ gallery:
 meta_description: Ultimate Package with a Standard Alarm System and CCTV Package
   1, including 5MP cameras, built-in microphones and app control.
 og_description: "Our Standard alarm with four movement sensors and two sirens, plus four 5MP cameras with microphones and a 2TB recorder, combined at a discount."
+og_title: "Alarm + 5MP CCTV Package, Fitted in One Job"
 meta_title: Ultimate Package - Alarm and CCTV Package 1
 ---
 # Ultimate Package

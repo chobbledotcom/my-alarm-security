@@ -3,6 +3,7 @@ title: Burglar Alarm Battery
 price: From £4
 categories:
   - categories/servicing-and-repairs.md
+og_title: "Burglar Alarm Battery Replacement for Most Makes - from £4"
 meta_title: Burglar Alarm System Battery
 meta_description: Pyronix, Scantronic, Menvier, Visonic, Texecom, Veritas,
   Eaton, Cooper, Galaxy, Honeywell Alarm System Battery

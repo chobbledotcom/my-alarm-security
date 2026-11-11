@@ -14,6 +14,7 @@ meta_description: Standard Pyronix Alarm System - Fully Certified, Customer
 og_description: "Our most popular package at £699: a Pyronix wireless alarm with
   a door contact, four movement sensors, siren, decoy app subscription, supplied
   and fitted."
+og_title: "Standard Pyronix Alarm: 4 Sensors & App - £699 Fitted"
 meta_title: Standard System Pyronix Alarm Package. Door Contact, Movement
   Sensors, Alarm Siren. Professionally Fitted. Bexley Orpington Bromley
   Greenwich Sevenoaks - MyAlarm Security

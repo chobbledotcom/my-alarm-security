@@ -8,12 +8,15 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ec2023" />
 
-{%- comment -%} Facebook OpenGraph / Twitter card tags. og_description is the
+{%- comment -%} Facebook OpenGraph / Twitter card tags. og_title is the per-page
+  share title; it falls back to the page title (not meta_title, which is tuned
+  for search results and reads badly in a link preview). og_description is the
   per-page share text; it falls back to the meta description. {%- endcomment -%}
+{%- assign share_title = og_title | default: title | default: meta_title -%}
 {%- assign share_description = og_description | default: meta_description -%}
 <meta property="og:site_name" content="{{ site.name | escape }}" />
 <meta property="og:locale" content="{{ meta.language | default: "en-GB" | replace: "-", "_" }}" />
-<meta property="og:title" content="{{ meta_title | default: title | escape }}" />
+<meta property="og:title" content="{{ share_title | escape }}" />
 {%- if share_description -%}
 <meta property="og:description" content="{{ share_description | escape }}" />
 {%- endif -%}
@@ -30,7 +33,7 @@
 <meta property="og:image:height" content="450" />
 <meta property="og:image:alt" content="MyAlarm Security branding with CCTV cameras and houses in a connected network" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="{{ meta_title | default: title | escape }}" />
+<meta name="twitter:title" content="{{ share_title | escape }}" />
 {%- if share_description -%}
 <meta name="twitter:description" content="{{ share_description | escape }}" />
 {%- endif -%}

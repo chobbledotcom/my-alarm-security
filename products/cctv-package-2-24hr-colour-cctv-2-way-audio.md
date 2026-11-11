@@ -11,6 +11,7 @@ gallery:
 meta_description: Four-camera 4K CCTV package with 2-way audio, 4TB recorder
   storage, app viewing and professional installation.
 og_description: "Our 4K CCTV package: four cameras that hold their colour at night and two-way audio, so you can listen and speak through the app. We quote per job."
+og_title: "4-Camera 4K CCTV with 2-Way Audio - Get a Quote"
 meta_title: CCTV Package 2 - 4K Cameras and 2-Way Audio
 ---
 # CCTV Package 2
