@@ -7,6 +7,8 @@ meta_description: Alarm System Barnehurst, CCTV Barnehurst. Alarm Maintenance
   Barnehurst. 020 8302 4065.
 og_description: "We cover Barnehurst from Sidcup for alarms, CCTV and battery changes. If your keypad has stopped working, send a photo of the panel and we'll identify it."
 permalink: /pages/barnehurst/
+hero_image: "/images/locations/house-and-van.webp"
+hero_alt: "MyAlarm Security van outside a customer's house"
 eleventyNavigation:
   key: Barnehurst
   parent: Service Areas

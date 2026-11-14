@@ -1,3 +1,16 @@
+{%- comment -%} Host for the animated page background (assets/js/effects.js).
+  It's empty and purely decorative - without the script the normal CSS
+  background shows instead. {%- endcomment -%}
+<div class="page-network" data-network="light" data-network-fixed aria-hidden="true"></div>
+<div class="top-bar">
+  <p class="top-bar-trust">Family run <span aria-hidden="true">·</span> DBS checked <span aria-hidden="true">·</span> Over 30 years' experience</p>
+  <p class="top-bar-contact">
+    <a href="tel:02083024065">020 8302 4065</a>
+    <a class="top-bar-email" href="mailto:sales@MyAlarmSecurity.co.uk">sales@MyAlarmSecurity.co.uk</a>
+  </p>
+</div>
 <header>
-  <img src="/assets/logo.png" alt="{{ site.name }}" />
+  <a href="/" aria-label="{{ site.name }} home">
+    <img src="/assets/logo.png" alt="{{ site.name }}" width="474" height="550" />
+  </a>
 </header>

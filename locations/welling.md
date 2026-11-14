@@ -4,6 +4,8 @@ meta_title: "Burglar Alarm and CCTV in Welling"
 meta_description: "Burglar Alarms & CCTV in Welling, Bexley. Call 020 8302 4065. Plenty of experience securing the bungalows that are common round Welling."
 og_description: "Welling is just down the road from us, and bungalows are common there, which means more entry points to think about. We've fitted plenty of them."
 permalink: "/pages/welling/"
+hero_image: "/images/locations/van-side.webp"
+hero_alt: "The MyAlarm Security van"
 eleventyNavigation:
   key: Welling
   parent: Service Areas

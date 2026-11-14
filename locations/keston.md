@@ -4,6 +4,8 @@ meta_title: "Alarm System Keston, CCTV Keston. Alarm Service Battery Keston - My
 meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Keston from MyAlarm Security, a Sidcup-based family business."
 og_description: "We've installed ColorVu CCTV across Keston and Orpington, and we service any make of alarm. Send a photo of the panel if you're unsure what it is."
 permalink: "/pages/keston/"
+hero_image: "/images/locations/branded-siren.webp"
+hero_alt: "MyAlarm Security branded alarm siren on a brick wall"
 eleventyNavigation:
   key: Keston
   parent: Service Areas

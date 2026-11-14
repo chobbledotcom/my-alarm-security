@@ -4,6 +4,8 @@ meta_title: Burglar Alarms and CCTV in Beckenham
 meta_description: Burglar alarm servicing, installation and hard-wired CCTV in Beckenham from MyAlarm Security.
 og_description: "We fit burglar alarms and hard-wired Hikvision CCTV in Beckenham, with each camera cabled back to the recorder rather than relying on a wireless kit."
 permalink: "/pages/beckenham/"
+hero_image: "/images/locations/engineer-fitting-keypad.webp"
+hero_alt: "MyAlarm Security engineer fitting an alarm control panel"
 eleventyNavigation:
   key: Beckenham
   parent: Service Areas

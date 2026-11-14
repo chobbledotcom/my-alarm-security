@@ -4,6 +4,21 @@ meta_title: "Burglar Alarm and CCTV in New Eltham"
 meta_description: "Burglar Alarms & CCTV in New Eltham, Greenwich. Call 020 8302 4065. We're based on the SE9 border, so New Eltham is our home patch."
 og_description: "Sidcup is our base and New Eltham is on the doorstep. We once came out here on Christmas Eve to silence a siren with a flat battery, head torch and all."
 permalink: "/pages/new-eltham/"
+hero_image: "/images/locations/new-eltham.webp"
+hero_alt: "MyAlarm Security engineer up a ladder on an out of hours call out in New Eltham"
+work:
+  - image: "/images/locations/work-complete-security-new-eltham.webp"
+    title: "Complete Security In New Eltham"
+    url: "/blog/complete-security-in-new-eltham/"
+  - image: "/images/locations/work-new-eltham-upgrade.webp"
+    title: "New Eltham Burglar Alarm Upgrade"
+    url: "/blog/new-eltham-burglar-alarm-upgrade/"
+  - image: "/images/locations/work-camera-positioning-new-eltham.webp"
+    title: "Camera Positioning CCTV In New Eltham"
+    url: "/blog/camera-positioning-cctv-in-new-eltham/"
+  - image: "/images/locations/work-out-of-hours-call-out.webp"
+    title: "Out Of Hours Call Out In New Eltham / Chislehurst"
+    url: "/blog/out-of-hours-call-out-in-new-eltham-chislehurst/"
 eleventyNavigation:
   key: New Eltham
   parent: Service Areas

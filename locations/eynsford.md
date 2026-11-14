@@ -4,6 +4,8 @@ meta_title: "Alarm System Eynsford, CCTV System Eynsford. Alarm Service Eynsford
 meta_description: "Alarm System Eynsford, CCTV System Eynsford. Alarm Service Eynsford, Alarm Battery Replacement Eynsford, Home Alarm System Eynsford. Tel 020 8302 4065"
 og_description: "We cover Eynsford and the Darent Valley for alarms, CCTV and door entry. Our free survey comes with a demo kit so you can see the panel and sensors first."
 permalink: "/pages/eynsford/"
+hero_image: "/images/locations/keypad.webp"
+hero_alt: "Pyronix alarm control panel showing MyAlarm Security on the display"
 eleventyNavigation:
   key: Eynsford
   parent: Service Areas

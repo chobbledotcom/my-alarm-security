@@ -4,6 +4,8 @@ meta_title: "Wilmington Alarm Systems Wilmington CCTV Company. Home Security - M
 meta_description: "Burglar Alarm System Wilmington. CCTV systems Wilmington. Home Security Systems, Burglar Alarm Service Alarm Battery Wilmington. Contact us  020 8302 4065."
 og_description: "We cover Wilmington from Sidcup with 30 years in electronic security. If refurbishment means an alarm or sensor needs moving, we do that too."
 permalink: "/pages/wilmington/"
+hero_image: "/images/locations/ladder-and-van.webp"
+hero_alt: "MyAlarm Security van and ladders outside a house during an installation"
 eleventyNavigation:
   key: Wilmington
   parent: Service Areas

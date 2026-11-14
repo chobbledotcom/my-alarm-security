@@ -6,6 +6,8 @@ meta_description: Alarm System Badgers Mount, CCTV Badgers Mount. Alarm
   Home Alarm Badgers Mount. 020 8302 4065
 og_description: "We cover Badgers Mount from Sidcup for alarm maintenance, battery changes and hard-wired CCTV that records to its own drive. Ring 020 8302 4065."
 permalink: /pages/badgers-mount/
+hero_image: "/images/locations/engineer-and-van.webp"
+hero_alt: "MyAlarm Security engineer standing next to the company van"
 eleventyNavigation:
   key: Badgers Mount
   parent: Service Areas

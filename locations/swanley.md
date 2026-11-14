@@ -4,6 +4,8 @@ meta_title: Burglar Alarms and CCTV in Swanley
 meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Swanley from MyAlarm Security.
 og_description: "We cover Swanley from our Sidcup base for alarm fitting, servicing, battery changes and hard-wired CCTV that keeps recording if the broadband drops."
 permalink: "/pages/swanley/"
+hero_image: "/images/locations/branded-siren.webp"
+hero_alt: "MyAlarm Security branded alarm siren on a brick wall"
 eleventyNavigation:
   key: Swanley
   parent: Service Areas

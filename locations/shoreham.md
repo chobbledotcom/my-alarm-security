@@ -4,6 +4,8 @@ meta_title: Burglar Alarms and CCTV in Shoreham
 meta_description: Burglar alarm installation, servicing and hard-wired CCTV in Shoreham, Kent from MyAlarm Security.
 og_description: "We cover Shoreham from Sidcup, and if refurbishment works mean your alarm needs moving or disabling, we can sort that along with any cut cables."
 permalink: "/pages/shoreham/"
+hero_image: "/images/locations/house-and-van.webp"
+hero_alt: "MyAlarm Security van outside a customer's house"
 eleventyNavigation:
   key: Shoreham
   parent: Service Areas

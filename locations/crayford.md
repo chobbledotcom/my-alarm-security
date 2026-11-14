@@ -6,6 +6,8 @@ meta_description: Alarm System Crayford, CCTV Crayford. Alarm Service Crayford,
   4065
 og_description: "We cover Crayford and Dartford from Sidcup, servicing zone faults, tampers and battery changes on any make of alarm. Send us a photo of the panel."
 permalink: /pages/crayford/
+hero_image: "/images/locations/engineer-fitting-keypad.webp"
+hero_alt: "MyAlarm Security engineer fitting an alarm control panel"
 eleventyNavigation:
   key: Crayford
   parent: Service Areas

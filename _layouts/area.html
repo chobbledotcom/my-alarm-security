@@ -1,0 +1,70 @@
+---
+layout: base
+---
+
+{%- comment -%}
+  Service area (town) page. The page heading is written as a "# Heading" at
+  the top of the page body, so lift it out of the rendered content and show it
+  in the hero beside the photo instead.
+{%- endcomment -%}
+{%- assign heading_parts = content | split: "</h1>" -%}
+{%- if heading_parts.size > 1 -%}
+  {%- assign heading = heading_parts[0] | strip_html | strip -%}
+  {%- assign body = content | remove_first: heading_parts[0] | remove_first: "</h1>" -%}
+{%- else -%}
+  {%- assign heading = title -%}
+  {%- assign body = content -%}
+{%- endif -%}
+
+<section class="area-hero">
+  <div class="area-hero-text">
+    <p class="eyebrow">
+      <a href="/service-areas/#content">Service areas</a>
+      <span aria-hidden="true">›</span>
+      {{ title }}
+    </p>
+    <h1>{{ heading }}</h1>
+    {%- if og_description -%}
+      <p class="area-hero-lead">{{ og_description }}</p>
+    {%- endif -%}
+    <p class="area-hero-actions">
+      <a class="button-primary" href="tel:02083024065">Call 020 8302 4065</a>
+      <a class="button-secondary" href="/contact/#content">Book a free survey</a>
+    </p>
+    <ul class="area-hero-points">
+      <li>Free survey in under 10 minutes</li>
+      <li>Price given there and then</li>
+      <li>DBS checked and fully insured</li>
+    </ul>
+  </div>
+  {%- if hero_image -%}
+    <figure class="area-hero-photo">
+      {%- image hero_image, hero_alt, "480,720,960,1200", "", "(min-width: 1001px) 560px, 100vw", "4/3", "eager" -%}
+    </figure>
+  {%- endif -%}
+</section>
+
+{%- assign work_items = work | default: area_work -%}
+{%- if work_items.size > 0 -%}
+  <section class="area-work">
+    {%- if work.size > 0 -%}
+      <h2>Recent work in {{ title }}</h2>
+    {%- else -%}
+      <h2>Some of our recent work</h2>
+    {%- endif -%}
+    <ul>
+      {%- for item in work_items -%}
+        <li>
+          {%- if item.url -%}<a href="{{ item.url }}#content">{%- endif -%}
+            {%- image item.image, item.title, "240,480,640", "", "(min-width: 1001px) 290px, (min-width: 651px) 45vw, 90vw", "1/1" -%}
+            <span class="area-work-title">{{ item.title }}</span>
+            {%- if item.url -%}<span class="area-work-more">Read about this job</span>{%- endif -%}
+          {%- if item.url -%}</a>{%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+  </section>
+{%- endif -%}
+
+<div class="prose area-body">{{ body }}</div>
+{%- include "faq.html" -%}

@@ -4,6 +4,8 @@ meta_title: "Burglar Alarm and CCTV in Petts Wood"
 meta_description: "Burglar Alarms & CCTV in Petts Wood, Bromley. Call 020 8302 4065. Pyronix smart alarms, car defenders and app-controlled CCTV."
 og_description: "Petts Wood is a short drive up the A20 for us. After a car was stolen off a driveway here we fitted a Pyronix car defender that triggers the house alarm."
 permalink: "/pages/petts-wood/"
+hero_image: "/images/locations/van.webp"
+hero_alt: "The MyAlarm Security van with ladders on the roof"
 eleventyNavigation:
   key: Petts Wood
   parent: Service Areas

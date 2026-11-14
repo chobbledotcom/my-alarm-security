@@ -1,16 +1,54 @@
-<footer>
-  {%- render_snippet "footer-content" -%}
-  <p>
-    Our service areas:<br>
-    {%- include "service-areas-list.html" -%}
-  </p>
-  <p>
-    <a href="/blog/">News</a> | <a href="/reviews/">Reviews</a> | <a href="/pages/insurance/">Insurance</a>
-  </p>
-  {%- include "footer-socials.html" -%}
-  {%- if config.chobble_link and layout == "home.html" -%}
-    <p>
-      site by <a href="{{ config.chobble_link }}">chobble.com</a>
+{%- unless page.url == "/contact/" or page.url == "/thank-you/" -%}
+<section class="cta-band" data-network="dark" aria-labelledby="cta-band-heading">
+  <div class="cta-band-inner">
+    <div>
+      <h2 id="cta-band-heading">Book a free, no obligation site survey</h2>
+      <p>
+        A survey takes less than 10 minutes. We'll give you the price there
+        and then, and we will never chase you.
+      </p>
+    </div>
+    <p class="cta-band-actions">
+      <a class="cta-button cta-button-solid" href="tel:02083024065">Call 020 8302 4065</a>
+      <a class="cta-button" href="/contact/#content">Send us a message</a>
     </p>
-  {%- endif -%}
+  </div>
+</section>
+{%- endunless -%}
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <a class="footer-logo" href="/" aria-label="{{ site.name }} home">
+        <img src="/assets/logo.png" alt="{{ site.name }}" width="474" height="550" loading="lazy" eleventy:ignore />
+      </a>
+      {%- include "footer-socials.html" -%}
+    </div>
+    <div class="footer-content">
+      {%- render_snippet "footer-content" -%}
+    </div>
+    <div class="footer-areas">
+      <p><strong>Areas we cover</strong></p>
+      <ul>
+        {%- assign sorted_areas = collections.location | sort: "data.eleventyNavigation.key" -%}
+        {%- for area in sorted_areas -%}
+          <li><a href="{{ area.url }}#content">{{ area.data.eleventyNavigation.key }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </div>
+    <div class="footer-base">
+      <p>
+        © {{ site.name }} {{ "now" | date: "%Y" }}
+        <span aria-hidden="true">·</span>
+        {{ meta.organization.address.streetAddress }},
+        {{ meta.organization.address.addressLocality }},
+        {{ meta.organization.address.addressRegion }}
+        {{ meta.organization.address.postalCode | replace: " ", "&nbsp;" }}
+      </p>
+      {%- if config.chobble_link and layout == "home.html" -%}
+        <p>
+          site by <a href="{{ config.chobble_link }}">chobble.com</a>
+        </p>
+      {%- endif -%}
+    </div>
+  </div>
 </footer>

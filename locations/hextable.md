@@ -4,6 +4,8 @@ meta_title: "Hextable Burglar Alarm Hextable Home Security Hextable CCTV - MyAla
 meta_description: "Intruder Alarm System Hextable. CCTV systems Hextable. Burglar Alarm Service Alarm Battery Hextable. Hextable Security Alarm Fault. Contact us  020 8302 4065"
 og_description: "We fit smart app-controlled intruder alarms in Hextable that you can set and part-set from your phone, and we service any make of system."
 permalink: "/pages/hextable/"
+hero_image: "/images/locations/engineer-fitting-keypad.webp"
+hero_alt: "MyAlarm Security engineer fitting an alarm control panel"
 eleventyNavigation:
   key: Hextable
   parent: Service Areas

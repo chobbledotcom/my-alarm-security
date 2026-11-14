@@ -6,6 +6,8 @@ meta_description: Burglar Alarm System Swanscombe. CCTV systems Swanscombe. Home
   information 020 8302 4065.
 og_description: "We cover Swanscombe from Sidcup for alarm servicing, battery changes and hard-wired CCTV. Send a photo of the panel and we'll tell you what it is."
 permalink: /pages/swanscombe/
+hero_image: "/images/locations/survey-visit.webp"
+hero_alt: "MyAlarm Security van on the drive of a customer's house during an alarm installation"
 eleventyNavigation:
   key: Swanscombe
   parent: Service Areas

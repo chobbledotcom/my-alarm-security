@@ -7,6 +7,8 @@ meta_description: Burglar Alarm Maintenance Service Chelsfield, CCTV Chelsfield.
   Orpington. Burglar Alarm company near me
 og_description: "We service and fit alarms and CCTV in Chelsfield, out from Sidcup towards Orpington. Send a photo of the panel if you're not sure what system you've got."
 permalink: /pages/chelsfield/
+hero_image: "/images/locations/house-and-van.webp"
+hero_alt: "MyAlarm Security van outside a customer's house"
 eleventyNavigation:
   key: Chelsfield
   parent: Service Areas

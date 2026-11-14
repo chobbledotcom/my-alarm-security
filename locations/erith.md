@@ -4,6 +4,8 @@ meta_title: "Alarm System Erith, CCTV Erith. Alarm Service Erith - MyAlarm Secur
 meta_description: "Alarm System Erith, CCTV Erith. Alarm Service Erith, Alarm Battery Replacement Erith, Home Alarm System Erith. Home Security System Erith. Tel 020 8302 4065"
 og_description: "We're based in Sidcup and cover Erith, Crayford and Dartford. We service any make of alarm, from batteries to panel replacements, and fit ColorVu CCTV."
 permalink: "/pages/erith/"
+hero_image: "/images/locations/van-side.webp"
+hero_alt: "The MyAlarm Security van"
 eleventyNavigation:
   key: Erith
   parent: Service Areas

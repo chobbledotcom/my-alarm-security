@@ -4,6 +4,12 @@ meta_title: "Burglar Alarm System West Wickham Security CCTV Systems - MyAlarm S
 meta_description: "Burglar Alarm System West Wickham Security for homes and Business. CCTV. Home Security Systems, Burglar Alarm Service Alarm Battery. Contact us  020 8302 4065."
 og_description: "We've been to West Wickham many times, from Coney Hall rec to the Miller and Carter. We service alarms and fit Pyronix systems and CCTV here."
 permalink: "/pages/west-wickham/"
+hero_image: "/images/locations/west-wickham.webp"
+hero_alt: "MyAlarm Security van outside a house in West Wickham"
+work:
+  - image: "/images/locations/work-west-wickham.webp"
+    title: "West Wickham Security"
+    url: "/blog/west-wickham-security/"
 eleventyNavigation:
   key: West Wickham
   parent: Service Areas

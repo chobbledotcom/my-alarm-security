@@ -176,6 +176,11 @@
   }
 </script>
 
+<!-- Animated network background. Decoration only: it loads three.js from
+     our own assets folder and quietly does nothing on phones, for visitors
+     who prefer reduced motion, or where WebGL isn't available. -->
+<script type="module" src="{{ '/assets/js/effects.js' | cacheBust }}"></script>
+
 <!-- CHRISTMAS THEME - uncomment for festive season
 <script async src="{{ '/assets/js/lib/snow.js' | cacheBust }}"></script>
 -->

@@ -3,6 +3,12 @@ title: Belvedere
 meta_title: Burglar Alarm and CCTV in Belvedere
 meta_description: Burglar Alarms & CCTV in Belvedere, Bexley. Call 020 8302 4065. Smart app-controlled alarms, upgrades, servicing and battery changes.
 og_description: "We cover Belvedere from Sidcup for alarms, CCTV and battery changes. One job here meant painting round a new siren so we didn't leave a gap."
+hero_image: "/images/locations/belvedere.webp"
+hero_alt: "New MyAlarm Security siren fitted on a house in Belvedere"
+work:
+  - image: "/images/locations/work-belvedere-siren.webp"
+    title: "Alarm System Upgrade and New Siren in Belvedere, DA17"
+    url: "/blog/alarm-system-upgrade-and-new-siren-in-belvedere/"
 eleventyNavigation:
   key: Belvedere
   parent: Service Areas

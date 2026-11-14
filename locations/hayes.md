@@ -4,6 +4,8 @@ meta_title: "Alarm System Hayes Bromley, CCTV Hayes Bromley - MyAlarm Security"
 meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired ColorVu CCTV in Hayes, Bromley from MyAlarm Security, a Sidcup-based family business."
 og_description: "We cover Hayes in Bromley from Sidcup for alarm servicing and ColorVu CCTV. If the keypad has stopped working, send a photo of the panel."
 permalink: "/pages/hayes/"
+hero_image: "/images/locations/house-and-van.webp"
+hero_alt: "MyAlarm Security van outside a customer's house"
 eleventyNavigation:
   key: Hayes
   parent: Service Areas

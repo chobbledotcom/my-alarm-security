@@ -4,6 +4,8 @@ meta_title: Burglar Alarms and CCTV in Gravesend
 meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Gravesend from MyAlarm Security.
 og_description: "We've fitted ColorVu CCTV across Gravesend, Dartford and Sevenoaks, and we service any make of alarm. Send a photo of the panel and we'll identify it."
 permalink: "/pages/gravesend/"
+hero_image: "/images/locations/ladder-and-van.webp"
+hero_alt: "MyAlarm Security van and ladders outside a house during an installation"
 eleventyNavigation:
   key: Gravesend
   parent: Service Areas

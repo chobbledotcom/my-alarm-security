@@ -4,6 +4,18 @@ meta_title: "Burglar Alarm and CCTV in Eltham"
 meta_description: "Burglar Alarms & CCTV in Eltham, Greenwich. Call 020 8302 4065. Alarm upgrades, servicing and neat, concealed CCTV cabling in SE9."
 og_description: "Eltham is next door to our Sidcup base. One SE9 job meant taking down unsightly clipped CCTV cables and painting over the holes afterwards."
 permalink: "/pages/eltham/"
+hero_image: "/images/locations/eltham.webp"
+hero_alt: "House in Eltham, SE9 protected by a MyAlarm Security burglar alarm"
+work:
+  - image: "/images/locations/work-eltham-se9-alarm.webp"
+    title: "Home Alarm System in Eltham, London, SE9"
+    url: "/blog/home-alarm-system-in-eltham-london-se9/"
+  - image: "/images/locations/work-eltham-se9-cctv-upgrade.webp"
+    title: "Burglar Alarm & CCTV Upgrade in Eltham, SE9 "
+    url: "/blog/burglar-alarm-and-cctv-upgrade-in-eltham-se9/"
+  - image: "/images/locations/work-out-of-hours-call-out.webp"
+    title: "Out Of Hours Call Out In New Eltham / Chislehurst"
+    url: "/blog/out-of-hours-call-out-in-new-eltham-chislehurst/"
 eleventyNavigation:
   key: Eltham
   parent: Service Areas

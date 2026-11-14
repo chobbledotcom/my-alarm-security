@@ -286,6 +286,23 @@ content:
       - { name: title, type: string, label: Title }
       - { name: subtitle, type: string, label: Subtitle }
       - { name: thumbnail, type: image, label: Thumbnail }
+      - name: hero_image
+        type: image
+        label: Top Photo
+        description: Photo shown beside the heading at the top of the page. A 4:3 landscape photo works best.
+      - name: hero_alt
+        type: string
+        label: Top Photo Description
+        description: Describes the top photo for people who can't see it.
+      - name: work
+        label: Recent Work Photos
+        description: Photos of jobs in this area, shown under the heading. Leave empty to show our latest jobs instead.
+        type: object
+        list: true
+        fields:
+          - { name: image, type: image, label: Photo, required: true }
+          - { name: title, type: string, label: Title, required: true }
+          - { name: url, type: string, label: Link to the news post }
       - { name: order, type: number, label: Order }
       - { name: body, type: rich-text, label: Body }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }

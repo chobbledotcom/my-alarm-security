@@ -4,6 +4,8 @@ meta_title: Burglar Alarms and CCTV in Charlton
 meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Charlton from MyAlarm Security.
 og_description: "We cover Charlton and Greenwich from Sidcup for alarms and hard-wired CCTV. Send a photo of the alarm panel and we can identify the make."
 permalink: /pages/charlton/
+hero_image: "/images/locations/engineer-and-van.webp"
+hero_alt: "MyAlarm Security engineer standing next to the company van"
 eleventyNavigation:
   key: Charlton
   parent: Service Areas

@@ -4,6 +4,8 @@ meta_title: "Alarm System Longfield, CCTV Longfield. Alarm Service Longfield - M
 meta_description: "Alarm System Longfield, CCTV Longfield. Alarm Service Longfield, Alarm Battery Replacement Longfield, Home Alarm System Longfield. Tel 020 8302 4065"
 og_description: "We cover Longfield and the Borough of Dartford from Sidcup. If you've inherited an alarm and don't know who fitted it, send us a photo of the panel."
 permalink: "/pages/longfield/"
+hero_image: "/images/locations/van-side.webp"
+hero_alt: "The MyAlarm Security van"
 eleventyNavigation:
   key: Longfield
   parent: Service Areas
