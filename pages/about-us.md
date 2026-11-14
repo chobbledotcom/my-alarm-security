@@ -23,7 +23,7 @@ With over 30 years experience in the security industry (as of Jan 2026), having 
 
 MyAlarm Security is your trusted, local home and business security company across Bexley, Bromley, Orpington, Dartford, Sevenoaks, Greenwich and surrounding areas. We are a friendly and professional team who are highly skilled, qualified and experienced to handle all of your residential and commercial security needs. Customer satisfaction is our main priority. We go above and beyond for our customers which is reflected in our company reviews. 
 
-We provide up front pricing and are transparent with all of our costs with a clear and concise explanation of the work required.
+We give you up front pricing with a clear explanation of the work required, there and then, and we will never chase you.
 
 We carry full insurance for the work we do, including £1,000,000 public liability and £10,000,000 employers' liability cover, and you can see the [details and certificate](/pages/insurance/) or just ask us for a copy.
 
