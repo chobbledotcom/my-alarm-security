@@ -5,11 +5,13 @@ import { bun, fs, path } from "./utils.js";
 const dev = path(".build", "dev");
 const output = path("_site");
 
+console.log("Cleaning _site...");
+fs.rm(output);
+
 prep();
 
 console.log("Building site...");
 
-fs.rm(output);
 const result = bun.run("build", dev);
 
 if (result.exitCode !== 0) {
