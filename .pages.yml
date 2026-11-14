@@ -294,6 +294,15 @@ content:
         type: string
         label: Top Photo Description
         description: Describes the top photo for people who can't see it.
+      - name: hero_lead
+        type: text
+        label: Top Text
+        description: The sentence shown under the heading at the top of the page. Leave blank to use the Share Text.
+      - name: hero_points
+        type: string
+        label: Top Bullet Points
+        list: true
+        description: Short points shown under the buttons at the top of the page. Leave empty to use the default points.
       - name: work
         label: Recent Work Photos
         description: Photos of jobs in this area, shown under the heading. Leave empty to show our latest jobs instead.

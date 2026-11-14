@@ -235,6 +235,11 @@ nav {
       left: auto;
       width: 390px;
       font-size: 16px;
+
+      @media (min-width: 1050px) {
+        width: 450px;
+      }
+
       li {
         display: block;
       }

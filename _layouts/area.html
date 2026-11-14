@@ -24,18 +24,27 @@ layout: base
       {{ title }}
     </p>
     <h1>{{ heading }}</h1>
-    {%- if og_description -%}
-      <p class="area-hero-lead">{{ og_description }}</p>
+    {%- assign hero_lead_text = hero_lead | default: og_description -%}
+    {%- if hero_lead_text -%}
+      <p class="area-hero-lead">{{ hero_lead_text }}</p>
     {%- endif -%}
     <p class="area-hero-actions">
       <a class="button-primary" href="tel:02083024065">Call 020 8302 4065</a>
       <a class="button-secondary" href="/contact/#content">Book a free survey</a>
     </p>
-    <ul class="area-hero-points">
-      <li>Free survey in under 10 minutes</li>
-      <li>Price given there and then</li>
-      <li>DBS checked and fully insured</li>
-    </ul>
+    {%- if hero_points.size > 0 -%}
+      <ul class="area-hero-points">
+        {%- for point in hero_points -%}
+          <li>{{ point }}</li>
+        {%- endfor -%}
+      </ul>
+    {%- else -%}
+      <ul class="area-hero-points">
+        <li>Free survey in under 10 minutes</li>
+        <li>Price given there and then</li>
+        <li>DBS checked and fully insured</li>
+      </ul>
+    {%- endif -%}
   </div>
   {%- if hero_image -%}
     <figure class="area-hero-photo">
