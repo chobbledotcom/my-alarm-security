@@ -1,0 +1,14 @@
+<div aria-hidden="true" class="gallery-full-size-images">
+  {%- for image in gallery -%}
+    {%- capture alt_text -%}{%- include "get-alt-text.html" -%}{%- endcapture -%}
+    <div class="full-image-{{ forloop.index }}">
+      {% comment %}
+        Same override as gallery-current-image.html: explicit sizes plus a
+        real loading string (the template passes null, which Liquid turns
+        into {} and renders as loading="[object Object]"). These are hidden
+        until the popup clones them, so lazy is correct here.
+      {% endcomment %}
+      {% image image, alt_text, "", "fade-in", "(min-width: 1348px) 1250px, 100vw", "", "lazy", false, true %}
+    </div>
+  {% endfor %}
+</div>

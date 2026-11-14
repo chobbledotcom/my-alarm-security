@@ -652,8 +652,14 @@ form {
   }
 }
 
-body.home section {
+// Only content sections get the bottom gap. The call-to-action band lives
+// outside <main>, so the final section must not leave a gap above it.
+body.home main section {
   margin-bottom: 4rem;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
 }
 
 .brands {
@@ -799,6 +805,24 @@ main {
 :focus-visible {
   outline: 2px solid var(--color-link);
   outline-offset: 2px;
+}
+
+// Anchor links must clear the sticky/fixed header.
+// The desktop nav is sticky inside main: two rows below 1250px, one row above.
+// The mobile nav is a fixed 3rem bar.
+html {
+  scroll-padding-top: 8rem;
+
+  @media (min-width: 1250px) {
+    scroll-padding-top: 5rem;
+  }
+
+  @media (max-width: $mobile) {
+    &,
+    &:has(body.sticky-mobile-nav) {
+      scroll-padding-top: 3.75rem;
+    }
+  }
 }
 
 // Animated network background (assets/js/effects.js). The canvas only appears
@@ -1408,7 +1432,7 @@ ul.items > li {
 // =============================================================================
 
 .cta-band {
-  margin-top: 3rem;
+  margin: 0;
   padding: 3.5rem 1rem;
   overflow: hidden;
   color: #c9ccd6;
