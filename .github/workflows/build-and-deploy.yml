@@ -3,6 +3,11 @@ name: Build and Deploy
 on:
   push:
   workflow_dispatch:
+    inputs:
+      repair_images:
+        description: "Re-upload every generated image to the storage zone (heals replicas that missed files)"
+        type: boolean
+        default: false
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -124,6 +129,51 @@ jobs:
             echo "pull_zone_id_deploy=${{ secrets.BUNNY_STAGING_PULL_ZONE_ID }}" >> $GITHUB_OUTPUT
           fi
 
+      - name: Repair image replicas
+        if: inputs.repair_images == true
+        env:
+          STORAGE_ZONE: ${{ steps.deployment_env.outputs.storage_zone_name }}
+          STORAGE_PASSWORD: ${{ steps.deployment_env.outputs.storage_zone_password }}
+        run: |
+          python3 - <<'PY'
+          import os
+          import urllib.parse
+          import urllib.request
+          from concurrent.futures import ThreadPoolExecutor
+
+          zone = os.environ["STORAGE_ZONE"]
+          password = os.environ["STORAGE_PASSWORD"]
+          root = "_site"
+          files = [
+              os.path.join(directory, name)
+              for directory, _, names in os.walk(os.path.join(root, "img"))
+              for name in names
+          ]
+
+          def upload(path):
+              relative = os.path.relpath(path, root).replace(os.sep, "/")
+              url = (
+                  "https://storage.bunnycdn.com/"
+                  + zone
+                  + "/"
+                  + urllib.parse.quote(relative)
+              )
+              with open(path, "rb") as source:
+                  request = urllib.request.Request(
+                      url,
+                      data=source.read(),
+                      method="PUT",
+                      headers={"AccessKey": password},
+                  )
+              with urllib.request.urlopen(request, timeout=120) as response:
+                  response.read()
+
+          with ThreadPoolExecutor(max_workers=10) as pool:
+              list(pool.map(upload, files))
+
+          print(f"Re-uploaded {len(files)} images")
+          PY
+
       - name: Purge Rewrite Zone
         uses: R-J-dev/bunny-deploy@v3.0.0
         with:
@@ -136,7 +186,7 @@ jobs:
           enable-delete-action: true
           enable-purge-pull-zone: true
           pull-zone-id: ${{ secrets.BUNNY_REWRITE_PULL_ZONE_ID }}
-          replication-timeout: "5000"
+          replication-timeout: "15000"
 
       - name: Deploy to Bunny
         uses: R-J-dev/bunny-deploy@v3.0.0
@@ -150,7 +200,7 @@ jobs:
           enable-delete-action: true
           enable-purge-pull-zone: true
           pull-zone-id: ${{ steps.deployment_env.outputs.pull_zone_id_deploy }}
-          replication-timeout: "5000"
+          replication-timeout: "15000"
 
   notify-failure:
     name: Notify on Failure
