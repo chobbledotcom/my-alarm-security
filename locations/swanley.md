@@ -1,16 +1,18 @@
 ---
 title: Swanley
 meta_title: Burglar Alarms and CCTV in Swanley
-meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Swanley from MyAlarm Security.
-og_description: "We cover Swanley from our Sidcup base for alarm fitting, servicing, battery changes and hard-wired CCTV that keeps recording if the broadband drops."
-permalink: "/pages/swanley/"
-hero_image: "/images/locations/branded-siren.webp"
-hero_alt: "MyAlarm Security branded alarm siren on a brick wall"
+meta_description: Burglar alarm installation, servicing, battery changes and
+  hard-wired CCTV in Swanley from MyAlarm Security.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Swanley. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/swanley/
+hero_image: /images/locations/branded-siren.webp
+hero_alt: MyAlarm Security branded alarm siren on a brick wall
 eleventyNavigation:
   key: Swanley
   parent: Service Areas
 ---
-
 # Burglar Alarms and CCTV in Swanley
 
 If you're looking for a local home and business security company, then you have come to the right place! We are a local, family run company based in Sidcup and cover Swanley and surrounding areas for all things home and business security related. So if your existing burglar alarm system has developed a fault or it needs an alarm system service - or maybe you are looking to get a brand new system installed or upgraded, then give us a call or send us an email. We can create any package to suit your needs. Why not check out some of our existing packages here: [Burglar Alarm Systems in Swanley.](/categories/burglar-alarms/)
@@ -23,7 +25,7 @@ Check out the current [CCTV packages](/categories/cctv/), including [CCTV Packag
 
 ## Burglar Alarm Servicing in Swanley
 
-Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarm systems. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on burglar alarm service in Swanley.
+Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarm systems. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) for info on burglar alarm service in Swanley.
 
 > "Matt arrived on time... tidied and cleaned up everything before he left." - Ambrose Woo, Google review, 2026
 
