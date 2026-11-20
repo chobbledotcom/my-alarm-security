@@ -1,16 +1,18 @@
 ---
 title: Hextable
-meta_title: "Hextable Burglar Alarm Hextable Home Security Hextable CCTV - MyAlarm Security"
-meta_description: "Intruder Alarm System Hextable. CCTV systems Hextable. Burglar Alarm Service Alarm Battery Hextable. Hextable Security Alarm Fault. Contact us  020 8302 4065"
-og_description: "We fit smart app-controlled intruder alarms in Hextable that you can set and part-set from your phone, and we service any make of system."
-permalink: "/pages/hextable/"
-hero_image: "/images/locations/engineer-fitting-keypad.webp"
-hero_alt: "MyAlarm Security engineer fitting an alarm control panel"
+meta_title: Hextable Burglar Alarm, Home Security Hextable CCTV
+meta_description: Intruder Alarm System Hextable. CCTV systems Hextable. Burglar
+  Alarm Service Alarm Battery Hextable. Contact us 020 8302 4065
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Hextable. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/hextable/
+hero_image: /images/locations/engineer-fitting-keypad.webp
+hero_alt: MyAlarm Security engineer fitting an alarm control panel
 eleventyNavigation:
   key: Hextable
   parent: Service Areas
 ---
-
 # Burglar Alarm System in Hextable
 
 Does your intruder alarm need a service or a battery change? Maybe you are looking to upgrade your existing system and have a brand new intruder alarm system installed at your home or business address? MyAlarm Security can help! We offer the latest smart app controlled intruder alarm systems which allows you to remote access your home and business security system from anywhere in the world via an app. Our app based alarm systems allow you to remotely set/unset your system as well as notifying you of any alarm activations within your property. This feature also allows you to part set your alarm system so you can have all of the sensors activated or just selected sensors (perfect if you have guests staying or want to set the intruder alarm to monitor the perimeter). Take a look at some of our premade existing packages. We can create any package to suit your requirements. [Burglar Alarm System Hextable.](/categories/burglar-alarms/)
