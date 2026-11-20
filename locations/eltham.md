@@ -1,26 +1,28 @@
 ---
 title: Eltham
-meta_title: "Burglar Alarm and CCTV in Eltham"
-meta_description: "Burglar Alarms & CCTV in Eltham, Greenwich. Call 020 8302 4065. Alarm upgrades, servicing and neat, concealed CCTV cabling in SE9."
-og_description: "Eltham is next door to our Sidcup base. One SE9 job meant taking down unsightly clipped CCTV cables and painting over the holes afterwards."
-permalink: "/pages/eltham/"
-hero_image: "/images/locations/eltham.webp"
-hero_alt: "House in Eltham, SE9 protected by a MyAlarm Security burglar alarm"
+meta_title: Burglar Alarm and CCTV in Eltham
+meta_description: Burglar Alarms & CCTV in Eltham, Greenwich. Call 020 8302
+  4065. Alarm upgrades, servicing and neat, concealed CCTV cabling in SE9.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Eltham. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/eltham/
+hero_image: /images/locations/eltham.webp
+hero_alt: House in Eltham, SE9 protected by a MyAlarm Security burglar alarm
 work:
-  - image: "/images/locations/work-eltham-se9-alarm.webp"
-    title: "Home Alarm System in Eltham, London, SE9"
-    url: "/blog/home-alarm-system-in-eltham-london-se9/"
-  - image: "/images/locations/work-eltham-se9-cctv-upgrade.webp"
+  - image: /images/locations/work-eltham-se9-alarm.webp
+    title: Home Alarm System in Eltham, London, SE9
+    url: /blog/home-alarm-system-in-eltham-london-se9/
+  - image: /images/locations/work-eltham-se9-cctv-upgrade.webp
     title: "Burglar Alarm & CCTV Upgrade in Eltham, SE9 "
-    url: "/blog/burglar-alarm-and-cctv-upgrade-in-eltham-se9/"
-  - image: "/images/locations/work-out-of-hours-call-out.webp"
-    title: "Out Of Hours Call Out In New Eltham / Chislehurst"
-    url: "/blog/out-of-hours-call-out-in-new-eltham-chislehurst/"
+    url: /blog/burglar-alarm-and-cctv-upgrade-in-eltham-se9/
+  - image: /images/locations/work-out-of-hours-call-out.webp
+    title: Out Of Hours Call Out In New Eltham / Chislehurst
+    url: /blog/out-of-hours-call-out-in-new-eltham-chislehurst/
 eleventyNavigation:
   key: Eltham
   parent: Service Areas
 ---
-
 # Burglar Alarm and CCTV in Eltham
 
 We are a local, family run security company based in Sidcup, right on the borders of New Eltham, so Eltham is effectively next door for us. We are in SE9 and cover the boroughs of Greenwich, Bexley, Bromley, Dartford and Sevenoaks. We've been installing burglar alarms and CCTV in Eltham and the surrounding areas for years, and we know the streets and the properties well.
@@ -55,7 +57,7 @@ Take a look at the current [CCTV packages](/categories/cctv/), including [CCTV P
 
 ## Burglar Alarm Servicing in Eltham
 
-Does your existing house alarm need a new battery? Maybe the keypad no longer works or there is a fault on one of the zones/sensors? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarm systems. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on burglar alarm service in Eltham.
+Does your existing house alarm need a new battery? Maybe the keypad no longer works or there is a fault on one of the zones/sensors? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarm systems. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) for info on burglar alarm service in Eltham.
 
 ## Related services in Eltham
 
