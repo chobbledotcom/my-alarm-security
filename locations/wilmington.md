@@ -1,16 +1,18 @@
 ---
 title: Wilmington
-meta_title: "Wilmington Alarm Systems Wilmington CCTV Company. Home Security - MyAlarm Security"
-meta_description: "Burglar Alarm System Wilmington. CCTV systems Wilmington. Home Security Systems, Burglar Alarm Service Alarm Battery Wilmington. Contact us  020 8302 4065."
-og_description: "We cover Wilmington from Sidcup with 30 years in electronic security. If refurbishment means an alarm or sensor needs moving, we do that too."
-permalink: "/pages/wilmington/"
-hero_image: "/images/locations/ladder-and-van.webp"
-hero_alt: "MyAlarm Security van and ladders outside a house during an installation"
+meta_title: Wilmington Alarm Systems Wilmington CCTV Company.
+meta_description: Burglar Alarm System Wilmington. CCTV systems Wilmington. Home
+  Security Systems, Burglar Alarm Service Alarm Battery Wilmington. Contact
+  us  020 8302 4065.
+og_description: "We cover Wilmington for burglar alarm maintenance, battery
+  changes, installations and hard-wired CCTV. "
+permalink: /pages/wilmington/
+hero_image: /images/locations/ladder-and-van.webp
+hero_alt: MyAlarm Security van and ladders outside a house during an installation
 eleventyNavigation:
   key: Wilmington
   parent: Service Areas
 ---
-
 # Burglar Alarm System Wilmington
 
 If it is a new home security system in Wilmington that you are looking to get or maybe you would like a burglar alarm system installed at your business premises instead, MyAlarm Security can help. We offer the latest in smart security systems with app integration which allows you to remotely set and unset your system as well as be notified of any alarm activations from anywhere in the world. The app can be set up on various devices so all members of the family can have access.
@@ -27,6 +29,6 @@ If your current alarm system is in need of some TLC - a new battery, a new keypa
 
 If you are interested in having CCTV installed at your home or business and would like some more information, why not check out some of our current CCTV packages here: [CCTV in Wilmington](/categories/cctv/)
 
-If you have any further questions or would like to get booked in for an alarm system service or a free survey, send us an email at Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065. You can also contact us by going to our contact form and filling in your details and one of our friendly team will call or email you back. Contact us here: [Contact MyAlarm Security](/contact/)
+If you have any further questions or would like to get booked in for an alarm system service or a free survey, send us an email at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) or give us a call on 020 8302 4065. You can also contact us by going to our contact form and filling in your details and one of our friendly team will call or email you back. Contact us here: [Contact MyAlarm Security](/contact/)
 
 {% include "area-list-shortcode.html", prefix: "Our services are also available in ", suffix: "." %}
