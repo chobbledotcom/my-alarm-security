@@ -1,9 +1,9 @@
 ---
 title: Hayes
 meta_title: Alarm System Hayes Bromley, CCTV in Hayes Bromley
-meta_description: Burglar alarm installation, servicing, battery changes and
-  hard-wired ColorVu CCTV in Hayes, Bromley from MyAlarm Security, a
-  Sidcup-based family business.
+meta_description: Professional burglar alarm and CCTV installation, servicing
+  and repairs in Hayes. Trusted, family run security experts with over 28 years
+  experience.
 og_description: Professional burglar alarm and CCTV installation, servicing and
   repairs in Hayes. Trusted, family run security experts with over 28 years
   experience.
