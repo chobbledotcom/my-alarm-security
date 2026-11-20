@@ -93,12 +93,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="18.5s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-badgers-mount" xlink:href="#sa-border-badgers-mount"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="18.5s" begin="-9.2s" repeatCount="indefinite"><mpath href="#sa-border-badgers-mount" xlink:href="#sa-border-badgers-mount"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Barnehurst" data-slug="barnehurst">
         <a href="/pages/barnehurst/#content" aria-label="Barnehurst">
@@ -109,12 +103,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-barnehurst" xlink:href="#sa-border-barnehurst"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="-5.0s" repeatCount="indefinite"><mpath href="#sa-border-barnehurst" xlink:href="#sa-border-barnehurst"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Beckenham" data-slug="beckenham">
         <a href="/pages/beckenham/#content" aria-label="Beckenham">
@@ -125,12 +113,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="18.4s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-beckenham" xlink:href="#sa-border-beckenham"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="18.4s" begin="-9.2s" repeatCount="indefinite"><mpath href="#sa-border-beckenham" xlink:href="#sa-border-beckenham"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Belvedere" data-slug="belvedere">
         <a href="/pages/belvedere/#content" aria-label="Belvedere">
@@ -141,12 +123,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="11.5s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-belvedere" xlink:href="#sa-border-belvedere"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="11.5s" begin="-5.8s" repeatCount="indefinite"><mpath href="#sa-border-belvedere" xlink:href="#sa-border-belvedere"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Bexley" data-slug="bexley">
         <a href="/pages/bexley/#content" aria-label="Bexley">
@@ -157,12 +133,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="14.4s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-bexley" xlink:href="#sa-border-bexley"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="14.4s" begin="-7.2s" repeatCount="indefinite"><mpath href="#sa-border-bexley" xlink:href="#sa-border-bexley"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Bexleyheath" data-slug="bexleyheath">
         <a href="/pages/bexleyheath/#content" aria-label="Bexleyheath">
@@ -173,12 +143,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="13.1s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-bexleyheath" xlink:href="#sa-border-bexleyheath"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="13.1s" begin="-6.6s" repeatCount="indefinite"><mpath href="#sa-border-bexleyheath" xlink:href="#sa-border-bexleyheath"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Bickley" data-slug="bickley">
         <a href="/pages/bickley/#content" aria-label="Bickley">
@@ -189,12 +153,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.8s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-bickley" xlink:href="#sa-border-bickley"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.8s" begin="-5.4s" repeatCount="indefinite"><mpath href="#sa-border-bickley" xlink:href="#sa-border-bickley"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Blackheath" data-slug="blackheath">
         <a href="/pages/blackheath/#content" aria-label="Blackheath">
@@ -205,12 +163,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.2s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-blackheath" xlink:href="#sa-border-blackheath"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.2s" begin="-5.1s" repeatCount="indefinite"><mpath href="#sa-border-blackheath" xlink:href="#sa-border-blackheath"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Bromley" data-slug="bromley">
         <a href="/pages/bromley/#content" aria-label="Bromley">
@@ -221,12 +173,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="15.8s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-bromley" xlink:href="#sa-border-bromley"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="15.8s" begin="-7.9s" repeatCount="indefinite"><mpath href="#sa-border-bromley" xlink:href="#sa-border-bromley"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Catford" data-slug="catford">
         <a href="/pages/catford/#content" aria-label="Catford">
@@ -237,12 +183,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="14.9s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-catford" xlink:href="#sa-border-catford"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="14.9s" begin="-7.5s" repeatCount="indefinite"><mpath href="#sa-border-catford" xlink:href="#sa-border-catford"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Charlton" data-slug="charlton">
         <a href="/pages/charlton/#content" aria-label="Charlton">
@@ -253,12 +193,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-charlton" xlink:href="#sa-border-charlton"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="-5.0s" repeatCount="indefinite"><mpath href="#sa-border-charlton" xlink:href="#sa-border-charlton"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Chelsfield" data-slug="chelsfield">
         <a href="/pages/chelsfield/#content" aria-label="Chelsfield">
@@ -269,12 +203,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="13.6s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-chelsfield" xlink:href="#sa-border-chelsfield"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="13.6s" begin="-6.8s" repeatCount="indefinite"><mpath href="#sa-border-chelsfield" xlink:href="#sa-border-chelsfield"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Chislehurst" data-slug="chislehurst">
         <a href="/pages/chislehurst/#content" aria-label="Chislehurst">
@@ -285,12 +213,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="13.3s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-chislehurst" xlink:href="#sa-border-chislehurst"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="13.3s" begin="-6.6s" repeatCount="indefinite"><mpath href="#sa-border-chislehurst" xlink:href="#sa-border-chislehurst"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Crayford" data-slug="crayford">
         <a href="/pages/crayford/#content" aria-label="Crayford">
@@ -301,12 +223,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="11.5s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-crayford" xlink:href="#sa-border-crayford"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="11.5s" begin="-5.8s" repeatCount="indefinite"><mpath href="#sa-border-crayford" xlink:href="#sa-border-crayford"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Dartford" data-slug="dartford">
         <a href="/pages/dartford/#content" aria-label="Dartford">
@@ -317,12 +233,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="14.7s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-dartford" xlink:href="#sa-border-dartford"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="14.7s" begin="-7.3s" repeatCount="indefinite"><mpath href="#sa-border-dartford" xlink:href="#sa-border-dartford"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Ebbsfleet" data-slug="ebbsfleet">
         <a href="/pages/ebbsfleet/#content" aria-label="Ebbsfleet">
@@ -333,12 +243,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="16.9s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-ebbsfleet" xlink:href="#sa-border-ebbsfleet"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="16.9s" begin="-8.4s" repeatCount="indefinite"><mpath href="#sa-border-ebbsfleet" xlink:href="#sa-border-ebbsfleet"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Eltham" data-slug="eltham">
         <a href="/pages/eltham/#content" aria-label="Eltham">
@@ -349,12 +253,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="12.6s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-eltham" xlink:href="#sa-border-eltham"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="12.6s" begin="-6.3s" repeatCount="indefinite"><mpath href="#sa-border-eltham" xlink:href="#sa-border-eltham"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Erith" data-slug="erith">
         <a href="/pages/erith/#content" aria-label="Erith">
@@ -365,12 +263,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-erith" xlink:href="#sa-border-erith"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="-5.0s" repeatCount="indefinite"><mpath href="#sa-border-erith" xlink:href="#sa-border-erith"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Eynsford" data-slug="eynsford">
         <a href="/pages/eynsford/#content" aria-label="Eynsford">
@@ -381,12 +273,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="19.8s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-eynsford" xlink:href="#sa-border-eynsford"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="19.8s" begin="-9.9s" repeatCount="indefinite"><mpath href="#sa-border-eynsford" xlink:href="#sa-border-eynsford"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Gravesend" data-slug="gravesend">
         <a href="/pages/gravesend/#content" aria-label="Gravesend">
@@ -397,12 +283,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-gravesend" xlink:href="#sa-border-gravesend"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="-5.0s" repeatCount="indefinite"><mpath href="#sa-border-gravesend" xlink:href="#sa-border-gravesend"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Greenhithe" data-slug="greenhithe">
         <a href="/pages/greenhithe/#content" aria-label="Greenhithe">
@@ -413,12 +293,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-greenhithe" xlink:href="#sa-border-greenhithe"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="-5.0s" repeatCount="indefinite"><mpath href="#sa-border-greenhithe" xlink:href="#sa-border-greenhithe"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Greenwich" data-slug="greenwich">
         <a href="/pages/greenwich/#content" aria-label="Greenwich">
@@ -429,12 +303,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="11.9s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-greenwich" xlink:href="#sa-border-greenwich"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="11.9s" begin="-5.9s" repeatCount="indefinite"><mpath href="#sa-border-greenwich" xlink:href="#sa-border-greenwich"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Hayes" data-slug="hayes">
         <a href="/pages/hayes/#content" aria-label="Hayes">
@@ -445,12 +313,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="15.1s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-hayes" xlink:href="#sa-border-hayes"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="15.1s" begin="-7.6s" repeatCount="indefinite"><mpath href="#sa-border-hayes" xlink:href="#sa-border-hayes"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Hextable" data-slug="hextable">
         <a href="/pages/hextable/#content" aria-label="Hextable">
@@ -461,12 +323,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.4s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-hextable" xlink:href="#sa-border-hextable"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.4s" begin="-5.2s" repeatCount="indefinite"><mpath href="#sa-border-hextable" xlink:href="#sa-border-hextable"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Keston" data-slug="keston">
         <a href="/pages/keston/#content" aria-label="Keston">
@@ -477,12 +333,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="15.6s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-keston" xlink:href="#sa-border-keston"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="15.6s" begin="-7.8s" repeatCount="indefinite"><mpath href="#sa-border-keston" xlink:href="#sa-border-keston"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Lee Green" data-slug="lee-green">
         <a href="/pages/lee-green/#content" aria-label="Lee Green">
@@ -493,12 +343,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-lee-green" xlink:href="#sa-border-lee-green"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="-5.0s" repeatCount="indefinite"><mpath href="#sa-border-lee-green" xlink:href="#sa-border-lee-green"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Longfield" data-slug="longfield">
         <a href="/pages/longfield/#content" aria-label="Longfield">
@@ -509,12 +353,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="17.3s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-longfield" xlink:href="#sa-border-longfield"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="17.3s" begin="-8.7s" repeatCount="indefinite"><mpath href="#sa-border-longfield" xlink:href="#sa-border-longfield"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Meopham" data-slug="meopham">
         <a href="/pages/meopham/#content" aria-label="Meopham">
@@ -525,12 +363,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="19.6s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-meopham" xlink:href="#sa-border-meopham"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="19.6s" begin="-9.8s" repeatCount="indefinite"><mpath href="#sa-border-meopham" xlink:href="#sa-border-meopham"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="New Ash Green" data-slug="new-ash-green">
         <a href="/pages/new-ash-green/#content" aria-label="New Ash Green">
@@ -541,12 +373,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="22.8s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-new-ash-green" xlink:href="#sa-border-new-ash-green"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="22.8s" begin="-11.4s" repeatCount="indefinite"><mpath href="#sa-border-new-ash-green" xlink:href="#sa-border-new-ash-green"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="New Eltham" data-slug="new-eltham">
         <a href="/pages/new-eltham/#content" aria-label="New Eltham">
@@ -557,12 +383,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-new-eltham" xlink:href="#sa-border-new-eltham"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="-5.0s" repeatCount="indefinite"><mpath href="#sa-border-new-eltham" xlink:href="#sa-border-new-eltham"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Orpington" data-slug="orpington">
         <a href="/pages/orpington/#content" aria-label="Orpington">
@@ -573,12 +393,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-orpington" xlink:href="#sa-border-orpington"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="-5.0s" repeatCount="indefinite"><mpath href="#sa-border-orpington" xlink:href="#sa-border-orpington"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Petts Wood" data-slug="petts-wood">
         <a href="/pages/petts-wood/#content" aria-label="Petts Wood">
@@ -589,12 +403,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="11.2s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-petts-wood" xlink:href="#sa-border-petts-wood"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="11.2s" begin="-5.6s" repeatCount="indefinite"><mpath href="#sa-border-petts-wood" xlink:href="#sa-border-petts-wood"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Sevenoaks" data-slug="sevenoaks">
         <a href="/pages/sevenoaks/#content" aria-label="Sevenoaks">
@@ -605,12 +413,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="13.6s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-sevenoaks" xlink:href="#sa-border-sevenoaks"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="13.6s" begin="-6.8s" repeatCount="indefinite"><mpath href="#sa-border-sevenoaks" xlink:href="#sa-border-sevenoaks"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Shoreham" data-slug="shoreham">
         <a href="/pages/shoreham/#content" aria-label="Shoreham">
@@ -621,12 +423,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="22.5s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-shoreham" xlink:href="#sa-border-shoreham"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="22.5s" begin="-11.3s" repeatCount="indefinite"><mpath href="#sa-border-shoreham" xlink:href="#sa-border-shoreham"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Shorne" data-slug="shorne">
         <a href="/pages/shorne/#content" aria-label="Shorne">
@@ -637,12 +433,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="22.5s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-shorne" xlink:href="#sa-border-shorne"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="22.5s" begin="-11.3s" repeatCount="indefinite"><mpath href="#sa-border-shorne" xlink:href="#sa-border-shorne"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Sidcup" data-slug="sidcup">
         <a href="/pages/sidcup/#content" aria-label="Sidcup">
@@ -653,12 +443,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="12.1s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-sidcup" xlink:href="#sa-border-sidcup"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="12.1s" begin="-6.1s" repeatCount="indefinite"><mpath href="#sa-border-sidcup" xlink:href="#sa-border-sidcup"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Swanley" data-slug="swanley">
         <a href="/pages/swanley/#content" aria-label="Swanley">
@@ -669,12 +453,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-swanley" xlink:href="#sa-border-swanley"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="-5.0s" repeatCount="indefinite"><mpath href="#sa-border-swanley" xlink:href="#sa-border-swanley"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Swanscombe" data-slug="swanscombe">
         <a href="/pages/swanscombe/#content" aria-label="Swanscombe">
@@ -685,12 +463,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-swanscombe" xlink:href="#sa-border-swanscombe"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="-5.0s" repeatCount="indefinite"><mpath href="#sa-border-swanscombe" xlink:href="#sa-border-swanscombe"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Welling" data-slug="welling">
         <a href="/pages/welling/#content" aria-label="Welling">
@@ -701,12 +473,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-welling" xlink:href="#sa-border-welling"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="-5.0s" repeatCount="indefinite"><mpath href="#sa-border-welling" xlink:href="#sa-border-welling"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="West Kingsdown" data-slug="west-kingsdown">
         <a href="/pages/west-kingsdown/#content" aria-label="West Kingsdown">
@@ -717,12 +483,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="25.1s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-west-kingsdown" xlink:href="#sa-border-west-kingsdown"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="25.1s" begin="-12.6s" repeatCount="indefinite"><mpath href="#sa-border-west-kingsdown" xlink:href="#sa-border-west-kingsdown"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="West Wickham" data-slug="west-wickham">
         <a href="/pages/west-wickham/#content" aria-label="West Wickham">
@@ -733,12 +493,6 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-west-wickham" xlink:href="#sa-border-west-wickham"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="10.0s" begin="-5.0s" repeatCount="indefinite"><mpath href="#sa-border-west-wickham" xlink:href="#sa-border-west-wickham"/></animateMotion>
-        </circle>
       </g>
       <g class="sa-map-area" data-name="Wilmington" data-slug="wilmington">
         <a href="/pages/wilmington/#content" aria-label="Wilmington">
@@ -749,12 +503,7 @@
             </g>
           </g>
         </a>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="18.0s" begin="0s" repeatCount="indefinite"><mpath href="#sa-border-wilmington" xlink:href="#sa-border-wilmington"/></animateMotion>
-        </circle>
-        <circle class="sa-map-dot" r="1.5" aria-hidden="true">
-          <animateMotion dur="18.0s" begin="-9.0s" repeatCount="indefinite"><mpath href="#sa-border-wilmington" xlink:href="#sa-border-wilmington"/></animateMotion>
-        </circle>
       </g>
   </g>
+  <g class="sa-map-dots" aria-hidden="true"></g>
 </svg>
