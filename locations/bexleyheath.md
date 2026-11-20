@@ -1,11 +1,15 @@
 ---
 title: Bexleyheath
 meta_title: Burglar Alarm and CCTV in Bexleyheath
-meta_description: "Burglar Alarms & CCTV in Bexleyheath, Bexley. Call 020 8302 4065. Servicing, battery changes and hard-wired CCTV, whatever you've got."
-og_description: "Bexleyheath is a few minutes up the road from our Sidcup base. We work around the Broadway and service alarms whoever fitted them."
+meta_description: Burglar Alarms & CCTV in Bexleyheath, Bexley. Call 020 8302
+  4065. Servicing, battery changes and hard-wired CCTV, whatever you've got.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Bexleyheath. Trusted, family run security experts with over 28
+  years experience.
 permalink: /pages/bexleyheath/
-hero_image: "/images/locations/survey-visit.webp"
-hero_alt: "MyAlarm Security van on the drive of a customer's house during an alarm installation"
+hero_image: /images/locations/survey-visit.webp
+hero_alt: MyAlarm Security van on the drive of a customer's house during an
+  alarm installation
 eleventyNavigation:
   key: Bexleyheath
   parent: Service Areas
