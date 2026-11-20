@@ -1578,6 +1578,15 @@ ul.items > li {
   }
 }
 
+.sa-map-area--static {
+  cursor: default;
+
+  .sa-map-region {
+    fill: rgba(205, 19, 20, 0.14);
+    stroke: #cb2023;
+  }
+}
+
 .sa-map-region {
   fill: rgba(205, 19, 20, 0.2);
   stroke: #e52528;
@@ -1674,6 +1683,12 @@ ul.items > li {
   }
 }
 
+.service-map-tooltip-note {
+  font-size: 0.72rem;
+  font-weight: 400;
+  color: var(--color-muted);
+}
+
 .service-map-hint {
   display: none;
   margin: 0.75rem 0 0;
@@ -1683,6 +1698,12 @@ ul.items > li {
   @media (max-width: $mobile) {
     display: block;
   }
+}
+
+.service-map-credit {
+  margin: 0.4rem 0 0;
+  font-size: 0.72rem;
+  color: #747a88;
 }
 
 // =============================================================================

@@ -98,7 +98,10 @@ const buildBorderGraph = (svg) => {
         areaEdges.add(index);
       }
     }
-    edgesByArea.push([...areaEdges]);
+    edgesByArea.push({
+      edges: [...areaEdges],
+      static: area.classList.contains("sa-map-area--static"),
+    });
   }
 
   return { nodes, edges, edgeIndex, edgesByArea };
@@ -111,27 +114,32 @@ const startBorderDots = (svg, graph) => {
   const random = seededRandom(20261120);
   const dots = [];
 
-  // One dot on every other district: a quarter of the old two-per-district
-  // count, spread across the map rather than clustered in one half.
-  graph.edgesByArea.forEach((areaEdges, areaIndex) => {
-    if (areaIndex % 2 !== 0 || areaEdges.length === 0) return;
+  // One dot on every other linked district: a quarter of the old
+  // two-per-district count, spread across the map rather than clustered in one
+  // half. Dots can still wander onto the non-linked covered areas.
+  graph.edgesByArea
+    .filter((entry) => !entry.static)
+    .forEach((entry, areaIndex) => {
+      const areaEdges = entry.edges;
+      if (areaIndex % 2 !== 0 || areaEdges.length === 0) return;
 
-    const edge = graph.edges[areaEdges[Math.floor(random() * areaEdges.length)]];
-    const forward = random() < 0.5;
-    const element = document.createElementNS(SVG_NS, "circle");
-    element.setAttribute("class", "sa-map-dot");
-    element.setAttribute("r", "1.5");
-    group.append(element);
+      const edge =
+        graph.edges[areaEdges[Math.floor(random() * areaEdges.length)]];
+      const forward = random() < 0.5;
+      const element = document.createElementNS(SVG_NS, "circle");
+      element.setAttribute("class", "sa-map-dot");
+      element.setAttribute("r", "1.5");
+      group.append(element);
 
-    dots.push({
-      edge,
-      fromKey: forward ? edge.a : edge.b,
-      toKey: forward ? edge.b : edge.a,
-      distance: random() * edge.length,
-      speed: DOT_SPEED * (0.8 + random() * 0.4),
-      element,
+      dots.push({
+        edge,
+        fromKey: forward ? edge.a : edge.b,
+        toKey: forward ? edge.b : edge.a,
+        distance: random() * edge.length,
+        speed: DOT_SPEED * (0.8 + random() * 0.4),
+        element,
+      });
     });
-  });
 
   if (dots.length === 0) return null;
 
@@ -258,6 +266,12 @@ const initServiceMap = () => {
     activeSource = source;
     frameRect = frame.getBoundingClientRect();
     tooltip.textContent = area.dataset.name;
+    if (area.classList.contains("sa-map-area--static")) {
+      const note = document.createElement("span");
+      note.className = "service-map-tooltip-note";
+      note.textContent = "Covered area";
+      tooltip.append(note);
+    }
     tooltip.classList.add("is-visible");
     place(clientX, clientY);
   };
@@ -277,7 +291,6 @@ const initServiceMap = () => {
 
   for (const area of svg.querySelectorAll(".sa-map-area")) {
     const link = area.querySelector("a");
-    if (!link) continue;
 
     const track = (event) => {
       if (event.pointerType === "touch") return;
@@ -288,18 +301,21 @@ const initServiceMap = () => {
       }
     };
 
-    link.addEventListener("pointerenter", track);
-    link.addEventListener("pointermove", track);
-    link.addEventListener("pointerleave", () => {
+    area.addEventListener("pointerenter", track);
+    area.addEventListener("pointermove", track);
+    area.addEventListener("pointerleave", () => {
       if (activeSource === "pointer") hide();
     });
-    link.addEventListener("focus", () => {
-      const box = area.getBoundingClientRect();
-      show(area, box.left + box.width / 2, box.top + box.height / 2, "focus");
-    });
-    link.addEventListener("blur", () => {
-      if (activeSource === "focus") hide();
-    });
+
+    if (link) {
+      link.addEventListener("focus", () => {
+        const box = area.getBoundingClientRect();
+        show(area, box.left + box.width / 2, box.top + box.height / 2, "focus");
+      });
+      link.addEventListener("blur", () => {
+        if (activeSource === "focus") hide();
+      });
+    }
   }
 
   // A scrolled page or map moves the districts under the pointer, so put the
