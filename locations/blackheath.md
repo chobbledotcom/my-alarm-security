@@ -1,16 +1,18 @@
 ---
 title: Blackheath
 meta_title: Burglar Alarms and CCTV in Blackheath
-meta_description: Burglar Alarms & CCTV in Blackheath, Greenwich. Call 020 8302 4065. We also put right CCTV installs that other companies got wrong.
-og_description: "We cover Blackheath from Sidcup. One job near here meant ripping out a DIY CCTV install where the cables let water run straight into the junction boxes."
-permalink: "/pages/blackheath/"
-hero_image: "/images/locations/keypad.webp"
-hero_alt: "Pyronix alarm control panel showing MyAlarm Security on the display"
+meta_description: Burglar Alarms & CCTV in Blackheath, Greenwich. Call 020 8302
+  4065. We also put right CCTV installs that other companies got wrong.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Blackheath. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/blackheath/
+hero_image: /images/locations/keypad.webp
+hero_alt: Pyronix alarm control panel showing MyAlarm Security on the display
 eleventyNavigation:
   key: Blackheath
   parent: Service Areas
 ---
-
 # Burglar Alarms and CCTV in Blackheath
 
 We are a local, family run security company based in Sidcup, and we cover Blackheath, Greenwich, Eltham and the surrounding areas. We've been installing burglar alarms and CCTV in Blackheath for years, and we know the mix of properties in the area - from flats to larger homes. If your existing burglar alarm system has developed a fault, has a low battery or it needs an alarm system service then give us a call. Have a look at some of our [most popular packages](/categories/burglar-alarms/). We can create any package to suit your property and requirements.
@@ -31,7 +33,7 @@ Check out the current [CCTV packages](/categories/cctv/), including [CCTV Packag
 
 ## Burglar Alarm Servicing in Blackheath
 
-Does your existing house alarm need a new battery? Maybe the keypad no longer works or you have a zone or sensor fault? Or maybe you just want a service and the system checked over for your insurance or for your own peace of mind. We offer servicing and alarm system battery changes for all makes and models of alarms. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Send your photo and enquiry to us at <Sales@MyAlarmSecurity.co.uk> or give us a call for more info on having your burglar alarm serviced in Blackheath.
+Does your existing house alarm need a new battery? Maybe the keypad no longer works or you have a zone or sensor fault? Or maybe you just want a service and the system checked over for your insurance or for your own peace of mind. We offer servicing and alarm system battery changes for all makes and models of alarms. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Send your photo and enquiry to us at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) or give us a call for more info on having your burglar alarm serviced in Blackheath.
 
 ## Related services in Blackheath
 
@@ -40,7 +42,7 @@ Does your existing house alarm need a new battery? Maybe the keypad no longer wo
 - [Alarm servicing, faults and battery changes](/categories/servicing-and-repairs/)
 - [Special offer alarm and CCTV packages](/categories/special-offers/)
 
-It couldn't be easier to get in touch with us. Simply fill out your details on our [contact form](/contact/) and one of our helpful team will give you a call or email as soon as possible. You can also email us direct at Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.
+It couldn't be easier to get in touch with us. Simply fill out your details on our [contact form](/contact/) and one of our helpful team will give you a call or email as soon as possible. You can also email us direct at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) or give us a call on 020 8302 4065.
 
 > "Only had my installation yesterday but I'm over the moon with how neat it all is - no ugly cables showing. Also love the fact that the engineer brought his own Hoover and took his shoes off every time he came into the house." - Louise R, Google review, 2026
 
