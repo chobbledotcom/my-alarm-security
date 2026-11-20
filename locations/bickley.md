@@ -1,16 +1,18 @@
 ---
 title: Bickley
 meta_title: Burglar Alarms and CCTV in Bickley
-meta_description: Burglar Alarms & CCTV in Bickley, Bromley. Call 020 8302 4065. Pet-friendly alarm systems and discreet sensors for larger homes.
-og_description: "We cover Bickley from Sidcup, mostly the larger detached homes. A job nearby used tiny anthracite shock sensors so the dog kept its run of the house."
-permalink: "/pages/bickley/"
-hero_image: "/images/locations/van-side.webp"
-hero_alt: "The MyAlarm Security van"
+meta_description: Burglar Alarms & CCTV in Bickley, Bromley. Call 020 8302 4065.
+  Pet-friendly alarm systems and discreet sensors for larger homes.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Bickley. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/bickley/
+hero_image: /images/locations/van-side.webp
+hero_alt: The MyAlarm Security van
 eleventyNavigation:
   key: Bickley
   parent: Service Areas
 ---
-
 # Burglar Alarms and CCTV in Bickley
 
 We are a local, family run security company based in Sidcup, and we cover Bickley, Bromley and the surrounding areas. We've been installing burglar alarms and CCTV in Bickley for years, and we know the properties well - from the larger detached homes to the flats and commercial buildings in the area.
@@ -38,6 +40,6 @@ Our family run, local, friendly and reliable company can help with all aspects o
 - [Alarm servicing, faults and battery changes](/categories/servicing-and-repairs/)
 - [Special offer alarm and CCTV packages](/categories/special-offers/)
 
-Don't delay, call us today on 020 8302 4065. Alternatively, send us an email at Sales@MyAlarmSecurity.co.uk or head over to our [Contact Page](/contact/) and fill in your details and one of our friendly team will call or email you back as soon as possible.
+Don't delay, call us today on 020 8302 4065. Alternatively, send us an email at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) or head over to our [Contact Page](/contact/) and fill in your details and one of our friendly team will call or email you back as soon as possible.
 
 {% include "area-list-shortcode.html", prefix: "We proudly serve ", suffix: " and the surrounding areas." %}
