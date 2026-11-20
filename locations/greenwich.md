@@ -1,11 +1,14 @@
 ---
 title: Greenwich
 meta_title: Burglar Alarms and CCTV in Greenwich
-meta_description: Burglar alarm installation, servicing and hard-wired CCTV in Greenwich from MyAlarm Security, based nearby in Sidcup.
-og_description: "We cover the Borough of Greenwich from Sidcup, servicing nearly all alarm brands even if we didn't fit them, with a free survey and a quote on the spot."
+meta_description: Burglar alarm installation, servicing and hard-wired CCTV in
+  Greenwich from MyAlarm Security, based nearby in Sidcup.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Greenwich. Trusted, family run security experts with over 28 years
+  experience.
 permalink: /pages/greenwich/
-hero_image: "/images/locations/engineer-and-van.webp"
-hero_alt: "MyAlarm Security engineer standing next to the company van"
+hero_image: /images/locations/engineer-and-van.webp
+hero_alt: MyAlarm Security engineer standing next to the company van
 eleventyNavigation:
   key: Greenwich
   parent: Service Areas
@@ -26,9 +29,9 @@ Contact us today to book your survey or ask any questions - we're always happy t
 
 Need your existing burglar alarm serviced in Greenwich? Whether your alarm battery needs replacing, you're experiencing sensor faults, or your system is triggering false alarms or tampers on the zones, we've got you covered.
 
-With over 30 years of experience in the security industry, we support nearly all brands of professionally installed alarm systems - even if we didn't install the system. Don't worry if your system isn't branded - just send a photo to <Sales@MyAlarmSecurity.co.uk>, and we'll identify the brand for you. We carry parts and batteries for a wide range of alarm system brands, so we're ready to resolve your issue quickly and efficiently.
+With over 30 years of experience in the security industry, we support nearly all brands of professionally installed alarm systems - even if we didn't install the system. Don't worry if your system isn't branded - just send a photo to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk), and we'll identify the brand for you. We carry parts and batteries for a wide range of alarm system brands, so we're ready to resolve your issue quickly and efficiently.
 
-Call us on 020 8302 4065 or send an email to Sales@MyAlarmSecurity.co.uk to get booked in.
+Call us on 020 8302 4065 or send an email to [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) to get booked in.
 
 ## CCTV in Greenwich
 
