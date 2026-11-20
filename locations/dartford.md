@@ -1,19 +1,21 @@
 ---
 title: Dartford
 meta_title: Burglar Alarms and CCTV in Dartford
-meta_description: Burglar alarm servicing, installation, battery changes and hard-wired CCTV in Dartford from MyAlarm Security.
-og_description: "We cover Dartford from Sidcup. Recent jobs include a ColorVu CCTV installation and a cable repair after a carpet fitter went through an alarm cable."
-permalink: "/pages/dartford/"
-hero_image: "/images/locations/branded-siren.webp"
-hero_alt: "MyAlarm Security branded alarm siren on a brick wall"
+meta_description: Burglar alarm servicing, installation, battery changes and
+  hard-wired CCTV in Dartford from MyAlarm Security.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Dartford. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/dartford/
+hero_image: /images/locations/branded-siren.webp
+hero_alt: MyAlarm Security branded alarm siren on a brick wall
 eleventyNavigation:
   key: Dartford
   parent: Service Areas
 ---
-
 # Burglar Alarms and CCTV in Dartford
 
-Does your existing house alarm need a service or a new battery? Maybe you have a zone fault or a tamper? Or maybe you just want a service and the system checked over. We offer servicing, alarm system battery changes, sensor replacements, panel replacements and more for all makes and models of alarm systems. If you do not know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [burglar alarm services in Dartford.](/categories/servicing-and-repairs/)
+Does your existing house alarm need a service or a new battery? Maybe you have a zone fault or a tamper? Or maybe you just want a service and the system checked over. We offer servicing, alarm system battery changes, sensor replacements, panel replacements and more for all makes and models of alarm systems. If you do not know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) for info on [burglar alarm services in Dartford.](/categories/servicing-and-repairs/)
 
 ## Burglar Alarm System in Dartford
 
@@ -34,6 +36,6 @@ You can see some of our recent work in and around Dartford, including a [CCTV Co
 - [Alarm servicing, faults and battery changes](/categories/servicing-and-repairs/)
 - [Special offer alarm and CCTV packages](/categories/special-offers/)
 
-It couldn't be easier to get in touch with us. Simply fill out your details on our contact form which can be found here: [Contact MyAlarm Security](/contact/) - where one of our friendly team will get back to you asap. You can also email us direct at Sales@MyAlarmSecurity.co.uk or you can give us a call on 020 8302 4065.
+It couldn't be easier to get in touch with us. Simply fill out your details on our contact form which can be found here: [Contact MyAlarm Security](/contact/) - where one of our friendly team will get back to you asap. You can also email us direct at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) or you can give us a call on 020 8302 4065.
 
 {% include "area-list-shortcode.html", prefix: "We also install burglar alarms and CCTV in ", suffix: "." %}
