@@ -1,14 +1,15 @@
 ---
 title: Chelsfield
-meta_title: Burglar Alarm Maintenance Service Chelsfield, CCTV Chelsfield. Alarm
-  System Chelsfield, Orpington
+meta_title: Burglar Alarm Maintenance Service & CCTV Chelsfield
 meta_description: Burglar Alarm Maintenance Service Chelsfield, CCTV Chelsfield.
   Burglar Alarm System Chelsfield. Burglar Alarm System Orpington. CCTV in
-  Orpington. Burglar Alarm company near me
-og_description: "We service and fit alarms and CCTV in Chelsfield, out from Sidcup towards Orpington. Send a photo of the panel if you're not sure what system you've got."
+  Orpington.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Chelsfield. Trusted, family run security experts with over 28 years
+  experience.
 permalink: /pages/chelsfield/
-hero_image: "/images/locations/house-and-van.webp"
-hero_alt: "MyAlarm Security van outside a customer's house"
+hero_image: /images/locations/house-and-van.webp
+hero_alt: MyAlarm Security van outside a customer's house
 eleventyNavigation:
   key: Chelsfield
   parent: Service Areas
@@ -23,6 +24,6 @@ We offer the latest in CCTV packages. Our CCTV cameras have been extremely popul
 
 ## Burglar Alarm Maintenance Service in Chelsfield
 
-Does your existing house burglar alarm in Chelsfield need a new battery? Maybe the keypad no longer works? Or maybe you just want a maintenance service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of burglar alarm systems in Chelsfield. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [burglar alarm service in Chelsfield.](/categories/servicing-and-repairs/)
+Does your existing house burglar alarm in Chelsfield need a new battery? Maybe the keypad no longer works? Or maybe you just want a maintenance service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of burglar alarm systems in Chelsfield. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) for info on [burglar alarm service in Chelsfield.](/categories/servicing-and-repairs/)
 
 {% include "area-list-shortcode.html", prefix: "We also serve customers in ", suffix: "." %}
