@@ -1,14 +1,17 @@
 ---
 title: Belvedere
 meta_title: Burglar Alarm and CCTV in Belvedere
-meta_description: Burglar Alarms & CCTV in Belvedere, Bexley. Call 020 8302 4065. Smart app-controlled alarms, upgrades, servicing and battery changes.
-og_description: "We cover Belvedere from Sidcup for alarms, CCTV and battery changes. One job here meant painting round a new siren so we didn't leave a gap."
-hero_image: "/images/locations/belvedere.webp"
-hero_alt: "New MyAlarm Security siren fitted on a house in Belvedere"
+meta_description: Burglar Alarms & CCTV in Belvedere, Bexley. Call 020 8302
+  4065. Smart app-controlled alarms, upgrades, servicing and battery changes.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Belvedere. Trusted, family run security experts with over 28 years
+  experience.
+hero_image: /images/locations/belvedere.webp
+hero_alt: New MyAlarm Security siren fitted on a house in Belvedere
 work:
-  - image: "/images/locations/work-belvedere-siren.webp"
-    title: "Alarm System Upgrade and New Siren in Belvedere, DA17"
-    url: "/blog/alarm-system-upgrade-and-new-siren-in-belvedere/"
+  - image: /images/locations/work-belvedere-siren.webp
+    title: Alarm System Upgrade and New Siren in Belvedere, DA17
+    url: /blog/alarm-system-upgrade-and-new-siren-in-belvedere/
 eleventyNavigation:
   key: Belvedere
   parent: Service Areas
@@ -53,7 +56,7 @@ Are you looking for a burglar alarm company in Belvedere? Maybe you can't get ho
 - [Alarm servicing, faults and battery changes](/categories/servicing-and-repairs/)
 - [Special offer alarm and CCTV packages](/categories/special-offers/)
 
-It couldn't be easier to speak with us. You can use our contact form found here: [Contact us](/contact/) - and fill in your details and we will get back to you as soon as we can. You can also email us direct at: Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.
+It couldn't be easier to speak with us. You can use our contact form found here: [Contact us](/contact/) - and fill in your details and we will get back to you as soon as we can. You can also email us direct at: [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) or give us a call on 020 8302 4065.
 
 > "Matt arrived on time, he carried out the removal of the existing alarm system, installed the new alarm system, helped us to install the app on to our phones and demonstrated how to work with the app professionally. Matt also tidied and cleaned up everything before he left." - Ambrose Woo, Google review, 2026
 
