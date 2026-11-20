@@ -1,16 +1,19 @@
 ---
 title: Keston
-meta_title: "Alarm System Keston, CCTV Keston. Alarm Service Battery Keston - MyAlarm Security"
-meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Keston from MyAlarm Security, a Sidcup-based family business."
-og_description: "We've installed ColorVu CCTV across Keston and Orpington, and we service any make of alarm. Send a photo of the panel if you're unsure what it is."
-permalink: "/pages/keston/"
-hero_image: "/images/locations/branded-siren.webp"
-hero_alt: "MyAlarm Security branded alarm siren on a brick wall"
+meta_title: Alarm System in Keston, CCTV in Keston.
+meta_description: Burglar alarm installation, servicing, battery changes and
+  hard-wired CCTV in Keston from MyAlarm Security, a Sidcup-based family
+  business.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Keston. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/keston/
+hero_image: /images/locations/branded-siren.webp
+hero_alt: MyAlarm Security branded alarm siren on a brick wall
 eleventyNavigation:
   key: Keston
   parent: Service Areas
 ---
-
 # Burglar Alarm System Keston
 
 If you are looking for a local home and business security company, then you have come to the right place! We are a family run company based in Sidcup and cover Keston, Bromley and surrounding areas for all things home and business security related. If your existing burglar alarm system has developed a fault or it needs an alarm system service - or maybe you are looking to get a brand new system installed or upgraded, then give us a call. We can create any package to suit your needs. Why not check out some of our existing packages here: [Burglar Alarm Systems in Keston.](/categories/burglar-alarms/)
@@ -21,6 +24,6 @@ We offer the latest in CCTV. Our ColorVu CCTV cameras have been extremely popula
 
 ## Burglar Alarm Servicing in Keston
 
-Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarms. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Send your photo and enquiry to us at <Sales@MyAlarmSecurity.co.uk> or give us a call for more info on having your [burglar alarm serviced in Keston.](/categories/servicing-and-repairs/)
+Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarms. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Send your photo and enquiry to us at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) or give us a call for more info on having your [burglar alarm serviced in Keston.](/categories/servicing-and-repairs/)
 
 {% include "area-list-shortcode.html", prefix: "We also install burglar alarms and CCTV in ", suffix: "." %}
