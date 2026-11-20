@@ -1,29 +1,32 @@
 ---
 title: Sidcup
-meta_title: "Burglar Alarm and CCTV in Sidcup"
-meta_description: "Burglar Alarms & CCTV in Sidcup, Bexley. Call 020 8302 4065. We're based in Sidcup and most of our work comes from local recommendations."
-og_description: "Sidcup is our home town - we run the business from here on the Bexley and New Eltham borders, and most of our work comes from local recommendations."
-permalink: "/pages/sidcup/"
-hero_image: "/images/locations/sidcup.webp"
-hero_alt: "A bungalow in Sidcup with the MyAlarm Security van outside after an alarm installation"
+meta_title: Burglar Alarm and CCTV in Sidcup
+meta_description: Burglar Alarms & CCTV in Sidcup, Bexley. Call 020 8302 4065.
+  We're based in Sidcup and most of our work comes from local recommendations.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Sidcup. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/sidcup/
+hero_image: /images/locations/sidcup.webp
+hero_alt: A bungalow in Sidcup with the MyAlarm Security van outside after an
+  alarm installation
 work:
-  - image: "/images/locations/work-sidcup-bungalow.webp"
-    title: "Bungalow Burglar Alarm System in Sidcup, DA15"
-    url: "/blog/home-burglar-alarm-system-on-a-bungalow-in-sidcup/"
-  - image: "/images/locations/work-sidcup-home-security.webp"
-    title: "Home Security System Sidcup"
-    url: "/blog/home-security-system-sidcup/"
-  - image: "/images/locations/work-protecting-sidcup.webp"
-    title: "Protecting Sidcup"
-    url: "/blog/protecting-sidcup/"
-  - image: "/images/locations/work-painting-skills.webp"
-    title: "Painting Skills"
-    url: "/blog/painting-skills/"
+  - image: /images/locations/work-sidcup-bungalow.webp
+    title: Bungalow Burglar Alarm System in Sidcup, DA15
+    url: /blog/home-burglar-alarm-system-on-a-bungalow-in-sidcup/
+  - image: /images/locations/work-sidcup-home-security.webp
+    title: Home Security System Sidcup
+    url: /blog/home-security-system-sidcup/
+  - image: /images/locations/work-protecting-sidcup.webp
+    title: Protecting Sidcup
+    url: /blog/protecting-sidcup/
+  - image: /images/locations/work-painting-skills.webp
+    title: Painting Skills
+    url: /blog/painting-skills/
 eleventyNavigation:
   key: Sidcup
   parent: Service Areas
 ---
-
 # Burglar Alarm and CCTV in Sidcup
 
 We are based in Sidcup, on the borders of Bexley and New Eltham, so this is our home patch. We've been installing burglar alarms and CCTV in Sidcup and the surrounding areas for years, and most of our work comes from recommendations by local customers.
