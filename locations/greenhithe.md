@@ -1,16 +1,18 @@
 ---
 title: Greenhithe
-meta_title: "Burglar Alarm and CCTV in Greenhithe"
-meta_description: "Burglar Alarms & CCTV in Greenhithe, Kent. Call 020 8302 4065. Pet-friendly systems and adapted alarms for the deaf or hard of hearing."
-og_description: "We cover Greenhithe from Sidcup. For a deaf customer near here we fitted a sounder with a strobe that lights the way in and flashes if the alarm goes off."
-permalink: "/pages/greenhithe/"
-hero_image: "/images/locations/van.webp"
-hero_alt: "The MyAlarm Security van with ladders on the roof"
+meta_title: Burglar Alarm and CCTV in Greenhithe
+meta_description: Burglar Alarms & CCTV in Greenhithe, Kent. Call 020 8302 4065.
+  Pet-friendly systems and adapted alarms for the deaf or hard of hearing.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Greenhithe. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/greenhithe/
+hero_image: /images/locations/van.webp
+hero_alt: The MyAlarm Security van with ladders on the roof
 eleventyNavigation:
   key: Greenhithe
   parent: Service Areas
 ---
-
 # Burglar Alarm and CCTV in Greenhithe
 
 We are a local, family run security company based in Sidcup, and we cover Greenhithe, Ebbsfleet, Dartford and the surrounding areas. We've been installing burglar alarms and CCTV in Greenhithe for years, including some specialist adaptations for customers with specific needs. Maybe you have pets and are worried they may set the alarm off? We offer pet friendly systems and packages to suit any building layout. Take a look at some of our [premade packages](/categories/burglar-alarms/). All of our packages can be tailored to suit you so we can add additional sensors, keyfobs and door contacts to create a home or business security system to suit your needs.
@@ -37,7 +39,7 @@ Take a look at the current [CCTV packages](/categories/cctv/), including [CCTV P
 
 ## Burglar Alarm Servicing in Greenhithe
 
-Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarm systems. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [burglar alarm service in Greenhithe](/categories/servicing-and-repairs/).
+Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarm systems. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) for info on [burglar alarm service in Greenhithe](/categories/servicing-and-repairs/).
 
 ## Related services in Greenhithe
 
