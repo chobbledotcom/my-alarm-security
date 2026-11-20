@@ -1,16 +1,20 @@
 ---
 title: Lee Green
-meta_title: "Alarm System Lee Green, CCTV Lee Green. Alarm Service Lee Green - MyAlarm Security"
-meta_description: "Burglar alarm servicing, fault finding, battery changes, installation and hard-wired CCTV in Lee Green from MyAlarm Security, a Sidcup-based family business."
-og_description: "If you can't get hold of whoever installed your alarm in Lee Green, we service all makes from Sidcup, and our CCTV holds around 30 days of footage."
-permalink: "/pages/lee-green/"
-hero_image: "/images/locations/survey-visit.webp"
-hero_alt: "MyAlarm Security van on the drive of a customer's house during an alarm installation"
+meta_title: Alarm System Lee Green, CCTV Lee Green.
+meta_description: Burglar alarm servicing, fault finding, battery change &
+  installation. CCTV in Lee Green from MyAlarm Security, a Sidcup-based family
+  business.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Lee Green. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/lee-green/
+hero_image: /images/locations/survey-visit.webp
+hero_alt: MyAlarm Security van on the drive of a customer's house during an
+  alarm installation
 eleventyNavigation:
   key: Lee Green
   parent: Service Areas
 ---
-
 # Burglar Alarm Servicing in Lee Green
 
 Are you looking for a burglar alarm engineer in or around Lee Green? Maybe you can't get hold of your original installer/company or maybe you have inherited the system and not sure who installed or services your burglar alarm system. Do not worry, we can certainly help. If you need your burglar alarm system serviced, or need the batteries changed, it has a fault or a part needs replacing, this is something that we can help with. Give us a call or send us an email and our friendly and helpful team can answer any of your questions and get you booked in. [Contact us here.](/contact/) We are a local family run company based in Sidcup with over 30 years experience in the electronic security industry. There isn't any alarm system panels out there that we do not know.
@@ -23,6 +27,6 @@ Looking for a local, trusted security system company in Lee Green? If you're bas
 
 If you are looking for a local, friendly and professional company to install CCTV at your property in Lee Green, then look no further. We can help! We offer hard wired CCTV packages that do not rely on an internet connection to record and store footage. All of our CCTV systems come with approx 30 days storage. Check out some of our packages here: [CCTV in Lee Green.](/categories/cctv/) Contact us if you have any questions.
 
-It couldn't be easier to speak with us. You can use our contact form found here: [Contact us](/contact/) - and fill in your details and we will get back to you as soon as we can. You can also email us direct at: Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.
+It couldn't be easier to speak with us. You can use our contact form found here: [Contact us](/contact/) - and fill in your details and we will get back to you as soon as we can. You can also email us direct at: [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) or give us a call on 020 8302 4065.
 
 {% include "area-list-shortcode.html", prefix: "Looking for security services? We also cover ", suffix: "." %}
