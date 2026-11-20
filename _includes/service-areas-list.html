@@ -1,4 +1,11 @@
 {%- assign sorted_areas = collections.location | sort: "data.eleventyNavigation.key" -%}
-{%- for area in sorted_areas -%}
-  <a href="{{ area.url }}#content">{{ area.data.eleventyNavigation.key }}</a>{% unless forloop.last %}, {% endunless %}
-{%- endfor -%}
+<ul class="service-areas-columns">
+  {%- for area in sorted_areas -%}
+    <li>
+      <a href="{{ area.url }}#content">
+        <span class="service-areas-columns-dot" aria-hidden="true"></span>
+        <span>{{ area.data.eleventyNavigation.key }}</span>
+      </a>
+    </li>
+  {%- endfor -%}
+</ul>
