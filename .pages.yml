@@ -15,32 +15,33 @@ content:
     path: pages
     type: collection
     subfolders: false
+    filename: "{primary}.md"
     view:
       fields:
         - name
         - permalink
         - meta_title
-      primary: meta_title
+      primary: name
       sort:
         - meta_title
     fields:
       - { name: name, type: string, label: Name }
       - { name: subtitle, type: string, label: Subtitle }
       - { name: body, type: rich-text, label: Body }
-      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
+      - { name: meta_title, type: string, label: Meta Title, options: { maxlength: 55 } }
       - name: meta_description
         type: string
         label: Meta Description
-        maxlength: 155
+        options: { maxlength: 155 }
       - name: og_title
         type: string
         label: Share Title
-        maxlength: 70
+        options: { maxlength: 70 }
         description: Title shown when this page is shared on Facebook, WhatsApp, email and other apps. Leave blank to use the page title.
       - name: og_description
         type: string
         label: Share Text
-        maxlength: 155
+        options: { maxlength: 155 }
         description: Text shown when this page is shared on Facebook, WhatsApp and other apps. Leave blank to use the Meta Description.
       - name: eleventyNavigation
         label: Navigation
@@ -49,6 +50,8 @@ content:
           - { name: key, type: string }
           - { name: order, type: number }
       - { name: layout, type: string }
+      - { name: permalink, type: string, label: Permalink }
+      - { name: no_index, type: boolean, label: Hide from search engines }
       - name: faqs
         label: FAQs
         type: object
@@ -66,6 +69,7 @@ content:
     path: products
     type: collection
     subfolders: false
+    filename: "{primary}.md"
     fields:
       - { name: title, type: string, label: Title }
       - { name: subtitle, type: string, label: Subtitle }
@@ -105,20 +109,20 @@ content:
           - { name: name, type: string, label: Name, required: true }
           - { name: value, type: string, label: Value, required: true }
       - { name: body, type: rich-text, label: Body }
-      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
+      - { name: meta_title, type: string, label: Meta Title, options: { maxlength: 55 } }
       - name: meta_description
         type: string
         label: Meta Description
-        maxlength: 155
+        options: { maxlength: 155 }
       - name: og_title
         type: string
         label: Share Title
-        maxlength: 70
+        options: { maxlength: 70 }
         description: Title shown when this page is shared on Facebook, WhatsApp, email and other apps. Leave blank to use the page title.
       - name: og_description
         type: string
         label: Share Text
-        maxlength: 155
+        options: { maxlength: 155 }
         description: Text shown when this page is shared on Facebook, WhatsApp and other apps. Leave blank to use the Meta Description.
       - name: faqs
         label: FAQs
@@ -147,6 +151,7 @@ content:
           - { name: title, type: string, label: Title, required: true }
           - { name: image, type: image, label: Image }
           - { name: body, type: rich-text, label: Body, required: true }
+      - { name: redirect_from, type: string, label: Redirect From, list: true }
   - name: categories
     label: Categories
     path: categories
@@ -166,22 +171,23 @@ content:
           value: "{path}"
           label: "{title}"
       - { name: body, type: rich-text, label: Body }
-      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
+      - { name: meta_title, type: string, label: Meta Title, options: { maxlength: 55 } }
       - name: meta_description
         type: string
         label: Meta Description
-        maxlength: 155
+        options: { maxlength: 155 }
       - name: og_title
         type: string
         label: Share Title
-        maxlength: 70
+        options: { maxlength: 70 }
         description: Title shown when this page is shared on Facebook, WhatsApp, email and other apps. Leave blank to use the page title.
       - name: og_description
         type: string
         label: Share Text
-        maxlength: 155
+        options: { maxlength: 155 }
         description: Text shown when this page is shared on Facebook, WhatsApp and other apps. Leave blank to use the Meta Description.
       - { name: subtitle, type: string, label: Subtitle }
+      - { name: featured, type: boolean, label: Show on homepage }
       - name: faqs
         label: FAQs
         type: object
@@ -204,21 +210,24 @@ content:
       - { name: date, label: Date, type: date }
       - { name: subtitle, type: string, label: Subtitle }
       - { name: body, type: rich-text, label: Body }
-      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
+      - { name: meta_title, type: string, label: Meta Title, options: { maxlength: 55 } }
       - name: meta_description
         type: string
         label: Meta Description
-        maxlength: 155
+        options: { maxlength: 155 }
       - name: og_title
         type: string
         label: Share Title
-        maxlength: 70
+        options: { maxlength: 70 }
         description: Title shown when this page is shared on Facebook, WhatsApp, email and other apps. Leave blank to use the page title.
       - name: og_description
         type: string
         label: Share Text
-        maxlength: 155
+        options: { maxlength: 155 }
         description: Text shown when this page is shared on Facebook, WhatsApp and other apps. Leave blank to use the Meta Description.
+      - { name: permalink, type: string, label: Permalink }
+      - { name: no_index, type: boolean, label: Hide from search engines }
+      - { name: redirect_from, type: string, label: Redirect From, list: true }
       - name: faqs
         label: FAQs
         type: object
@@ -312,22 +321,23 @@ content:
           - { name: image, type: image, label: Photo, required: true }
           - { name: title, type: string, label: Title, required: true }
           - { name: url, type: string, label: Link to the news post }
+      - { name: permalink, type: string, label: Permalink }
       - { name: order, type: number, label: Order }
       - { name: body, type: rich-text, label: Body }
-      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
+      - { name: meta_title, type: string, label: Meta Title, options: { maxlength: 55 } }
       - name: meta_description
         type: string
         label: Meta Description
-        maxlength: 155
+        options: { maxlength: 155 }
       - name: og_title
         type: string
         label: Share Title
-        maxlength: 70
+        options: { maxlength: 70 }
         description: Title shown when this page is shared on Facebook, WhatsApp, email and other apps. Leave blank to use the page title.
       - name: og_description
         type: string
         label: Share Text
-        maxlength: 155
+        options: { maxlength: 155 }
         description: Text shown when this page is shared on Facebook, WhatsApp and other apps. Leave blank to use the Meta Description.
       - name: faqs
         label: FAQs
@@ -341,6 +351,86 @@ content:
         label: Gallery
         options:
           multiple: true
+  - name: homepage
+    label: Homepage Settings
+    type: file
+    path: _data/homepage.json
+    fields:
+      - name: show_news
+        type: boolean
+        label: Show Latest News
+        default: true
+  - name: homepage-content
+    label: Homepage Content
+    type: file
+    path: _data/home_content.json
+    fields:
+      - name: banner
+        label: Top Banner
+        type: object
+        fields:
+          - name: special_offer
+            label: Special Offer
+            type: object
+            fields:
+              - { name: message, type: string, label: Offer Text }
+              - { name: link, type: string, label: Offer Link }
+          - name: images
+            label: Banner Photos
+            type: image
+            options:
+              multiple: true
+          - name: alts
+            label: Banner Photo Descriptions
+            type: string
+            list: true
+            description: One description per photo, in the same order as the photos above.
+      - name: hero
+        label: Service Cards
+        type: object
+        fields:
+          - name: service_cards
+            label: Cards
+            type: object
+            list: true
+            fields:
+              - { name: title, type: string, label: Title, required: true }
+              - { name: description, type: text, label: Description, required: true }
+              - { name: link, type: string, label: Link }
+              - { name: image, type: image, label: Photo }
+      - name: why_choose_us
+        label: Why Choose Us
+        type: object
+        fields:
+          - { name: heading, type: string, label: Heading }
+          - name: features
+            label: Features
+            type: object
+            list: true
+            fields:
+              - { name: title, type: string, label: Title, required: true }
+              - { name: icon, type: string, label: Icon Path, required: true }
+      - name: reviews
+        label: Reviews Section
+        type: object
+        fields:
+          - { name: heading, type: string, label: Heading }
+  - name: brands
+    label: Brands
+    type: file
+    path: _data/brands.json
+    fields:
+      - name: icons
+        label: Brand Logos
+        type: object
+        list: true
+        fields:
+          - name: filename
+            type: string
+            label: File Name
+            required: true
+            description: File in images/Brands, for example logo-pyronix.png
+          - { name: alt_text, type: string, label: Brand Name, required: true }
   - name: site
     label: Site Configuration
     type: file
@@ -367,7 +457,6 @@ content:
           - { name: Google, type: string, label: Google }
           - { name: WhatsApp, type: string, label: WhatsApp }
           - { name: RSS, type: string, label: RSS }
-      - { name: map_embed_src, type: string, label: Map Embed URL }
   - name: meta
     label: Meta Configuration
     type: file

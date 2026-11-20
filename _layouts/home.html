@@ -56,14 +56,9 @@ layout: base.html
 </section>
 {% endif %}
 
-{% if home_content.main_content %}
+{% if content %}
 <section class="main-content">
-  {% for paragraph in home_content.main_content.paragraphs %}
-  <p>{{ paragraph }}</p>
-  {% endfor %}
-  {% if home_content.main_content.highlight %}
-  <p><strong>{{ home_content.main_content.highlight }}</strong></p>
-  {% endif %}
+  {{ content }}
 </section>
 {% endif %}
 
