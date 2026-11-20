@@ -1,20 +1,21 @@
 ---
 title: West Wickham
-meta_title: "Burglar Alarm System West Wickham Security CCTV Systems - MyAlarm Security"
-meta_description: "Burglar Alarm System West Wickham Security for homes and Business. CCTV. Home Security Systems, Burglar Alarm Service Alarm Battery. Contact us  020 8302 4065."
-og_description: "We've been to West Wickham many times, from Coney Hall rec to the Miller and Carter. We service alarms and fit Pyronix systems and CCTV here."
-permalink: "/pages/west-wickham/"
-hero_image: "/images/locations/west-wickham.webp"
-hero_alt: "MyAlarm Security van outside a house in West Wickham"
+meta_title: "Burglar Alarm System West Wickham Security CCTV "
+meta_description: Burglar Alarm System West Wickham Security for homes and
+  Business. CCTV. Home Security Systems, Burglar Alarm Service Alarm Battery
+og_description: "We cover West Wickham for burglar alarm maintenance, battery
+  changes, installations and hard-wired CCTV. "
+permalink: /pages/west-wickham/
+hero_image: /images/locations/west-wickham.webp
+hero_alt: MyAlarm Security van outside a house in West Wickham
 work:
-  - image: "/images/locations/work-west-wickham.webp"
-    title: "West Wickham Security"
-    url: "/blog/west-wickham-security/"
+  - image: /images/locations/work-west-wickham.webp
+    title: West Wickham Security
+    url: /blog/west-wickham-security/
 eleventyNavigation:
   key: West Wickham
   parent: Service Areas
 ---
-
 # West Wickham Security
 
 Does your burglar alarm system in West Wickham need a maintenance service? Maybe you need a sensor moved or taken down for decorating or refurbishment works? Or maybe you would like to add some additional sensors? Whatever you need, from a [routine service](/categories/servicing-and-repairs/) and battery changes to a brand new system, we can help with it all.
@@ -25,7 +26,7 @@ We know West Wickham well having visited [Coney Hall rec](https://www.bromley.go
 
 We offer the latest smart systems in home and business security with app controlled integration allowing you the freedom of being able to control your alarm system remotely via an app. We install the market leading brand of alarms which is Pyronix however having been in the security industry for about 30 years, there isn't many brands or models of alarm system (if any at all) that we haven't worked on and know well. From [battery changes to adding or removing sensors](/categories/servicing-and-repairs/), we can do it all. [Contact us](/contact/) now and our team would be more than happy to help.
 
-We are contactable by phone or email! Our email address is Sales@MyAlarmSecurity.co.uk and our phone number is 020 8302 4065. Check out some of our packages here: [Burglar Alarm System in West Wickham.](/categories/burglar-alarms/)
+We are contactable by phone or email! Our email address is [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) and our phone number is 020 8302 4065. Check out some of our packages here: [Burglar Alarm System in West Wickham.](/categories/burglar-alarms/)
 
 ## CCTV in West Wickham
 
