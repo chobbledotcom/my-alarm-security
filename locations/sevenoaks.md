@@ -1,16 +1,18 @@
 ---
 title: Sevenoaks
 meta_title: Burglar Alarms and CCTV in Sevenoaks
-meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Sevenoaks and nearby Kent areas.
-og_description: "We cover North Sevenoaks from Sidcup - the A20 and M25 make Swanley and West Kingsdown an easy run. We service alarms whoever fitted them."
-permalink: "/pages/sevenoaks/"
-hero_image: "/images/locations/engineer-and-van.webp"
-hero_alt: "MyAlarm Security engineer standing next to the company van"
+meta_description: Burglar alarm installation, servicing, battery changes and
+  hard-wired CCTV in Sevenoaks and nearby Kent areas.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Sevenoaks. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/sevenoaks/
+hero_image: /images/locations/engineer-and-van.webp
+hero_alt: MyAlarm Security engineer standing next to the company van
 eleventyNavigation:
   key: Sevenoaks
   parent: Service Areas
 ---
-
 # Burglar Alarms and CCTV in Sevenoaks
 
 Nestled in the heart of Kent, the Borough of Sevenoaks offers a unique blend of rich history, stunning landscapes and modern amenities. Whether you're a resident or a visitor, Sevenoaks provides an inviting atmosphere that celebrates both its heritage and its vibrant present.
