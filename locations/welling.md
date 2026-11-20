@@ -1,16 +1,18 @@
 ---
 title: Welling
-meta_title: "Burglar Alarm and CCTV in Welling"
-meta_description: "Burglar Alarms & CCTV in Welling, Bexley. Call 020 8302 4065. Plenty of experience securing the bungalows that are common round Welling."
-og_description: "Welling is just down the road from us, and bungalows are common there, which means more entry points to think about. We've fitted plenty of them."
-permalink: "/pages/welling/"
-hero_image: "/images/locations/van-side.webp"
-hero_alt: "The MyAlarm Security van"
+meta_title: Burglar Alarm and CCTV in Welling
+meta_description: Burglar Alarms & CCTV in Welling, Bexley. Call 020 8302 4065.
+  Plenty of experience securing the bungalows that are common round Welling.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Welling. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/welling/
+hero_image: /images/locations/van-side.webp
+hero_alt: The MyAlarm Security van
 eleventyNavigation:
   key: Welling
   parent: Service Areas
 ---
-
 # Burglar Alarm and CCTV in Welling
 
 We are a local, family run security company based in Sidcup, and Welling is just down the road for us. We've been installing burglar alarms and CCTV in Welling and the surrounding areas for years. Bungalows are very common in Welling, Bexleyheath and the surrounding area, and we've fitted security systems to plenty of them - they need a slightly different approach since all the rooms are on the ground floor. If your existing burglar alarm system has developed a fault or it needs an alarm system service - or maybe you are looking to get a brand new system installed or upgraded, then give us a call. We can create any package to suit your needs. Why not check out some of our [existing packages](/categories/burglar-alarms/)?
@@ -39,7 +41,7 @@ Take a look at the current [CCTV packages](/categories/cctv/), including [CCTV P
 
 ## Burglar Alarm Servicing in Welling
 
-Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarms. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Send your photo and enquiry to us at <Sales@MyAlarmSecurity.co.uk> or give us a call for more info on having your burglar alarm serviced in Welling.
+Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarms. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Send your photo and enquiry to us at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) or give us a call for more info on having your burglar alarm serviced in Welling.
 
 ## Related services in Welling
 
