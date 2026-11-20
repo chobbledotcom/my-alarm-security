@@ -1,13 +1,14 @@
 ---
 title: Badgers Mount
-meta_title: Alarm System in Badgers Mount, CCTV in Badgers Mount. Alarm Maintenance Service
-meta_description: Alarm System Badgers Mount, CCTV Badgers Mount. Alarm
-  Maintenance Service Badgers Mount, Alarm Battery Replacement Badgers Mount,
-  Home Alarm Badgers Mount. 020 8302 4065
-og_description: "We cover Badgers Mount from Sidcup for alarm maintenance, battery changes and hard-wired CCTV that records to its own drive. Ring 020 8302 4065."
+meta_title: Alarm System in Badgers Mount, CCTV. Alarm Maintenance.
+meta_description: "Alarm System Badgers Mount, CCTV. Alarm Maintenance Service
+  Badgers Mount, Alarm Battery Replacement Badgers Mount, Home Alarm Badgers
+  Mount. "
+og_description: "We cover Badgers Mount for burglar alarm maintenance, battery
+  changes, installations and hard-wired CCTV. "
 permalink: /pages/badgers-mount/
-hero_image: "/images/locations/engineer-and-van.webp"
-hero_alt: "MyAlarm Security engineer standing next to the company van"
+hero_image: /images/locations/engineer-and-van.webp
+hero_alt: MyAlarm Security engineer standing next to the company van
 eleventyNavigation:
   key: Badgers Mount
   parent: Service Areas
@@ -22,6 +23,6 @@ We offer the latest in CCTV packages. Our 24 hour colour CCTV cameras have been 
 
 ## Burglar Alarm Maintenance Service in Badgers Mount
 
-Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer burglar alarm system maintenance service and alarm system battery changes for all makes and models of alarm systems in Badgers Mount. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [burglar alarm service in Badgers Mount.](/categories/servicing-and-repairs/)
+Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer burglar alarm system maintenance service and alarm system battery changes for all makes and models of alarm systems in Badgers Mount. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) for info on [burglar alarm service in Badgers Mount.](/categories/servicing-and-repairs/)
 
 {% include "area-list-shortcode.html", prefix: "We also serve customers in ", suffix: "." %}
