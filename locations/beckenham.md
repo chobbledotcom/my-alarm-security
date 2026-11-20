@@ -1,16 +1,18 @@
 ---
 title: Beckenham
 meta_title: Burglar Alarms and CCTV in Beckenham
-meta_description: Burglar alarm servicing, installation and hard-wired CCTV in Beckenham from MyAlarm Security.
-og_description: "We fit burglar alarms and hard-wired Hikvision CCTV in Beckenham, with each camera cabled back to the recorder rather than relying on a wireless kit."
-permalink: "/pages/beckenham/"
-hero_image: "/images/locations/engineer-fitting-keypad.webp"
-hero_alt: "MyAlarm Security engineer fitting an alarm control panel"
+meta_description: Burglar alarm servicing, installation and hard-wired CCTV in
+  Beckenham from MyAlarm Security.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Beckenham. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/beckenham/
+hero_image: /images/locations/engineer-fitting-keypad.webp
+hero_alt: MyAlarm Security engineer fitting an alarm control panel
 eleventyNavigation:
   key: Beckenham
   parent: Service Areas
 ---
-
 # Burglar Alarms and CCTV in Beckenham
 
 We offer battery changes, part changes and servicing to all different makes and models of burglar alarm systems. Maybe you have inherited the system or you've lost the details of the original installer, don't worry we can help. We offer one off servicing, battery changes, part replacement and upgrades to all types of home and business burglar alarm systems. We cover the boroughs of Bromley, Lewisham, Bexley, Dartford, Sevenoaks and Greenwich.
