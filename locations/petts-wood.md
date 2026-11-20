@@ -1,16 +1,18 @@
 ---
 title: Petts Wood
-meta_title: "Burglar Alarm and CCTV in Petts Wood"
-meta_description: "Burglar Alarms & CCTV in Petts Wood, Bromley. Call 020 8302 4065. Pyronix smart alarms, car defenders and app-controlled CCTV."
-og_description: "Petts Wood is a short drive up the A20 for us. After a car was stolen off a driveway here we fitted a Pyronix car defender that triggers the house alarm."
-permalink: "/pages/petts-wood/"
-hero_image: "/images/locations/van.webp"
-hero_alt: "The MyAlarm Security van with ladders on the roof"
+meta_title: Burglar Alarm and CCTV in Petts Wood
+meta_description: Burglar Alarms & CCTV in Petts Wood, Bromley. Call 020 8302
+  4065. Pyronix smart alarms, car defenders and app-controlled CCTV.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Petts Wood. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/petts-wood/
+hero_image: /images/locations/van.webp
+hero_alt: The MyAlarm Security van with ladders on the roof
 eleventyNavigation:
   key: Petts Wood
   parent: Service Areas
 ---
-
 # Burglar Alarm and CCTV in Petts Wood
 
 We are a local, family run security company based in Sidcup, and Petts Wood is just a short drive up the A20 for us. Sitting between Orpington and Chislehurst, it's one of those areas where you'd swear you were in Kent despite being in the London Borough of Bromley - and with the green spaces around Petts Wood Recreation Ground and the fields down to High Elms, it's easy to see why people want to keep it that way.
