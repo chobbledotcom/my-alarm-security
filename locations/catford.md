@@ -1,11 +1,14 @@
 ---
 title: Catford
 meta_title: Burglar Alarms and CCTV in Catford
-meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Catford from MyAlarm Security.
-og_description: "If your Catford alarm has a fault or needs a service, send us a photo of the panel and we can identify it from there. We fit ColorVu CCTV too."
+meta_description: Burglar alarm installation, servicing, battery changes and
+  hard-wired CCTV in Catford from MyAlarm Security.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Catford. Trusted, family run security experts with over 28 years
+  experience.
 permalink: /pages/catford/
-hero_image: "/images/locations/van.webp"
-hero_alt: "The MyAlarm Security van with ladders on the roof"
+hero_image: /images/locations/van.webp
+hero_alt: The MyAlarm Security van with ladders on the roof
 eleventyNavigation:
   key: Catford
   parent: Service Areas
@@ -22,7 +25,7 @@ Check out the current [CCTV packages](/categories/cctv/), including [CCTV Packag
 
 ## Burglar Alarm Maintenance Service in Catford
 
-Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarm systems. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [burglar alarm service in Catford](/categories/servicing-and-repairs/).
+Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarm systems. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) for info on [burglar alarm service in Catford](/categories/servicing-and-repairs/).
 
 > "Polite, attention to detail, and knowing his stuff - could not ask for a better service." - Bromley Borough, Google review, 2026
 
