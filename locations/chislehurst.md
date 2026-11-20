@@ -1,29 +1,31 @@
 ---
 title: Chislehurst
-meta_title: "Burglar Alarm and CCTV in Chislehurst"
-meta_description: "Burglar Alarms & CCTV in Chislehurst, Bromley. Call 020 8302 4065. Servicing, battery changes and out of hours callouts covered."
-og_description: "Chislehurst is just up the A20 from our Sidcup base. We've done Christmas Eve callouts here for outside sirens blaring on a low battery."
-permalink: "/pages/chislehurst/"
-hero_image: "/images/locations/chislehurst.webp"
-hero_alt: "New Pyronix alarm control panel fitted in a Chislehurst home"
+meta_title: Burglar Alarm and CCTV in Chislehurst
+meta_description: Burglar Alarms & CCTV in Chislehurst, Bromley. Call 020 8302
+  4065. Servicing, battery changes and out of hours callouts covered.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Chislehurst. Trusted, family run security experts with over 28
+  years experience.
+permalink: /pages/chislehurst/
+hero_image: /images/locations/chislehurst.webp
+hero_alt: New Pyronix alarm control panel fitted in a Chislehurst home
 work:
-  - image: "/images/locations/work-chislehurst-accenta-upgrade.webp"
-    title: "Upgrading an Accenta Burglar Alarm System in Chislehurst"
-    url: "/blog/upgrading-an-accenta-burglar-alarm-system-in-chislehurst/"
-  - image: "/images/locations/work-chislehurst-alarm-and-cctv.webp"
-    title: "Burglar Alarm And CCTV Systems Chislehurst"
-    url: "/blog/burglar-alarm-and-cctv-systems-chislehurst/"
-  - image: "/images/locations/work-chislehurst-refurbishment.webp"
-    title: "New Refurbishment - House Alarm And CCTV In Chislehurst"
-    url: "/blog/new-refurbishment-house-alarm-and-cctv-in-chislehurst/"
-  - image: "/images/locations/work-chislehurst-dated-systems.webp"
-    title: "Upgrading Dated Systems In Chislehurst"
-    url: "/blog/upgrading-dated-systems-in-chislehurst/"
+  - image: /images/locations/work-chislehurst-accenta-upgrade.webp
+    title: Upgrading an Accenta Burglar Alarm System in Chislehurst
+    url: /blog/upgrading-an-accenta-burglar-alarm-system-in-chislehurst/
+  - image: /images/locations/work-chislehurst-alarm-and-cctv.webp
+    title: Burglar Alarm And CCTV Systems Chislehurst
+    url: /blog/burglar-alarm-and-cctv-systems-chislehurst/
+  - image: /images/locations/work-chislehurst-refurbishment.webp
+    title: New Refurbishment - House Alarm And CCTV In Chislehurst
+    url: /blog/new-refurbishment-house-alarm-and-cctv-in-chislehurst/
+  - image: /images/locations/work-chislehurst-dated-systems.webp
+    title: Upgrading Dated Systems In Chislehurst
+    url: /blog/upgrading-dated-systems-in-chislehurst/
 eleventyNavigation:
   key: Chislehurst
   parent: Service Areas
 ---
-
 # Burglar Alarm and CCTV in Chislehurst
 
 We are a local, family run security company based in Sidcup, and Chislehurst is just up the A20 for us. We've been installing burglar alarms and CCTV in Chislehurst and the surrounding areas for years, often working alongside building companies on refurbishment projects where we run cables before the render goes on and come back for the second fix when the property is ready.
