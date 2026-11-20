@@ -5,7 +5,7 @@ meta_description: "Alarm System Badgers Mount, CCTV. Alarm Maintenance Service
   Badgers Mount, Alarm Battery Replacement Badgers Mount, Home Alarm Badgers
   Mount. "
 og_description: "We cover Badgers Mount for burglar alarm maintenance, battery
-  changes, installations and hard-wired CCTV. "
+  changes, installations, upgrades and hard-wired CCTV. "
 permalink: /pages/badgers-mount/
 hero_image: /images/locations/engineer-and-van.webp
 hero_alt: MyAlarm Security engineer standing next to the company van
