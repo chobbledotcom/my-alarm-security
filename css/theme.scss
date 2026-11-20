@@ -1625,20 +1625,14 @@ ul.items > li {
   }
 }
 
+.sa-map-dots {
+  pointer-events: none;
+}
+
 .sa-map-dot {
   fill: #fff;
   opacity: 0.9;
   pointer-events: none;
-  transition:
-    r 0.2s ease,
-    opacity 0.2s ease;
-
-  .sa-map-area:hover &,
-  .sa-map-area:focus-within & {
-    r: 2.2;
-    opacity: 1;
-    filter: drop-shadow(0 0 2px rgba(255, 255, 255, 0.85));
-  }
 }
 
 .service-map-tooltip {
