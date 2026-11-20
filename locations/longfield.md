@@ -1,16 +1,19 @@
 ---
 title: Longfield
-meta_title: "Alarm System Longfield, CCTV Longfield. Alarm Service Longfield - MyAlarm Security"
-meta_description: "Alarm System Longfield, CCTV Longfield. Alarm Service Longfield, Alarm Battery Replacement Longfield, Home Alarm System Longfield. Tel 020 8302 4065"
-og_description: "We cover Longfield and the Borough of Dartford from Sidcup. If you've inherited an alarm and don't know who fitted it, send us a photo of the panel."
-permalink: "/pages/longfield/"
-hero_image: "/images/locations/van-side.webp"
-hero_alt: "The MyAlarm Security van"
+meta_title: Alarm System Longfield, CCTV Longfield. Alarm Service.
+meta_description: Alarm System Longfield, CCTV Longfield. Alarm Service
+  Longfield, Alarm Battery Replacement Longfield, Home Alarm System Longfield.
+  Tel 020 8302 4065
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Longfield. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/longfield/
+hero_image: /images/locations/van-side.webp
+hero_alt: The MyAlarm Security van
 eleventyNavigation:
   key: Longfield
   parent: Service Areas
 ---
-
 # Burglar Alarm Servicing in Longfield
 
 Are you looking for a burglar alarm engineer in or around Longfield? Maybe you can't get hold of your original installer/company or maybe you have inherited the system and not sure who installed or services your burglar alarm system. Do not worry, we can certainly help. If you need your burglar alarm system serviced, or need the batteries changed, it has a fault or a part needs replacing, this is something that we can help with. Give us a call or send us an email and our friendly and helpful team can answer any of your questions and get you booked in. [Contact us here.](/contact/) We are a local family run company based in Sidcup with over 30 years experience in the electronic security industry. There isn't any alarm system panels out there that we do not know.
@@ -23,6 +26,6 @@ Looking for a local, trusted security system company in Longfield? If you're bas
 
 If you are looking for a local, friendly and professional company to install CCTV at your property in Longfield, then look no further. We can help! We offer hard wired CCTV packages that do not rely on an internet connection to record and store footage. All of our CCTV systems come with approx 30 days storage. Check out some of our packages here: [CCTV in Longfield.](/categories/cctv/) Contact us if you have any questions.
 
-It couldn't be easier to speak with us. You can use our contact form found here: [Contact us](/contact/) - and fill in your details and we will get back to you as soon as we can. You can also email us direct at: Sales@MyAlarmSecurity.co.uk or give us a call on 020 8302 4065.
+It couldn't be easier to speak with us. You can use our contact form found here: [Contact us](/contact/) - and fill in your details and we will get back to you as soon as we can. You can also email us direct at: [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) or give us a call on 020 8302 4065.
 
 {% include "area-list-shortcode.html", prefix: "We proudly serve ", suffix: " and the surrounding areas." %}
