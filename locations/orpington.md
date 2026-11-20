@@ -1,15 +1,18 @@
 ---
 title: Orpington
 meta_title: Burglar Alarms and CCTV in Orpington
-meta_description: Burglar alarm installation, servicing, battery changes and hard-wired CCTV in Orpington from MyAlarm Security.
-og_description: "We're minutes from Orpington up the A20, and our vans meet ULEZ so nothing changes for you. We service all alarm makes, even ones we didn't fit."
+meta_description: Burglar alarm installation, servicing, battery changes and
+  hard-wired CCTV in Orpington from MyAlarm Security.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Orpington. Trusted, family run security experts with over 28 years
+  experience.
 permalink: /pages/orpington/
-hero_image: "/images/locations/orpington.webp"
-hero_alt: "MyAlarm Security van parked in Orpington"
+hero_image: /images/locations/orpington.webp
+hero_alt: MyAlarm Security van parked in Orpington
 work:
-  - image: "/images/locations/work-orpington-service.webp"
-    title: "Alarm System Service Maintenance in Orpington"
-    url: "/blog/alarm-system-service-maintenance-in-orpington/"
+  - image: /images/locations/work-orpington-service.webp
+    title: Alarm System Service Maintenance in Orpington
+    url: /blog/alarm-system-service-maintenance-in-orpington/
 eleventyNavigation:
   key: Orpington
   parent: Service Areas
