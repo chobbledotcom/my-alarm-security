@@ -1,18 +1,21 @@
 ---
 title: Bexley
 meta_title: Burglar Alarm and CCTV in Bexley
-meta_description: Burglar Alarms & CCTV in Bexley, South East London. Call 020 8302 4065. Based in Sidcup, with real CCTV jobs in Bexley village.
-og_description: "We're based in Sidcup and Bexley is the next town over. Send us a photo of your alarm panel and we'll tell you what you've inherited with the house."
+meta_description: Burglar Alarms & CCTV in Bexley, South East London. Call 020
+  8302 4065. Based in Sidcup, with real CCTV jobs in Bexley village.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Bexley. Trusted, family run security experts with over 28 years
+  experience.
 permalink: /pages/bexley/
-hero_image: "/images/locations/branded-siren.webp"
-hero_alt: "MyAlarm Security branded alarm siren on a brick wall"
+hero_image: /images/locations/branded-siren.webp
+hero_alt: MyAlarm Security branded alarm siren on a brick wall
 work:
-  - image: "/images/locations/work-bexley-neat-conduit.webp"
-    title: "Neat Conduit On A CCTV System Installation In Bexley"
-    url: "/blog/neat-conduit-on-a-cctv-system-installation-in-bexley/"
-  - image: "/images/locations/work-bexley-4k-camera.webp"
-    title: "Upgrade To A 4k Camera CCTV In Bexley"
-    url: "/blog/upgrade-to-a-4k-camera-cctv-in-bexley/"
+  - image: /images/locations/work-bexley-neat-conduit.webp
+    title: Neat Conduit On A CCTV System Installation In Bexley
+    url: /blog/neat-conduit-on-a-cctv-system-installation-in-bexley/
+  - image: /images/locations/work-bexley-4k-camera.webp
+    title: Upgrade To A 4k Camera CCTV In Bexley
+    url: /blog/upgrade-to-a-4k-camera-cctv-in-bexley/
 eleventyNavigation:
   key: Bexley
   parent: Service Areas
@@ -58,6 +61,6 @@ When an alarm in Bexley starts beeping for a battery, throwing faults, or has si
 - [Alarm servicing, faults and battery changes](/categories/servicing-and-repairs/)
 - [Special offer alarm and CCTV packages](/categories/special-offers/)
 
-If you're in Bexley and want a quote, a free survey, or a straight answer on a system you inherited with the house, call **020 8302 4065** or drop an email to **Sales@MyAlarmSecurity.co.uk**. There's also the [contact form](/contact/) if you'd rather write than ring.
+If you're in Bexley and want a quote, a free survey, or a straight answer on a system you inherited with the house, call **020 8302 4065** or drop an email to **[Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk)**. There's also the [contact form](/contact/) if you'd rather write than ring.
 
 {% include "area-list-shortcode.html", prefix: "We also install burglar alarms and CCTV in ", suffix: "." %}
