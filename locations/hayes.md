@@ -1,16 +1,19 @@
 ---
 title: Hayes
-meta_title: "Alarm System Hayes Bromley, CCTV Hayes Bromley - MyAlarm Security"
-meta_description: "Burglar alarm installation, servicing, battery changes and hard-wired ColorVu CCTV in Hayes, Bromley from MyAlarm Security, a Sidcup-based family business."
-og_description: "We cover Hayes in Bromley from Sidcup for alarm servicing and ColorVu CCTV. If the keypad has stopped working, send a photo of the panel."
-permalink: "/pages/hayes/"
-hero_image: "/images/locations/house-and-van.webp"
-hero_alt: "MyAlarm Security van outside a customer's house"
+meta_title: Alarm System Hayes Bromley, CCTV in Hayes Bromley
+meta_description: Burglar alarm installation, servicing, battery changes and
+  hard-wired ColorVu CCTV in Hayes, Bromley from MyAlarm Security, a
+  Sidcup-based family business.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Hayes. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/hayes/
+hero_image: /images/locations/house-and-van.webp
+hero_alt: MyAlarm Security van outside a customer's house
 eleventyNavigation:
   key: Hayes
   parent: Service Areas
 ---
-
 # Burglar Alarm System Hayes, Bromley
 
 If you're looking for a local home and business security company, then you have come to the right place! We are a local, family run company based in Sidcup and cover Hayes, Bromley and surrounding areas for all things home and business security related. So if your existing burglar alarm system has developed a fault or it needs an alarm system service - or maybe you are looking to get a brand new system installed or your old one upgraded, then give us a call or send us an email. We can create any package to suit your needs. Why not check out some of our existing packages here: [Burglar Alarm Systems in Hayes Bromley.](/categories/burglar-alarms/)
@@ -21,6 +24,6 @@ We offer the latest in CCTV packages. Our ColorVu CCTV cameras have been extreme
 
 ## Burglar Alarm Servicing in Hayes, Bromley
 
-Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarm systems. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at <Sales@MyAlarmSecurity.co.uk> for info on [burglar alarm service in Hayes, Bromley.](/categories/servicing-and-repairs/)
+Does your existing house alarm need a new battery? Maybe the keypad no longer works? Or maybe you just want a service and the system checked over. We offer servicing and alarm system battery changes for all makes and models of alarm systems. If you don't know the brand of alarm system, don't worry, just send us a photo of the panel and we can identify it from there. Contact us at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) for info on [burglar alarm service in Hayes, Bromley.](/categories/servicing-and-repairs/)
 
 {% include "area-list-shortcode.html", prefix: "Our services are also available in ", suffix: "." %}
