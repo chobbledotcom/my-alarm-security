@@ -10,3 +10,4 @@ yarn-error.log*
 .claude
 screenshots/
 .jscpd-report/
+.map-cache/
