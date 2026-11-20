@@ -1,13 +1,15 @@
 ---
 title: Swanscombe
-meta_title: Burglar Alarm System Maintenance Swanscombe And CCTV In Swanscombe, Kent
-meta_description: Burglar Alarm System Swanscombe. CCTV systems Swanscombe. Home
-  Security Systems, Burglar Alarm Service Battery. Contact us for more
-  information 020 8302 4065.
-og_description: "We cover Swanscombe from Sidcup for alarm servicing, battery changes and hard-wired CCTV. Send a photo of the panel and we'll tell you what it is."
+meta_title: Burglar Alarm System Maintenance Swanscombe & CCTV
+meta_description: Burglar Alarm System Swanscombe. CCTV systems. Home Security,
+  Burglar Alarm Service Battery.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Swanscombe. Trusted, family run security experts with over 28 years
+  experience.
 permalink: /pages/swanscombe/
-hero_image: "/images/locations/survey-visit.webp"
-hero_alt: "MyAlarm Security van on the drive of a customer's house during an alarm installation"
+hero_image: /images/locations/survey-visit.webp
+hero_alt: MyAlarm Security van on the drive of a customer's house during an
+  alarm installation
 eleventyNavigation:
   key: Swanscombe
   parent: Service Areas
@@ -28,7 +30,7 @@ If you have any questions or would like to book a free survey, you can fill in y
 
 [Contact form](/contact/)
 
-Email: Sales@MyAlarmSecurity.co.uk
+Email: [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk)
 
 Tel: 020 8302 4065
 
