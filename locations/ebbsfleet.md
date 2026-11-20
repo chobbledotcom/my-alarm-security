@@ -1,16 +1,19 @@
 ---
 title: Ebbsfleet
-meta_title: "Burglar Alarm and CCTV in Ebbsfleet"
-meta_description: "Burglar Alarms & CCTV in Ebbsfleet, Kent. Call 020 8302 4065. Perimeter protection for larger plots and outbuildings."
-og_description: "We cover Ebbsfleet from Sidcup, including larger plots with outbuildings. One customer had cameras and external detectors fitted after repeat thefts."
-permalink: "/pages/ebbsfleet/"
-hero_image: "/images/locations/survey-visit.webp"
-hero_alt: "MyAlarm Security van on the drive of a customer's house during an alarm installation"
+meta_title: Burglar Alarm and CCTV in Ebbsfleet
+meta_description: Burglar Alarms & CCTV in Ebbsfleet, Kent. Call 020 8302 4065.
+  Perimeter protection for larger plots and outbuildings.
+og_description: Professional burglar alarm and CCTV installation, servicing and
+  repairs in Ebbsfleet. Trusted, family run security experts with over 28 years
+  experience.
+permalink: /pages/ebbsfleet/
+hero_image: /images/locations/survey-visit.webp
+hero_alt: MyAlarm Security van on the drive of a customer's house during an
+  alarm installation
 eleventyNavigation:
   key: Ebbsfleet
   parent: Service Areas
 ---
-
 # Burglar Alarm and CCTV in Ebbsfleet
 
 We are a local, family run security company based in Sidcup, and we cover Ebbsfleet, Greenhithe, Dartford and the surrounding areas. We've been installing burglar alarms and CCTV in Ebbsfleet for years, including some larger properties with outbuildings and land that need a more comprehensive security setup. If you are looking for a friendly and reliable home and business security company, then look no further! We can create any package to suit your needs. Why not check out some of our [existing packages](/categories/burglar-alarms/)? All of our packages can be adjusted to suit your property and requirements. We can tailor create any package that is right for you.
@@ -44,7 +47,7 @@ Does your existing house alarm need a service or a new battery? Maybe you have a
 - [Alarm servicing, faults and battery changes](/categories/servicing-and-repairs/)
 - [Special offer alarm and CCTV packages](/categories/special-offers/)
 
-It couldn't be easier to get in touch with us. Simply fill out your details on our contact form which can be found here: [Contact MyAlarm Security](/contact/) - where one of our friendly team will get back to you asap. You can also email us direct at Sales@MyAlarmSecurity.co.uk or you can give us a call on 020 8302 4065. Our office is open for general enquiries Monday - Friday 09:00 - 17:30.
+It couldn't be easier to get in touch with us. Simply fill out your details on our contact form which can be found here: [Contact MyAlarm Security](/contact/) - where one of our friendly team will get back to you asap. You can also email us direct at [Sales@MyAlarmSecurity.co.uk](mailto:Sales@MyAlarmSecurity.co.uk) or you can give us a call on 020 8302 4065. Our office is open for general enquiries Monday - Friday 09:00 - 17:30.
 
 > "I had a Texecom alarm fitted a few years back alongside my HIKvision CCTV. Had building work at my house carried out and something caused damage to both systems. Had MyAlarm come out on a friend's recommendation to address both issues. Matt came out. Identified the issues on both and rectified them. Matt was extremely polite, offered to wear shoe covers around the house, and left his work immaculately clean." - Bromley Borough, Google review, 2026
 
